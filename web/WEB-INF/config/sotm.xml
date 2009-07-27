@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+	<sotm id="ar" name="Arabic" class="ch.unizh.ori.nabu.voc.ConvertPrefixSotm"
+			className="ch.unizh.ori.common.text.helper.ArabicHelper" methodName="latinizeMbrolaTable">
+		<voice prefix="http://nabu.uzh.ch/nabutil/ar1.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/ar2.wav?text="/>
+	</sotm>
+	<sotm id="en" name="English">
+		<voice prefix="http://nabu.uzh.ch/nabutil/en1.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/en2.wav?text="/>
+<!--		<voice prefix="http://nabu.uzh.ch/nabutil/en3.wav?text="/>-->
+	</sotm>
+	<sotm id="fr" name="French">
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr1.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr2.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr3.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr4.wav?text="/>
+	</sotm>
+	<sotm id="es" name="Spanish">
+		<voice prefix="http://nabu.uzh.ch/nabutil/es1.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/es2.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/es4.wav?text="/>
+	</sotm>
+	<sotm id="la" name="Latin">
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr1.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr2.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr3.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr4.wav?text="/>
+	</sotm>
+	<sotm id="de" name="German">
+		<voice prefix="http://nabu.uzh.ch/MaryWebapp/de1.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/MaryWebapp/de2.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/MaryWebapp/de3.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/MaryWebapp/de4.wav?text="/>
+	</sotm>
+	<sotm id="sw" name="Swahili">
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr1.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr2.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr3.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr4.wav?text="/>
+	</sotm>
+	<sotm id="ja.hepb" name="Japanisch Hepburn">
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr1.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr2.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr3.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr4.wav?text="/>
+	</sotm>
+	<sotm id="egy_tr" name="Egyptian Transscription" class="ch.unizh.ori.nabu.voc.ConvertPrefixSotm"
+			className="ch.unizh.ori.tuppu.hieroglyph.EgyptianText" methodName="string2speech">
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr1.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr2.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr3.wav?text="/>
+		<voice prefix="http://nabu.uzh.ch/nabutil/fr4.wav?text="/>
+	</sotm>
+</items>

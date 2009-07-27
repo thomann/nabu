@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<items>
+
+	<script name="Swahili" title="Kiswahili" id="sw" example="Karibu">
+		<sotm id="fr" sotmId="fr"/>
+	</script>
+	
+	<script name="English" title="English" id="en" example="Hello" localeName="en_US">
+		<sotm id="fr" sotmId="fr"/>
+	</script>
+	
+	<script name="Spanish" title="Español" id="es" example="¿Qué tal?">
+		<sotm id="fr" sotmId="fr"/>
+	</script>
+	
+	<script name="French" title="Français" id="fr" example="Bonjour à tout le mond" localeName="fr">
+		<sotm id="fr" sotmId="fr"/>
+	</script>
+	
+	<script name="Rumanian" title="Română" id="ro" example="Buna" localeName="ro">
+		<sotm id="fr" sotmId="fr"/>
+	</script>
+	
+	<script name="Swedish" title="Svenska" id="sw" example="Tjena" localeName="sw">
+		<sotm id="fr" sotmId="fr"/>
+	</script>
+	
+	<script name="Norwegian" title="Norsk" id="no" example="Heisann" localeName="no">
+		<sotm id="fr" sotmId="fr"/>
+	</script>
+	
+	<script name="German" title="Deutsch" id="de" example="Hallo" localeName="de_CH">
+		<transliteration id="ch" name="Schweizerdeutsch" class="ch.unizh.ori.common.text.helper.GermanHelper">
+			<description>Ersetzt "sz" durch "ss"</description>
+		</transliteration>
+		<sotm id="fr" sotmId="fr"/>
+	</script>
+	<script name="German" title="Deutsch ohne Sz" id="de_ch" example="Hallo" localeName="de_CH" defaultEditablePresentation="ch">
+		<transliteration id="ch" name="Schweizerdeutsch" class="ch.unizh.ori.common.text.helper.GermanHelper">
+			<description>Ersetzt "sz" durch "ss"</description>
+		</transliteration>
+	</script>
+	
+	<script name="Chinese" title="汉语" id="zh" example="你好" defaultFont="Cyberbit.2" localeName="zh_CN" complex="true">
+		<plotter id="pretty" name="Pretty" plotterId="zh" fontname="STKaiti.ttf"
+			className="ch.unizh.ori.tuppu.StringPlotter" complex="true"/>
+		<sotm id="fr" sotmId="fr"/>
+	</script>
+	
+	<script name="Thai" title="ไทย" id="th" example="" defaultFont="Cyberbit" localeName="th_TH_TH">
+	</script>
+	
+	<script name="Japanese" title="日本語" id="ja" example="今日は" defaultFont="Cyberbit" localeName="ja_JP">
+	</script>
+
+	<script name="Japanese Kana" title="にほんご" id="kana" example="こんにちは" defaultFont="Cyberbit" localeName="ja_JP">
+	</script>
+
+	<script name="Latin" title="Lingua Latina" id="la" example="Arma virumque cano" defaultFont="Cyberbit" localeName="la">
+	</script>
+
+	<script name="Greek" title="Greek" id="gr" example="Ἄνδρα μοι ἔννεπε" defaultFont="Cyberbit" localeName="gr_GR">
+	</script>
+
+	<script name="Arabic" title="عربي" id="ar" example="salama" exampleTranslit="buckw" defaultFont="ScheherazadeRegOT.ttf" complex="true">
+		<transliteration id="buckw" name="Buckwalter">
+			<description>The Buckwalter encoding</description>
+			<method class="ch.unizh.ori.common.text.helper.ArabicHelper" convert="toAscii" create="fromAscii"/>
+		</transliteration>
+		<plotter id="pretty" name="Pretty" plotterId="ar" fontname="ScheherazadeRegOT.ttf"
+			className="ch.unizh.ori.tuppu.StringPlotter"/>
+		<sotm id="textToSpeech" name="Text to Speech"
+			class="ch.unizh.ori.common.text.ConvertSotmPresentation"
+			className="ch.unizh.ori.common.text.helper.ArabicHelper"
+			methodName="latinizeMbrolaTable"/>
+	</script>
+	
+	<script name="Devanagari" id="hi" example="namaste" exampleTranslit="ascii"
+			defaultFont="Lucida Sans">
+		<transliteration id="ascii" name="Ascii"
+			class="ch.unizh.ori.common.text.helper.SanskritHelper"/>
+		<transliteration id="pretty" name="Pretty"
+			class="ch.unizh.ori.common.text.helper.SanskritHelper"/>
+		<transliteration id="tz" name="TZ"
+			class="ch.unizh.ori.common.text.helper.SanskritHelper"/>
+	</script>
+	
+	<script name="Chinese Pinyin" title="Hànyǔ" id="zh_py" example="ni3hao3" localeName="en"
+		defaultViewOnlyPresentation="pretty" defaultFont="Gentium">
+		<presentation id="pretty" name="Pretty" font="Gentium"
+			class="ch.unizh.ori.common.text.ConvertStringPresentation"
+			className="ch.unizh.ori.common.text.helper.ChineseHelper"
+			methodName="convertPinyin"/>
+	</script>
+
+	<script name="Thai Pronunciation" title="Thay" id="th_pr" example="sawat1dii"
+		defaultViewOnlyPresentation="pretty" defaultFont="Gentium" localeName="en_US">
+		<presentation id="pretty" name="Pretty" font="Gentium"
+			class="ch.unizh.ori.common.text.ConvertStringPresentation"
+			className="ch.unizh.ori.common.text.helper.ThaiHelper"
+			methodName="convertPronunciation"/>
+	</script>
+
+	<script name="Akkadian" id="akk" example="pal_a_hum"
+		defaultViewOnlyPresentation="pretty" defaultFont="Gentium">
+		<transliteration id="pretty" name="Pretty Akkadian"
+			class="ch.unizh.ori.common.text.helper.AkkadianHelper">
+		</transliteration>
+	</script>
+
+	<script name="Sumerian" id="sux" example="dingir amar utu"
+		defaultViewOnlyPresentation="pretty">
+		<plotter id="pretty" name="Pretty" plotterId="sux"
+			className="ch.unizh.ori.tuppu.SILCuneiformPlotter"/>
+	</script>
+
+	<script name="Kmt" id="egy" example="anx-w=Anxw"
+			defaultViewOnlyPresentation="pretty">
+		<plotter id="pretty" name="Pretty" plotterId="egy"
+			className="ch.unizh.ori.tuppu.hieroglyph.HieroPlotter"/>
+		<sotm id="textToSpeech" name="Text to Speech"
+			class="ch.unizh.ori.common.text.ConvertSotmPresentation"
+			className="ch.unizh.ori.tuppu.hieroglyph.EgyptianText"
+			methodName="string2speech"/>
+	</script>
+	
+</items>

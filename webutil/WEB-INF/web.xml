@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+
+  <!--
+    <init-param>
+    	<param-name></param-name>
+    	<param-value></param-value>
+	</init-param>
+  -->
+
+  <!--<servlet>
+    <servlet-name>SotmServlet</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.SotmServlet</servlet-class>
+  </servlet>-->
+  
+  <servlet>
+    <servlet-name>HieroRenderer</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.tuppu.PlotterServlet</servlet-class>
+    <init-param>
+    	<param-name>plotter</param-name>
+    	<param-value>ch.unizh.ori.tuppu.hieroglyph.HieroPlotter</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>hiero.size</param-name>
+    	<param-value>50</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>antialias</param-name>
+    	<param-value>on</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>overwriteable</param-name>
+    	<param-value>background,antialias,fontname,fontsize</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet>
+    <servlet-name>CuneiformRenderer</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.tuppu.PlotterServlet</servlet-class>
+    <init-param>
+    	<param-name>plotter</param-name>
+    	<param-value>ch.unizh.ori.tuppu.SILCuneiformPlotter</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>antialias</param-name>
+    	<param-value>on</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>realPath:nameToUnicode.filename</param-name>
+    	<param-value>/WEB-INF/SILnames.properties</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>realPathUrl:fontbase.url</param-name>
+    	<param-value>/WEB-INF/NEOASS.TTF</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>antialias</param-name>
+    	<param-value>on</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>overwriteable</param-name>
+    	<param-value>background,antialias,fontname,fontsize</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet>
+    <servlet-name>Mbrola-ar1</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>ar1</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>arabic.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>ar1</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola.exe</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-ar1</servlet-name>
+    <url-pattern>/ar1.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-ar2</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>ar2</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>arabic.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>ar1</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola.exe</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-ar2</servlet-name>
+    <url-pattern>/ar2.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-fr1</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>fr1</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>french.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>fr3</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-fr1</servlet-name>
+    <url-pattern>/fr1.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-fr2</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>fr2</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>french.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>fr3</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-fr2</servlet-name>
+    <url-pattern>/fr2.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-fr3</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>fr3</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>french.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>fr3</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-fr3</servlet-name>
+    <url-pattern>/fr3.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-fr4</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>fr4</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>french.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>fr3</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-fr4</servlet-name>
+    <url-pattern>/fr4.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-en1</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>us1</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>american.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>us2</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-en1</servlet-name>
+    <url-pattern>/en1.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-en2</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>us2</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>american.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>us2</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-en2</servlet-name>
+    <url-pattern>/en2.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-en3</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>us3</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>american.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>us2</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-en3</servlet-name>
+    <url-pattern>/en3.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-de1</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>de7</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>dutch.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>nl2</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-de1</servlet-name>
+    <url-pattern>/de1.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-es1</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>es1</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>spanish.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>es1</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-es1</servlet-name>
+    <url-pattern>/es1.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-es2</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>es2</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>spanish.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>es1</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-es2</servlet-name>
+    <url-pattern>/es2.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet>
+    <servlet-name>Mbrola-es4</servlet-name>
+    <servlet-class>ch.unizh.ori.nabu.ui.http.sotm.MbrolaServlet</servlet-class>
+    <init-param>
+    	<param-name>db</param-name><param-value>es4</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>ini</param-name><param-value>spanish.ini</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>key</param-name><param-value>es1</param-value>
+	</init-param>
+    <init-param>
+    	<param-name>mbrola</param-name><param-value>mbrola</param-value>
+	</init-param>
+   </servlet>
+
+  <servlet-mapping>
+    <servlet-name>Mbrola-es4</servlet-name>
+    <url-pattern>/es4.wav</url-pattern>
+  </servlet-mapping>
+
+  <servlet-mapping>
+    <servlet-name>HieroRenderer</servlet-name>
+    <url-pattern>/hiero</url-pattern>
+  </servlet-mapping>
+  
+  <servlet-mapping>
+    <servlet-name>CuneiformRenderer</servlet-name>
+    <url-pattern>/cuneiform</url-pattern>
+  </servlet-mapping>
+  
+  <session-config>
+    <session-timeout>
+            1
+        </session-timeout>
+  </session-config>
+  <welcome-file-list>
+    <welcome-file>
+            index.jsp
+        </welcome-file>
+    <welcome-file>
+            index.html
+        </welcome-file>
+    <welcome-file>
+            index.htm
+        </welcome-file>
+  </welcome-file-list>
+
+  <!-- Resources -->
+<!--   <resource-ref>
+    <description>Nabu Database</description>
+    <res-ref-name>jdbc/Nabu</res-ref-name>
+    <res-type>javax.sql.DataSource</res-type>
+    <res-auth>Container</res-auth>
+  </resource-ref> -->
+  
+  <!-- SECURITY CONSTRAINT -->
+<!--   <security-constraint>
+    <web-resource-collection>
+      <web-resource-name>Tutor</web-resource-name>
+      <url-pattern>/admin/*</url-pattern>
+    </web-resource-collection>
+    <auth-constraint>
+      <role-name>nabu-tutor</role-name>
+    </auth-constraint>
+    <user-data-constraint>
+      <transport-guarantee>CONFIDENTIAL</transport-guarantee>
+    </user-data-constraint>
+  </security-constraint>
+  
+  <login-config>
+    <auth-method>BASIC</auth-method>
+  </login-config> -->
+  
+  <!-- SECURITY ROLES -->
+<!--   <security-role>
+    <description>the arabic-user role</description>
+    <role-name>arabic-user</role-name>
+  </security-role>
+  <security-role>
+    <description>the nabu-tutor role</description>
+    <role-name>nabu-tutor</role-name>
+  </security-role> -->
+</web-app>

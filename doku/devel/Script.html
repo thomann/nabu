@@ -1,0 +1,59 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Script</title>
+</head>
+<body>
+
+<h1>Script System</h1>
+
+<h2>Schriftsysteme</h2>
+<p>Schriftsysteme in NABU stellen eine Abstraktion dar. Typischerweise gibt es für jede
+Sprache ein oder mehrere Schriftsysteme. Chinesisch beispielsweise besitzt in NABU zwei <code>Script</code>s.
+Einerseits "zh" für die chinesischen Zeichen und andererseits "zh_py" für Pinyin. Dies sind zwei
+getrennte <code>Script</code>s, da sie nicht in einer abbildenden Beziehung stehen. Ähnliche
+Fälle stellen Keilschrift-Akkadisch, Hieroglyphon, Thai-Thai Aussprache dar.
+</p>
+
+<div class="box">
+Konvention: Identifier für <code>Script</code>s bestehen aus dem ISO-Code für die Sprache und
+allenfalls einem mit "_" abgetrennten Kürzel für die Nichtstandard-Transskriptionen.
+</div>
+
+<h2>Transliterationen</h2>
+<p>
+Jedes <code>Script</code> enthält eine oder mehrere Transliterationen. Diese müssen in
+Unicode-Zeichen schreibbar sein. Jede <code>Transliteration</code> ermöglicht eine
+Konvertierung aus der Standardtransliteration. Die meisten ermöglichen auch die umgekehrte Wandlung.
+Die Standardtransliteration des Arabischen z.B. ist Unicode-Arabisch.
+Es besitzt aber noch eine Buckwalter-Transliteration in Unicode-Latin1. Im Chinesisch-Pinyin
+gibt es in NABU zwei Transliterationen: im einen Fall werden die Töne mit Zahlen am Ende der Silbe
+geschrieben. Im anderen Fall werden sie mit Diakritika auf den entsprechenden Vokalen gekennzeichnet.
+</p>
+
+<div class="box">
+Konvention: Transliterationskürzel werden nach "#" an den Identifier des
+entsprechenden <code>Script</code>s bezeichnet.
+</div>
+
+<h2>Presentation</h2>
+<p>
+Präsentationen dienen dazu eine geeignete Darstellung für ein Schrifsystem bereitzustellen.
+Im einfachen Fall ist es eine <code>StringPresentation</code> die den Text einfach mittels
+einer schönen ("pretty") Transliteration darstellt, oder den Text mit einer beliebigen
+Java-Funktion konvertiert (<code>ConvertStringPresentation</code>).
+</p>
+
+<p>
+Im komplizierteren Fall ist es eine <code>PlotterPresentation</code>, die einen <code>Plotter</code>
+benutzt, um aus dem Text ein geeignetes Bild herzustellen. 
+</p>
+
+<h2>Plotter</h2>
+<p>
+Ein <code>Plotter</code> stellt zu Parametern ein <code>Plottable</code> her.
+</p>
+
+</body>
+</html>

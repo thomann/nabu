@@ -1,0 +1,38 @@
+body{background: #DDDD99; }
+hr{width:90%; /*noshade: noshade;*/ color:#AAAA88; }
+
+table.vocabularies {
+	border: 0pt;
+	border-collapse: separate;
+	border-spacing: 0pt 1pt
+}
+
+table.vocabularies tr:HOVER {
+	border: 1pt solid darkblue;
+	background: #AABBAA;
+}
+
+tr.subtitle {
+	background: #BBBBAA;
+}
+
+tr.subtitle td {
+	background: #BBBBAA;
+	
+}
+
+img{ border: 0pt;}
+
+input.inputfield{font-size:100%}
+
+.overview td{
+	padding-right: 1cm;
+}
+
+
+td.updowntitle {
+	background-color: #eee;
+}
+
+/* tr.statusbar{line-heigth: 30pt; }
+table.statusbar{line-heigth: 30pt; } */

@@ -1,0 +1,153 @@
+<?xml encoding="utf-8"?>
+
+<!ELEMENT items ((vocabulary|sotm|script)+)>
+<!ATTLIST items
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT vocabulary (name,description,mapping,src,modes)>
+<!ATTLIST vocabulary
+    xmlns CDATA #FIXED ''
+    id CDATA #REQUIRED
+    decorate CDATA #IMPLIED
+    author CDATA #IMPLIED>
+
+<!ELEMENT script (presentation?,transliteration*,plotter?,sotm?)>
+<!ATTLIST script
+    xmlns CDATA #FIXED ''
+    complex CDATA #IMPLIED
+    defaultEditablePresentation CDATA #IMPLIED
+    defaultFont CDATA #IMPLIED
+    defaultViewOnlyPresentation CDATA #IMPLIED
+    example CDATA #REQUIRED
+    exampleTranslit CDATA #IMPLIED
+    id CDATA #REQUIRED
+    localeName CDATA #IMPLIED
+    name CDATA #REQUIRED
+    title CDATA #IMPLIED>
+
+<!ELEMENT name (#PCDATA)>
+<!ATTLIST name
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT mapping (col|snd|img)+>
+<!ATTLIST mapping
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT src EMPTY>
+<!ATTLIST src
+    xmlns CDATA #FIXED ''
+    enc CDATA #IMPLIED
+    label CDATA #IMPLIED
+    src CDATA #IMPLIED
+    class CDATA #IMPLIED
+    table CDATA #IMPLIED
+    lesson CDATA #IMPLIED
+    res CDATA #IMPLIED
+    column CDATA #IMPLIED>
+
+<!ELEMENT modes (mode)+>
+<!ATTLIST modes
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT presentation EMPTY>
+<!ATTLIST presentation
+    xmlns CDATA #FIXED ''
+    class CDATA #REQUIRED
+    className CDATA #REQUIRED
+    font CDATA #REQUIRED
+    id CDATA #REQUIRED 
+    methodName CDATA #REQUIRED
+    name CDATA #REQUIRED>
+
+<!ELEMENT transliteration (description?,method?)>
+<!ATTLIST transliteration
+    xmlns CDATA #FIXED ''
+    class CDATA #IMPLIED
+    id CDATA #REQUIRED
+    name CDATA #REQUIRED>
+
+<!ELEMENT plotter EMPTY>
+<!ATTLIST plotter
+    xmlns CDATA #FIXED ''
+    className CDATA #REQUIRED
+    complex CDATA #IMPLIED
+    fontname CDATA #IMPLIED
+    id CDATA #REQUIRED
+    name CDATA #REQUIRED
+    plotterId CDATA #REQUIRED>
+
+<!ELEMENT col EMPTY>
+<!ATTLIST col
+    xmlns CDATA #FIXED ''
+    id CDATA #REQUIRED
+    name CDATA #REQUIRED
+    script CDATA #IMPLIED
+    del CDATA #IMPLIED
+    class CDATA #IMPLIED
+    className CDATA #IMPLIED
+    column CDATA #IMPLIED
+    methodName CDATA #IMPLIED>
+
+<!ELEMENT snd (voice)*>
+<!ATTLIST snd
+    xmlns CDATA #FIXED ''
+    id ID  #REQUIRED
+    ad CDATA #REQUIRED
+    pattern CDATA #IMPLIED
+    class CDATA #IMPLIED
+    className CDATA #IMPLIED
+    col CDATA #IMPLIED
+    column CDATA #IMPLIED
+    methodName CDATA #IMPLIED>
+
+<!ELEMENT img (voice)*>
+<!ATTLIST img
+    xmlns CDATA #FIXED ''
+    id ID  #REQUIRED
+    name CDATA #REQUIRED
+    prefix CDATA #IMPLIED
+    className CDATA #IMPLIED
+    methodName CDATA #IMPLIED>
+
+<!ELEMENT mode (filter)*>
+<!ATTLIST mode
+    xmlns CDATA #FIXED ''
+    id CDATA #REQUIRED
+    short CDATA #REQUIRED
+    name CDATA #IMPLIED>
+
+<!ELEMENT filter (filter)*>
+<!ATTLIST filter
+    xmlns CDATA #FIXED ''
+    field CDATA #REQUIRED
+    pattern CDATA #IMPLIED
+    starts CDATA #IMPLIED
+    except CDATA #IMPLIED>
+
+<!ELEMENT method EMPTY>
+<!ATTLIST method
+    xmlns CDATA #FIXED ''
+    class CDATA #REQUIRED
+    convert CDATA #REQUIRED
+    create CDATA #REQUIRED>
+
+<!ELEMENT description (#PCDATA)>
+<!ATTLIST description
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT sotm (voice)*>
+<!ATTLIST sotm
+    xmlns CDATA #FIXED ''
+    class CDATA #IMPLIED
+    className CDATA #IMPLIED
+    id CDATA #REQUIRED
+    methodName CDATA #IMPLIED
+    name CDATA #IMPLIED
+    sotmId CDATA #IMPLIED>
+
+<!ELEMENT voice EMPTY>
+<!ATTLIST voice
+    xmlns CDATA #FIXED ''
+    name CDATA #IMPLIED
+    type CDATA #IMPLIED
+    prefix CDATA #REQUIRED>

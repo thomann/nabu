@@ -1,0 +1,28 @@
+This is Nabu.
+
+you have to read the source-code
+
+For the Installation you have to make sure that following
+JAr-Files are visible for the webapp:
+- commons-beanutils.jar
+- commons-digester.jar
+- commons-fileupload-1.0.jar
+
+The files are already in ${TOMCAT}/server/lib, so you can place symbolic links to
+these files in ${TOMCAT}/shared/lib .
+
+you have to append the Attributes
+
+	swallowOutput="true" followLinks="true"
+
+to the Context-Tag in ${TOMCAT}/Catalina/localhost/nabu.xml .
+
+Now we need symbolic links in ${Nabu}/web/WEB-INF/uploadvocs:
+
+- voc.xml -> ${Nabu}/etc/voc.xml
+- vocs -> ${Nabu}/vocs/data/
+
+Enjoy learning,
+Yours
+
+	Philipp Thomann

@@ -1,0 +1,73 @@
+Aufraeumen:
+	- alte Java-Klassen loeschen
+	- logging => log4j:
+		vorbereitet, muss also nur noch ueberall durchgefuehrt werden
+	- Digest mittels xml konfigurieren
+		=> Nicht unbedingt noetig
+	* svn
+	- subnabus
+		=> grundsaetzlich okay
+		- authentifizierung fuer admin
+	* reload fuer einzelne vocs
+		=> okay
+	- i18n => :-)
+
+Upgraden:
+	- Eclipse 3.3
+	- Maven?
+	- libs erneuern...
+	- zu einem WTP-Projekt umkonfigurieren?
+
+Bugs:
+	* Bug bei verschiedenen Praesentationsformen der selben Spalte?
+
+Features:
+	- Morphologie?
+
+Dokumentation:
+	* fuer Tutoren
+	- fuer Entwickler
+		- Javadoc?
+	* "voc.xml"-Struktur, ebenso lang.xml, sotm.xml
+	- ".xml" -> ".vml"?
+	- Nabuttu
+	- Offline-Version
+
+Web-Version:
+	- Statistik anzeigen am Schluss =>
+		- kann noch verbessert werden...
+	- Besten-Liste?
+	- Nach JSP 1.1 portieren
+		=> ok.
+	* Admin:
+		- Einfacher
+		- design schoener
+		- DB-upload
+		- simpler daten-upload
+	
+Offline-Version:
+	* Design schoener
+	* Updaten von Vokabulardaten
+	- Updaten der Applikation?
+	* einfache Vokabular-Einbindung
+	- i18n?
+
+Nabuttu:
+	* Programm:
+		- prefs in eigenes Menue
+		- Menue-Fuehrung verbessern
+		- Ton-Unterstutzung dokumentieren (+ automatisieren?)
+		- Vibration
+	* Installationsanleitung!
+
+nabu.uzh.ch:
+	- SSL-Zertifikat
+
+Abnabulung:
+	- sourceforge?
+	- Lizenzen -> P@ ?
+	
+PDF:
+	- itext instead of FOP?
+	* arabic text isn't printing right!
+	* Xrt: Memory-Problem mit grossen Vokabularen

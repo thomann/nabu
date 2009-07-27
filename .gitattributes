@@ -1,0 +1,9 @@
+**/doc/* linguist-documentation
+**/doku/* linguist-documentation
+resources/cuneiform/fonts linguist-vendored
+resources/hieroglyph/hieroFontes linguist-vendored
+
+*.jar linguist-vendored
+
+*.R linguist-language=R
+*.h linguist-language=C++

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jnlp spec="1.5+" codebase="http://nabu.uzh.ch/nabug" href="nabu.jnlp">
+  <information>
+    <title>Nabu</title>
+    <vendor>Philipp Thomann, Universität Zürich</vendor>
+    <homepage href="http://nabu.uzh.ch/" />
+    <icon href="images/nabuglogo8.gif"/>
+    <offline-allowed />
+  </information>
+  <resources>
+    <j2se version="1.5+" />
+    <jar href="Nabu.jar" />
+  </resources>
+   <security>
+      <all-permissions/>
+  </security>
+  <application-desc main-class="ch.unizh.ori.nabu.ui.swing.Manager" />
+</jnlp>

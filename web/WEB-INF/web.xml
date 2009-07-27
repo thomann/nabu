@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app id="Nabu" version="2.4"
+	xmlns="http://java.sun.com/xml/ns/j2ee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd">
+
+	<context-param>
+		<param-name>javax.servlet.jsp.jstl.fmt.localizationContext</param-name>
+		<param-value>nabu_msg</param-value>
+		<!-- Message-Bundle name -->
+	</context-param>
+
+	<listener>
+		<listener-class>ch.unizh.ori.nabu.ui.http.ContextListener</listener-class>
+	</listener>
+
+
+	<servlet>
+		<servlet-name>HieroRenderer</servlet-name>
+		<servlet-class>ch.unizh.ori.nabu.ui.http.tuppu.PlotterServlet</servlet-class>
+		<init-param>
+			<param-name>plotter</param-name>
+			<param-value>ch.unizh.ori.tuppu.hieroglyph.HieroPlotter</param-value>
+		</init-param>
+		<init-param>
+			<param-name>plotterId</param-name>
+			<param-value>egy</param-value>
+		</init-param>
+		<init-param>
+			<param-name>hiero.size</param-name>
+			<param-value>50</param-value>
+		</init-param>
+		<init-param>
+			<param-name>realPath:hiero.base</param-name>
+			<param-value>/WEB-INF/fonts/hieroglyph/seshSource.txt</param-value>
+		</init-param>
+		<init-param>
+			<param-name>antialias</param-name>
+			<param-value>on</param-value>
+		</init-param>
+		<init-param>
+			<param-name>overwriteable</param-name>
+			<param-value>background,antialias,fontname,fontsize</param-value>
+		</init-param>
+		<load-on-startup>1</load-on-startup>
+	</servlet>
+
+	<servlet>
+		<servlet-name>CuneiformRenderer</servlet-name>
+		<servlet-class>ch.unizh.ori.nabu.ui.http.tuppu.PlotterServlet</servlet-class>
+		<init-param>
+			<param-name>plotter</param-name>
+			<param-value>ch.unizh.ori.tuppu.SILCuneiformPlotter</param-value>
+		</init-param>
+		<init-param>
+			<param-name>plotterId</param-name>
+			<param-value>sux</param-value>
+		</init-param>
+		<init-param>
+			<param-name>antialias</param-name>
+			<param-value>on</param-value>
+		</init-param>
+		<init-param>
+			<param-name>realPath:nameToUnicode.filename</param-name>
+			<param-value>/WEB-INF/fonts/cuneiform/SILnames.properties</param-value>
+		</init-param>
+		<init-param>
+			<param-name>realPathUrl:fontbase.url</param-name>
+			<param-value>/WEB-INF/fonts/cuneiform/NEOASS.TTF</param-value>
+		</init-param>
+		<init-param>
+			<param-name>antialias</param-name>
+			<param-value>on</param-value>
+		</init-param>
+		<init-param>
+			<param-name>overwriteable</param-name>
+			<param-value>background,antialias,fontname,fontsize</param-value>
+		</init-param>
+		<load-on-startup>2</load-on-startup>
+	</servlet>
+
+	<servlet>
+		<servlet-name>ArabicRenderer</servlet-name>
+		<servlet-class>ch.unizh.ori.nabu.ui.http.tuppu.PlotterServlet</servlet-class>
+		<init-param>
+			<param-name>plotter</param-name>
+			<param-value>ch.unizh.ori.tuppu.StringPlotter</param-value>
+		</init-param>
+		<init-param>
+			<param-name>plotterId</param-name>
+			<param-value>ar1</param-value>
+		</init-param>
+		<init-param>
+			<param-name>fontname</param-name>
+			<param-value>ScheherazadeRegOT.ttf</param-value>
+		</init-param>
+		<init-param>
+			<param-name>antialias</param-name>
+			<param-value>on</param-value>
+		</init-param>
+		<init-param>
+			<param-name>overwriteable</param-name>
+			<param-value>
+				background,antialias,fontname,fontsize,background,color,insets
+			</param-value>
+		</init-param>
+		<load-on-startup>2</load-on-startup>
+	</servlet>
+	<servlet>
+		<servlet-name>ArabicSVGRenderer</servlet-name>
+		<servlet-class>ch.unizh.ori.nabu.ui.http.tuppu.SVGPlotterServlet</servlet-class>
+		<init-param>
+			<param-name>plotter</param-name>
+			<param-value>ch.unizh.ori.tuppu.StringPlotter</param-value>
+		</init-param>
+		<init-param>
+			<param-name>plotterId</param-name>
+			<param-value>ar2</param-value>
+		</init-param>
+		<init-param>
+			<param-name>antialias</param-name>
+			<param-value>on</param-value>
+		</init-param>
+		<init-param>
+			<param-name>fontname</param-name>
+			<param-value>ScheherazadeRegOT.ttf</param-value>
+		</init-param>
+		<init-param>
+			<param-name>overwriteable</param-name>
+			<param-value>
+				background,antialias,fontname,fontsize,background,color,insets
+			</param-value>
+		</init-param>
+		<load-on-startup>2</load-on-startup>
+	</servlet>
+
+	<servlet>
+		<servlet-name>XrtServlet</servlet-name>
+		<servlet-class>ch.unizh.ori.nabu.ui.http.FOPServlet</servlet-class>
+		<init-param>
+			<param-name>xml</param-name>
+			<param-value>${xrt.xrtDoc}</param-value>
+		</init-param>
+		<init-param>
+			<param-name>xsl</param-name>
+			<param-value>/WEB-INF/xslt/xrt.xsl</param-value>
+		</init-param>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>XrtServlet</servlet-name>
+		<url-pattern>/xrt.pdf</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>GetJar</servlet-name>
+		<servlet-class>ch.unizh.ori.nabu.ui.http.GetJar</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetJar</servlet-name>
+		<url-pattern>/getJar/*</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>GetNabuJs</servlet-name>
+		<servlet-class>ch.unizh.ori.nabu.ui.http.GetNabuJs</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>GetNabuJs</servlet-name>
+		<url-pattern>/nabujs.html</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>NabuPodcast</servlet-name>
+		<servlet-class>ch.unizh.ori.nabu.ui.http.NabuPodcast</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>NabuPodcast</servlet-name>
+		<url-pattern>/nabu-podcast.wav</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>DataServlet</servlet-name>
+		<servlet-class>ch.unizh.ori.nabu.ui.http.DataServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>DataServlet</servlet-name>
+		<url-pattern>/admin/data.txt</url-pattern>
+	</servlet-mapping>
+
+	<filter>
+		<filter-name>SubsFilter</filter-name>
+		<filter-class>ch.unizh.ori.nabu.ui.http.SubsFilter</filter-class>
+		<init-param><param-name>topUsers</param-name><param-value>pht,johi</param-value></init-param>
+		<init-param><param-name>user.pht</param-name><param-value>____MD5___</param-value></init-param>
+		<init-param><param-name>user.johi</param-name><param-value>____MD5___</param-value></init-param>
+		<init-param><param-name>user.test1</param-name><param-value>____MD5___</param-value></init-param>
+		<init-param><param-name>user.test2</param-name><param-value>____MD5___</param-value></init-param>
+		<init-param><param-name>user.test3</param-name><param-value>____MD5___</param-value></init-param>
+	</filter>
+
+	<filter-mapping>
+		<filter-name>SubsFilter</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+
+	<!--
+	<filter>
+		<filter-name>AuthorizationFilter</filter-name>
+		<filter-class>ch.unizh.ori.nabu.ui.http.AuthorizationFilter</filter-class>
+	</filter>
+
+	<filter-mapping>
+		<filter-name>AuthorizationFilter</filter-name>
+		<url-pattern>/admin/*</url-pattern>
+	</filter-mapping>
+	-->
+
+	<servlet-mapping>
+		<servlet-name>HieroRenderer</servlet-name>
+		<url-pattern>/hiero</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>CuneiformRenderer</servlet-name>
+		<url-pattern>/cuneiform</url-pattern>
+	</servlet-mapping>
+
+	<servlet-mapping>
+		<servlet-name>ArabicRenderer</servlet-name>
+		<url-pattern>/arabic</url-pattern>
+	</servlet-mapping>
+	<servlet-mapping>
+		<servlet-name>ArabicSVGRenderer</servlet-name>
+		<url-pattern>/arabic.svg</url-pattern>
+	</servlet-mapping>
+
+	<listener>
+		<listener-class>
+			com.sun.xml.ws.transport.http.servlet.WSServletContextListener
+		</listener-class>
+	</listener>
+
+	<servlet>
+		<servlet-name>NabuWS</servlet-name>
+		<servlet-class>com.sun.xml.ws.transport.http.servlet.WSServlet</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>NabuWS</servlet-name>
+		<url-pattern>/NabuWS</url-pattern>
+	</servlet-mapping>
+
+
+
+	<session-config>
+		<session-timeout>30</session-timeout>
+	</session-config>
+	<welcome-file-list>
+		<welcome-file>index.jsp</welcome-file>
+		<welcome-file>index.html</welcome-file>
+		<welcome-file>index.htm</welcome-file>
+		<welcome-file>overview.jsp</welcome-file>
+	</welcome-file-list>
+
+	<!-- Resources -->
+	<resource-ref>
+		<description>Nabu Database</description>
+		<res-ref-name>jdbc/Nabu</res-ref-name>
+		<res-type>javax.sql.DataSource</res-type>
+		<res-auth>Container</res-auth>
+	</resource-ref>
+
+	<!-- SECURITY CONSTRAINT -->
+<!--	<security-constraint>
+		<web-resource-collection>
+			<web-resource-name>Tutor</web-resource-name>
+			<url-pattern>/admin/*</url-pattern>
+		</web-resource-collection>
+    <auth-constraint>
+      <role-name>nabu-tutor</role-name>
+      <role-name>nabu-admin</role-name>
+      <role-name>uzh.ch</role-name>
+    </auth-constraint>
+		<user-data-constraint>
+			<transport-guarantee>CONFIDENTIAL</transport-guarantee>
+		</user-data-constraint>
+	</security-constraint>
+
+	<login-config>
+		<auth-method>BASIC</auth-method>
+	</login-config>-->
+
+	<!-- SECURITY ROLES -->
+	<security-role>
+		<description>the nabu-admin role. For the general administrators of the Nabu application</description>
+		<role-name>nabu-admin</role-name>
+	</security-role>
+	<security-role>
+		<description>the nabu-tutor role. For tutors, to enter new vocabulary</description>
+		<role-name>nabu-tutor</role-name>
+	</security-role>
+	<security-role>
+		<description>the nabu-tutor role. For tutors, to enter new vocabulary</description>
+		<role-name>uzh.ch</role-name>
+	</security-role>
+	</web-app>

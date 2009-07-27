@@ -1,0 +1,57 @@
+/* Set to things to default */
+img{ border: 0pt;}
+
+
+/* General settings */
+body.general{background: #DDDDBB; }
+hr.general{width:90%; /*noshade: noshade;*/ color:#AAAA88; }
+
+td.questionbox {margin: 20; border: 2px solid #0000FF; padding: 10px; background: #CCCCCC; font-size: 300%; }
+td.wrongbox {margin: 10; border: 2px solid #FF0000; padding: 10px; background: #CCCCCC; font-size: 300%; }
+td.solutionbox {margin: 10; border: 2px solid #00FF00; padding: 10px; background: #EEEEFF; font-size: 300%; }
+td.answerbox {margin: 10; border: 2px solid #FFFF00; padding: 10px; background: #EEEEFF; font-size: 300%; }
+
+table.infobox {margin: 10; border: 2px solid #AAAA88; padding: 4px; background: #CCCCAA; }
+tr.infobox{text-align: right}
+
+input.inputfield{font-size:100%}
+
+td.finished{padding-top:0pt; padding-bottom:0pt; font-size:1pt; background-color: #333333; }
+td.problem{padding-top:0pt; padding-bottom:0pt; font-size:1pt; background-color: red; }
+td.left{padding-top:0pt; padding-bottom:0pt; font-size:1pt; background-color: #CCCCCC; }
+td.numbers{padding-top:0pt; padding-bottom:0pt; font-size:14pt; background-color: #DDDDBB; }
+
+.overview td{
+	padding-right: 1cm;
+}
+
+.subtitle {
+	font-weight: bold;
+	font-size: 1.5em;
+	text-align: center;
+	padding-top: 1em;
+	padding-bottom: 1ex;
+	padding-right: 5mm;
+}
+
+.overview li {
+	list-style-type: none;
+}
+
+span.mover {
+	font-size: 10pt;
+	font-weight: normal;
+	display: inline;
+	//float: left;
+	//margin-right: 1cm;
+	//padding: 1mm;
+	// border-width: 1px;
+	//border-style: solid;
+}
+
+td.updowntitle {
+	background-color: #eee;
+}
+
+/* tr.statusbar{line-heigth: 30pt; }
+table.statusbar{line-heigth: 30pt; } */

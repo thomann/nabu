@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE taglib
+        PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN"
+        "http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd">
+<taglib xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-jsptaglibrary_2_0.xsd"
+    version="2.0">
+    
+    <tlib-version>2.0</tlib-version>
+    <jsp-version>1.2</jsp-version>
+    <short-name>Nabu</short-name>
+    <uri>ch.unizh.ori.nabu</uri>
+    <description>The tag library for our Nabu project.</description>
+    
+  <listener>
+    <listener-class>ch.unizh.ori.nabu.ui.http.ContextListener</listener-class>
+  </listener>
+
+    <tag>
+        <name>selectVoc</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.SelectVocTag</tag-class>
+        <body-content>JSP</body-content>
+	<attribute>
+	    <name>voc</name>
+	    <required>true</required>
+	    <rtexprvalue>true</rtexprvalue>
+	    <!-- <type>ch.unizh.ori.nabu.voc.Vocabulary</type> -->
+	</attribute>
+	<attribute>
+	    <name>show</name>
+	    <required>true</required>
+	    <rtexprvalue>false</rtexprvalue>
+	</attribute>
+    </tag>
+
+    <tag>
+        <name>questionForm</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.QuestionFormTag</tag-class>
+        <body-content>JSP</body-content>
+	<attribute>
+	    <name>next</name>
+	    <required>true</required>
+	    <rtexprvalue>true</rtexprvalue>
+	</attribute>
+    </tag>
+
+<!--    <tag>
+        <name>showQuestion</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.ShowQuestionTag</tag-class>
+        <body-content>JSP</body-content>
+    </tag> -->
+
+    <tag>
+        <name>renderer</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.RendererTag</tag-class>
+        <body-content>JSP</body-content>
+    </tag>
+
+    <tag>
+        <name>showRenderer</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.ShowRendererTag</tag-class>
+        <body-content>empty</body-content>
+    </tag>
+
+    <tag>
+        <name>stats</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.StatsTag</tag-class>
+        <body-content>JSP</body-content>
+	<example>
+<![CDATA[
+<nabu:stats>
+	Gefragt: <c:out value="${stats.asked}"/>
+	von <c:out value="${stats.total}"/>.
+	&Uuml;brig <c:out value="${stats.asked}"/><br>
+	<c:if test="${hasProblems}">Anzahl Korrekturen: <c:out value="${times}"/></c:if>
+</nabu:stats>
+]]>
+	</example>
+    </tag>
+
+    <tag>
+        <name>focus</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.FocusTag</tag-class>
+        <body-content>empty</body-content>
+	<attribute>
+	    <name>ques</name>
+	    <required>true</required>
+	    <type>java.lang.String</type>
+	</attribute>
+    </tag>
+
+    <tag>
+        <name>image</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.ImageTag</tag-class>
+        <body-content>JSP</body-content>
+	<attribute>
+	    <name>modeField</name>
+	    <required>true</required>
+	    <rtexprvalue>true</rtexprvalue>
+	</attribute>
+	<attribute>
+	    <name>var</name>
+	    <required>false</required>
+	    <rtexprvalue>false</rtexprvalue>
+	</attribute>
+    </tag>
+
+    <tag>
+        <name>sound</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.SoundTag</tag-class>
+        <body-content>JSP</body-content>
+	<attribute>
+	    <name>modeField</name>
+	    <required>true</required>
+	    <rtexprvalue>true</rtexprvalue>
+	</attribute>
+	<attribute>
+	    <name>var</name>
+	    <required>false</required>
+	    <rtexprvalue>false</rtexprvalue>
+	</attribute>
+    </tag>
+
+    <tag>
+        <name>checkbox</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.CheckboxTag</tag-class>
+        <body-content>empty</body-content>
+	<attribute>
+	    <name>name</name>
+	    <required>true</required>
+	    <type>java.lang.String</type>
+	</attribute>
+	<attribute>
+	    <name>value</name>
+	    <required>true</required>
+	    <rtexprvalue>true</rtexprvalue>
+	    <type>java.lang.Boolean</type>
+	</attribute>
+    </tag>
+
+    <tag>
+        <name>makeVoc</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.MakeVocTag</tag-class>
+        <body-content>JSP</body-content>
+	<attribute>
+	    <name>central</name>
+	    <required>true</required>
+	    <rtexprvalue>true</rtexprvalue>
+	</attribute>
+	<attribute>
+	    <name>separator</name>
+	    <required>false</required>
+	    <rtexprvalue>true</rtexprvalue>
+	</attribute>
+	<attribute>
+	    <name>location</name>
+	    <required>false</required>
+	</attribute>
+	<attribute>
+	    <name>dontWrite</name>
+	    <required>false</required>
+	    <rtexprvalue>true</rtexprvalue>
+	</attribute>
+    </tag>
+
+    <tag>
+        <name>readSource</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.ReadSourceTag</tag-class>
+        <body-content>JSP</body-content>
+	<attribute>
+	    <name>central</name>
+	    <required>true</required>
+	    <rtexprvalue>true</rtexprvalue>
+	</attribute>
+	<attribute>
+	    <name>base</name>
+	    <required>false</required>
+	    <rtexprvalue>true</rtexprvalue>
+	</attribute>
+	<attribute>
+	    <name>sourceXml</name>
+	    <required>true</required>
+	    <rtexprvalue>true</rtexprvalue>
+	</attribute>
+    </tag>
+
+    <tag>
+        <name>header</name>
+        <tag-class>ch.unizh.ori.nabu.ui.http.taglib.HeaderTag</tag-class>
+        <body-content>JSP</body-content>
+        <description></description>
+        <example></example>
+    </tag>
+    
+    <!-- <function>
+    	<name>loadProps</name>
+	<function-class>ch.unizh.ori.nabu.ui.http.HttpCentral</function-class>
+	<function-signature>
+		java.util.Properties loadProps(ch.unizh.ori.nabu.ui.http.HttpCentral, java.lang.String)
+	</function-signature>
+    </function> -->
+    
+</taglib>
