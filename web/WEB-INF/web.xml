@@ -234,6 +234,7 @@
 		<url-pattern>/arabic.svg</url-pattern>
 	</servlet-mapping>
 
+<!-- 
 	<listener>
 		<listener-class>
 			com.sun.xml.ws.transport.http.servlet.WSServletContextListener
@@ -249,7 +250,7 @@
 		<servlet-name>NabuWS</servlet-name>
 		<url-pattern>/NabuWS</url-pattern>
 	</servlet-mapping>
-
+-->
 
 
 	<session-config>
