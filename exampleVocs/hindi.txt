@@ -1,0 +1,116 @@
+acch-a	adj.	good	L2
+adhy-apaka	m.	teacher	L1	1_006	1_007
+adhy-apik-a	f.	teacher (a lady)	L1	1_031	1_032
+-aiye	imp.	please come (in)	L1		1_008	1_009
+-a.tha	num.	8	L2
+-apa_k-a	pers..pron. (gen.)	your, yours	L6
+usa_k-a	pers..pron. (gen.)	his, her, its	L6
+eka	num.	1	L1
+kamar-a	m.	room	L4
+qhar-aba	adj.	bad, spoiled	L2
+qalama	m.	pen	L1	1_042	1_043
+kah-a:m	interr.	where	L3
+k-axaza	m.	paper	L1	1_040	1_041
+k-al-a	adj.	black	L2	2_012	2_013
+kit-aba	f.	book	L1	1_033	1_034
+kisa_k-a	interr. pr.	whose	L6
+kurs-i	f.	chair	L1	1_026	1_027
+kul-i	m.	coolie, labourer	L6
+keka	m.	cake	L4
+kais-a	adj. (interr.)	what kind	L2	2_004	2_0005
+ko.th-i	f.	house (more than 1 storey)	L6
+kauna	interr. pr.	who	L6
+ky-a	interr. pr.	what	L1	1_012	1_013
+kh-a:iye	imp.	please eat!	L4
+kh-an-a	m.	food	L4
+khi:rak-i	f.	window	L4
+gamal-a	m.	flower pot	L5
+giniye	imp.	please count!	L3
+gil-asa	m.	glass	L3
+gy-araha	num.	11	L5
+gha:r-i	f.	watch	L2
+c-ab-i	f.	key	L6
+c-ara	num.	4	L1
+c-in-i	f.	sugar	L4
+cauk-id-ara	m.	watchman	L6
+caudaha	num.	14	L5
+cha.h	num.	6	L2
+cho.t-a	adj.	small, little	L2	2_006	2_007
+j-aiye	imp.	please go!	L5	1_046	1_047
+j-i	part.	(honorific similar to "sir", "mam")	L1	1_018	1_019
+jeba	f.	pocket	L1	1_035	1_036
+.top-i	f.	cap, hat	L3
+tasv-ira	f.	picture	L3
+t-al-a	m.	lock	L6
+t-ina	num.	3	L1
+teraha	num.	13	L5
+darav-az-a	m.	door	L4
+dar-i	f.	carpet	L3
+dasa	num.	10	L2
+d-ijiye	imp.	please give!	L2
+d-udha	m.	milk	L4
+dekhiye	imp.	please look!	L1	1_054	1_055
+do	num.	2	L1
+dosta	m.	friend	L6
+dhanyav-ada	m.	thanks, thank you	L1	1_010	1_011
+namaka	m.	salt	L4
+namaste	f.	greetings	L1	1_003	1_004
+nay-a	adj.	new	L3
+nah-i.m	part.	no (negation)	L5
+n-ama	m.	name	L6
+nau	num.	9	L2
+pa:rhiye	imp.	please read!	L2
+patt-a	m.	leaf	L5
+pandraha	num.	15	L5
+para	postp.	on	L3
+pard-a	m.	curtain	L4
+p-a:mca	num.	5	L1
+p-an-i	m.	water	L3
+p-ijiye	imp.	please drink!	L4
+p-il-a	adj.	yellow	L3
+pur-an-a	adj.	old	L3
+p-uchiye	imp.	please ask (enquire)!	L1	1_052	1_053
+pe:ra	m.	tree	L5
+pensila	f.	pencil	L1	1_016	1_017
+paudh-a	m.	plant	L5
+py-al-a	m.	cup	L4
+far/sa	m.	floor	L3
+phala	m.	fruit	L5
+phira	adv.	again	L4
+ph-ula	m.	flower	L5
+ba:r-a	adj.	large, big	L2	2_010	2_011
+bat-a:iye	imp.	please tell!	L1	1_056	1_020	1_02157
+b-ax-ic-a	m.	garden	L5
+b-araha	num.	12	L5
+bisku.ta	m.	biscuit	L4
+bai.thiye	imp.	please be seated	L1	1_020	1_021
+boliye	imp.	please speak!	L1	1_048	1_049
+mak-ana	m.	house	L6
+m-al-uma_nah-i.m	idiom.	is not known	L3
+me.m	postp.	in	L3
+meza	f.	table	L1	1_037	1_038
+mer-a	pers..pron. (gen.)	my, mine	L6
+mai.m	pers..pron.	I	L6
+mail-a	adj.	dirty	L2
+yaha	dem..pron.	this	L1	1_022	1_023
+r-um-ala	m.	handkerchief	L2	2_015	2_016
+l-a:iye	imp.	please bring!	L3
+l-ala	adj.	red	L2	2_008	2_009
+likhiye	imp.	please write!	L2
+l-ijiye	imp.	please take!	L2
+vaha	dem..pron.	that	L1	1_014	1_015
+vidy-arth-i	m.	student	L1	1_001	1_002
+/s-ab-a/sa	exclam.	well done!	L1	1_028	1_029
+/subha	adj.	auspicious, lucky, good	L6
+safeda	adj.	white	L2
+sav-ala	m.	question	L5
+s-ata	num.	7	L2
+s-afa	adj.	clean	L2
+sira	m.	head	L3
+suniye	imp.	please listen!	L1	1_050	1_051
+har-a	adj.	green	L2
+h-a:m	part.	yes (affirmation)	L5
+h-atha	m.	hand	L1	1_044	1_045
+h-u:m	vb	am	L6
+hai	vb	is	L1	1_024	1_025
+hai.m	vb	are	L6

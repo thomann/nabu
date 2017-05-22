@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="th.numerals">
+        <name>Thai Numerals</name>
+        <description></description>
+        <mapping>
+	
+	
+            <col id="th_num" name="Thai Numeral" script="th"/>
+	
+	
+            <col id="th" name="Thai" script="th"/>
+	
+	
+            <col id="th_pr" name="Pronunciation" script="th_pr"/>
+	
+	
+            <col id="num" name="Arabic"/>
+	
+        </mapping>
+	<src src="th.numerals.txt" enc="UTF-8"
+		label="Single-digit,Double-digit,Others"
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="th_num=?num"/>
+	
+	
+	    <mode id="1" short="th_num=th=th_pr=?num"/>
+	
+	
+	    <mode id="2" short="th_num=num=?th_pr"/>
+	
+	
+	    <mode id="3" short="th_num=?th_pr"/>
+	
+	
+	    <mode id="4" short="th_num=?th"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

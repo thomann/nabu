@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="th.jenny">
+        <name>Thai I</name>
+        <description></description>
+        <mapping>
+	
+	
+            <col id="th" name="Thai" script="th"/>
+	
+	
+            <col id="en" name="English" script="en"/>
+	
+	
+            <col id="comm" name="Comment"/>
+	
+        </mapping>
+	<src src="th.jenny.txt" enc="UTF-8"
+		
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="th=?en"/>
+	
+	
+	    <mode id="1" short="th=?en=comm"/>
+	
+	
+	    <mode id="2" short="en=?th"/>
+	
+	
+	    <mode id="3" short="en=comm=?th"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

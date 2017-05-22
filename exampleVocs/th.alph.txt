@@ -1,0 +1,113 @@
+﻿##s:Symbol:th	n:Name:en	ipa:IPA	royal:Royal
+#Middle			
+อ	o ang (basin)	ʔ / -	** / -
+ด	do dek (child)	d / t	d / t
+ฏ	to pa-tak (goad)	t / t	t / t
+ฎ	do cha-da (headdress)	d / t	d / t
+ป	po plaa (fish)	p / p	p / p
+บ	bo baimai (leaf)	b / p	b / p
+ต	to tao (turtle)	t / t	t / t
+จ	cho chan (plate)	tɕ / t	ch / t
+ก	ko kai (chicken)	k / k	k / k
+			
+#High			
+ฉ	cho ching (cymbals)	tɕʰ / -	ch / -
+ศ	so sala (pavilion)	s / t	s / t
+ส	so suea (tiger)	s / t	s / t
+ห	ho hip (chest)	h / -	h / -
+ษ	so rue-si (hermit)	s / t	s / t
+ถ	tho thung (sack)	tʰ / t	th / t
+ผ	pho phueng (bee)	pʰ / -	ph / -
+ฝ	fo fa (lid)	f / -	f / -
+ฃ	kho khuat (bottle) [obsolete]	kʰ / k	kh / k
+ข	kho khai (egg)	kʰ / k	kh / k
+ฐ	tho san-than (base)	tʰ / t	th / t
+			
+#Low			
+ฟ	fo fan (teeth)	f / p	f / p
+ท	tho thahan (soldier)	tʰ / t	th / t
+ภ	pho sam-phao (sailboat)	pʰ / p	ph / p
+ม	mo ma (horse)	m / m	m / m
+ธ	tho thong (flag)	tʰ / t	th / t
+น	no nu (mouse)	n / n	n / n
+พ	pho phan (tray)	pʰ / p	ph / p
+ว	wo waen (ring)	w / w	w / w
+ฬ	lo chu-la (kite)	l / n	l / n
+ฮ	ho nok-huk (owl)	h / -	h / -
+ย	yo yak (ogre)	j / j	y / y
+ร	ro ruea (boat)	r / n	r / n
+ล	lo ling (monkey)	l / n	l / n
+ญ	yo ying (woman)	j / n	y / n
+ฑ	tho nangmon-tho (dancer)	tʰ / t	th / t
+ฒ	tho phu-thao (old person)	tʰ / t	th / t
+ณ	no nen (novice monk)	n / n	n / n
+ฌ	cho choe (bush)	tɕʰ / -	ch / -
+ง	ngo ngu (snake)	ŋ / ŋ	ng / ng
+ฆ	kho ra-khang (bell)	kʰ / k	kh / k
+ฅ	kho khon (person) [obsolete]	kʰ / k	kh / k
+ช	cho chang (elephant)	tɕʰ / t	ch / t
+ซ	so so (chain)	s / t	s / t
+ค	kho khwai (water buffalo)	kʰ / k	kh / k
+ฦ	lo lue (short) *	lɯ / -	lue / -
+ฦๅ	lo lue (long) *	lɯː / -	lue / -
+ฤๅ	ro rue (long) *	rɯː / -	rue / -
+ฤ	ro rue (short) *	rɯ / -	rue / -
+			
+#Vowels			
+–	implied a	a	a
+– –	implied o	o	o
+–รร–	ro han *	ɑ	a
+–ว–	wo waen *	ua	ua
+–วย	sara uai	uɛj	uai
+–อ	sara o	ɔː	o
+–อย	sara oi	ɔːj	oi
+–ะ	sara a	aʔ	a
+–ั –	mai han-akat	ɑ	a
+–ัย	sara ai	ɑj	ai
+–ัว	sara ua	ua	ua
+–ัวะ	sara ua	uaʔ	ua
+–า	sara a	aː	a
+–าย	sara ai	aːj	ai
+–าว	sara ao	aːw	ao
+–ำ	sara am	ɑm	am
+–ิ	sara i	i	i
+–ิว	sara iu	iw	iu
+–ี	sara i	iː	i
+–ึ	sara ue	ɯ	ue
+–ื	sara ue	ɯː	ue
+–ุ	sara u	u	u
+–ู	sara u	uː	u
+เ–	sara e	eː	e
+เ–็ –	sara e	e	e
+เ–ะ	sara e	eʔ	e
+เ–ย	sara oei	ɤːj	oei
+เ–อ	sara oe	ɤː	oe
+เ–อะ	sara oe	ɤʔ	oe
+เ–ิ –	sara oe	ɤ	oe
+เ–ว	sara eo	eːw	eo
+เ–า	sara ao	aw	ao
+เ–าะ	sara o	ɔʔ	o
+เ–ีย	sara ia	iːa	ia
+เ–ียะ	sara ia	iaʔ	ia
+เ–ียว	sara iao	io	iao
+เ–ือ	sara uea	ɯːa	uea
+เ–ือะ	sara uea	ɯaʔ	uea
+แ–	sara ae	ɛː	ae
+แ–ะ	sara ae	ɛʔ	ae
+แ–็ –	sara ae	ɛ	ae
+แ–ว	sara aeo	ɛːw	aeo
+โ–	sara o	oː	o
+โ–ะ	sara o	oʔ	o
+ใ–	sara ai mai muan	ɑj	ai
+ไ–	sara ai mai malai	ɑj	ai
+			
+#Diacritics, Other symbols			
+ก่	mai ek		
+ก้	mai tho		
+ก๊	mai tri		
+ก๋	mai jattawa		
+ก็	mai taikhu		
+ก์	mai thantakhat, karan		
+ฯ	paiyaan noi		
+ฯลฯ	paiyaan yai		
+ๆ	mai yamok		

@@ -1,0 +1,44 @@
+1	把	ba3	to take, 
+1	当	dang1	to be, 
+1	等	deng3	and other, OTHR
+1	点	dian3	point, to light
+1	对	dui4	couple, to oppose
+1	多	duo1	much, many
+1	分	fen1	minute, to divide
+1	过	guo4	to pass, 
+1	过去	guo4qu4	in the past, to be past
+1	好	hao3	good, good
+1	花	hua1	flower, to spend
+1	回	hui2	to return, to curve
+1	会	hui4	meeting, to meet
+1	叫	jiao4	to call, to be called
+1	里	li3	mile, in
+1	那	na4	that, if that is the case
+1	那么	na4me	that, 
+1	上	shang4	to climb, 
+1	往	wang3	past, to go
+1	下	xia4	second, to lower
+1	呀	ya1	final part, 
+1	在	zai4	, 
+1	站	zhan4	station, VERB
+2	包	bao1	package, to wrap
+2	本	ben3	this, Bin
+2	并	bing4	to combine, simultaneously
+2	呆	dai1	to stay, dumb
+2	单	dan1	chieftain, single
+2	到底	dao4di3	finally, OTHR
+2	道	dao4	direction, to say
+2	顶	ding3	most, to oppose
+2	费	fei4	fee, to cost
+2	副	fu4	vice, 
+2	光	guang1	light, 
+2	将	jiang1	to get, will
+2	距离	ju4li2	distance, to be apart
+2	来	lai2	to come, 
+2	面	mian4	face, to face
+2	排	pai2	row, to place
+2	如	ru2	if, 
+2	生	sheng1	life, to be born
+2	所	suo3	actually, 
+2	同	tong2	like, at the same time
+2	直	zhi2	straight, 

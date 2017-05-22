@@ -1,0 +1,110 @@
+﻿Symbol	Name	Royal Thai Initial	Royal Thai Final	IPA Initial IPA Final	Class
+ก	ko kai (chicken)	k	k	k	k	M
+ข	kho khai (egg)	kh	k	kʰ	k	H
+ฃ	kho khuat (bottle) [obsolete]	kh	k	kʰ	k	H
+ค	kho khwai (water buffalo)	kh	k	kʰ	k	L
+ฅ	kho khon (person) [obsolete]	kh	k	kʰ	k	L
+ฆ	kho ra-khang (bell)	kh	k	kʰ	k	L
+ง	ngo ngu (snake)	ng	ng	ŋ	ŋ	L
+จ	cho chan (plate)	ch	t	tɕ	t	M
+ฉ	cho ching (cymbals)	ch	-	tɕʰ	-	H
+ช	cho chang (elephant)	ch	t	tɕʰ	t	L
+ซ	so so (chain)	s	t	s	t	L
+ฌ	cho choe (bush)	ch	-	tɕʰ	-	L
+ญ	yo ying (woman)	y	n	j	n	L
+ฎ	do cha-da (headdress)	d	t	d	t	M
+ฏ	to pa-tak (goad)	t	t	t	t	M
+ฐ	tho san-than (base)	th	t	tʰ	t	H
+ฑ	tho nangmon-tho (dancer)	th	t	tʰ	t	L
+ฒ	tho phu-thao (old person)	th	t	tʰ	t	L
+ณ	no nen (novice monk)	n	n	n	n	L
+ด	do dek (child)	d	t	d	t	M
+ต	to tao (turtle)	t	t	t	t	M
+ถ	tho thung (sack)	th	t	tʰ	t	H
+ท	tho thahan (soldier)	th	t	tʰ	t	L
+ธ	tho thong (flag)	th	t	tʰ	t	L
+น	no nu (mouse)	n	n	n	n	L
+บ	bo baimai (leaf)	b	p	b	p	M
+ป	po plaa (fish)	p	p	p	p	M
+ผ	pho phueng (bee)	ph	-	pʰ	-	H
+ฝ	fo fa (lid)	f	-	f	-	H
+พ	pho phan (tray)	ph	p	pʰ	p	L
+ฟ	fo fan (teeth)	f	p	f	p	L
+ภ	pho sam-phao (sailboat)	ph	p	pʰ	p	L
+ม	mo ma (horse)	m	m	m	m	L
+ย	yo yak (ogre)	y	y	j	j	L
+ร	ro ruea (boat)	r	n	r	n	L
+ฤ	ro rue (short) *	rue	-	rɯ	-	-
+ฤๅ	ro rue (long) *	rue	-	rɯː	-	-
+ล	lo ling (monkey)	l	n	l	n	L
+ฦ	lo lue (short) *	lue	-	lɯ	-	-
+ฦๅ	lo lue (long) *	lue	-	lɯː	-	-
+ว	wo waen (ring)	w	w	w	w	L
+ศ	so sala (pavilion)	s	t	s	t	H
+ษ	so rue-si (hermit)	s	t	s	t	H
+ส	so suea (tiger)	s	t	s	t	H
+ห	ho hip (chest)	h	-	h	-	H
+ฬ	lo chu-la (kite)	l	n	l	n	L
+อ	o ang (basin)	**	-	ʔ	-	M
+ฮ	ho nok-huk (owl)	h	-	h	-	L
+
+Symbol	Name	IPA	Royal	Variants	Sound
+–	implied a	a	a	u	u in "nut"
+– –	implied o	o	o	 	oa in "boat"
+–รร–	ro han *	ɑ	a	u	u in "nut"
+–ว–	wo waen *	ua	ua	uar	ewe in "newer"
+–วย	sara uai	uɛj	uai	 	uoy in "buoy"
+–อ	sara o	ɔː	o	or, aw, ow	aw in "saw"
+–อย	sara oi	ɔːj	oi	oy	oy in "boy"
+–ะ	sara a	aʔ	a	u	u in "nut"
+–ั –	mai han-akat	ɑ	a	u	u in "nut"
+–ัย	sara ai	ɑj	ai	 	i in hi"
+–ัว	sara ua	ua	ua	ewer	ewe in "newer"
+–ัวะ	sara ua	uaʔ	ua	ewer	ewe in "sewer"
+–า	sara a	aː	a	ar, aa	a in "father"
+–าย	sara ai	aːj	ai	aai, aay	ye in "bye"
+–าว	sara ao	aːw	ao		ow in "now"
+–ำ	sara am	ɑm	am	um	um in "sum"
+–ิ	sara i	i	i	 	y in "greedy"
+–ิว	sara iu	iw	iu	 	ew in "new"
+–ี	sara i	iː	i	ee, ii, y	ee in "see"
+–ึ	sara ue	ɯ	ue	eu, uh	u in French "du" (short)
+–ื	sara ue	ɯː	ue	eu	u in French "dur" (long)
+–ุ	sara u	u	u	oo	oo in "look"
+–ู	sara u	uː	u	oo, uu	ue in "sue"
+เ–	sara e	eː	e	ay, a, ae, ai	a in "lame"
+เ–็ –	sara e	e	e	 	e in "neck"
+เ–ะ	sara e	eʔ	e	eh	e in "neck"
+เ–ย	sara oei	ɤːj	oei	 	u in "burn" + y in "boy"
+เ–อ	sara oe	ɤː	oe	ur, eu, u	u in "burn"
+เ–อะ	sara oe	ɤʔ	oe	eu, u	e in "the"
+เ–ิ –	sara oe	ɤ	oe	eu, u	e in "the"
+เ–ว	sara eo	eːw	eo	eu, u	ai + ow in "rainbow"
+เ–า	sara ao	aw	ao	aw, ow	ow in "cow"
+เ–าะ	sara o	ɔʔ	o	orh, oh, or	o in "not"
+เ–ีย	sara ia	iːa	ia	ear, ere	ea in "ear"
+เ–ียะ	sara ia	iaʔ	ia	iah, ear	ea in "ear" with
+glottal stop
+เ–ียว	sara iao	io	iao	iow	io in "trio"
+เ–ือ	sara uea	ɯːa	uea	eua, ua	ure in "pure"
+เ–ือะ	sara uea	ɯaʔ	uea	eua, ua	ure in "pure"
+แ–	sara ae	ɛː	ae	a, e	a in "ham"
+แ–ะ	sara ae	ɛʔ	ae	aeh, a	a in "at"
+แ–็ –	sara ae	ɛ	ae	aeh, a	a in "at"
+แ–ว	sara aeo	ɛːw	aeo	eo	a in "ham" + ow in "low"
+โ–	sara o	oː	o	or, oh	o in "go"
+โ–ะ	sara o	oʔ	o	oh	o in "poke"
+ใ–	sara ai mai muan	ɑj	ai	ay, y	i in "I"
+ไ–	sara ai mai malai	ɑj	ai	ay, y	i in "I"
+
+Diacritics, Other symbols
+Symbol	Name	Meaning
+ก่	mai ek	first tone mark
+ก้	mai tho	second tone mark
+ก๊	mai tri	third tone mark
+ก๋	mai jattawa	fourth tone mark
+ก็	mai taikhu	shortens vowel
+ก์	mai thantakhat, karan	indicates silent letter
+ฯ	paiyaan noi	preceding word is abbreviated
+ฯลฯ	paiyaan yai	etc.
+ๆ	mai yamok	preceding word or phrase is repeated

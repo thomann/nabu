@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="jenni">
+        <name>Hebräisch - Jenni</name>
+        <description>Hebräisch Lernwortschatz Jenni</description>
+        <mapping>
+	
+	
+            <col id="he" name="Hebräisch" script="he"/>
+	
+	
+            <col id="de" name="Deutsch" script="latin.de"/>
+	
+        </mapping>
+	<src src="jenni.txt" enc="UTF-8"
+		
+		
+	/>
+	
+	<modes>
+	
+	1
+	    <mode id="0" short="he=?de"/>
+	
+	1
+	    <mode id="1" short="de=?he"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

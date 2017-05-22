@@ -1,0 +1,605 @@
+ni3	nǐ	�你	1	you		
+hao3	hǎo	好	1	well; good		
+nin2	ni�?n	您	1	you	polite	
+ni3men	nǐmen	你们	1	you	plural	
+lao3shi1	lǎoshī	�?师	1	teacher		
+xie4xie4	xièxiè	谢谢	1	thank		
+bu4	bù	�?	1	not		
+ke4qi	kèqi	客气	1	polite; courteous		
+bu4ke4qi	bùkèqi	�?客气	1	Don't mention it; You're welcome		
+dui4buqi3	dùibuqǐ	对�?起	1	I am sorry		
+mei2guan1xi	me�?iguānxi	没关系	1	Don't mention it		
+zai4jian4	zàijiàn	�?�?	1	good-bye		
+qing3	qǐng	请	1	please		
+jin4	jìn	进	1	enter		
+zuo4	zuò	�??	1	sit		
+ting1	tīng	�?�	1	listen		
+shuo1	shuō	说	1	say		
+du2	du�?	读	1	read		
+xie3	xiě	写	1	write		
+ma	ma	�?�	2		a particle used at the end of a question	
+wo3	wǒ	我	2	I		
+hen3	hěn	很	2	very		
+ne	ne	呢	2		a particle used at the end of special, alternative, or rhetorical question	
+ye3	yě	也	2	too, also		
+ba4ba	bàba	爸爸	2	father		
+ma1ma	māma	妈妈	2	mother		
+dou1	dōu	都	2	both; all		
+ta1men	tāmen	他们	2	they; them		
+ge1ge	gēge	哥哥	2	elder brother		
+ta1	tā	他	2	he; him		
+jie3jie	jiějie	�?�?	2	elder sister		
+ta1	tā	她	2	she; her		
+ai4ren	àiren	爱人	2	husband, wife		
+di4di	dìdi	弟弟	2	younger brother		
+mei4mei	mèimei	妹妹	2	younger sister		
+mang2	ma�?ng	忙	2	busy		
+lei4	lèi	累	2	tired		
+e4	è	饿	2	hungry		
+ke3	kě	渴	2	thirsty		
+chi1	chī	�?�	3	eat		
+shen2me	she�?nme	什么	3	what		
+jiao3zi	jiǎozi	饺�?	3	dumpling	with meat and vegetable stuffing	
+mi3fan4	mǐfàn	米饭	3	cooked rice		
+mian4tiao2	miàntia�?o	�?��?�	3	nuddle		
+mian4bao1	miànbāo	�?�包	3	bread		
+bao1zi	bāozi	包�?	3	stuffed bun		
+he1	hē	�?	3	drink		
+pi2jiu3	pi�?jiǔ	啤酒	3	beer		
+ke3kou3ke3le4	kěkǒukělè	�?��?��?��?	3	Coca-cola		
+cha2	cha�?	茶	3	tea		
+ka1fei1	kāfēi	咖啡	3	coffee		
+kuang4quan2shui3	kuàngqua�?nshǔi	矿泉水	3	mineral water		
+niu2nai3	niu�?nǎi	牛奶	3	milk		
+mai3	mǎi	买	3	buy		
+ci2dian3	ci�?diǎn	�?典	3	dictionary		
+ben3zi	běnzi	本�?	3	notebook		
+shu1	shū	书	3	book		
+bi3	bǐ	笔	3	pen		
+shu1bao1	shūbāo	书包	3	schoolbag		
+yao4	yào	�?	4	want		
+huan4	huàn	�?�	4	change		
+qian2	qia�?n	钱	4	money		
+duo1shao	duōshao	多少	4	how much; how many		
+yi1	yī	一	4	one		
+bai3	bǎi	百	4	hundred		
+mei3yuan2	měiyua�?n	美元	4	US dollar		
+er2	e�?r	二	4	two		
+san1	sān	三	4	three		
+si4	sì	四	4	four		
+wu3	wǔ	五	4	five		
+liang3	liǎng	两	4	two		
+bei1	bēi	�?�	4	cup; glass		
+kuai4(yuan2)	kuài(yua�?n)	�?�（元）	4	yuan	the basic monetary unit of China	
+ge4	gè	个	4		a measure word most extensively used	
+liu4	liù	六	4	six		
+mao2(jiao3)	ma�?o(jiǎo)	毛（角）	4	jiao	the fractional monetary unit of China, = 1/10 of a yuan	
+ping2	pi�?ng	瓶	4	bottle		
+qi1	qī	七	4	seven		
+ba1	bā	八	4	eight		
+ben3	běn	本	4		a measure word for books, etc.	
+jiu3	jiǔ	�?	4	nine		
+shi2	shi�?	�??	4	ten		
+fen1	fēn	分	4	fen	the fractional monetary unit of China, = 1/10 of a jiao	
+qing3wen4	qǐngwèn	请问	5	Excuse me		
+tu2shu1guan3	tu�?shūguǎn	图书馆	5	library		
+zai4	zài	在	5	exist; be at, in or on a place		
+nar3	nǎr	哪儿	5	where		
+jiu4	jiù	就	5	just		
+nar4	nàr	那儿	5	there		
+shi2tang2	shi�?ta�?ng	食堂	5	dining hall		
+liu2xue2sheng1	liu�?xue�?shēng	留学生	5	overseas student		
+su4she4	sùshè	宿�?	5	dormitory		
+ban4gong1shi4	bàngōngshì	办公室	5	office		
+lou2	lo�?u	楼	5	building		
+you2ju2	yo�?uju�?	邮局	5	post office		
+yin2hang2	yi�?nha�?ng	银行	5	bank		
+yi1yuan4	yīyuàn	医院	5	hospital		
+shang1dian4	shāngdiàn	商店	5	shop		
+shu1dian4	shūdiàn	书店	5	bookshop		
+zhi1dao4	zhīdào	知�?�	5	know		
+qu4	qù	去	5	go		
+Tian1'an1men2	Tiān'ānme�?n	天安门	5	the Tian'anmen Square		
+Gu4gong1	Gùgōng	故宫	5	the Forbidden City		
+Yi2he2yuan2	Yi�?he�?yua�?n	�?和园	5	the Summer Palace		
+Chang2cheng2	Cha�?ngche�?ng	长城	5	the Great Wall		
+ren4shi	rènshi	认识	6	meet; know		
+gao1xing4	gāoxìng	高兴	6	happy		
+lai2	la�?i	�?�	6		used before a verb, indicating an intended action	
+jie4shao4	jièshào	介�?	6	introduce		
+yi2xiar4	yi�?xiàr	一下儿	6		indicates that an action is brief, slight	
+shi4	shì	是	6	be		
+xue2xi2	xue�?xi�?	学习	6	learn		
+Han4yu3	Hànyǔ	汉语	6	Chinese language		
+ban1	bān	�?�	6	class		
+de	de	的	6	of		
+xue2sheng	xue�?sheng	学生	6	student		
+zhe4	zhè	这	6	this		
+wo3men	wǒmen	我们	6	we; us		
+na4	nà	那	6	that		
+peng2you	pe�?ngyou	朋�?�	6	friend		
+he2	he�?	和	6	and		
+ren2	re�?n	人	6	people		
+jiao4shi4	jiàoshì	教室	6	classroom		
+da4	dà	大	6	big		
+xin1	xīn	新	6	new		
+tong2xue2	to�?ngxue�?	�?�学	6	classmate		
+hou4	hòu	厚	6	thick		
+piao4liang	piàoliang	漂亮	6	pretty; beautiful		
+ji2le	ji�?le	�?了	6	extremely		
+nü3'er2	nǚ'e�?r	女儿	6	daughter		
+cong1ming	cōngming	�?�明	6	clever		
+ke3'ai4	kě'ài	�?�爱	6	lovely		
+kan4	kàn	看	6	look		
+shuai4	shuài	帅	6	handsome		
+xiao3	xiǎo	�?	6	small, little	a prefix showing endearment for young people	
+De2guo2	De�?guo�?	德国	6	Germany		
+Fa3guo2	Fǎguo�?	法国	6	France		
+Han2guo2	Ha�?nguo�?	韩国	6	Korea		
+Bao3luo2	Bǎoluo�?	�?罗	6	Paul		
+Xi1meng2	Xīme�?ng	西蒙	6	Simon		
+Li3 Ying1nan2	Lǐ Yīngna�?n	�?�英男	6		name of a person	
+zui4jin4	zùijìn	最近	7	recently		
+shen1ti3	shēntǐ	身体	7	health; body		
+bi3jiao4	bǐjiào	比较	7	quite	relatively	
+cheng2ji4	che�?ngjì	�?绩	7	score		
+ma3mahu1hu1	mǎmahūhū	马马虎虎	7	so-so		
+nu3li4	nǔlì	努力	7	hard		
+fei1chang2	fēicha�?ng	�?�常	7	very		
+tai4	tài	太	7	very; too		
+li3	lǐ	里	7	in		
+you3	yǒu	有	7	have; there be		
+mei2(you3)	me�?i(yǒu)	没（有）	7	not have; there be not; have not or did not		
+kong1tiao2	kōngtia�?o	空调	7	air-conditioner		
+tong2wu1	to�?ngwū	�?�屋	7	roommate		
+li2	li�?	离	7	from	indicating an interval of space or time	
+yuan3	yuǎn	远	7	far		
+jin4	jìn	近	7	near		
+xue2xiao4	xue�?xiào	学校	7	school		
+duo1	duō	多	7	many; much		
+ting3	tǐng	挺	7	quite		
+zen3meyang4	zěnmeyàng	怎么样	7	what about ...		
+bu2cuo4	bu�?cuò	�?错	7	not bad		
+tou2fa	to�?ufa	头�?�	7	hair		
+chang2	cha�?ng	长	7	long		
+yan3jing	yǎnjing	眼�?�	7	eye		
+ge4zi	gèzi	个�?	7	height		
+gao1	gāo	高	7	tall; high		
+dian4shi4	diànshì	电视	7	TV		
+Zhong1guo2	Zhōngguo�?	中国	7	China		
+na3	nǎ	哪	8	which		
+guo2	guo�?	国	8	country		
+jiao4	jiào	�?�	8	call		
+ming2zi	mi�?ngzi	�??字	8	name		
+gui4	gùi	贵	8	honourable	polite way of asking people's surname	
+xing4	xìng	姓	8	surname		
+ji3	jǐ	几	8	how many		
+wei4	wèi	�?	8		a measure word for respected persons	
+jiao1	jiāo	教	8	teach		
+zhu4	zhù	�?	8	live		
+hao4	hào	�?�	8	number		
+fang2jian1	fa�?ngjiān	房间	8	room		
+dian4hua4	diànhuà	电�?	8	telephone		
+hao4ma3	hàomǎ	�?��?	8	number		
+mei3	měi	�?	8	every		
+tian1	tiān	天	8	day		
+xia4wu3	xiàwǔ	下�?�	8	afternoon		
+zuo4	zuò	�?�	8	do		
+you3shi2hou	yǒushi�?hou	有时候	8	sometimes		
+xiu1xi	xiūxi	休�?�	8	rest		
+chang2chang2	cha�?ngcha�?ng	常常	8	often		
+gen1	gēn	跟	8	with; and		
+shui2	shu�?i	�?	8	who; whom		
+yi4qi3	yìqǐ	一起	8	together		
+shui4jiao4	shùijiào	�?�觉	8	sleep		
+zher4	zhèr	这儿	8	here		
+wan3shang	wǎnshang	晚上	8	evening		
+Wang2	Wa�?ng	王	8		a Chinese Surname	
+Bei3jing1 Yu3yan2 Wen2hua4 Da4xue2	Běijīng Yǔya�?n We�?nhuà Dàxue�?	北京语言文化大学	8	Beijing Language and Culture University		
+Xiao3yu3	Xiǎoyǔ	�?雨	8		name of a person	
+Zhang1	Zhāng	张	8		a Chinese surname	
+xiang3	xiǎng	想	9	miss; think		
+dang1ran2	dāngra�?n	当然	9	of course		
+jia1	jiā	家	9	home; family		
+kou3	kǒu	�?�	9	mouth	a measure word for people	
+xiong1di4	xiōngdì	兄弟	9	brother		
+jie3mei4	jiěmèi	�?妹	9	sister		
+du2sheng1nü3	du�?shēngnǚ	独生女	9	only daughter		
+gong1zuo4	gōngzuò	工作	9	work; job		
+fu4qin	fùqin	父亲	9	father		
+mu3qin	mǔqin	�?亲	9	mother		
+yi1sheng1	yīshēng	医生	9	doctor		
+gong1si1	gōngsī	公�?�	9	company		
+zhi2yuan2	zhi�?yua�?n	�?�员	9	staff member		
+ji4zhe3	jìzhě	记者	9	journalist		
+ming2pian4	mi�?ngpiàn	�??片	9	name card		
+fu4mu3	fùmǔ	父�?	9	parents		
+jinnian3	jinniǎn	今年	9	this year		
+duo1	duō	多	9	over		
+nian2ji4	nia�?njì	年纪	9	age		
+sui4	sùi	�?	9	year (of age)		
+mi4mi4	mìmì	秘密	9	secret		
+hai2zi	ha�?izi	孩�?	9	child; children		
+er2zi	e�?rzi	儿�?	9	son		
+zhen1	zhēn	真	9	very		
+shou4huo4yuan2	shòuhuòyua�?n	售货员	9	shop assistant		
+jing1li3	jīnglǐ	�?�?�	9	manager		
+si1ji1	sījī	�?�机	9	driver		
+ye2ye	ye�?ye	爷爷	9	grandfather		
+nai3nai	nǎinai	奶奶	9	grandmother		
+Xiao3ye4	Xiǎoyè	�?�?�	9		name of a person	
+Zhi2mei3	Zhi�?měi	直美	9		name of a person	
+xian4zai4	xiànzài	现在	10	now		
+dian3	diǎn	点	10	o'clock		
+ke4	kè	刻	10	quarter		
+zao3fan4	zǎofàn	早饭	10	breakfast		
+ban4	bàn	�?�	10	half		
+shi2hou	shi�?hou	时候	10	when		
+shang4ke4	shàngkè	上课	10	attend class		
+cong2...dao4	co�?ng...dào	从...到	10	from ... to		
+shang4wu3	shàngwǔ	上�?�	10	morning		
+jin1tian1	jīntiān	今天	10	today		
+yue4	yuè	月	10	month		
+hao4(ri4)	hào(rì)	�?�（日）	10	date		
+xing1qi1	xīngqī	星期	10	week		
+xing1qi1tian1(xing1qi1ri4)	xīngqītiān(xīngqīrì)	星期天（星期日）	10	Sunday		
+ba	ba	�?�	10		a particle forming a leading question which asks for confirmation of a supposition	
+zan2men	za�?nmen	咱们	10	we; us		
+a	a	啊	10		a particle used at the end of a sentence to express enthusiasm	
+chu1fa1	chūfā	出�?�	10	set out		
+xing2	xi�?ng	行	10	OK		
+jian4mian4	jiànmiàn	�?�?�	10	meet		
+cha4	chà	差	10	less than		
+fen1	fēn	分	10	minute		
+men2kou3	me�?nkǒu	门�?�	10	entrance		
+deng3	děng	等	10	wait		
+zao3shang	zǎoshang	早上	10	morning		
+qi3	qǐ	起	10	get up; rise		
+chuang2	chua�?ng	床	10	bed		
+xia4ke4	xiàkè	下课	10	finish class		
+wu3fan4	wǔfàn	�?�饭	10	lunch		
+wan3fan4	wǎnfàn	晚饭	10	supper		
+nian2	nia�?n	年	10	year		
+da4qian2tian1	dàqia�?ntiān	大�?天	10	three days ago		
+qian2tian1	qia�?ntiān	�?天	10	the day before yesterday		
+zuo2tian1	zuo�?tiān	昨天	10	yesterday		
+ming2tian1	mi�?ngtiān	明天	10	tomorrow		
+hou4tian1	hòutiān	�?�天	10	the day after tomorrow		
+da4hou4tian1	dàhòutiān	大�?�天	10	three days from now		
+sheng1ri	shēngri	生日	10	birthday		
+li3bian1	lǐbiān	里边	11	in		
+jiao4xue2lou2	jiàoxue�?lo�?u	教学楼	11	teaching building		
+ban4gong1lou2	bàngōnglo�?u	办公楼	11	administrative building		
+bei3bian1	běibiān	北边	11	north		
+xi1bian1	xībiān	西边	11	west		
+nan2bian1	na�?nbiān	�?�边	11	south		
+fu4jin4	fùjìn	附近	11	nearby; close to		
+fan4guanr3	fànguǎnr	饭馆儿	11	restaurant		
+dong1bian1	dōngbiān	东边	11	east		
+hai2	ha�?i	还	11	still; also		
+dian4ying3	diànyǐng	电影	11	movie		
+dian4ying3yuan4	diànyǐngyuàn	电影院	11	cinema		
+dui4mian4	dùimiàn	对�?�	11	opposite side		
+yao4	yào	�?�	11	medicine		
+pang2bian1	pa�?ngbiān	�?边	11	beside		
+cha2ye4	cha�?yè	茶�?�	11	tea leaves; tea		
+men	men	门	11		a suffix denoting a plural form	
+zhao4pian4	zhàopiàn	照片	11	photo		
+zuo3bian1	zuǒbiān	左边	11	on the left		
+you4bian1	yòubiān	�?�边	11	on the right		
+zhong1jian1	zhōngjiān	中间	11	in the middle		
+hou4bian1	hòubiān	�?�边	11	behind		
+zhuo1zi	zhuōzi	桌�?	11	desk; table		
+shang4bian1	shàngbiān	上边	11	on		
+tai2deng1	ta�?idēng	�?��?�	11	desk lamp		
+zhang1	zhāng	张	11		a measure word for desks, tables, paper, etc.	
+nan2	na�?n	男	11	male		
+nan2peng2you	na�?npe�?ngyou	男朋�?�	11	boyfriend		
+xia4bian1	xiàbiān	下边	11	under		
+chou1ti	chōuti	抽屉	11	drawer		
+kuai4	kuài	快	11	piece; lump	a measure word	
+qiao3ke4li4	qiǎokèlì	巧克力	11	chocolate		
+qian2bian1	qia�?nbiān	�?边	11	in the front of		
+xie2	xie�?	鞋	11	shoe		
+yan3jing4	yǎnjìng	眼镜	11	glasses		
+nao4zhong1	nàozhōng	闹钟	11	alarm clock		
+zhi1	zhī	支	12		a measure word for pens, pencils, etc.	
+yuan2zhu1bi3	yua�?nzhūbǐ	圆�?�笔	12	ball-point pen		
+hong2	ho�?ng	红	12	red		
+hai2shi	ha�?ishi	还是	12	or		
+lan2	la�?n	�?	12	blue		
+yi2yang2	yi�?ya�?ng	一样	12	every kind		
+bie2de	bie�?de	别的	12	others		
+le	le	了	12		a particle	
+mai4	mài	�?�	12	sell		
+zai4	zài	�?	12	more; again		
+ting1	tīng	�?�	12	tin, can	a measure word	
+yi2gong4	yi�?gòng	一共	12	altogether		
+gei3	gěi	给	12	give		
+ling2qian2	li�?ngqia�?n	零钱	12	small change		
+zhao3(qian2)	zhǎo(qia�?n)	找（钱）	12	give (change)		
+ling2	li�?ng	零（�?）	12	zero; and		
+shu3	shǔ	数	12	count		
+ju2zi	ju�?zi	橘�?	12	orange		
+jin1	jīn	斤	12	jin	half kilogram	
+dong1xi	dōngxi	东西	12	thing		
+tian2	tia�?n	甜	12	sweet		
+chang2	cha�?ng	�?	12	taste		
+xi1hong2shi4	xīho�?ngshì	西红柿	12	tomato		
+zen3me	zěnme	怎么	12	how		
+xin1xian1	xīnxiān	新鲜	12	fresh		
+zhai1	zhāi	摘	12	pick		
+suan1	suān	酸	12	sour		
+liang4	liàng	辆	12		a measure word for bicycles, cars, etc.	
+zi4xing2che1	zìxi�?ngchē	自行车	12	bicycle		
+qian1bi3	qiānbǐ	铅笔	12	pencil		
+ping2guo3	pi�?ngguǒ	苹果	12	apple		
+liang2	lia�?ng	凉	12	cool		
+re4	rè	热	12	hot		
+duan3	duǎn	短	12	short		
+Qing1dao3	Qīngdǎo	�?�岛	12		name of a Chinese city and brand of beer	
+xiang3	xiǎng	想	13	would like		
+lu4yin1ji1	lùyīnjī	录音机	13	tape-recorder		
+gei3	gěi	给	13	for; to; by		
+can1mou2	cānmo�?u	�?�谋	13	advise		
+zuo3you4	zuǒyòu	左�?�	13	or so; about		
+pai2zi	pa�?izi	牌�?	13	brand		
+zhi4liang4	zhìliàng	质�?	13	quality		
+you4...you4...	yòu...yòu...	�?�...�?�...	13	both ... and ...		
+jia4qian	jiàqian	价钱	13	price		
+pian2yi	pia�?nyi	便宜	13	cheap		
+yang4zi	yàngzi	样�?	13	appearance; shape		
+hao3kan4	hǎokàn	好看	13	nice; beautiful		
+shuang1	shuāng	�?�	13	pair		
+hao4	hào	�?�	13	size		
+ke3yi3	kěyǐ	�?�以	13	can		
+shi4	shì	试	13	try		
+you3dianr3	yǒudiǎnr	有点儿	13	a bit		
+yi4dianr3	yìdiǎnr	一点儿	13	a little		
+he2shi4	he�?shì	�?�适	13	suitable		
+jian4	jiàn	件	13		a measure word for clothing, matters, etc.	
+bai2	ba�?i	白	13	white		
+zhen1si1	zhēnsī	真�?	13	real silk		
+chen4yi1	chènyī	衬衣	13	shirt		
+yan2se4	ya�?nsè	颜色	13	color		
+zhi3	zhǐ	�?�	13	only		
+zhong3	zhǒng	�?	13	kind; type		
+yong4	yòng	用	13	use		
+suan4	suàn	算	13	calculate		
+tiao2	tia�?o	�?�	13		a measure word for long or narrow or thin things	
+ku4zi	kùzi	裤�?	13	trousers; pants		
+luan4	luàn	乱	13	messy		
+lao3	lǎo	�?	13	old		
+ting1shuo1	tīngshuō	�?�说	14	it is said that		
+cai4	cài	�?�	14	dish		
+hao3chi1	hǎochī	好�?�	14	delicious		
+fu2wu4yuan2	fu�?wùyua�?n	�?务员	14	attendant; waiter; waitress		
+shi4	shì	事	14	thing; affair; business		
+cai4dan1	càidān	�?��?�	14	menu		
+dian3	diǎn	点	14	order (dishes)		
+yu2xiang1rou4si1	yu�?xiāngròusī	鱼香肉�?	14	fish-favored shredded pork		
+ma2po2dou4fu	ma�?po�?dòufu	麻婆豆�?	14	stir-fried beancurd in hot sauce		
+wan3	wǎn	碗	14	bowl		
+la4	là	辣	14	hot; peppery		
+tang1	tāng	汤	14	soup		
+yin3liao4	yǐnliào	饮料	14	beverage		
+hu2	hu�?	壶	14	pot		
+shao1	shāo	�?�	14	a little; slightly		
+jue2de	jue�?de	觉得	14	feel; think		
+bu2guo4	bu�?guò	�?过	14	but		
+you2	yo�?u	油	14	oil		
+xi3huan	xǐhuan	喜欢	14	like		
+zui4	zùi	最	14	most		
+ya	ya	呀	14		a particle	
+xian2	xia�?n	咸	14	salty		
+ku3	kǔ	苦	14	bitter		
+jiu4shi4	jiùshì	就是	14	but		
+xiao3jie3	xiǎojiě	�?�?	14	waitress; Miss		
+jie2zhang4	jie�?zhàng	结�?	14	get the check		
+can1jin1zhi3	cānjīnzhǐ	�?巾纸	14	napkin paper		
+fu4	fù	付	14	pay		
+qing3ke4	qǐngkè	请客	14	stand treat		
+yi3hou4	yǐhòu	以�?�	14	later		
+chang4	chàng	唱	14	sing		
+ka3la1'ou1kei1	kǎlā'ōukēi	�?�拉OK	14	karaoke		
+you3yi4si	yǒuyìsi	有�?�?	14	interesting		
+Han4zi4	Hànzì	汉字	14	Chinese character		
+gao4su	gàosu	告诉	14	tell		
+wen4ti2	wènti�?	问题	14	question		
+wen4	wèn	问	14	ask		
+nan2	na�?n	难	14	difficult		
+Si4chuan1	Sìchuān	四�?	14		name of a Chinese province	
+zou3	zǒu	走	15	go; walk		
+yi4zhi2	yìzhi�?	一直	15	straight		
+wang3	wǎng	往	15	toward		
+dao4	dào	到	15	arrive; reach		
+zi4	zì	字	15	character		
+lu4kou3	lùkǒu	路�?�	15	crossing; intersection		
+guai3	guǎi	�?	15	turn		
+mi3	mǐ	米	15	meter		
+gong1li3	gōnglǐ	公里	15	kilometer		
+che1	chē	车	15	vehicle		
+guo4	guò	过	15	cross		
+ma3lu4	mǎlù	马路	15	avenue; street		
+xian1	xiān	先	15	first		
+lu4	lù	路	15	route; No. (for bus); road		
+gong1gong4 qi4che1	gōnggòng qìchē	公共汽车	15	bus		
+ran2hou4	ra�?nhòu	然�?�	15	then		
+di4tie3	dìtiě	地�?	15	subway; underground		
+ying1gai1	yīnggāi	应该	15	should		
+huo4zhe3	huòzhě	或者	15	or		
+qi2	qi�?	骑	15	ride		
+ji4shu4	jìshù	技术	15	skill		
+hai2shi	ha�?ishi	还是	15		expressing a preference for an alternative	
+zhou1mo4	zhōumò	周末	15	weekend		
+hou3che1	hǒuchē	�?�车	15	train		
+fei1ji1	fēijī	飞机	15	plane		
+kuai4	kuài	快	15	fast		
+shu1fu	shūfu	舒�?	15	comfortable		
+ke3shi4	kěshì	�?�是	15	but		
+kuan1	kuān	宽	15	wide		
+zhong4	zhòng	�?	15	heavy		
+chu1zu1 qi4che1	chūzū qìchē	出租汽车	15	taxi		
+song4	sòng	�?	15	send		
+li3wu4	lǐwù	礼物	15	gift		
+hua1	huā	花	15	flower		
+Da4tong2	Dàto�?ng	大�?�	15		name of a Chinese City	
+Bai3huo4 Da4lou2	Bǎihuò Dàlo�?u	百货大楼	15	Department Store		
+jia1	jiā	家	16		a measure word for shops, stores, etc.	
+zheng4zai4	zhèngzài	正在	16	in process of		
+jian3jia4	jiǎnjià	�?价	16	reduce the prices		
+gu4ke4	gùkè	顾客	16	costumer		
+shao3	shǎo	少	16	few; little		
+you3de	yǒude	有的	16	some		
+tiao1	tiāo	挑	16	choose		
+pai2dui4	pa�?idùi	排队	16	queue		
+jiao1	jiāo	交	16	pay		
+yi2	yi�?	咦	16	hey		
+xian1sheng	xiānsheng	先生	16	sir		
+zhao3	zhǎo	找	16	look for		
+gang1cai2	gāngca�?i	刚�?	16	just now		
+da3(dian4hua4)	dǎ(diànhuà)	打（电�?）	16	make (a call)		
+zhao1pin4	zhāopìn	招�?�	16	advertise for (new employees)		
+da3suan	dǎsuan	打算	16	plan		
+ying4pin4	yìngpìn	应�?�	16	accept an offer of employment		
+wai4bian1	wàibiān	外边	16	outside		
+xia4(yu3)	xià(yǔ)	下（雨）	16	rain		
+yu3	yǔ	雨	16	rain		
+yi4bian1...yi4bian1...	yìbiān...yìbiān...	一边。。。一边。。。	16	while		
+liao2tianr1	lia�?otiānr	�?�天儿	16	chat		
+da4jia1	dàjiā	大家	16	all; everybody		
+ming2nian2	mi�?ngnia�?n	明年	16	next year		
+ke3neng2	kěne�?ng	�?�能	16	maybe		
+lü3xing2	lǚxi�?ng	旅行	16	travel		
+hui2da2	hu�?ida�?	回答	16	answer		
+cai1	cāi	猜	16	guess		
+ca1	cā	擦	16	wipe		
+hei1ban3	hēibǎn	黑�?�	16	blackboard		
+yin1yue4	yīnyuè	音�?	16	music		
+ge1	gē	歌	16	song		
+xin4	xìn	信	16	letter		
+you2piao4	yo�?upiào	邮票	16	stamp		
+ji4	jì	寄	16	post		
+An1na4	Ānnà	安娜	16	Anna		
+guang4	guàng	逛	17	ramble		
+qun2zi	qu�?nzi	裙�?	17	skirt		
+ding3	dǐng	顶	17		a measure word for hats	
+mao4zi	màozi	帽�?	17	hat		
+he1	hē	嗬	17	ah		
+zhe4me	zhème	这么	17	so		
+pei2	pe�?i	陪	17	accompany		
+feng1jing3	fēngjǐng	风景	17	scenery		
+te4bie2	tèbie�?	特别	17	especially		
+mei3	měi	美	17	beautiful		
+kao3ya1	kǎoyā	烤鸭	17	roast duck		
+zhi1	zhī	�?�	17		a measure word for animals	
+bing4	bìng	病	17	be ill; disease		
+chou1(shi2jian1)	chōu(shi�?jiān)	抽（时间）	17	find (time to do)		
+shi2jian1	shi�?jiān	时间	17	time		
+kan4	kàn	看	17	call on; visit; see		
+yi3jing1	yǐjīng	已�?	17	already		
+shang4	shàng	上	17	last		
+gong1yuan2	gōngyua�?n	公园	17	park		
+wanr2	wa�?nr	玩儿	17	play		
+yi3qian2	yǐqia�?n	以�?	17	before		
+yu4xi2	yùxi�?	预习	17	preview		
+sheng1ci2	shēngci�?	生�?	17	new word		
+ke4wen2	kèwe�?n	课文	17	text		
+xi3	xǐ	洗	17	wash		
+yi1fu	yīfu	衣�?	17	clothes		
+zhi1	zhī	�?	17		a measure word for flowers with stems intact	
+xi3zao3	xǐzǎo	洗澡	17	take a shower		
+Quan2ju4de2	Qua�?njùde�?	全�?�德	17		name of a restaurant famous for its roast duck	
+Shang4hai3	Shànghǎi	上海	17		name of a Chinese City	
+qiu1tian1	qiūtiān	秋天	18	autumn		
+tian1qi4	tiānqì	天气	18	weather		
+shan1	shān	山	18	hill; mount		
+shu4ye4	shùyè	树�?�	18	leaf		
+qiao3	qiǎo	巧	18	opportunely; coincidentally		
+yin1	yīn	阴	18	overcast		
+lan3	lǎn	懒	18	lazy		
+shui4jiao4	shùijiào	�?�觉	18	sleep		
+shui4lan3jiao4	shùilǎnjiào	�?�懒觉	18	get up late		
+shou4	shòu	瘦	18	thin		
+kan4shang4qu	kànshàngqu	看上去	18	it looks ...		
+geng4	gèng	更	18	more		
+xia4	xià	下	18	next		
+hui2	hu�?i	回	18	return; call back		
+qin1qi	qīnqi	亲戚	18	relative		
+dong1tian1	dōngtiān	冬天	18	winter		
+leng3	lěng	冷	18	cold		
+chun1tian1	chūntiān	春天	18	spring		
+nuan3huo	nuǎnhuo	暖和	18	warm		
+xia4tian1	xiàtiān	�?天	18	summer		
+qing2	qi�?ng	晴	18	sunny		
+gua1	guā	刮	18	blow	of wind	
+feng1	fēng	风	18	wind		
+dao3you2	dǎoyo�?u	导游	18	tour guide		
+pang4	pàng	胖	18	fat		
+bao3	bǎo	饱	18	full	of eating	
+kai1	kāi	开	18	bloom		
+kao3shi4	kǎoshì	考试	18	exam; examination		
+jie2hun1	jie�?hūn	结婚	18	marry		
+guan1	guān	关	18	close; shut		
+men2	me�?n	门	18	door		
+fen1zhong1	fēnzhōng	分钟	18	minute		
+kai1	kāi	开	18	leave; start	of a train, bus, ship, etc.	
+Xiang1shan1	Xiāngshān	香山	18		name of a hill in Beijing	
+hui4	hùi	会	19	can		
+you2yong3	yo�?uyǒng	游泳	19	swim		
+de	de	得	19		a particle	
+neng2	ne�?ng	能	19	can		
+xian4mu4	xiànmù	羡慕	19	admire		
+han4ya1zi	hànyāzi	旱鸭�?	19	non-swimmer		
+yun4dong4	yùndòng	�?动	19	sports; exercises		
+ai4	ài	爱	19	like		
+ti1	tī	踢	19	play (football); kick		
+zu2qiu2	zu�?qiu�?	足�?�	19	football		
+qiu2xing1	qiu�?xīng	�?�星	19	star	football, basketball, etc.	
+bang4	bàng	棒	19	excellent		
+jin1wan3	jīnwǎn	今晚	19	tonight		
+dui4	dùi	队	19	team		
+bi3sai4	bǐsài	比赛	19	match		
+nü3	nǚ	女	19	female		
+nü3peng2you	nǚpe�?ngyou	女朋�?�	19	girlfriend		
+yin1yue4hui4	yīnyuèhùi	音�?会	19	concert		
+dei3	děi	得	19	should		
+ying2	yi�?ng	赢	19	win		
+gu1ji4	gūjì	估计	19	estimate		
+yi2ding4	yi�?dìng	一定	19	surely		
+shu1	shū	输	19	lose		
+zao3	zǎo	早	19	early		
+wan3	wǎn	晚	19	late		
+dai4	dài	带	19	take		
+yu3san3	yǔsǎn	雨伞	19	umbrella		
+da3(qiu2)	dǎ(qiu�?)	打（�?�）	19	play		
+wang3qiu2	wǎngqiu�?	网�?�	19	tennis		
+lan2qiu2	la�?nqiu�?	篮�?�	19	basketball		
+zuo4	zuò	�?�	19	cook		
+da3zi4	dǎzì	打字	19	type		
+chang3	chǎng	场	19		a measure word for matches	
+xi1yan1(chou1yan1)	xīyān(chōuyān)	�?�烟(抽烟)	19	smoke		
+Luo2na4'er3duo1	Luo�?nà'ěrduō	罗纳尔多	19	Ronaldo	a famous Brazilian football player	
+Ba1xi1	Bāxī	巴西	19	Brazil		
+guo4	guò	过	20	pass		
+sui1ran2	sūira�?n	虽然	20	though		
+jin3zhang1	jǐnzhāng	紧张	20	intense		
+dan4shi4	dànshì	但是	20	but		
+yu2kuai4	yu�?kuài	愉快	20	happy		
+xiao3shi2	xiǎoshi�?	�?时	20	hour		
+song4	sòng	�?	20	see sb. off		
+cai2	ca�?i	�?	20		used before a verb to indicate that something has just happened or it is rather late by general standards	
+ban4tian1	bàntiān	�?�天	20	a long time		
+yin1wei4	yīnwèi	因为	20	because		
+du3che1	dǔchē	堵车	20	traffic jam		
+suo3yi3	suǒyǐ	所以	20	so; therefore		
+hao3	hǎo	好	20	very		
+yi2huir4	yi�?hùir	一会儿	20	a while		
+zhun3bei4	zhǔnbèi	准备	20	plan		
+bao4zhi3	bàozhǐ	报纸	20	newspaper		
+xiao3xue2	xiǎoxue�?	�?学	20	primary school		
+hua4	huà	�?	20	word		
+liu2li4	liu�?lì	�?利	20	fluent		
+an1jing4	ānjìng	安�?�	20	quiet		
+lin2ju1	li�?njū	邻居	20	neighbor		
+Ba1li2	Bāli�?	巴黎	20	Paris		

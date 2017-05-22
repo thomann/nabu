@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<items>
+    <vocabulary id="test">
+        <name>Test</name>
+        <description>Some Test</description>
+        <mapping>
+            <col id="a" name="The a" script="latin"/>
+            <col id="b" name="The A" script="latin.en"/>
+            <col id="c" name="The aaa" script="latin.en"/>
+            <col id="d" name="The d" script="latin.en"/>
+            <col id="empty" name="Empty" script="latin.en"/>
+        </mapping>
+	<src src="test.txt" enc="UTF-8" class="ch.unizh.ori.nabu.voc.EmptyLineSource"/>
+	<modes>
+	    <mode id="1" short="a=?b=d"/>
+	    <mode id="2" short="a=?b=?c=d"/>
+	    <mode id="3" short="a=b=?c=d"/>
+	    <mode id="3" short="a=?empty"/>
+	</modes>
+    </vocabulary>
+</items>

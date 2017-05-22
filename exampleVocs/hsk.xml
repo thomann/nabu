@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<items>
+	<vocabulary id="zh.hsk">
+        <name>Chinese HSK</name>
+	<description>Chinese HSK level 1 and 2</description>
+        <mapping>
+            <col id="level" name="Level" script="latin"/>
+            <col id="zh" name="Chinese" script="zh"/>
+            <col id="zh_py" name="Chinese Pinyin" script="latin"/>
+            <col id="en" name="English" script="latin.en"/>
+            <col id="zh_py_ce" name="Chinese Pinyin CEDICT" script="latin"/>
+            <col id="en_ce" name="English CEDICT" script="latin.en"/>
+            <col id="zh_py_acc" name="Chinese Pinyin" script="latin" column="2"
+            	class="ch.unizh.ori.nabu.voc.ConvertStringColumn"
+                className="ch.unizh.ori.common.text.helper.ChineseHelper"
+                methodName="convertPinyin"/>
+            <col id="zh_py_acc_ce" name="Chinese Pinyin CEDICT" script="latin" column="4"
+            	class="ch.unizh.ori.nabu.voc.ConvertStringColumn"
+                className="ch.unizh.ori.common.text.helper.ChineseHelper"
+                methodName="convertPinyin"/>
+        </mapping>
+	<src src="hsk3.txt" enc="UTF-8" class="ch.unizh.ori.nabu.voc.EmptyLineSource"/>
+	<modes>
+	    <mode id="1" short="zh=?en"/>
+	    <mode id="2" short="zh=zh_py_acc=zh_py_ce=?en">
+	        <filter field="en" pattern=".+"/>
+	    </mode>
+	    <mode id="4" short="zh=?zh_py"/>
+	    <mode id="4b" short="zh=?zh_py=en=en_ce"/>
+	    <mode id="5" short="en=?zh_py">
+	        <filter field="en" pattern=".+"/>
+	    </mode>
+	    <mode id="6" short="en=?zh">
+	        <filter field="en" pattern=".+"/>
+	    </mode>
+	    <mode id="7" short="en=en_ce=?zh_py"/>
+	    <mode id="8" short="en=en_ce=?zh"/>
+	</modes>
+    </vocabulary>
+</items>

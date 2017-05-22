@@ -1,0 +1,3051 @@
+﻿1	啊	a1		a1	/(interj.)/ah/
+1	啊	a		a	/(a modal particle showing affirmation, approval, or consent)/
+1	矮	ai3	short not tall	ai3	/short (not tall)/
+1	爱	ai4	love, to love	ai4	/to love/affection/to be fond of/to like/
+1	爱人	ai4ren	spouse	ai4ren	/spouse/husband/wife/sweetheart/
+1	安静	an1jing4	quiet	an1jing4	/quiet/peaceful/calm/
+1	安排	an1pai2	arranged, to arrange	an1pai2	/to arrange/to plan/to set up/
+1	八	ba1	eight	ba1	/eight/8/
+1	把	ba3	to take	ba3	/(a measure word)/(marker for direct-object)/to hold/to contain/to grasp/to take hold of/
+1	把	ba3	to take	ba3	/(a measure word)/(marker for direct-object)/to hold/to contain/to grasp/to take hold of/
+1	爸爸	ba4ba	father	ba4ba	/(informal) father/
+1	吧	ba	suggestion	ba	/(modal particle indicating polite suggestion)/...right?/...OK?/
+1	白	bai2	white	bai2	/white/snowy/empty/blank/bright/clear/plain/pure/gratuitous/
+1	百	bai3	hundred	bai3	/hundred/
+1	摆	bai3	seam, to place	bai3	/pendulum/to place/to display/to swing/to oscillate/to show/to move/to exhibit/
+1	班	ban1	team,  class	ban1	/team/class/rank/squad/a work shift/a measure word/(a surname)/
+1	搬	ban1	move,  remove	ban1	/remove/transport/move/shift/
+1	半	ban4	half	ban4	/half/semi-/incomplete/(after a number) and a half/half/
+1	半天	ban4tian1	a long time	ban4tian1	/half of the day/a long time/quite a while/
+1	办	ban4	to do	ban4	/to do/to manage/to handle/to go about/to run/to set up/to deal with/
+1	办法	ban4fa3	means	ban4fa3	/means/method/way (to do something)/
+1	办公室	ban4gong1shi4	office	ban4gong1shi4	/office/
+1	帮助	bang1zhu4	assistance, to help	bang1zhu4	/assistance/aid/to help/to assist/
+1	饱	bao3	satisfied, to eat till full	bao3	/to eat till full/satisfied/
+1	抱	bao4	surround, to hold	bao4	/to hold/to carry (in one's arms)/to hug or embrace/surround/cherish/
+1	报	bao4	report, to announce	bao4	/to announce/to inform/report/newspaper/recompense/revenge/
+1	杯	bei1	cup	bei1	/cup/a measure word/
+1	杯子	bei1zi	cup	bei1zi	/cup/glass/
+1	北	bei3	north	bei3	/north/
+1	北边	bei3bian1	the northern side / area	bei3bian1	/(n) location to the north/
+1	倍	bei4	fold, VERB	bei4	/(two, three, etc) -fold/times (multiplier)/double/to increase or multiply/
+1	被	bei4	to cover	bei4	/by (marker for passive-voice sentences or clauses)/quilt/blanket/to cover/to wear/
+1	本	ben3	this, Bin	ben3	/roots or stems of plants/origin/source/this/the current/root/foundation/basis/(a measure word)/
+1	本子	ben3zi	book	ben3zi	/book/notebook/edition/
+1	比	bi3	ratio, to compare	bi3	/(particle used for comparison and "-er than")/to compare/to contrast/to gesture (with hands)/ratio/
+1	比较	bi3jiao4	to compare, comparatively	bi3jiao4	/compare/contrast/fairly/comparatively/relatively/quite/rather/
+1	比赛	bi3sai4	competition	bi3sai4	/[athletic or other] competition/match/
+1	笔	bi3	pen, to write	bi3	/pen/pencil/writing brush/to write or compose/the strokes of Chinese characters/
+1	必须	bi4xu1	to need, must	bi4xu1	/to have to/must/
+1	边	bian1	side	bian1	/side/edge/margin/border/boundary/
+1	变	bian4	change, to change	bian4	/to change/to become different/to transform/to vary/rebellion/
+1	变成	bian4cheng2	to change into	bian4cheng2	/to change into/to turn into/to become/
+1	变化	bian4hua4	change, to change	bian4hua4	/change/vary/
+1	遍	bian4	a time	bian4	/a time/everywhere/turn/all over/one time/
+1	表	biao3	distribution, to watch	biao3	/surface/exterior/to watch/to show/express/an example/a list or table/a meter/a watch/chart/external/
+1	表示	biao3shi4	to show	biao3shi4	/to express/to show/to express/to say/to state/to indicate/
+1	表现	biao3xian4	expression, to show off	biao3xian4	/expression/manifestation/show/display/manifest/to show (off)/to display/performance (at work etc.)/
+1	表演	biao3yan3	performance, to perform	biao3yan3	/perform/act/play/show/performance/exhibition/demonstrate/
+1	表扬	biao3yang2	to praise	biao3yang2	/to praise/to commend/
+1	别	bie2	to leave, don't	bie2	/leave/depart/separate/distinguish/classify/other/another/do not/must not/to pin/
+1	别的	bie2de		bie2de	/else/other/
+1	别人	bie2ren	other people	bie2ren2	/other people/others/other person/
+1	病	bing4	ailment	bing4	/ailment/sickness/illness/disease/fall ill/sick/defect/
+1	不错	bu2cuo4	not bad	bu4cuo4	/correct/right/not bad/pretty good/
+1	不但	bu2dan4	not only	bu4dan4	/not only (... but also...)/
+1	不要	bu2yao4	not to want, must not	bu4yao4	/don't!/must not/
+1	不用	bu2yong4	need not	bu4yong4	/need not/
+1	不	bu4	no, not	bu4	/(negative prefix)/not/no/
+1	不久	bu4jiu3	not long after	bu4jiu3	/not long (after)/before too long/soon/soon after/
+1	不如	bu4ru2	not equal to	bu4ru2	/not equal to/not as good as/inferior to/it would be better to/
+1	不同	bu4tong2	difference, to be different	bu4tong2	/different/distinct/not the same/not alike/
+1	布	bu4	diffuse, to declare	bu4	/diffuse/extend/notify//to declare/to announce/to spread/to make known/spread/(cotton) cloth/
+1	部分	bu4fen	part, some	bu4fen	/part/share/section/piece/
+1	擦	ca1	rubbing brush stroke in painting, to wipe	ca1	/to wipe/to erase/rubbing (brush stroke in painting)/to clean/to polish/
+1	才	cai2	ability, then	cai2	/ability/talent/endowment/gift/an expert/only (then)/only if/just//just/not until/
+1	菜	cai4	dish	cai4	/dish (type of food)/vegetables/
+1	参观	can1guan1	to inspect	can1guan1	/to look around/to inspect/visit and observe/
+1	参加	can1jia1	to participate	can1jia1	/to participate/to take part/to join/
+1	操场	cao1chang3	playground	cao1chang3	/playground/sports field/
+1	草	cao3	grass	cao3	/grass/straw/draft (of a document)/careless/rough/manuscript/hasty/
+1	层	ceng2	floor	ceng2	/a measure word for layers/laminated/repeated/floor/story (of a building)/layer/(math.) sheaf/
+1	茶	cha2	tea	cha2	/tea/tea plant/
+1	查	cha2	to investigate	cha2	/to research/to check/to investigate/to examine/to refer to/to search/
+1	差	cha4	difference, to differ	cha4	/different/short of/poor/to lack/
+1	常	chang2	always	chang2	/always/ever/often/frequently/common/general/constant/
+1	常常	chang2chang2	frequently	chang2chang2	/frequently/usually/often/
+1	长	chang2	length, director	chang2	/length/long/forever/always/constantly/
+1	场	chang3	courtyard	chang3	/a courtyard/open space/place/field/a measure word/(a measure word, used for sport or recreation)/
+1	唱	chang4	sing, to call loudly	chang4	/sing/to call loudly/to chant/
+1	朝	chao2	North Korea, to face	chao2	/to face/towards/facing/direct/a dynasty/the imperial court/(abbr.) Korea, esp. N. Korea/
+1	车	che1	car	che1	/car/a vehicle/machine/to shape with a lathe/
+1	车站	che1zhan4	bus station	che1zhan4	/(bus) station/
+1	城	cheng2	city walls	cheng2	/city walls/city/town/
+1	城市	cheng2shi4	city, urban	cheng2shi4	/city/town/
+1	成	cheng2	to become, as	cheng2	/finish/complete/accomplish/become/turn into/win/succeed/one tenth/
+1	成绩	cheng2ji1	result	cheng2ji1	/result/score/mark/achievement//performance/
+1	吃	chi1	to eat	chi1	/eat/eradicate/destroy/receive//eat/
+1	迟到	chi2dao4	to arrive late	chi2dao4	/to arrive late/
+1	抽	chou1	to take out	chou1	/to draw out/to smoke (cigarettes)/to pump/
+1	出	chu1	to go out	chu1	/to go out/to come out/to occur/to produce/to go beyond/to rise/to put forth/to occur/to happen/(a measure word for dramas, plays, or operas)/
+1	出发	chu1fa1	to start out	chu1fa1	/to start out/to set off/
+1	出来	chu1lai2	to come out	chu1lai	/to come out/to emerge/
+1	出去	chu1qu4	to go out	chu1qu4	/(v) go out/
+1	出现	chu1xian4	appearance, to appear	chu1xian4	/to appear/to arise/to emerge/
+1	出租汽车	chu1zu1qi4che1	taxi	chu1zu1qi4che1	/taxi/cab/
+1	除了_以外	chu2le_yi3wai4			
+1	穿	chuan1	to wear	chuan1	/to bore through/pierce/perforate/penetrate/pass through/to dress/to wear/to put on/to thread/
+1	船	chuan2	boat	chuan2	/a boat/vessel/ship/
+1	窗	chuang1	window	chuang1	/shutter/window/
+1	窗户	chuang1hu	window	chuang1hu	/window/
+1	床	chuang2	bed	chuang2	/bed/couch/(a measure word)/
+1	吹	chui1	blast, to blow	chui1	/to blow/blast/puff/boast/brag/end in failure/
+1	春	chun1	spring time	chun1	/spring (time)/gay/joyful/youthful/love/lust/life/
+1	春天	chun1tian1	spring season	chun1tian1	/spring (season)/
+1	磁带	ci2dai4	magnetic tape	ci2dai4	/magnetic tape/
+1	词	ci2	words	ci2	/works/phrases/classical Chinese poem/word/diction/
+1	词典	ci2dian3	dictionary	ci2dian3	/dictionary/
+1	次	ci4	time	ci4	/nth/number (of times)/order/sequence/next/second(ary)/(measure word)/
+1	从	cong2	from	cong2	/from/obey/observe/follow/
+1	从_到_	cong2_dao4_			
+1	从_起	cong2_qi3			
+1	从前	cong2qian2	formerly	cong2qian2	/previously/formerly/
+1	错	cuo4	mistake	cuo4	/mistake/error/blunder/fault/cross/uneven/wrong/
+1	错误	cuo4wu4	error, mistaken	cuo4wu4	/error/mistake/mistaken/
+1	打	da3	to hit	da3	/beat/strike/break/mix up/build/fight/fetch/make/tie up/issue/shoot/calculate/since/from/
+1	打算	da3suan4	plan, to plan	da3suan4	/to plan/to intend/to calculate/plan/intention/calculation/
+1	大	da4	big, greatly	da4	/big/huge/large/major/great/wide/deep/oldest/eldest/
+1	大概	da4gai4	roughly	da4gai4	/roughly/probably/rough/approximate/about/
+1	大家	da4jia1	everybody	da4jia1	/authority/everyone/
+1	大声	da4sheng1	volume, loud	da4sheng1	/loudly/loud/
+1	大学	da4xue2	university	da4xue2	/university/
+1	大夫	dai4fu	doctor	dai4fu	/doctor/
+1	戴	dai4	Daimler, to put on	dai4	/to put on/to respect/to bear/to support/wear (glasses, hat, gloves)/
+1	带	dai4	band, to carry	dai4	/band/belt/girdle/ribbon/area/zone/region/wear/carry/lead/bring/consists of/show/and/
+1	代表	dai4biao3	representative, to represent	dai4biao3	/representative/delegate/to represent/to stand for/
+1	但是	dan4shi4	but	dan4shi4	/but/however/
+1	当	dang1	to be	dang1	/to be/to act as/manage/withstand/when/during/ought/should/match equally/equal/same/obstruct/just at (a time or place)/on the spot/right/just at/
+1	当	dang1	to be	dang1	/to be/to act as/manage/withstand/when/during/ought/should/match equally/equal/same/obstruct/just at (a time or place)/on the spot/right/just at/
+1	当然	dang1ran2	natural, naturally	dang1ran2	/only natural/as it should be/certainly/of course/without doubt/
+1	刀	dao1	knife	dao1	/knife/
+1	倒	dao3	bankrupt, to fall	dao3	/to fall/to collapse/to topple/to change/to fail/bankrupt/
+1	到	dao4	to go, to get	dao4	/to (a place)/until (a time)/up to/to go/to arrive/
+1	道	dao4	direction, to say	dao4	/direction/way/method/road/path/principle/truth/reason/skill/method/Tao (of Taoism)/a measure word/to say/to speak/to talk/
+1	道理	dao4li3	reason	dao4li3	/reason/argument/sense/principle/basis/justification/
+1	得	de2	to have to	de2	/obtain/get/gain/proper/suitable/proud/contented/allow/permit/ready/finished/
+1	得到	de2dao4	to get	de2dao4	/to get/to obtain/to receive/
+1	的	de		de	/(possessive particle)/of/
+1	地	de		de	/(subor. part. adverbial)/-ly/
+1	得	de	to have to	de	/a sentence particle used after a verb to show effect/degree or possibility/
+1	得很	dehen3		dehen3	/very (much, good etc.)/
+1	得	dei3	to have to	dei3	/to have to/must/ought to/to need to/
+1	灯	deng1	lamp	deng1	/lamp/light/
+1	等	deng3	and other, OTHR	deng3	/class/rank/grade/equal to/same as/wait for/await/et cetera/and so on/
+1	等	deng3	and other, OTHR	deng3	/class/rank/grade/equal to/same as/wait for/await/et cetera/and so on/
+1	低	di1	to lower, low	di1	/to lower (one's head)/to let droop/to hang down/low/to incline/beneath/low/
+1	地	di4		di4	/earth/ground/field/place/land/
+1	地方	di4fang	place	di4fang	/area/place/local/
+1	第	di4	the	di4	/(prefix before a number, for ordering numbers, e.g. "first", "number two", etc)/
+1	弟弟	di4di	younger brother	di4di	/younger brother/
+1	点	dian3	point, to light	dian3	/(downwards-right convex character stroke)/o'clock/(a measure word)/point/dot/(decimal) point)/
+1	点	dian3	point, to light	dian3	/(downwards-right convex character stroke)/o'clock/(a measure word)/point/dot/(decimal) point)/
+1	点	dian3	point, to light	dian3	/(downwards-right convex character stroke)/o'clock/(a measure word)/point/dot/(decimal) point)/
+1	点心	dian3xin	light refreshments	dian3xin1	/light refreshments/pastry/
+1	点钟	dian3zhong1		dian3zhong1	/(indicating time of day) o'clock/
+1	电	dian4	electricity, electric	dian4	/electric/electricity/electrical/
+1	电车	dian4che1	trolleybus	dian4che1	/trolleybus/
+1	电灯	dian4deng1	electric light	dian4deng1	/electric light/
+1	电话	dian4hua4	telephone, to telephone	dian4hua4	/telephone/phone call/
+1	电视	dian4shi4	television	dian4shi4	/television/TV/
+1	电影	dian4ying3	movie	dian4ying3	/movie/film/
+1	掉	diao4	fall, to drop	diao4	/to drop/to fall/
+1	丢	diu1	lose, to lose	diu1	/to lose/to put aside/to throw/
+1	东	dong1	east	dong1	/east/
+1	东边	dong1bian1	the east side	dong1bian1	/(n) eastern side/
+1	东西	dong1xi	thing	dong1xi	/thing/person/
+1	冬	dong1	winter	dong1	/winter/
+1	冬天	dong1tian1	winter	dong1tian1	/winter/
+1	懂	dong3	understand, to understand	dong3	/to understand/to know/
+1	动	dong4	to move	dong4	/to use/to act/to move/to change/
+1	动物	dong4wu4	animal	dong4wu4	/animal/
+1	都	dou1	all, ADJT	dou1	/all/both (if two things are involved)/entirely (due to)each/even/already/
+1	读	du2	to read	du2	/to read/to study/
+1	短	duan3	lack, short	duan3	/lack/short/
+1	锻炼	duan4lian4	take exercise, to do physical training	duan4lian4	/to do physical training/
+1	段	duan4		duan4	/(surname)/paragraph/section/segment/
+1	对	dui4	couple, to oppose	dui4	/couple/pair/to be opposite/to oppose/to face/for/to/correct (answer)/to answer/to reply/to direct (towards sth)/right/
+1	对	dui4	couple, to oppose	dui4	/couple/pair/to be opposite/to oppose/to face/for/to/correct (answer)/to answer/to reply/to direct (towards sth)/right/
+1	对不起	dui4buqi3	I'm sorry	dui4bu4qi4	/I'm sorry/pardon me/forgive me/
+1	顿	dun4		dun4	/a time/jerk/stop/meal/bout/spell/(measure for beating)/
+1	多	duo1	much, many	duo1	/many/much/a lot of/numerous/multi-/
+1	多	duo1	much, many	duo1	/many/much/a lot of/numerous/multi-/
+1	多	duo1	much, many	duo1	/many/much/a lot of/numerous/multi-/
+1	多么	duo1me	how		
+1	多少	duo1shao	how much, to some extent	duo1shao3	/how much/how many/which (number)/
+1	饿	e4	hungry, to be hungry	e4	/to be hungry/hungry/
+1	而且	er2qie3	also	er2qie3	/not only ... but also ..../... as well as .../moreover/in addition/
+1	儿子	er2zi	son	er2zi	/son/
+1	二	er4	two	er4	/two/
+1	发	fa1	hair, to issue	fa1	/to send out/to show (one's feeling)/to issue/to develop/
+1	发烧	fa1shao1	to have a fever, feverish	fa1shao1	/have a high temperature (from illness)/have a fever/
+1	发生	fa1sheng1	to happen	fa1sheng1	/to happen/to occur/to take place/
+1	发现	fa1xian4	discovery, to discover	fa1xian4	/to find/to discover/
+1	发展	fa1zhan3	development, to develop	fa1zhan3	/development/growth/to develop/to grow/to expand/
+1	法语	fa3yu3	French language	fa3yu3	/French (language)/
+1	翻	fan1	flip, to flip	fan1	/flit about/translate/turn over/
+1	翻译	fan1yi4	translation, to translate	fan1yi4	/translate/
+1	反对	fan3dui4	opposition, to oppose	fan3dui4	/to fight against/to oppose/to be opposed to/opposition/
+1	饭	fan4	food	fan4	/food/cuisine/cooked rice/meal/
+1	饭店	fan4dian4	restaurant	fan4dian4	/restaurant/
+1	方便	fang1bian4	convenient, convenient	fang1bian4	/convenient/
+1	方法	fang1fa3	method	fang1fa3	/method/way/means/
+1	方面	fang1mian4	side	fang1mian4	/respect/aspect/field/side/
+1	方向	fang1xiang4	direction	fang1xiang4	/direction/orientation/path to follow/
+1	房间	fang2jian1	room	fang2jian1	/room/
+1	访问	fang3wen4	to visit	fang3wen4	/pay a visit (to)/to access/to interview/
+1	放	fang4	to release	fang4	/to release/to free/to let go/to put/to place/to let out/
+1	放假	fang4jia4	to go on vacation	fang4jia4	/to have a holiday or vacation/
+1	非常	fei1chang2	unusually	fei1chang2	/unusual/extraordinary/extreme/very/exceptional/
+1	飞	fei1	to fly	fei1	/to fly/
+1	飞机	fei1ji1	airplane	fei1ji1	/airplane/
+1	分	fen1	minute, to divide	fen1	/to divide/minute/(a measure word)/(a unit of length = 0.33 centimeter)/
+1	分	fen1	minute, to divide	fen1	/to divide/minute/(a measure word)/(a unit of length = 0.33 centimeter)/
+1	_分之_	_fen1zhi1_			
+1	分钟	fen1zhong1	minute	fen1zhong1	/minute/
+1	丰富	feng1fu4	to enrich, rich	feng1fu4	/rich/plentiful/
+1	封	feng1	to confer	feng1	/to confer/to grant/to seal/(a measure word)/
+1	风	feng1	wind	feng1	/wind/news/style/custom/manner/
+1	夫人	fu1ren	lady	fu1ren	/lady/madam/Mrs./
+1	服务	fu2wu4	service, to serve	fu2wu4	/to serve/service/
+1	服务员	fu2wu4yuan2	waiter	fu2wu4yuan2	/waiter/waitress/server/
+1	辅导	fu3dao3	to coach	fu3dao3	/to coach/to tutor/to give advise (in study)/
+1	复习	fu4xi2	reviewal, to revise	fu4xi2	/to revise/to review/
+1	复杂	fu4za2	complex	fu4za2	/complicated/complex/
+1	父亲	fu4qin1	father	fu4qin1	/father/
+1	负责	fu4ze2	to be responsible, responsible	fu4ze2	/in charge of/to be responsible for (sth)/
+1	附近	fu4jin4	in the vicinity	fu4jin4	/(in the) vicinity/nearby/neighboring/next to/
+1	该	gai1	to deserve, should	gai1	/that/the above-mentioned/most likely/to deserve/should/ought to/owe/
+1	改	gai3	fasification, to change	gai3	/to change/to alter/to transform/to correct/
+1	改变	gai3bian4	change, to change	gai3bian4	/to change/to alter/to transform/
+1	干净	gan1jing4	cleanlily		
+1	感到	gan3dao4	think that, to feel	gan3dao4	/to feel/to sense/to have the feeling that/think that/to move/to affect/
+1	感冒	gan3mao4	common cold, to catch cold	gan3mao4	/to catch cold/(common) cold/
+1	感谢	gan3xie4	thanks, to express thanks	gan3xie4	/(express) thanks/gratitude/grateful/thankful/thanks/
+1	敢	gan3	to dare	gan3	/dare/
+1	干	gan4	dry, to concern	gan4	/to work/to do/to manage//manage/stem/
+1	干部	gan4bu4	cadre	gan4bu4	/a cadre (i.e. manager, staff, officer, etc.)/
+1	刚	gang1	hard, recently	gang1	/hard/firm/strong/just/barely/exactly/
+1	刚才	gang1cai2	just	gang1cai2	/(just) a moment ago/
+1	钢笔	gang1bi3	fountain pen	gang1bi3	/fountain pen/
+1	高	gao1	high, higher	gao1	/high/tall/
+1	高兴	gao1xing4	happy	gao1xing4	/happy/glad/willing (to do sth)/in a cheerful mood/
+1	搞	gao3	to do	gao3	/to do/to make/to go in for/to set up/to get hold of/to take care of/
+1	告诉	gao4su	to tell	gao4su	/to tell/to inform/to let know/
+1	哥哥	ge1ge	older brother	ge1ge	/older brother/
+1	歌	ge1ge	song	ge1	/song/
+1	个	ge4		ge4	/(a measure word)/individual/
+1	各	ge4	each	ge4	/each/every/
+1	各种	ge4zhong3	all kinds, every kind of	ge4zhong3	/every kind of/all kinds of/various kinds/
+1	给	gei3	to give	gei3	/to/for/for the benefit of/to give/to allow/to do sth (for sb)/(passive particle)/
+1	根	gen1	base	gen1	/radical (chem.)/root/basis/
+1	跟	gen1	heel, to follow	gen1	/to follow/to go with/heel/with/and/
+1	更	geng4	more, to change	geng4	/more/even more/further/still/still more/
+1	工厂	gong1chang3	factory	gong1chang3	/factory/
+1	工人	gong1ren2	worker	gong1ren2	/worker/
+1	工业	gong1ye4	industry	gong1ye4	/industry/
+1	工作	gong1zuo4	work, to work	gong1zuo4	/job/work/construction/work/task/
+1	公共汽车	gong1gong4qi4che1	bus	gong1gong4qi4che1	/bus/
+1	公斤	gong1jin1	kilogram	gong1jin1	/kilogram/
+1	公里	gong1li3	kilometer	gong1li3	/kilometer/axiom (logic)/
+1	公园	gong1yuan2	park	gong1yuan2	/a public park/
+1	够	gou4	to reach	gou4	/to reach/to be enough/
+1	姑娘	gu1niang	girl	gu1niang	/girl/
+1	故事	gu4shi	story	gu4shi4	/narrative/story/tale/
+1	刮	gua1	blow of the wind, to scrape	gua1	/to scrape/to blow//blow (of the wind)/
+1	挂	gua4	hang, to hang	gua4	/hang/suspend//to hang/to put up/to suspend/
+1	关	guan1	to close, related	guan1	/(surname)/mountain pass/to close/to shut/to turn off/to concern/to involve/
+1	关系	guan1xi	relations, to concern	guan1xi	/relation/relationship/to concern/to affect/to have to do with/relations/guanxi/
+1	关心	guan1xin1	attention, to care about	guan1xin1	/caring/concerned/
+1	馆	guan3	house	guan3	/house/establishment/
+1	广播	guang3bo1	broadcast	guang3bo1	/broadcast/
+1	贵	gui4	expensive	gui4	/expensive/noble/your (name)/precious/
+1	贵姓	gui4xing4	what is your name	gui4xing4	/what is your name?/
+1	国	guo2	country	guo2	/country/state/nation/
+1	国家	guo2jia1	nation, national	guo2jia1	/country/nation/
+1	过	guo4	to pass	guo4	/(past tense marker)/to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to get along/(surname)/excessively/too-/
+1	过	guo4	to pass	guo4	/(past tense marker)/to cross/to go over/to pass (time)/to celebrate (a holiday)/to live/to get along/(surname)/excessively/too-/
+1	过来	guo4lai2	to manage	guo4lai2	/to manage/to handle/to be able to take care of/
+1	过去	guo4qu4	in the past, to be past	guo4qu	/(in the) past/former/previous/to go over/to pass by/
+1	过去	guo4qu4	in the past, to be past	guo4qu	/(in the) past/former/previous/to go over/to pass by/
+1	哈哈	ha1ha1	haw-haw	ha1ha1	/(an onomatopoeia for laughing)/
+1	还	hai2	to return, still	hai2	/also/in addition/more/still/else/still/yet/(not) yet/
+1	还是	hai2shi4	still to be, or	hai2shi4	/or/still/nevertheless/
+1	孩子	hai2zi	child	hai2zi	/child/
+1	海	hai3	ocean	hai3	/ocean/sea/
+1	寒假	han2jia4	winter vacation	han2jia4	/winter vacation/
+1	喊	han3	call, to shout	han3	/call/cry/to shout/
+1	汉语	han4yu3	Chinese language	han4yu3	/Chinese language/
+1	汉字	han4zi4	Chinese character	han4zi4	/Chinese character/
+1	好	hao3	good, good	hao3	/good/well/
+1	好	hao3	good, good	hao3	/good/well/
+1	好吃	hao3chi1	deliciousness	hao3chi1	/tasty/delicious/
+1	好处	hao3chu	benefit	hao3chu	/benefit/advantage/
+1	好看	hao3kan4	good-looking	hao3kan4	/good-looking/
+1	好像	hao3xiang4	as if	hao3xiang4	/(v) as if; seem like/
+1	号	hao4	number	hao4	/day of a month/(suffix used after) name of a ship/(ordinal) number/
+1	喝	he1	my goodness, to drink	he1	/my goodness/to drink/
+1	和	he2	to blend, and	he2	/and/together with/with/peace/harmony/union/
+1	合适	he2shi4	suitable	he2shi4	/suitable/fit/decent/
+1	河	he2	river	he2	/river/
+1	黑	hei1	black	hei1	/black/dark/
+1	黑板	hei1ban3	blackboard	hei1ban3	/blackboard/
+1	很	hen3	really	hen3	/very/extremely/
+1	红	hong2	bonus, red	hong2	/bonus/popular/red/revolutionary/
+1	后	hou4	after	hou4	/empress/queen/surname//back/behind/rear/afterwards/after/later/
+1	后边	hou4bian1	behind	hou4bian1	/behind/
+1	忽然	hu1ran2	suddenly	hu1ran2	/suddenly/all of a sudden/
+1	湖	hu2	lake	hu2	/lake/
+1	互相	hu4xiang1	each other	hu4xiang1	/each other/mutually/mutual/
+1	花	hua1	flower, to spend	hua1	/flower/blossom/to spend (money, time)/fancy pattern/
+1	花	hua1	flower, to spend	hua1	/flower/blossom/to spend (money, time)/fancy pattern/
+1	画	hua4	picture, to draw	hua4	/draw/picture/painting/
+1	画儿	hua4r	picture	huar4	/picture/drawing/painting/
+1	化学	hua4xue2	chemistry	hua4xue2	/chemistry/chemical/
+1	话	hua4	dialect, VERB	hua4	/dialect/language/spoken words/speech/talk/words/conversation/what someone said/
+1	坏	huai4	bad, to ruin	huai4	/bad/spoiled//bad/
+1	欢迎	huan1ying2	welcome, to welcome	huan1ying2	/to welcome/welcome/
+1	还	huan2	to return, still	huan2	/(surname)/pay back/return/
+1	换	huan4	to change	huan4	/change/exchange/
+1	黄	huang2	yellow	huang2	/(surname)/sulfur/yellow/
+1	回	hui2	to return, to curve	hui2	/(a measure word for matters or actions) a time/to circle/to go back/to turn around/to answer/to return/to revolve/Islam/
+1	回	hui2	to return, to curve	hui2	/(a measure word for matters or actions) a time/to circle/to go back/to turn around/to answer/to return/to revolve/Islam/
+1	回答	hui2da2	to answer	hui2da2	/reply/answer/
+1	回来	hui2lai2	return	hui2lai	/return/come back/
+1	回去	hui2qu4	return	hui2qu	/return/go back/
+1	会	hui4	meeting, to meet	hui4	/can/be possible/be able to/to assemble/to meet/to gather/to see/union/group/association/
+1	会	hui4	meeting, to meet	hui4	/can/be possible/be able to/to assemble/to meet/to gather/to see/union/group/association/
+1	会话	hui4hua4	Dialog	hui4hua4	/conversation/
+1	活	huo2	alive, to live	huo2	/to live/alive/living/work/workmanship/
+1	活儿	huo2r		huor	/(n) work (typically used only in speech)/
+1	活动	huo2dong4	activity	huo2dong4	/activity/exercise/behavior/
+1	火车	huo3che1	train	huo3che1	/train/
+1	或者	huo4zhe3	or	huo4zhe3	/or/possibly/maybe/perhaps/
+1	基本	ji1ben3	basic, basically	ji1ben3	/basic/fundamental/main/
+1	基础	ji1chu3	base, fundamental	ji1chu3	/base/foundation/basis/
+1	机场	ji1chang3	airport	ji1chang3	/airport/management/to manage/to administer/
+1	机会	ji1hui4	opportunity	ji1hui4	/opportunity/chance/occasion/
+1	机器	ji1qi4	machine, mechanical	ji1qi4	/machine/
+1	鸡	ji1	fowl	ji1	/fowl/chicken/
+1	鸡蛋	ji1dan4	egg	ji1dan4	/egg/
+1	_极了	_ji2le			
+1	集合	ji2he2	congregation	ji2he2	/congregation/gather/set (set theory)/
+1	急	ji2	to quicken, worried	ji2	/hurried/worried/
+1	挤	ji3	jostle, to squeeze	ji3	/crowded/to squeeze/
+1	几	ji3	several	ji3	/a few/how many//how much/how many/several/a few/
+1	技术	ji4shu4	technology, technological	ji4shu4	/technology/technique/skill/
+1	寄	ji4	lodge at, to mail	ji4	/lodge at/to mail/to send/to entrust/to depend/
+1	计划	ji4hua4	plan, to plan	ji4hua4	/plan/project/program/to plan/to map out/
+1	记	ji4	mark, to remember	ji4	/to remember/to note/mark/sign/to record/
+1	继续	ji4xu4	to continue	ji4xu4	/to continue/to proceed with/to go on with/
+1	家	jia1	home	jia1	/furniture/tool//-ist/-er/-ian/home/family/a person engaged in a certain art or profession/
+1	家庭	jia1ting2	family	jia1ting2	/family/household/
+1	加	jia1	plus, to add	jia1	/to add/plus/
+1	坚持	jian1chi2	to support, firmly	jian1chi2	/to continue upholding/to remain committed to/persistence/to persist/to uphold/to insist on/persevere/
+1	间	jian1	between	jian1	/between/among/space/(measure word)/
+1	检查	jian3cha2	inspection, to inspect	jian3cha2	/inspection/examine/
+1	简单	jian3dan1	simple	jian3dan1	/simple/not complicated/
+1	见	jian4	bashful, to see	jian4	/to see/to meet/to appear (to be sth)/to interview/
+1	见面	jian4mian4	meeting, to meet	jian4mian4	/meet/see (someone)/
+1	件	jian4	item	jian4	/a measure word for thing, clothes, item/
+1	健康	jian4kang1	health, healthy	jian4kang1	/health/
+1	建设	jian4she4	construction, to construct	jian4she4	/to build/to construct/construction/constructive/
+1	将来	jiang1lai2	the future	jiang1lai2	/(the) future/
+1	江	jiang1	river	jiang1	/river/
+1	讲	jiang3	speech, to talk	jiang3	/to talk/speech/to speak/to tell/to explain/
+1	交	jiao1	to deliver	jiao1	/to deliver/to turn over/to make friends/to intersect (lines)/to pay (money)/
+1	教	jiao1	teach	jiao1	/teach/
+1	脚	jiao3	a kick	jiao3	/a kick/foot/role/
+1	角	jiao3	angle	jiao3	/angle/horn/horn-shaped/
+1	饺子	jiao3zi		jiao3zi	/dumpling/
+1	教室	jiao4shi4	classroom	jiao4shi4	/classroom/
+1	教育	jiao4yu4	education, to educate	jiao4yu4	/to educate/to teach/education/
+1	叫	jiao4	to call, to be called	jiao4	/to (be) call(ed)/
+1	叫	jiao4	to call, to be called	jiao4	/to (be) call(ed)/
+1	接	jie1	connecting, to extend	jie1	/to extend/to connect/to receive/to join/
+1	接着	jie1zhe		jie1zhe	/continue/went on to (do something)/to follow/to carry on/then/after that/
+1	街	jie1	street	jie1	/street/
+1	节	jie2	festival	jie2	/festival/section/segment/point/part/to economize/to save/temperate/
+1	节目	jie2mu4	program	jie2mu4	/program/item (on a program)/
+1	节日	jie2ri4	holiday	jie2ri4	/holiday/festival/
+1	结果	jie2guo3	result	jie2guo3	/outcome/result/
+1	结束	jie2shu4	to finish	jie2shu4	/termination/to finish/to end/to conclude/to close/
+1	解决	jie3jue2	resolution, to resolve	jie3jue2	/to settle (a dispute)/resolve/to resolve/to solve/
+1	姐姐	jie3jie	older sister	jie3jie	/older sister/
+1	借	jie4	excuse, to lend	jie4	/to lend/to borrow/excuse/pretext/by means of/
+1	介绍	jie4shao4	introduction, to introduce	jie4shao4	/to present/introduction/to introduce/
+1	斤	jin1	catty	jin1	/catty/weight equal to 0.5 kg/
+1	今年	jin1nian2	this year	jin1nian2	/this year/
+1	今天	jin1tian1	today	jin1tian1	/today/at the present/now/
+1	紧	jin3	tight, tightly	jin3	/tight/nervous/strict/
+1	紧张	jin3zhang1	tension, tense	jin3zhang1	/critical/tension/nervous/intense/strained/tense/
+1	进	jin4	advance, to enter	jin4	/advance/enter/to come in/
+1	进来	jin4lai2	incoming	jin4lai2	/(v) come in/
+1	进去	jin4qu4	to enter	jin4qu4	/(v) go in/
+1	进行	jin4xing2	to advance	jin4xing2	/to advance/to conduct/underway/in progress/to do/to carry out/to carry on/to conduct/to execute/
+1	近	jin4	near, OTHR	jin4	/near/close (to)/approximately/
+1	精彩	jing1cai3	wonderful	jing1cai3	/brilliant/splendid/
+1	精神	jing1shen2	spirit	jing1shen2	/vigor/vitality/drive/spiritual/mental/psychological/
+1	经常	jing1chang2	everyday	jing1chang2	/day to day/everyday/daily/frequently/constantly/regularly/often/
+1	经过	jing1guo4		jing1guo4	/to pass/to go through/process/course/
+1	经济	jing1ji4	economy, economic	jing1ji4	/economy/economic/
+1	经验	jing1yan4	experience, to experience	jing1yan4	/to experience/experience/
+1	久	jiu3	long time	jiu3	/(long) time/(long) duration of time/
+1	九	jiu3	nine	jiu3	/nine/9/
+1	酒	jiu3	wine	jiu3	/wine/liquor/spirits/
+1	旧	jiu4	old	jiu4	/old (opposite of new)/former/
+1	就	jiu4	at once	jiu4	/at once/then/right away/only/(emphasis)/to approach/to move towards/to undertake/
+1	橘子	ju2zi	orange	ju2zi	/orange/
+1	举	ju3	to lift	ju3	/to lift/to hold up/to cite/to enumerate/to act/to raise/to choose/to elect/
+1	句	ju4	sentence	ju4	/(a measure word, for sentences or lines of verse)/sentence/
+1	句子	ju4zi	sentence	ju4zi	/sentence/
+1	觉得	jue2de	to think	jue2de	/to think/to feel/
+1	决定	jue2ding4	resolution, to decide	jue2ding4	/to decide (to do something)/to determine/to resolve/
+1	咖啡	ka1fei1	coffee	ka1fei1	/coffee/
+1	卡车	ka3che1	truck	ka3che1	/truck/
+1	开	kai1	to open	kai1	/open/operate (vehicle)/start/
+1	开始	kai1shi3	beginning, to begin	kai1shi3	/begin/beginning/start/initial/
+1	开玩笑	kai1wan2xiao4	badinage, to play a joke	kai1wan2xiao4	/to play a joke/to make fun of/to joke/
+1	开学	kai1xue2	school opens	kai1xue2	/school opens/new term begins/
+1	看	kan4	to see	kan4	/it depends/think/to see/to look at/
+1	看病	kan4bing4	see a doctor	kan4bing4	/see a doctor/see a patient/
+1	看见	kan4jian4	to see	kan4jian4	/to see/to catch sight of/
+1	考试	kao3shi4	exam, to test	kao3shi4	/exam/
+1	棵	ke1		ke1	/M for plants/
+1	科学	ke1xue2	science	ke1xue2	/science/scientific knowledge/scientific/
+1	咳嗽	ke2sou	cough, to cough	ke2sou	/to cough/
+1	可能	ke3neng2	possibility, might	ke3neng2	/might (happen)/possible/probable/possibility/probability/
+1	可是	ke3shi4	but, but	ke3shi4	/but/however/
+1	可以	ke3yi3	can	ke3yi3	/can/may/possible/able to/
+1	渴	ke3	thirsty	ke3	/thirsty/
+1	克	ke4	gram, VERB	ke4	/gram/subdue/to restrain/to overcome//subdue/
+1	刻	ke4	quarter, to carve	ke4	/quarter (hour)/(a measure word)/to carve/to engrave/to cut/oppressive/
+1	客气	ke4qi	polite	ke4qi4	/polite/
+1	课	ke4	class	ke4	/subject/class/lesson/
+1	课本	ke4ben3	textbook	ke4ben3	/textbook/
+1	课文	ke4wen2	text	ke4wen2	/text/
+1	空气	kong1qi4	air	kong1qi4	/air/atmosphere/
+1	口	kou3	mouth	kou3	/mouth/(a measure word)/
+1	口语	kou3yu3	spoken language	kou3yu3	/colloquial speech/spoken language/vernacular language/slander/gossip/
+1	哭	ku1	to cry	ku1	/to cry/to weep/
+1	苦	ku3	ADVB	ku3	/bitter/intensely/miserable/painful/
+1	块	kuai4	piece	kuai4	/yuan (unit of currency)/fast (of a watch)/swift/rapid/happy/joyful/soon/quick/(a measure word, for cloth, cake, soap)/
+1	快	kuai4	fast, quickly	kuai4	/fast/quick/swift/
+1	困难	kun4nan	difficulty, difficult	kun4nan	/(financial, etc.) difficulty/problem/issue/
+1	拉	la1	to pull	la1	/to pull/to play (string instruments)/to drag/to draw/
+1	啦	la		la	/(an auxiliary word performing the grammatical functions of mood)/fusion of le + a/
+1	来	lai2	to come	lai2	/to come/
+1	蓝	lan2	blue, blue	lan2	/blue/
+1	篮球	lan2qiu2	basketball	lan2qiu2	/basketball/
+1	劳动	lao2dong4	labour, to labour	lao2dong4	/(physical) labor/
+1	劳驾	lao2jia4		lao2jia4	/excuse me/
+1	老	lao3	old	lao3	/(a prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family to indicate affection or familiarity)/old (of people)/
+1	老师	lao3shi1	teacher	lao3shi1	/teacher/
+1	了	le		le	/(modal particle intensifying preceding clause)/(past tense marker)/
+1	累	lei4	tired	lei4	/implicate/tired/
+1	冷	leng3	cold	leng3	/cold/
+1	离	li2	distant from, to leave	li2	/to leave/to depart/to go away/from/
+1	离开	li2kai1	to leave	li2kai1	/to depart/to leave/
+1	里	li3	mile, in	li3	/inside/internal/interior//village/within/inside//Chinese mile/neighborhood/li, a Chinese unit of length = one-half kilometer/hometown/
+1	里	li3	mile, in	li3	/inside/internal/interior//village/within/inside//Chinese mile/neighborhood/li, a Chinese unit of length = one-half kilometer/hometown/
+1	里边	li3bian1		li3bian1	/(n) inside/
+1	礼物	li3wu4	gift	li3wu4	/gift/present/
+1	历史	li4shi3	history, historical	li4shi3	/history/
+1	利用	li4yong4	utility, to use	li4yong4	/exploit/make use of/to use/to take advantage of/to utilize/
+1	例如	li4ru2	for example	li4ru2	/for example/for instance/such as/
+1	立刻	li4ke4	immediately	li4ke4	/forthwith/immediate/prompt/promptly/straightway/thereupon/at once/
+1	俩	lia3		lia3	/(a numeral-measure word) two/both/
+1	联系	lian2xi4	connection, to contact	lian2xi4	/connection/contact/relation/contact/(in) touch (with)/to integrate/to link/
+1	连_都_	lian2_dou1			
+1	脸	lian3	face	lian3	/face/
+1	练习	lian4xi2	exercise	lian4xi2	/exercise/drill/
+1	凉快	liang2kuai	nice and cold	liang2kuai	/nice and cold/pleasantly cool/
+1	两	liang3	two	liang3	/both/two/ounce/some/a few/tael/
+1	辆	liang4		liang4	/(a measure word for vehicles)/
+1	亮	liang4	light	liang4	/light/bright/
+1	了	liao3		liao3	/to know/to understand/to know//clear/
+1	了解	liao3jie3	understanding, to understand	liao3jie3	/understand/come to understand/find out/
+1	零	ling2	zero	ling2	/remnant/zero/
+1	领导	ling3dao3	leader, to lead	ling3dao3	/lead/leading/to lead/leadership/
+1	留	liu2	leave message, to retain	liu2	/leave (message)/to retain/to stay/to remain/to keep/to preserve/
+1	留念	liu2nian4		liu2nian4	/keep as a souvenir/
+1	留学生	liu2xue2sheng1	exchange student	liu2xue2sheng1	/student studying abroad/(foreign) exchange student/
+1	流	liu2	to flow	liu2	/to flow/to spread/to circulate/to move/
+1	六	liu4	six	liu4	/six/
+1	楼	lou2	building	lou2	/house with more than 1 story/storied building/floor/
+1	路	lu4	road	lu4	/(surname)/road/path/way/
+1	录音	lu4yin1	sound recording, recorded	lu4yin1	/(sound) recording/
+1	旅行	lv3xing2	travel	lu:3xing2	/travel/
+1	绿	lv4	green	lu:4	/green/chlorine/
+1	乱	luan4	chaos	luan4	/in confusion/disorderly/
+1	妈妈	ma1ma	mama	ma1ma	/mama/mommy/
+1	麻烦	ma2fan	trouble	ma2fan	/trouble/troublesome/
+1	马	ma3	horse	ma3	/horse/horse chess piece/Surname/
+1	马上	ma3shang4	at once	ma3shang4	/at once/right away/immediately/
+1	嘛	ma	aahhh	ma	/(a modal particle)/
+1	吗	ma		ma	/(question tag)/
+1	买	mai3	to buy	mai3	/buy/
+1	卖	mai4	sale, to sell	mai4	/to sell/
+1	满	man3	Manchurian, to full	man3	/Manchurian/to fill/to fulfill/filled/packed/
+1	满意	man3yi4	satisfaction, to be satisfied	man3yi4	/to be satisfied/to be pleased/satisfied/pleased/
+1	慢	man4	slow	man4	/slow/
+1	忙	mang2	busy, busily	mang2	/busy/
+1	毛	mao2	hair	mao2	/hair/pore/fur/
+1	帽子	mao4zi	hat	mao4zi	/hat/cap/
+1	没	mei2	to end, not	mei2	/(negative prefix for verbs)/have not/not/
+1	没关系	mei2guan1xi	it doesn	mei2guan1xi	/it doesn't matter/
+1	没意思	mei2yi4si		mei2yi4si	/(idiom) unable to put forward an opinion; have no idea/(adj) not interesting; boring/(adj) not worth talking about/
+1	没有	mei2you3	not to have	mei2you3	/haven't/hasn't/doesn't exist/to not have/to not be/
+1	每	mei3	each	mei3	/each/every/
+1	妹妹	mei4mei	younger sister	mei4mei	/younger sister/
+1	门	men2	door	men2	/opening/door/gate/doorway/gateway/valve/switch/way to do something/knack/family/house/(religious) sect/school (of thought)/class/category/phylum or division (taxonomy)/
+1	门口	men2kou3	doorway	men2kou3	/doorway/gate/
+1	们	men	s	men	/(plural marker for pronouns and a few animate nouns)/
+1	米	mi3	meter	mi3	/(measure word) meter/rice/
+1	米饭	mi3fan4	cooked rice	mi3fan4	/(cooked) rice/
+1	面包	mian4bao1	bread	mian4bao1	/bread/
+1	面条儿	mian4tiao2r		mian4tiaor	/(n) noodles/
+1	民族	min2zu2	nation, national	min2zu2	/nationality/ethnic group/
+1	明年	ming2nian2	next year	ming2nian2	/next year/
+1	明天	ming2tian1	tomorrow	ming2tian1	/tomorrow/
+1	名字	ming2zi	name	ming2zi	/(a person's) name/
+1	母亲	mu3qin1	mother	mu3qin1	/mother (formal)/
+1	目前	mu4qian2	current, currently	mu4qian2	/at the present time/currently/
+1	拿	na2	to hold, to take	na2	/to hold/to seize/to catch/to apprehend/to take/
+1	哪	na3	which	na3	/how/which/
+1	哪里	na3li3	where	na3li	/where/wherever/
+1	那	na4	that, if that is the case	na4	/that/those/
+1	那	na4	that, if that is the case	na4	/that/those/
+1	那个	na4ge	that one	nei4ge4	/that one/
+1	那里	na4li	there	na4li	/there/that place/
+1	那么	na4me	that	na4me	/like that/in that way/or so/so/so very much/about/in that case/
+1	那么	na4me	that	na4me	/like that/in that way/or so/so/so very much/about/in that case/
+1	那些	na4xie1	those	na4xie1	/those/
+1	那样	na4yang4	that kind	na4yang4	/that kind/that sort/
+1	哪	na	which	na	/(final part. preceded by N)/
+1	呐	na4	battle cry	na4	/battle cry/
+1	南	nan2	south	nan2	/south/
+1	南边	nan2bian1		nan2bian1	/(n) location to the south/
+1	男	nan2	male	nan2	/male/
+1	难	nan2	problem, to have difficulty	nan2	/difficult (to...)/problem/difficulty/difficult/not good/
+1	呢	ne		ne	/(question particle)/
+1	内	nei4		nei4	/inside/inner/internal/within/interior/
+1	内容	nei4rong2	content	nei4rong2	/content/substance/details/
+1	能	neng2	to be able	neng2	/can/may/capable/energy/able/
+1	能够	neng2gou4	to be capable of	neng2gou4	/be capable of/can/is able/
+1	嗯	ng	a groaning sound	en1	/(a groaning sound)/
+1	你	ni3	you	ni3	/you/
+1	你们	ni3men	you	ni3men	/you (plural)/
+1	年	nian2	year, yearly	nian2	/year/
+1	年级	nian2ji2	grade	nian2ji2	/grade/
+1	年纪	nian2ji4	age	nian2ji4	/age/
+1	年轻	nian2qing1	young, young	nian2qing1	/young/
+1	念	nian4	read aloud, to read aloud	nian4	/read aloud//to read aloud/
+1	您	nin2	you	nin2	/you (formal)/
+1	牛	niu2	ox	niu2	/ox/cow/bull/
+1	牛奶	niu2nai3	milk	niu2nai3	/milk/
+1	农村	nong2cun1	village, rural	nong2cun1	/rural area/village/
+1	农民	nong2min2	peasant	nong2min2	/peasant/
+1	农业	nong2ye4	agriculture, agricultural	nong2ye4	/agriculture/farming/
+1	努力	nu3li4	great effort, to strive for	nu3li4	/great effort/strive/try hard/
+1	女	nv3	female	nu:3	/female/woman/
+1	女儿	nv3er2	daughter	nu:3er2	/daughter/
+1	暖和	nuan3huo	warm	nuan3huo2	/warm/nice and warm/
+1	爬	pa2	crawl	pa2	/crawl/climb/
+1	怕	pa4	to be afraid	pa4	/to be afraid/to fear/
+1	拍	pai1	pat, to clap	pai1	/to clap/to pat/to beat/to hit/to slap/to take (a picture)/
+1	排球	pai2qiu2	volleyball	pai2qiu2	/volleyball/
+1	派	pai4	clique, to dispatch	pai4	/clique/school/group/faction/to dispatch/
+1	旁边	pang2bian1	lateral	pang2bian1	/lateral/side/
+1	跑	pao3	to run	pao3	/to run/to escape/
+1	跑步	pao3bu4	double-time, to walk quickly	pao3bu4	/to walk quickly/to march/to run/
+1	朋友	peng2you	friend	peng2you	/friend/
+1	碰	peng4	to touch	peng4	/to touch/to meet with/to bump/
+1	批评	pi1ping2	criticism, to criticize	pi1ping2	/to criticize/criticism/
+1	啤酒	pi2jiu3	beer	pi2jiu3	/beer/
+1	篇	pian1	sheet	pian1	/sheet/piece of writing/(a measure word)/chapter/article/
+1	便宜	pian2yi	inexpensive, to be inexpensive	pian2yi	/inexpensive/
+1	片	pian4	sheet	pian4	/a slice/piece/flake/thin/slice/
+1	漂亮	piao4liang	pretty	piao4liang	/pretty/beautiful/
+1	票	piao4	ticket	piao4	/bank note/ticket/
+1	苹果	ping2guo3	apple	ping2guo3	/apple/
+1	瓶	ping2	bottle	ping2	/bottle/(a measure word)/vase/pitcher/
+1	破	po4	broken, to break	po4	/to break/to split/broken/damaged/worn out/
+1	七	qi1	seven	qi1	/seven/7/
+1	骑	qi2	to ride	qi2	/to ride (an animal or bike)/to sit astride/
+1	起	qi3	to start	qi3	/to rise/to raise/to get up/
+1	起床	qi3chuang2	to get up	qi3chuang2	/to get up/
+1	起来	qi3lai2		qi3lai	/beginning or continuing an action/upward movement/stand up/
+1	汽车	qi4che1	car	qi4che1	/car/automobile/
+1	汽水	qi4shui3	soda	qi4shui3	/soda/pop/
+1	铅笔	qian1bi3	lead pencil	qian1bi3	/(lead) pencil/
+1	千	qian1	thousand	qian1	/thousand//a swing/
+1	钱	qian2	money	qian2	/(surname)/coin/money/
+1	前	qian2	before, former	qian2	/before/in front/ago/former/previous/earlier/front/
+1	前边	qian2bian1		qian2bian1	/(n) the area in front of sth/
+1	浅	qian3	shallow	qian3	/shallow/
+1	墙	qiang2	wall	qiang2	/wall/
+1	桥	qiao2	bridge	qiao2	/bridge/
+1	青年	qing1nian2	youth	qing1nian2	/youth/
+1	轻	qing1	light	qing1	/light/easy/gentle/soft/reckless/unimportant/frivolous/small in number/unstressed/neutral/soft/
+1	清楚	qing1chu	clear	qing1chu	/clear/clearly understood/distinct/
+1	晴	qing2	clear	qing2	/clear/fine (weather)/
+1	情况	qing2kuang4	circumstances	qing2kuang4	/circumstances/state of affairs/situation/
+1	请	qing3	to ask, please	qing3	/to ask/to invite/please (do sth)/to treat (to a meal, etc)/to request/
+1	请假	qing3jia4	vacate	qing3jia4	/ask for time off/
+1	请问	qing3wen4	may I ask	qing3wen4	/may I ask.../
+1	秋	qiu1	autumn	qiu1	/autumn/fall/harvest time/a swing//a swing/
+1	秋天	qiu1tian1	autumn	qiu1tian1	/autumn/
+1	球	qiu2	ball	qiu2	/ball/sphere/
+1	取得	qu3de2	to acquire	qu3de2	/to acquire/to get/to obtain/
+1	去	qu4	to go	qu4	/to go/to leave/to remove/
+1	去年	qu4nian2	last year	qu4nian2	/last year/
+1	全	quan2	whole, entire	quan2	/all/whole/entire/every/complete/
+1	全部	quan2bu4	complete, entirely	quan2bu4	/whole/entire/complete/
+1	全体	quan2ti3	all	quan2ti3	/all/entire/
+1	确实	que4shi2	indeed	que4shi2	/indeed/really/reliable/real/true/
+1	然后	ran2hou4	after	ran2hou4	/after/then (afterwards)/after that/afterwards/
+1	让	rang4	to let	rang4	/to ask/to let/permit/have (someone do something)/to yield/to allow/
+1	热	re4	heat, to heat up	re4	/heat/to heat up/fervent/hot (of weather)/warm up/
+1	热情	re4qing2	fondness, enthusiastic	re4qing2	/cordial/enthusiastic/passion/passionate/passionately/
+1	人	ren2	person	ren2	/man/person/people/
+1	人们	ren2men	people	ren2men	/people/
+1	人民	ren2min2	people	ren2min2	/(the) people/
+1	任何	ren4he2	any, any	ren4he2	/any/whatever/whichever/whatsoever/
+1	认识	ren4shi	knowledge, to know	ren4shi	/be acquainted with (a person)/to know/to be familiar with/to recognize/
+1	认为	ren4wei2	to believe	ren4wei2	/to believe/to think/to consider/to feel/
+1	认真	ren4zhen1	serious, seriously	ren4zhen1	/earnest/serious/take seriously/take to heart/
+1	日	ri4	Japan, ADJT	ri4	/Japan/day/sun/date/day of the month/
+1	日语	ri4yu3	Japanese language	ri4yu3	/Japanese (language)/
+1	日子	ri4zi	day	ri4zi	/a (calendar) date/days of (someone's) life/day/date/
+1	容易	rong2yi4	easy	rong2yi4	/easy/likely/liable (to)/
+1	肉	rou4	meat	rou4	/meat/flesh/
+1	三	san1	three	san1	/three/
+1	散步	san4bu4	to walk	san4bu4	/to take a walk/to go for a walk/
+1	山	shan1	mountain	shan1	/mountain/hill/
+1	商店	shang1dian4	store	shang1dian4	/store/shop/
+1	上	shang4	to climb	shang4	/on/on top/upon/first (of two parts)/previous or last (week, etc.)/upper/higher/above/previous/to climb/to go into/above/to go up/
+1	上	shang4	to climb	shang4	/on/on top/upon/first (of two parts)/previous or last (week, etc.)/upper/higher/above/previous/to climb/to go into/above/to go up/
+1	上边	shang4bian1	upside	shang4bian	/upside/
+1	上课	shang4ke4	to attend class	shang4ke4	/to attend class/
+1	上来	shang4lai2		shang4lai2	/(v) come up/(v) approach/used after verb to indicate success/
+1	上去	shang4qu4		shang4qu4	/(v) go upwards/
+1	上午	shang4wu3	morning	shang4wu3	/morning/
+1	上学	shang4xue2	to go to school	shang4xue2	/to go to school/to attend school/
+1	少	shao3	to reduce, less	shao3	/few/little/lack/
+1	社会	she4hui4	society, social	she4hui4	/society/
+1	身体	shen1ti3	body	shen1ti3	/(human) body/health/
+1	深	shen1	deep	shen1	/deep/profound/
+1	什么	shen2me	what	shen2me	/what?/who?/something/anything/
+1	声	sheng1	sound	sheng1	/sound/voice/(a measure word, used for sounds)/tone/noise/
+1	声调	sheng1diao4	tune	sheng1diao4	/tone/note/
+1	声音	sheng1yin1	voice	sheng1yin1	/voice/sound/
+1	生产	sheng1chan3	manufacture, to produce	sheng1chan3	/to produce/manufacture/
+1	生词	sheng1ci2	new word	sheng1ci2	/new word/
+1	生活	sheng1huo2	life	sheng1huo2	/life/activity/
+1	生日	sheng1ri	birthday	sheng1ri4	/birthday/
+1	省	sheng3	province, to save	sheng3	/frugal/save/to omit/to leave out/to save (money)/province/
+1	剩	sheng4	have as remainder	sheng4	/have as remainder/
+1	胜利	sheng4li4	victory	sheng4li4	/victory/
+1	师傅	shi1fu	master	shi1fu	/master/a qualified worker/
+1	十	shi2	ten	shi2	/ten/
+1	十分	shi2fen1	fully, completely	shi2fen1	/fully/completely/very/
+1	时候	shi2hou	time	shi2hou4	/time/length of time/moment/period/
+1	时间	shi2jian1	time	shi2jian1	/time/period/
+1	食堂	shi2tang2	dining hall	shi2tang2	/dining hall/
+1	实践	shi2jian4	practice, to practice	shi2jian4	/to practice/to put into practice/to fulfill/
+1	实现	shi2xian4	to achieve	shi2xian4	/to achieve/to implement/to realize/to bring about/
+1	使用	shi3yong4	use, to use	shi3yong4	/to use/to employ/to apply/to make use of/
+1	世界	shi4jie4	world	shi4jie4	/world/
+1	事	shi4	thing	shi4	/matter/thing/item/work/affair/
+1	事情	shi4qing	affair	shi4qing	/affair/matter/thing/business/
+1	是	shi4	to be	shi4	/is/are/am/yes/to be/
+1	市	shi4	market	shi4	/market/city/
+1	试	shi4	test, to test	shi4	/to test/to try/experiment/examination/test/
+1	收	shou1	to receive	shou1	/to receive/to accept/to collect/
+1	收拾	shou1shi	to put in order	shou1shi	/to put in order/to tidy up/
+1	手	shou3	hand	shou3	/hand/convenient/
+1	手表	shou3biao3	wristwatch	shou3biao3	/wrist watch/
+1	首都	shou3du1	capital	shou3du1	/capital (city)/
+1	输	shu1	to transport	shu1	/to transport/to lose/
+1	舒服	shu1fu	comfortable	shu1fu	/comfortable/
+1	书	shu1	book, secretary	shu1	/book/letter/
+1	熟	shu2	familar	shu2	/familiar/skilled/ripe/done/ripe/cooked/
+1	数	shu3	number, to count	shu3	/to count/
+1	树	shu4	tree	shu4	/tree/
+1	数学	shu4xue2	mathematic	shu4xue2	/mathematic/mathematics/
+1	双	shuang1	two	shuang1	/two/double/pair/both/
+1	谁	shei2	who	shei2	/who/
+1	水	shui3	water	shui3	/water/river/
+1	水果	shui3guo3	fruit	shui3guo3	/fruit/
+1	水平	shui3ping2	level	shui3ping2	/level (of achievement, etc.)/standard/
+1	睡	shui4	doss, to sleep	shui4	/to sleep/
+1	睡觉	shui4jiao4	to go to bed	shui4jiao4	/to go to bed/to go to sleep/
+1	说	shuo1	to say	shuo1	/to speak/to say/
+1	说明	shuo1ming2	explanation, to explain	shuo1ming2	/to explain/to illustrate/explanation/directions/caption/
+1	思想	si1xiang3	thought	si1xiang3	/thought/thinking/idea/
+1	死	si3	to die	si3	/to die/inpassable/uncrossable/inflexible/rigid/
+1	四	si4	four	si4	/four/
+1	送	song4	to deliver	song4	/to deliver/to carry/to give (as a present)/to present (with)/to see off/to send/
+1	宿舍	su4she4	dormitory	su4she4	/dormitory/living quarters/hostel/
+1	酸	suan1	sour	suan1	/sour/sore/ache/acid/
+1	算	suan4	regard as, to figure	suan4	/regard as/to figure/to calculate/to compute/
+1	虽然	sui1ran2	although	sui1ran2	/although/even though/
+1	岁	sui4	year	sui4	/year/years old/(a measure word)/
+1	所以	suo3yi3	therefore	suo3yi3	/therefore/as a result/
+1	所有	suo3you3	to have, all	suo3you3	/all/to have/to possess/to own/
+1	他	ta1	he	ta1	/he/him/
+1	他们	ta1men	they	ta1men	/they/
+1	它	ta1	it	ta1	/it/
+1	它们	ta1men	they	ta1men	/they (for inanimate objects)/
+1	她	ta1	she	ta1	/she/
+1	她们	ta1men	they	ta1men	/they/them (for females)/
+1	抬	tai2	to lift	tai2	/to lift/to raise/(of two or more persons) to carry/
+1	太	tai4	most extreme, too	tai4	/highest/greatest/too (much)/very/extremely/
+1	太阳	tai4yang2	sun	tai4yang2	/sun/
+1	态度	tai4du	attitude	tai4du	/manner/bearing/attitude/approach/
+1	谈	tan2	to discuss	tan2	/to speak/to talk/to converse/to chat/to discuss/(surname)/
+1	汤	tang1	soup	tang1	/(surname)/soup/
+1	糖	tang2	sugar	tang2	/sugar/sweets/candy/
+1	躺	tang3	to recline	tang3	/to recline/to lie down/
+1	讨论	tao3lun4	discussion, to discuss	tao3lun4	/to discuss/to talk over/
+1	特别	te4bie2	special, especially	te4bie2	/especially/special/particular/unusual/
+1	疼	teng2	to hurt	teng2	/(it) hurts/love fondly/ache/pain/sore/
+1	踢	ti1	kick	ti1	/kick/play (football or soccer)/
+1	提	ti2	to raise	ti2	/to carry/to lift/to put forward/(upwards character stroke)/lifting (brush stroke in painting)/to mention/
+1	提高	ti2gao1	raise, to raise	ti2gao1	/raise/increase/
+1	体育	ti3yu4	sport	ti3yu4	/physical culture/physical training/sports/
+1	天	tian1	day	tian1	/day/sky/heaven/
+1	天气	tian1qi4	weather	tian1qi4	/weather/
+1	条	tiao2		tiao2	/measure word for long, thin things (i.e. ribbon, river, etc.)/a strip/item/article/
+1	条件	tiao2jian4	condition	tiao2jian4	/condition/prerequisite/factor/
+1	跳	tiao4	jump, to leap	tiao4	/jump/hop/skip (a grade)/to leap/to bounce/to beat/
+1	跳舞	tiao4wu3	dancing, to dance	tiao4wu3	/to dance/
+1	听	ting1	to hear	ting1	/listen/hear/obey/
+1	听见	ting1jian4	hear, to hear	ting1jian4	/hear/
+1	听说	ting1shuo1	to hear told	ting1shuo1	/to hear told/
+1	听写	ting1xie3	dictate	ting1xie3	/dictate/dictation/
+1	停	ting2	to stop	ting2	/to stop/to halt/
+1	挺	ting3	to hold out, erect	ting3	/be straight and stiff/rather (good)/
+1	通	tong1	go through, to connect	tong1	/go through/know well/to connect/to communicate/open/
+1	通过	tong1guo4	to pass, through	tong1guo4	/by means of/through/via/to adopt/to pass through/to get through/to switch over/
+1	通知	tong1zhi1	notice	tong1zhi1	/notify/inform/notice/notification/
+1	同时	tong2shi2	simultaneously, at the same time	tong2shi2	/at the same time/simultaneously/
+1	同学	tong2xue2	student	tong2xue2	/(fellow) classmate/
+1	同意	tong2yi4	to agree	tong2yi4	/to agree/to consent/to approve/
+1	同志	tong2zhi4	comrade	tong2zhi4	/comrade/
+1	痛快	tong4kuai	jolly	tong4kuai	/jolly/
+1	头	tou2	head	tou2	/head/
+1	突然	tu1ran2	sudden, suddenly	tu1ran2	/sudden/abrupt/unexpected/
+1	图书馆	tu2shu1guan3	library	tu2shu1guan3	/library/
+1	团结	tuan2jie2	to unite, united	tuan2jie2	/(hold a) rally/join forces/
+1	推	tui1	to push	tui1	/push/refuse (responsibility)/shove/
+1	腿	tui3	leg	tui3	/leg/
+1	退	tui4	retreat, to decline	tui4	/retreat/to decline/to move back/to withdraw/
+1	脱	tuo1	to shed	tuo1	/to shed/to take off/to escape/to get away from/
+1	袜子	wa4zi	socks	wa4zi	/socks/stockings/
+1	外	wai4	outside	wai4	/outside/in addition/foreign/external/
+1	外边	wai4bian1		wai4bian	/(n) outside/(n) exterior  surface/(n) place other than one's home town/
+1	外国	wai4guo2	foreign country, foreign	wai4guo2	/foreign (country)/
+1	外语	wai4yu3	foreign language	wai4yu3	/foreign language/
+1	完	wan2	end, to finish	wan2	/to finish/to be over/whole/complete/entire/
+1	完成	wan2cheng2	to complete, to total	wan2cheng2	/complete/accomplish/
+1	完全	wan2quan2	complete, completely	wan2quan2	/complete/whole/totally/entirely/
+1	玩儿	wan2r	to play	wanr2	/to play/
+1	碗	wan3	bowl	wan3	/bowl/cup/
+1	晚	wan3	evening, evening	wan3	/evening/night/late/
+1	晚饭	wan3fan4	supper	wan3fan4	/supper/
+1	晚会	wan3hui4	party	wan3hui4	/evening party/
+1	晚上	wan3shang	in the evening	wan3shang	/in the evening/
+1	万	wan4		wan4	/(surname)/10,000//(surname)/ten thousand/a great number/
+1	往	wang3	past, to go	wang3	/to go (in a direction)/past/previous/towards/
+1	往	wang3	past, to go	wang3	/to go (in a direction)/past/previous/towards/
+1	忘	wang4	to forget	wang4	/to forget/to overlook/to neglect/
+1	危险	wei1xian3	danger, dangerous	wei1xian3	/danger/dangerous/
+1	为	wei2	to be, for	wei2	/act as/take...to be/to be/to do/to serve as/to become/
+1	伟大	wei3da4	greatness, great	wei3da4	/great/mighty/large/
+1	喂	wei4	interjection hello, to feed	wei4	/(interjection) hello/to feed (someone or some animal)/hey/telephone greeting//to feed/
+1	位	wei4	position	wei4	/position/location/(measure word for persons)/place/seat/
+1	为	wei4	to be, for	wei4	/because of/for/to/
+1	为了	wei4le		wei4le	/in order to/for the purpose of/so as to/
+1	为什么	wei4shen2me	why	wei4shen3me	/why/for what reason/
+1	文化	wen2hua4	culture, cultural	wen2hua4	/culture/civilization/cultural/
+1	文学	wen2xue2	literature	wen2xue2	/literature/
+1	文学家	wen2xue2jia1	writer	wen2xue2jia1	/writer/man of letters/
+1	文艺	wen2yi4	literature and art	wen2yi4	/literature and art/
+1	文章	wen2zhang1	article	wen2zhang1	/article/essay/
+1	问	wen4	to ask	wen4	/to ask/
+1	问好	wen4hao3		wen4hao3	/say hello to/send one's regards to/
+1	问题	wen4ti2	problem	wen4ti2	/problem/issue/topic/
+1	我	wo3	I	wo3	/I/me/myself/
+1	我们	wo3men	we	wo3men	/we/us/ourselves/
+1	握手	wo4shou3	to shake hands	wo4shou3	/to shake hands/
+1	屋子	wu1zi	house	wu1zi	/house/room/
+1	五	wu3	five	wu3	/five/5/
+1	午饭	wu3fan4	lunch	wu3fan4	/lunch/
+1	物理	wu4li3	physics	wu4li3	/physics/physical/
+1	西	xi1	west	xi1	/west/
+1	西边	xi1bian1		xi1bian1	/(n) west side; to the west of/
+1	希望	xi1wang4	hope, to hope	xi1wang4	/to wish for/to desire/to hope/
+1	习惯	xi2guan4	habit, to be used to	xi2guan4	/habit/custom/usual practice/to be used to/
+1	喜欢	xi3huan	to like	xi3huan	/to like/to be fond of/
+1	洗	xi3	lave, to wash	xi3	/to wash/to bathe/
+1	洗澡	xi3zao3	bathe	xi3zao3	/bathe/
+1	系	xi4	be, to tie	xi4	/be/connection/relation/tie up/bind//be/system/to tie/department/faculty//connect/to tie/
+1	细	xi4	fine	xi4	/fine/minutely/thin/slender/
+1	下	xia4	second, to lower	xia4	/under/second (of two parts)/next (week, etc.)/lower/below/underneath/down(wards)/to decline/to go down/latter/
+1	下	xia4	second, to lower	xia4	/under/second (of two parts)/next (week, etc.)/lower/below/underneath/down(wards)/to decline/to go down/latter/
+1	下	xia4	second, to lower	xia4	/under/second (of two parts)/next (week, etc.)/lower/below/underneath/down(wards)/to decline/to go down/latter/
+1	下边	xia4bian1		xia4bian1	/(n) under/
+1	下课	xia4ke4	class is over	xia4ke4	/class is over/
+1	下来	xia4lai2		xialai	/(verb suffix indicating continuation, etc.)/
+1	下去	xia4qu4	go down descend	xia4qu	/go down (descend)/go on (continue)/
+1	下午	xia4wu3	afternoon	xia4wu3	/afternoon/
+1	夏	xia4	summer	xia4	/summer/Xia (proper name)/
+1	夏天	xia4tian1	summer	xia4tian1	/summer/
+1	先	xian1	first	xian1	/early/prior/former/in advance/first/
+1	先生	xian1sheng	Mr.	xian1sheng	/sir/mister/teacher/(title of respect)/
+1	现代	xian4dai4	modern times	xian4dai4	/modern times/modern age/modern era/Hyundai, South Korean company/
+1	现在	xian4zai4	today, currently to be at	xian4zai4	/modern/current/present/at present/now/nowadays/
+1	相信	xiang1xin4	to believe	xiang1xin4	/be convinced (that something is true)/believe/to accept sth. as true/
+1	香	xiang1	fragrant	xiang1	/fragrant/incense/(of food) savory/appetizing/sweet/scented/popular/
+1	香蕉	xiang1jiao1	banana	xiang1jiao1	/banana/
+1	想	xiang3	to think	xiang3	/to think/to believe/to suppose/to wish/to want/to miss/
+1	响	xiang3	sound, to make a sound	xiang3	/to make a sound/to sound/to ring/(a measure word for sound)/loud/
+1	像	xiang4	to be like, like	xiang4	/(look) like/similar (to)/look/appearance/elephant/to look/to appear/to seem/image/portrait/resemble/seem/
+1	向	xiang4	towards	xiang4	/direction/part/side/towards/to/guide/opposite to//guide/opposite to/
+1	消息	xiao1xi	news	xiao1xi	/news/information/
+1	小	xiao3	small	xiao3	/small/tiny/few/young/
+1	小孩儿	xiao3hai2r			
+1	小姐	xiao3jie	young lady	xiao3jie	/young lady/miss/
+1	小时	xiao3shi2	hour	xiao3shi2	/hour/
+1	笑	xiao4	laugh, to laugh	xiao4	/laugh/smile/
+1	些	xie1	some	xie1	/some/few/several/(a measure word)/
+1	鞋	xie2	shoe	xie2	/shoe/
+1	写	xie3	to write	xie3	/to write/
+1	谢谢	xie4xie	to thank, thank you	xie4xie	/to thank/
+1	辛苦	xin1ku3	hard	xin1ku3	/hard/exhausting/with much toil/
+1	新	xin1	new, new	xin1	/meso- (chem.)/new/newly/
+1	新年	xin1nian2	New Year	xin1nian2	/New Year/
+1	新闻	xin1wen2	news, news	xin1wen2	/news/
+1	心	xin1	heart	xin1	/heart/mind/
+1	信	xin4	letter, evidence	xin4	/letter/true/to believe/sign/evidence/
+1	信封	xin4feng1	envelope	xin4feng1	/envelope/
+1	星期	xing1qi1	week	xing1qi1	/week/
+1	星期日	xing1qi1ri4	Sunday	xing1qi1ri4	/Sunday/
+1	行	xing2	row, to go	xing2	/all right/capable/competent/OK/okay/to go/to do/to travel/temporary/to walk/to go/will do/
+1	幸福	xing4fu2	fortunate	xing4fu2	/blessed/happiness/happy/
+1	姓	xing4	family name	xing4	/surname/family name/name/
+1	休息	xiu1xi	rest, to rest	xiu1xi	/rest/to rest/
+1	需要	xu1yao4	need, to need	xu1yao4	/to need/to want/to demand/needs/to require/
+1	许多	xu3duo1	perhaps	xu3duo1	/many/a lot of/much/
+1	学	xue2	to study	xue2	/learn/study/science/-ology/
+1	学生	xue2sheng	student	xue2sheng	/student/
+1	学习	xue2xi2	to learn	xue2xi2	/to learn/to study/
+1	学校	xue2xiao4	school	xue2xiao4	/school/
+1	学院	xue2yuan4	college	xue2yuan4	/college/educational institute/school/faculty/
+1	雪	xue3	snow	xue3	/snow/
+1	呀	ya1	final part	ya	/(final part.)/
+1	呀	ya1	final part	ya	/(final part.)/
+1	研究	yan2jiu1	research, to research	yan2jiu1	/research/
+1	颜色	yan2se4	color	yan2se4	/color/
+1	眼睛	yan3jing	eye	yan3jing1	/eye/
+1	演出	yan3chu1	performance	yan3chu1	/(acting) play/perform/
+1	宴会	yan4hui4	banquet	yan4hui4	/banquet//banquet/feast/dinner party/
+1	羊	yang2	sheep	yang2	/(surname)/sheep/
+1	样子	yang4zi	manner	yang4zi	/manner/air/looks/aspect/
+1	要求	yao1qiu2	request, to request	yao1qiu2	/request/require/stake a claim (to something)/to ask/to demand/
+1	药	yao4	medicine	yao4	/medicine/drug/cure/
+1	要	yao4	to want, must	yao4	/important/vital/to want/to be going to/must/
+1	要是	yao4shi	if	yao4shi4	/if/
+1	也	ye3	also, also	ye3	/also/too/
+1	也许	ye3xu3	perhaps	ye3xu3	/perhaps/maybe/
+1	页	ye4	page	ye4	/page/leaf/
+1	夜	ye4	night	ye4	/night/
+1	一	yi1	one	yi1	/one/single/a(n)/
+1	一_就_	yi1_jiu4_			
+1	一定	yi2ding4	absolute, certainly	yi1ding4	/surely/certainly/necessarily/fixed/a certain (extent, etc.)/given/particular/
+1	一共	yi2gong4	all together	yi2gong4	/altogether/
+1	一会儿	yi2hui4r	a while	yi4huir3	/a while/
+1	一块儿	yi2kuai4r		yi1kuair	/(adv) together/(n) at the same location/
+1	一切	yi2qie4	all, complete	yi2qie4	/all/every/everything/
+1	一下儿	yi2xia4r	a little bit	yi2xiar4	/a little bit/a little while/
+1	一样	yi2yang4	same, identically	yi2yang4	/same/like/equal to/the same as/just like/
+1	一般	yi4ban1	same	yi4ban1	/same/ordinary/common/general/
+1	一边_一边	yi4bian1_4bian1_			
+1	一点儿	yi4dian3r	a bit	yi1dianr3	/a bit/a little/
+1	一起	yi4qi3	together	yi4qi3	/together/
+1	一些	yi4xie1	a few	yi1xie1	/some/a few/a little/
+1	一直	yi4zhi2	continuous, continuously	yi4zhi2	/continuously/always/from the beginning of ... up to .../all along/
+1	医生	yi1sheng1	doctor	yi1sheng1	/doctor/
+1	医院	yi1yuan4	hospital	yi1yuan4	/hospital/
+1	衣服	yi1fu	clothes	yi1fu	/clothes/
+1	椅子	yi3zi	chair	yi3zi	/chair/
+1	已经	yi3jing	already	yi3jing1	/already/
+1	以后	yi3hou4	after	yi3hou4	/after/later/afterwards/following/later on/in the future/
+1	以前	yi3qian2	before	yi3qian2	/before/formerly/previous/
+1	以为	yi3wei2	consider that	yi3wei2	/consider (that)/believe/
+1	艺术	yi4shu4	art	yi4shu4	/art/
+1	亿	yi4	hundred million, to calculate	yi4	/a hundred million/calculate/
+1	意见	yi4jian4	view	yi4jian4	/view/opinion/
+1	意思	yi4si	idea	yi4si1	/idea/opinion/meaning/
+1	意义	yi4yi4	meaning	yi4yi4	/meaning/significance/
+1	因为	yin1wei4	because of	yin1wei2	/because/owing to/on account of/
+1	音乐	yin1yue4	music	yin1yue4	/music/
+1	阴	yin1	dark	yin1	/(of weather) overcast/Yin/feminine/moon/cloudy/negative (electric.)/shady/
+1	银行	yin2hang2	bank	yin2hang2	/bank/
+1	英语	ying1yu3	English	ying1yu3	/English (language)/
+1	应该	ying1gai1	should	ying1gai1	/ought to/should/must/
+1	赢	ying2	to win	ying2	/to beat/to win/to profit/
+1	影响	ying3xiang3	influence, to effect	ying3xiang3	/influence/to effect/to influence/
+1	永远	yong3yuan3	forever	yong3yuan3	/forever/eternal/
+1	用	yong4	to use	yong4	/to use/
+1	尤其	you2qi2	especially	you2qi2	/especially/particularly/
+1	邮局	you2ju2	post office	you2ju2	/post office/
+1	邮票	you2piao4	postage stamp	you2piao4	/(postage) stamp/
+1	游泳	you2yong3	swim	you2yong3	/swim/
+1	有	you3	to have, some	you3	/to have/there is/there are/to exist/to be/
+1	有的	you3de		you3de	/(there are) some (who are...)/some (exist)/
+1	有名	you3ming2	famous	you3ming2	/famous/well-known/
+1	有时候	you3shi2hou	sometimes	you3shi2hou	/sometimes/
+1	有些	you3xie1	to have some, some	you3xie1	/some/somewhat/
+1	有意思	you3yi4si	interesting	you3yi4si	/interesting/
+1	友好	you3hao3	friendly relations	you3hao3	/friendly (relations)/
+1	友谊	you3yi4	companionship	you3yi4	/companionship/fellowship/friendship/
+1	右	you4	right	you4	/right (-hand)/
+1	又	you4	once again	you4	/(once) again/also/both... and.../again/
+1	鱼	yu2	fish	yu2	/fish/
+1	愉快	yu2kuai4	cheerful	yu2kuai4	/cheerful/cheerily/delightful/pleasant/pleasantly/pleasing/happy/delighted/
+1	雨	yu3	rain	yu3	/rain/
+1	语法	yu3fa3	grammar	yu3fa3	/grammar/
+1	语言	yu3yan2	language	yu3yan2	/(spoken) language/
+1	遇到	yu4dao4	to meet	yu4dao4	/to meet/to run into/to come across/
+1	预习	yu4xi2	prep, to prepare a lesson	yu4xi2	/to prepare a lesson/
+1	元	yuan2	dynasty	yuan2	/(dynasty)/dollar/primary/first/
+1	原来	yuan2lai2	original, originally	yuan2lai2	/original/former/originally/formerly/at first/
+1	原谅	yuan2liang4	to excuse	yuan2liang4	/to excuse/to forgive/to pardon/
+1	圆	yuan2	circle, to justify	yuan2	/circle/round/circular/spherical/(of the moon) full/unit of Chinese currency (Yuan)/tactful/to justify/
+1	远	yuan3	far	yuan3	/far/distant/remote/
+1	愿意	yuan4yi4	willingness, to wish	yuan4yi4	/to wish/to want/ready/willing (to do sth)/
+1	月	yue4	moon, ADJT	yue4	/moon/month/
+1	月亮	yue4liang	moon	yue4liang4	/moon/
+1	月球	yue4qiu2	the Moon	yue4qiu2	/(the) Moon/
+1	云	yun2	cloud	yun2	/(classical) to say//cloud/(abbr.) for Yunnan/surname/
+1	运动	yun4dong4	movement	yun4dong4	/movement/campaign/sports/
+1	再	zai4	again	zai4	/again/once more/re-/second/another/
+1	再见	zai4jian4	good bye	zai4jian4	/good bye/
+1	在	zai4		zai4	/(located) at/in/exist/
+1	在	zai4		zai4	/(located) at/in/exist/
+1	咱	zan2	we	zan2	/we (incl.)/
+1	咱们	zan2men	we	zan2men	/we (including the person spoken to)/
+1	脏	zang1	dirty, dirty	zang1	/dirty/filthy//dirty/
+1	早	zao3	early	zao3	/early/morning/
+1	早晨	zao3chen	early morning	zao3chen2	/early morning/
+1	早饭	zao3fan4	breakfast	zao3fan4	/breakfast/
+1	怎么	zen3me	how	zen3me	/how?/what?/why?/
+1	怎么样	zen3meyang4	how about	zen3meyang4	/how?/how about?/how was it?/how are things?/
+1	怎样	zen3yang4	how	zen3yang4	/how/why/
+1	增加	zeng1jia1	increase, to rise	zeng1jia1	/to raise/to increase/
+1	展览	zhan3lan3	exhibition, to put on display	zhan3lan3	/to put on display/to exhibit/exhibition/show/
+1	占	zhan4	to occupy	zhan4	/to occupy/to constitute/to make up/to account/
+1	站	zhan4	station, VERB	zhan4	/station/to stand/to halt/to stop/
+1	站	zhan4	station, VERB	zhan4	/station/to stand/to halt/to stop/
+1	张	zhang1		zhang1	/(a measure word)/(a surname)/open up/
+1	长	zhang3	length, director	zhang3	/chief/head/elder/to grow/to develop/
+1	掌握	zhang3wo4	grasp, to hold	zhang3wo4	/grasp/
+1	着急	zhao2ji2	feel anxiously	zhao2ji2	/worry/feel anxious/
+1	找	zhao3	search, to try to find	zhao3	/to try to find/to look for/to call on (sb)/to find/to seek/to return/to look for/
+1	照顾	zhao4gu4	take good care of, to attend to	zhao4gu	/take (good) care of/show some consideration/to attend to/to look after/
+1	照相	zhao4xiang4	take a photograph	zhao4xiang4	/take a photograph/
+1	这	zhe4	this, ADJT	zhe4	/this/these/
+1	这个	zhe4ge	this, this	zhe4ge4	/this/
+1	这里	zhe4li	here	zhe4li3	/here/
+1	这么	zhe4me	this	zhe4me	/so much/this much/this way/like this/
+1	这些	zhe4xie1	these	zhe4xie	/these/
+1	这样	zhe4yang4	this kind, this kind of	zhe4yang4	/this (kind of, sort of)/this way/such/like this/such/
+1	着	zhe		zhe	/-ing part. (indicates an action in progress)/part. coverb-forming after some verbs/
+1	真	zhen1	real, real	zhen1	/real/true/genuine/
+1	真正	zhen1zheng4	real, genuinely	zhen1zheng4	/real/true/genuine/
+1	整齐	zheng3qi2	tidy	zheng3qi2	/tidy/neat/
+1	正	zheng4	currently	zheng4	/just (right)/main/upright/straight/correct/principle/
+1	正确	zheng4que4	correct, correct	zheng4que4	/correct/proper/
+1	正在	zheng4zai4		zheng4zai4	/in the process of (doing something or happening)/while (doing)/
+1	政府	zheng4fu3	government, government	zheng4fu3	/government/
+1	政治	zheng4zhi4	politics, political	zheng4zhi4	/politics/political/
+1	只	zhi1	only, only	zhi1	/(a measure word, for birds and some animals, etc.)/single/only//M for one of a pair/
+1	支	zhi1	to support	zhi1	/(a measure word)/to support/to sustain/to erect/to raise/branch/division/to draw money/
+1	知道	zhi1dao4	to know	zhi1dao	/know/be aware of/
+1	知识	zhi1shi	intellectual	zhi1shi	/intellectual/knowledge-related/knowledge/
+1	_之间	_zhi1jian1			
+1	指	zhi3	finger, to point	zhi3	/finger/to point/to direct/to indicate/
+1	只	zhi3	only, only	zhi3	/only/merely/just/but//but/only/
+1	只好	zhi3hao3	to have to	zhi3hao3	/to have to/to be forced to/
+1	纸	zhi3	paper	zhi3	/paper/
+1	中	zhong1	China, Chinese	zhong1	/within/among/in/middle/center/while (doing sth)/during/China/Chinese/
+1	中间	zhong1jian1	intermediate, between	zhong1jian4	/betwixt/intermediate/mid/middle/
+1	中文	zhong1wen2	Chinese	zhong1wen2	/Chinese language/
+1	中午	zhong1wu3	noon	zhong1wu3	/noon/midday/
+1	中学	zhong1xue2	middle school	zhong1xue2	/middle school/
+1	钟	zhong1	clock	zhong1	/clock/time as measured in hours and minutes/bell/
+1	钟头	zhong1tou2	hour	zhong1tou2	/hour/
+1	种	zhong3	kind, VERB	zhong3	/kind/type/race/breed/seed/species (taxonomy)/
+1	重	zhong4	to double, heavy	zhong4	/heavy/serious/
+1	重要	zhong4yao4	important	zhong4yao4	/important/significant/major/
+1	周	zhou1	week	zhou1	/(surname)/complete/encircle/circuit/lap/week/cycle/all/every/attentive/thoughtful//bestow alms//cycle/week/
+1	周围	zhou1wei2	encompass, surrounding	zhou1wei2	/encompass/surrounding//surroundings/environment/
+1	猪	zhu1	pig	zhu1	/hog/pig/swine/
+1	主要	zhu3yao4	main, main	zhu3yao4	/main/principal/major/primary/
+1	主意	zhu3yi	plan	zhu3yi	/plan/idea/decision/
+1	住	zhu4	VERB	zhu4	/to live/to dwell/to reside/to stop/
+1	注意	zhu4yi4	attention, to pay attention	zhu4yi4	/take note of/(pay) attention (to)/
+1	祝	zhu4	invoke, to express good wishes	zhu4	/invoke/pray to/wish/to express good wishes/
+1	装	zhuang1	to install	zhuang1	/adornment/adorn/costume/dress/clothing/
+1	准备	zhun3bei4	preparation, to prepare	zhun3bei4	/preparation/prepare/
+1	桌子	zhuo1zi	table	zhuo1zi	/table/desk/
+1	自己	zi4ji3	oneself	zi4ji3	/self/(reflexive pronoun)/own/
+1	自行车	zi4xing2che1	bicycle	zi4xing2che1	/bicycle/
+1	字	zi4	word	zi4	/letter/symbol/character/word/
+1	总是	zong3shi4	always	zong3shi4	/always/
+1	走	zou3	to walk	zou3	/to walk/to go/to move/
+1	足球	zu2qiu2	soccer	zu2qiu2	/football (British English)/soccer (American English)/
+1	祖国	zu3guo2	homeland	zu3guo2	/homeland/motherland/
+1	组织	zu3zhi1	organization, to organize	zu3zhi1	/organization/
+1	嘴	zui3	mouth	zui3	/mouth/
+1	最	zui4	most	zui4	/(the) most/-est/
+1	最初	zui4chu1	first, initially	zui4chu1	/first/primary/initial/
+1	最后	zui4hou4	last, finally	zui4hou4	/final/last/finally/ultimate/
+1	最近	zui4jin4	most recently	zui4jin4	/recent/recently/soon/
+1	昨天	zuo2tian1	yesterday	zuo2tian1	/yesterday/
+1	左	zuo3	left	zuo3	/left/
+1	做	zuo4	to do	zuo4	/to do/to make/to produce/
+1	作	zuo4	to do	zuo4	/to regard as/to take (somebody) for/to do/to make/
+1	作业	zuo4ye4	work, VERB	zuo4ye4	/school assignment/work/task/operation/to operate/
+1	坐	zuo4	to sit	zuo4	/to sit/to take a seat/to take (a bus, airplane etc.)/
+1	座	zuo4	to sit	zuo4	/to sit/to take a seat/
+
+2	阿	a1	Afghanistan	a1	/an initial particle/prefix to names of people/
+2	阿拉伯语	a1la1bo2yu3	Arabic language	a1la1bo2yu3	/Arabic (language)/
+2	阿姨	a1yi2	auntie	a1yi2	/auntie/
+2	挨	ai1	to be near	ai1	/lean to/in order/in sequence/
+2	哎	ai1	an interjection	ai1	/an interjection/hey/lookout/why etc/
+2	哎呀	ai1ya1	Damn	ai1ya1	/Damn/Ah/My God/
+2	爱好	ai4hao4	interest, to like	ai4hao4	/to like/to be fond of/to be keen on/interest/hobby/
+2	爱护	ai4hu4	cherish	ai4hu4	/cherish/treasure/take good care of/
+2	爱情	ai4qing2	love	ai4qing2	/love (between man and woman)/
+2	安全	an1quan2	safety, ADJT	an1quan2	/safe/secure/safety/security/
+2	安慰	an1wei4	to comfort	an1wei4	/comfort/console/
+2	安心	an1xin1	feel at ease	an1xin1	/feel at ease/be relieved/set one's mind at rest/keep one's mind on something/
+2	按	an4	to press, to fulfill	an4	/to press (with the hand)/to push/to control/to restrain/to check/pressing down (brush movement in painting)/according to/in the light of/
+2	按时	an4shi2	on time	an4shi2	/on time/before deadline/on schedule/
+2	按照	an4zhao4	to follow, according to	an4zhao4	/according to/in accordance with/in the light of/on the basis of/
+2	暗	an4	dark	an4	/dark/gloomy/hidden/secret//to shut the door/unilluminated/
+2	岸	an4	bank	an4	/bank/shore/beach/coast/
+2	拔	ba2	pull up	ba2	/pull up/pull out/select/promote/
+2	白	bai2	white	bai2	/white/snowy/empty/blank/bright/clear/plain/pure/gratuitous/
+2	白菜	bai2cai4	Chinese cabbage	bai2cai4	/Chinese cabbage/
+2	白天	bai2tian1	daytime	bai2tian1	/daytime/during the day/day/
+2	败	bai4	be defeated, to defeat	bai4	/be defeated/to defeat/loss/
+2	班长	ban1zhang3	monitor	ban1zhang3	/class monitor/squad leader/team leader/
+2	板	ban3	board	ban3	/board/plank/plate/slab//boss/
+2	半导体	ban4dao3ti3	semiconductor	ban4dao3ti3	/semiconductor/
+2	半拉	ban4la3	half	ban4la1	/half/
+2	半夜	ban4ye4	midnight	ban4ye4	/midnight/in the middle of the night/
+2	办公	ban4gong1	work	ban4gong1	/handle official business/work (usually in an office)/
+2	办事	ban4shi4	to handle affairs	ban4shi4	/to handle (affairs)/to work/
+2	帮	bang1	group, to assist	bang1	/to assist/to support/to help/group/gang/party/
+2	帮忙	bang1mang2	help	bang1mang2	/help/give (lend) a hand/do a favor/do a good turn/
+2	榜样	bang3yang4	example	bang3yang4	/example/model/
+2	傍晚	bang4wan3	in the evening	bang4wan3	/in the evening/when night falls/towards evening/at night fall/at dusk/
+2	包	bao1	package, to wrap	bao1	/to cover/to wrap/to hold/to include/to take charge of/package/wrapper/container/bag/to hold or embrace/bundle/packet/to contract (to or for)/
+2	包	bao1	package, to wrap	bao1	/to cover/to wrap/to hold/to include/to take charge of/package/wrapper/container/bag/to hold or embrace/bundle/packet/to contract (to or for)/
+2	包括	bao1kuo4	to include	bao1kuo4	/to comprise/to include/to involve/to incorporate/to consist of/
+2	包子	bao1zi	steamed stuffed bun	bao1zi	/steamed stuffed bun/
+2	薄	bo4	to approach, thin	bo4	/thin/slight/meagre/small/ungenerous/unkind/mean/frivolous/despise/belittle/to approach/to go near/peppermint/
+2	保	bao3	to defend	bao3	/to defend/to protect/to insure or guarantee/to maintain/hold or keep/to guard/
+2	保持	bao3chi2	to maintain	bao3chi2	/to keep/to maintain/to hold/to preserve/
+2	保存	bao3cun2	to conserve, saved	bao3cun2	/to conserve/to preserve/to keep/
+2	保护	bao3hu4	protection, to conserve	bao3hu4	/to defend/to protect/to safeguard/
+2	保留	bao3liu2	preservation, to preserve	bao3liu2	/continue to have/retain/hold back/reserve/reservations/hold back (approval or acceptance)/to preserve/maintain/
+2	保卫	bao3wei4	defense, VERB	bao3wei4	/defend/safeguard/
+2	保证	bao3zheng4	guarantee, to guarantee	bao3zheng4	/guarantee/to guarantee/to ensure/to safeguard/to pledge/
+2	宝贵	bao3gui4	valuable	bao3gui4	/valuable/precious/value/treasure/set store by/
+2	抱歉	bao4qian4	be sorry	bao4qian4	/be sorry/feel apologetic/regret/
+2	报到	bao4dao4	to report in	bao4dao4	/report for duty/check in/register/
+2	报道	bao4dao4	report, to report	bao4dao4	/report/
+2	报告	bao4gao4	report, to report	bao4gao4	/to inform/report/make known/speech/talk/lecture/
+2	报名	bao4ming2	enrollment, to enrol	bao4ming2	/enter one's name/apply/sign up/
+2	报纸	bao4zhi3	newspaper	bao4zhi3	/newspaper/newsprint/
+2	背	bei1	carry on ones back, to be burdened	bei1	/carry on one's back//to be burdened/to carry on the back or shoulder/
+2	碑	bei1	a monument	bei1	/a monument/an upright stone tablet/stele/
+2	悲痛	bei1tong4	grieved	bei1tong4	/grieved/sorrowful/
+2	北部	bei3bu4	northern part	bei3bu4	/northern part/
+2	北方	bei3fang1	north	bei3fang1	/north/the northern part of the country especially the area north of the Yellow River (Huang-He)/
+2	北面	bei3mian4	northern side	bei3mian4	/northern side/north/
+2	背	bei4	carry on ones back, to be burdened	bei4	/learn by heart/the back of the body/
+2	背后	bei4hou4	backdrop	bei4hou4	/behind/at the back/in the rear/behind somebody's back/
+2	被子	bei4zi	quilt	bei4zi	/quilt/
+2	本	ben3	this, Bin	ben3	/roots or stems of plants/origin/source/this/the current/root/foundation/basis/(a measure word)/
+2	本	ben3	this, Bin	ben3	/roots or stems of plants/origin/source/this/the current/root/foundation/basis/(a measure word)/
+2	本来	ben3lai2	original	ben3lai2	/original/originally/at first/it goes without saying/of course/
+2	本领	ben3ling3	skill	ben3ling3	/skill/ability/capability/
+2	本事	ben3shi	ability	ben3shi4	/ability/skill/source material/original story/
+2	本质	ben3zhi4	essence	ben3zhi4	/essence/nature/innate character/intrinsic quality/
+2	笨	ben4	stupid	ben4	/stupid/foolish/silly/slow-witted/clumsy/
+2	逼	bi1	to force	bi1	/close to/compel//force/compel/drive/press for/extort/press on towards/press up to/close in on/close/
+2	鼻子	bi2zi	nose	bi2zi	/nose/
+2	比例	bi3li4	proportion	bi3li4	/proportion/scale/
+2	比如	bi3ru2	for example	bi3ru2	/for example/for instance/such as/
+2	笔记	bi3ji4	note, to note	bi3ji4	/take down (in writing)/notes/a type of literature consisting mainly of short sketches/
+2	毕业	bi4ye4	graduation, to graduate	bi4ye4	/graduation/to graduate/to finish school/
+2	闭	bi4	stop up, to close	bi4	/to close/stop up/shut/obstruct/
+2	必然	bi4ran2	inevitable, inevitably	bi4ran2	/inevitable/certain/necessity/
+2	必要	bi4yao4	necessary, necessary	bi4yao4	/necessary/essential/indispensable/required/
+2	避	bi4	to keep away	bi4	/avoid/shun/flee/escape/leave/to keep away/to leave/to hide/
+2	避免	bi4mian3	to avoid, not	bi4mian3	/to avert/to prevent/to avoid/to refrain from/
+2	边_边_	bian1_bian1_			
+2	编	bian1	weave	bian1	/weave/plait/organize/group/arrange/edit/compile/write/compose/fabricate/
+2	扁	bian3		bian3	/flat/tablet/inscription/
+2	便	bian4		bian4	/ordinary/plain/convenient/handy/easy/then/so/thus/to relieve oneself/
+2	便条	bian4tiao2	informal note	bian4tiao2	/(informal) note/
+2	遍	bian4	a time	bian4	/a time/everywhere/turn/all over/one time/
+2	标点	biao1dian3	punctuation	biao1dian3	/punctuation/punctuate/
+2	标准	biao1zhun3	standard, standard	biao1zhun3	/(an official) standard/norm/criterion/
+2	表达	biao3da2	couch, to express	biao3da2	/to voice (an opinion)/to express/to convey/
+2	表面	biao3mian4	surface	biao3mian4	/surface/face/outside/appearance/
+2	表明	biao3ming2	discovery, to make clear	biao3ming2	/make known/make clear/state clearly/indicate/known/to make clear/
+2	宾馆	bin1guan3	guesthouse	bin1guan3	/guesthouse/
+2	兵	bing1	soldier	bing1	/soldiers/a force/an army/weapons/arms/military/warlike/
+2	冰	bing1	ice	bing1	/ice/
+2	饼干	bing3gan1	cooky		
+2	病房	bing4fang2	sickroom	bing4fang2	/ward (of a hospital)/sickroom/
+2	病菌	bing4jun1	harmful bacteria	bing4jun1	/harmful bacteria/pathogenic bacteria/germs/
+2	病人	bing4ren2	patient	bing4ren2	/sick person/[medical] patient/invalid/
+2	并	bing4	to combine, simultaneously	bing4	/and/furthermore/(not) at all/simultaneously/also/together with/to combine/to join/to merge//amalgamate/combine//and/also/together with/
+2	并	bing4	to combine, simultaneously	bing4	/and/furthermore/(not) at all/simultaneously/also/together with/to combine/to join/to merge//amalgamate/combine//and/also/together with/
+2	并且	bing4qie3	and	bing4qie3	/and/besides/moreover/furthermore/in addition/
+2	玻璃	bo1li	glass	bo1li	/glass/nylon/plastic/
+2	伯伯	bo2bo	fathers elder brother	bo2bo	/father's elder brother/uncle/
+2	伯母	bo2mu3	wife of fathers elder brother	bo2mu3	/wife of father's elder brother/aunt/(polite form of address for a woman who is about the age of one's mother)/
+2	脖子	bo2zi	neck	bo2zi	/neck/
+2	捕	bu3	to catch	bu3	/to catch/to seize/to capture/to catch/
+2	补	bu3	to repair	bu3	/to repair/to patch/to mend/to make up for/to fill (a vacancy)/to supplement/
+2	补充	bu3chong1	additional, to replenish	bu3chong1	/to replenish/to supplement/to complement/additional/supplementary/
+2	补课	bu3ke4	make up a missed lesson	bu3ke4	/make up a missed lesson/
+2	补习	bu3xi2	to study extracurricularly	bu3xi2	/take lessons after school or work/
+2	不必	bu4bi4	need not	bu4bi4	/need not/does not have to/
+2	不大	bu4da4	not big	bu2da4	/not very/not too/not often/
+2	不得不	bu4de2bu4	to have no choice but	bu4de2bu4	/have no choice or option but to/cannot but/have to/can't help it/can't avoid/
+2	不得了	bu4de2liao3	desperately serious	bu4de2liao3	/desperately serious/disastrous/extremely/exceedingly/
+2	不断	bu4duan4	unceasingly	bu4duan4	/unceasing/uninterrupted/continuous/constant/
+2	不敢当	bu4gan3dang1		bu4gan3dang1	/you flatter me/I don't deserve it (your praise)/
+2	不管	bu4guan3	disregarding	bu4guan3	/no matter (what, how)/regardless of/no matter/
+2	不过	bu4guo4	only	bu4guo4	/only/merely/no more than/but/however/only/
+2	不好意思	bu4hao3yi4si	feel embarrassed	bu4hao3yi4si	/feel embarrassed/be ill at ease/find it embarrassing (to do sth)/
+2	不仅	bu4jin3	not the only one, not only	bu4jin3	/not the only one/not only/not just/
+2	不论	bu4lun4	irrespective	bu4lun4	/no matter (what, who, how, etc.)/whether/or/regardless of/
+2	不平	bu4ping2	injustice	bu4ping2	/injustice/unfairness/wrong/grievance/indignant/resentful/
+2	不然	bu4ran2	not so	bu4ran2	/not so/no/or else/otherwise/if not/
+2	不少	bu2shao3	not just a few, not just a few	bu4shao3	/not (just) a few/
+2	不是吗	bu4shi4ma		bu2shi4ma	/isn't it/
+2	不行	bu4xing2	won	bu4xing2	/won't do/be out of the question/be no good/not work/not be capable/
+2	不幸	bu4xing4	misfortune, unfortunately	bu4xing4	/misfortune/adversity/unfortunate/sad/unfortunately/
+2	不许	bu4xu3	not allow	bu4xu3	/not allow/must not/can't/
+2	不要紧	bu4yao4jin3	unimportant	bu4yao4jin3	/unimportant/not serious/it doesn't matter/never mind/it looks all right/but/
+2	不一定	bu4yi2ding4	not certain	bu4yi1ding4	/not necessarily/maybe/
+2	不住	bu4zhu4	repeatedly	bu2zhu4	/repeatedly/continuously/constantly/
+2	布置	bu4zhi4	Placement	bu4zhi4	/(v) put in order; arrange; decorate//arrange/fix up/decorate/
+2	步	bu4	step	bu4	/a step/a pace/walk/march/stages in a process/
+2	部	bu4	ministry, part	bu4	/ministry/department/section/part/division/troops/board/(a measure word)/(a measure word for works of literature, films, machines, etc.)/
+2	部队	bu4dui4	army	bu4dui4	/army/armed forces/troops/force/unit/
+2	部门	bu4men2	department	bu4men2	/department/branch/section/division/
+2	部长	bu4zhang3	Minister	bu4zhang3	/head of a (government, etc) department/section chief/section head/secretary/minister/
+2	猜	cai1	to guess	cai1	/to guess/
+2	材料	cai2liao4	material	cai2liao4	/material/data/makings/stuff/
+2	踩	cai3	step upon	cai3	/step upon/tread on/stamp/
+2	采	cai3	affairs, to distinguish	cai3	/to pick/to pluck/to collect/to select/to choose/to gather//affairs/gather/
+2	采购	cai3gou4	procurement, to procure	cai3gou4	/make purchases for an organization or enterprise/purchase/
+2	采取	cai3qu3	to adopt	cai3qu3	/adopt or carry out (measures, policies, course of action)/to take/
+2	采用	cai3yong4	to adopt	cai3yong4	/to adopt/to employ/to use/
+2	彩色	cai3se4	chromatically	cai3se4	/color/multi-colored/
+2	餐厅	can1ting1	dining-hall	can1ting1	/dining-hall/
+2	藏	cang2	cache, VERB	cang2	/to hide away/to conceal/to harbor/store/accumulate/
+2	草地	cao3di4	lawn	cao3di4	/lawn/meadow/sod/turf/
+2	草原	cao3yuan2	campo	cao3yuan2	/grassland/prairie/
+2	厕所	ce4suo3	toilet	ce4suo3	/toilet/lavatory/
+2	册	ce4	book	ce4	/book/a measure word for books/booklet/
+2	测验	ce4yan4	test, to test	ce4yan4	/test/to test/
+2	曾	ceng2	once	ceng2	/(refers to something that happened previously)/already/at some time in the past/before/once/
+2	曾经	ceng2jing1	formerly	ceng2jing1	/(refers to something that happened previously)/once/at one time/
+2	插	cha1	to take part in	cha1	/insert/stick in/pierce/to take part in/to interfere/to interpose/
+2	叉子	cha1zi	broach	cha1zi	/fork/
+2	差	cha4	difference, to differ	cha4	/different/short of/poor/to lack/
+2	差不多	cha4buduo1	similar	cha4buduo1	/almost, nearly/
+2	差点儿	cha4dian3r		cha4dianr	/(adv) almost; just about to/
+2	拆	chai1	to unravel	chai1	/to tear open/to tear down/to tear apart/to open/
+2	产量	chan3liang4	production volume	chan3liang4	/output/
+2	产品	chan3pin3	merchandise	chan3pin3	/goods/merchandise/product/
+2	产生	chan3sheng1	to produce	chan3sheng1	/to come into being/to produce/to cause/to bring about/to generate/to yield/to engender/
+2	尝	chang2	indicator of past tense, to taste	chang2	/indicator of past tense/to taste/flavor/already/ever/once/test/already/formerly//to taste/
+2	长期	chang2qi1	long term, long term	chang2qi1	/long term/long time/
+2	长途	chang2tu2	long distance	chang2tu2	/long distance/
+2	超	chao1	to exceed, exceedingly	chao1	/to exceed/overtake/surpass/transcend/ultra-/super-/to pass/to cross/
+2	超过	chao1guo4		chao1guo4	/to surpass/to exceed/to outstrip/
+2	抄	chao1	to copy	chao1	/to copy/to plagiarize/to search and seize/to go/to transcribe/to take a shortcut/to search and confiscate/
+2	抄写	chao1xie3	transcription, to copy	chao1xie3	/to copy/to transcribe/
+2	吵	chao3	noisy, to quarrel	chao3	/to quarrel/to make a noise/noisy/to disturb by making a noise/
+2	车间	che1jian1	workshop	che1jian1	/workshop/
+2	彻底	che4di3	completely	che4di3	/thorough/complete/
+2	沉默	chen2mo4	silence	chen2mo4	/silence/uncommunicative/
+2	趁	chen4	avail oneself of	chen4	/avail oneself of/take advantage of/
+2	衬衫	chen4shan1	shirt	chen4shan1	/shirt/blouse/
+2	衬衣	chen4yi1	shirt	chen4yi1	/shirt/
+2	称	cheng1	to claim	cheng1	/to call/to praise/to weigh/to estimate/to consider/to call/to address/to name/to say/commend/
+2	称赞	cheng1zan4	acclamation, to praise	cheng1zan4	/to praise/to acclaim/to commend/to complement/
+2	成分	cheng2fen4	ingredient	cheng2fen4	/ingredient/
+2	成功	cheng2gong1	success, to succeed	cheng2gong1	/success/to succeed/
+2	成果	cheng2guo3	result	cheng2guo3	/result/achievement/gain/profit/
+2	成就	cheng2jiu4	accomplishment	cheng2jiu4	/accomplishment/success/attain a result/achievement/
+2	成立	cheng2li4	to establish	cheng2li4	/establish/set up/
+2	成熟	cheng2shu2	maturity, to mature	cheng2shu2	/mature/ripe/
+2	成为	cheng2wei2	to become	cheng2wei2	/to become/to turn into/
+2	成长	cheng2zhang3	to grow up	cheng2zhang3	/mature/grow up/
+2	乘	cheng2	ride, to avail of	cheng2	/ride/mount/make use of/take advantage of/multiply/to avail of/to ride/
+2	程度	cheng2du4	stage	cheng2du4	/degree (level or extent)/level/
+2	诚恳	cheng2ken3	heartfelt sentiment	cheng2ken3	/hearty/
+2	诚实	cheng2shi2	honest	cheng2shi2	/honest/honesty/honorable/truthful/
+2	承认	cheng2ren4	to acknowledge	cheng2ren4	/recognize/to acknowledge/to admit/
+2	吃惊	chi1jing1	to be startled, startled	chi1jing1	/to be startled/to be shocked/to be amazed/
+2	尺	chi3	foot	chi3	/a Chinese foot (M)/one-third of a meter/a ruler/a note musical note on traditional Chinese scale/
+2	翅膀	chi4bang3	wing	chi4bang3	/wing/
+2	充分	chong1fen4	adequate, sufficiently	chong1fen4	/full/abundant/
+2	充满	chong1man3	to be full of	chong1man3	/full of/brimming with/very full/permeated/
+2	充足	chong1zu2	ample, ample	chong1zu2	/adequate/sufficient/abundant/
+2	冲	chong1	dash against, to rinse	chong1	/to rinse/to collide/to water/to rush/to dash (against)/to wash out/to charge/highway/public road//dash against/
+2	虫子	chong2zi		chong2zi	/worm/insect/
+2	重	chong2	to double, heavy	chong2	/to double/to repeat/repetition/iteration/again/a layer/
+2	重叠	chong2die2	overlapping	chong2die2	/overlapping/
+2	重复	chong2fu4	Repeat, to repeat	chong2fu4	/to repeat/to duplicate/
+2	重新	chong2xin1	again	chong2xin1	/again/once more/re-/
+2	崇高	chong2gao1	majestic	chong2gao1	/majestic/sublime/
+2	抽象	chou1xiang4	abstract	chou1xiang4	/abstract/
+2	愁	chou2	worry about	chou2	/worry about/
+2	臭	chou4	stench, to smell	chou4	/stench/stink/smelly/to smell (bad)/
+2	初	chu1	initial	chu1	/at first/(at the) beginning/first/junior/basic/
+2	初步	chu1bu4	initial, initially	chu1bu4	/initial/preliminary/tentative/
+2	初级	chu1ji2	junior	chu1ji2	/junior/primary/
+2	出版	chu1ban3	to publish, press	chu1ban3	/to publish/to come off the press/to put out/
+2	出口	chu1kou3	export, to export	chu1kou3	/to speak/to exit/to go out/to export/
+2	出生	chu1sheng1	to be born	chu1sheng1	/to be born/
+2	出席	chu1xi2	to attend	chu1xi2	/attend/be present/
+2	出院	chu1yuan4	to leave hospital	chu1yuan4	/to leave hospital/
+2	厨房	chu2fang2	kitchen	chu2fang2	/kitchen/
+2	除	chu2	to remove, beyond	chu2	/remove/do away with/wipe out/divide/except/
+2	处	chu3	to reside	chu3	/to reside/to live/to dwell/to be in/to stay/get along with/to be in a position of/deal with/
+2	处分	chu3fen4	disposal	chu3fen1	/disposal/
+2	处理	chu3li3	to handle, handling	chu3li3	/to handle/to treat/to deal with/to process/
+2	处	chu4	to reside	chu4	/a place/location/spot/point/office/department/bureau/respect/
+2	传	chuan2	to transmit	chuan2	/to pass on/to spread/to transmit/to infect/to transfer/to circulate/to pass on/to conduct (electricity)/
+2	传播	chuan2bo1	transmission, to spread	chuan2bo1	/to disseminate/to propagate/to spread/
+2	传统	chuan2tong3	tradition, traditional	chuan2tong3	/tradition/
+2	闯	chuang3	break through, to rush	chuang3	/to rush/break through/
+2	创	chuang4	cut, to create	chuang4	/begin/initiate/inaugurate/start/create/
+2	创造	chuang4zao4	creativity, to create	chuang4zao4	/to create/to bring about/to produce/
+2	创作	chuang4zuo4	creative work, to create	chuang4zuo4	/to create/to produce/to write/creative work/creation/
+2	春节	chun1jie2	Spring Festival	chun1jie2	/Spring Festival (Chinese New Year)/
+2	此	ci3	this	ci3	/this/these/
+2	此外	ci3wai4	besides	ci3wai4	/besides/in addition/moreover/furthermore/
+2	刺	ci4	thorn	ci4	/thorn/sting/prick/pierce/stab/thrust/assassinate/murder/
+2	聪明	cong1ming	intelligent	cong1ming2	/intelligent/bright/
+2	从不/没	cong2bu4/mei2			
+2	从_出发	cong2_chu1fa1			
+2	从此	cong2ci3	thence	cong2ci3	/thereupon/henceforth/
+2	从而	cong2'er2	thus, as a result	cong2er2	/thus/thereby/
+2	从来	cong2lai2	always	cong2lai2	/always/at all times/never (if used in negative sentence)/
+2	从事	cong2shi4	to deal with	cong2shi4	/go for/engage in/undertake/to deal with/to handle/to do/
+2	粗	cu1	coarse	cu1	/coarse/rough/thick/unfinished/vulgar/rude/crude/
+2	醋	cu4	vinegar	cu4	/vinegar/
+2	促进	cu4jin4	stimulation, to promote	cu4jin4	/to promote (an idea or cause)/to advance/boost/
+2	催	cui1	urge	cui1	/urge/press/expedite/prompt/hurry/
+2	存	cun2	to exist	cun2	/exist/deposit/store/keep/survive/
+2	存在	cun2zai4	existence, to exist	cun2zai4	/to exist/to be/
+2	寸	cun4	inch	cun4	/a unit of length/inch/thumb/
+2	措施	cuo4shi1	measure	cuo4shi1	/measure/step (to be taken)/
+2	搭	da1		da1	/build (scaffolding)/take (boat, train)/hang/join/match/take passage/
+2	答应	da1ying	reply, to agree	da1ying	/reply/promise/
+2	答	da2	answer, to answer	da2	/reply/answer/return/respond/echo/
+2	答案	da2'an4	answer	da2an4	/answer/solution/
+2	答卷	da2juan4		da2juan4	/completed examination paper/answer sheet/
+2	达到	da2dao4	to reach	da2dao4	/to reach/to achieve/to attain/
+2	打扮	da3ban	dress up	da3ban4	/dress up/
+2	打倒	da3dao3	flatten	da3dao3	/flatten/
+2	打扰	da3rao3	disturb	da3rao3	/disturb/
+2	打听	da3ting	ask about	da3ting	/ask about/inquire about/
+2	打针	da3zhen1	to give or have an injection	da3zhen1	/to give or have an injection/
+2	大胆	da4dan3	courageous	da4dan3	/courageous/daring/fearless/
+2	大多数	da4duo1shu4	majority	da4duo1shu4	/(great) majority/
+2	大会	da4hui4	general assembly	da4hui4	/general assembly/general meeting/
+2	大伙儿	da4huo3r		da4huor	/(pron) everyone/
+2	大街	da4jie1	avenue	da4jie1	/street/main street/
+2	大量	da4liang4	great amount, a large amount of	da4liang4	/great amount/large quantity/numerous/
+2	大陆	da4lu4	mainland, mainland	da4lu4	/continent/mainland (esp. of China)/mainland China/
+2	大米	da4mi3	rice	da4mi3	/rice/
+2	大批	da4pi1	large quantities of	da4pi1	/large quantities of/
+2	大人	da4ren	adult	da4ren	/adult/grownup/
+2	大使馆	da4shi3guan3	embassy	da4shi3guan3	/embassy/
+2	大小	da4xiao3	size	da4xiao3	/dimension/magnitude/size/measurement/
+2	大型	da4xing2	large scale	da4xing2	/large scale/wide scale/broad scale/
+2	大衣	da4yi1	overcoat	da4yi1	/overcoat/topcoat/cloak/
+2	大约	da4yue1	approximately	da4yue1	/approximately/about/
+2	呆	dai1	to stay, dumb	dai1	/foolish/stupid/no expression/stay//stay/stupid/
+2	呆	dai1	to stay, dumb	dai1	/foolish/stupid/no expression/stay//stay/stupid/
+2	代	dai4	substitute, to represent	dai4	/substitute/replace/generation/dynasty/geological era/era/age/period/
+2	代替	dai4ti4	instead	dai4ti4	/instead/replace/
+2	袋	dai4	bag	dai4	/a pouch/bag/sack/pocket/
+2	待	dai4	stay	dai4	/wait/treat/deal with/need/about/intending to do something/
+2	担任	dan1ren4	to hold	dan1ren4	/hold a governmental office or post/
+2	担心	dan1xin1	anxious, to worry	dan1xin1	/anxious/worried/uneasy/to worry/to be anxious/worry/
+2	单	dan1	chieftain, single	dan1	/bill/list/form/single/only/sole/
+2	单	dan1	chieftain, single	dan1	/bill/list/form/single/only/sole/
+2	单词	dan1ci2	single word	dan1ci2	/word/
+2	单调	dan1diao4	monotonous	dan1diao4	/monotonous/
+2	单位	dan1wei4	unit	dan1wei4	/a unit/
+2	但	dan4	but	dan4	/but/yet/however/only/merely/still/
+2	淡	dan4	insipid	dan4	/insipid/diluted/weak/light in color/tasteless/fresh/indifferent/nitrogen/
+2	蛋	dan4	egg	dan4	/egg/oval shaped/
+2	蛋糕	dan4'gao1	cake	dan4gao1	/cake/
+2	当_的时候	dang1_deshi2hou4			
+2	当地	dang1di	local, locally	dang1di4	/local/
+2	当年	dang1nian2	in those days	dang1nian2	/in those days/then/in those years/during that time/
+2	当前	dang1qian2	current, ADJT	dang1qian2	/current/today's/modern/present/to be facing (us)/
+2	当时	dang1shi2	at that time	dang1shi2	/then/at that time/while/
+2	挡	dang3	hinder, to block	dang3	/hinder/resist/obstruct/hinder/cover/keep off/a cover/to block/to get in the way of/
+2	党	dang3	party	dang3	/party//party/association/club/society/
+2	党员	dang3yuan2	party member	dang3yuan2	/political party member/
+2	当	dang4	to be	dang4	/at or in the very same.../to pawn/suitable/adequate/fitting/proper/replace/represent/
+2	当做	dang4zuo4	to treat as	dang4zuo4	/to treat as/to regard as/to look upon as/
+2	刀子	dao1zi	knife	dao1zi	/knife/
+2	岛	dao3	island	dao3	/island/
+2	到处	dao4chu4	in all places	dao4chu4	/in all places/everywhere/
+2	到达	dao4da2	to reach	dao4da2	/to reach/to arrive/
+2	到底	dao4di3	finally, OTHR	dao4di3	/finally/in the end/when all is said and done/
+2	到底	dao4di3	finally, OTHR	dao4di3	/finally/in the end/when all is said and done/
+2	倒	dao4	bankrupt, to fall	dao4	/upset/turn over/to tip/to pour/to go home/to the contrary/inverted/
+2	倒是	dao4shi4			
+2	道	dao4	direction, to say	dao4	/direction/way/method/road/path/principle/truth/reason/skill/method/Tao (of Taoism)/a measure word/to say/to speak/to talk/
+2	道	dao4	direction, to say	dao4	/direction/way/method/road/path/principle/truth/reason/skill/method/Tao (of Taoism)/a measure word/to say/to speak/to talk/
+2	道德	dao4de2	moral	dao4de2	/moral/morality/virtue/
+2	道路	dao4lu4	road	dao4lu4	/road/path/way/
+2	道歉	dao4qian4	apology, to apologize	dao4qian4	/to apologize/to make an apology/
+2	德语	de2yu3	German	de2yu3	/German (language)/
+2	_的话_	_dehua4_			
+2	登	deng1	ceremonial vessel, to publish	deng1	/scale/climb/ascend/mount/go up/register/note/to publish/to issue/to record/
+2	登记	deng1ji4	registration, to register	deng1ji4	/to register (one's name)/
+2	等	deng3	and other, OTHR	deng3	/class/rank/grade/equal to/same as/wait for/await/et cetera/and so on/
+2	等待	deng3dai4	to wait	deng3dai4	/wait for/await/
+2	等于	deng3yu2	equal to	deng3yu2	/to equal/
+2	滴	di1	a drop, to drip	di1	/a drop/to drip/
+2	敌人	di2ren2	enemy	di2ren2	/enemy/
+2	的确	di2que4	really	di2que4	/really/indeed/
+2	低下	di1xia2	to lower	di1xia4	/(adj) low status; lowly/
+2	地带	di4dai4	region	di4dai4	/zone/
+2	地点	di4dian3	place	di4dian3	/place/site/location/
+2	地方	di4fang1	place	di4fang	/area/place/local/
+2	地面	di4mian4	floor	di4mian4	/floor/ground/surface/
+2	地球	di4qiu2	earth	di4qiu2	/the Earth/planet/
+2	地区	di4qu1	area, ADJT	di4qu1	/area/region/
+2	地图	di4tu2	map	di4tu2	/map/
+2	地位	di4wei4	status	di4wei4	/position/status/place/
+2	地下	di4xia4	underground	di4xia4	/underground/subterranean/
+2	地址	di4zhi3	address	di4zhi3	/address/
+2	递	di4	to hand over	di4	/to hand over/to pass/to give/
+2	电报	dian4bao4	telegraph	dian4bao4	/telegram/cable/telegraph/
+2	电冰箱	dian4bing1xiang1	fridge	dian4bing1xiang1	/refrigerator/
+2	电风扇	dian4feng1shan4	fanner	dian4feng1shan4	/electric fan/
+2	电视台	dian4shi4tai2	TV station	dian4shi4tai2	/(n) television station/
+2	电台	dian4tai2	broadcasting station	dian4tai2	/transmitter-receiver/broadcasting station/
+2	电梯	dian4ti1	elevator	dian4ti1	/elevator/
+2	电影院	dian4ying3yuan4	cinema	dian4ying3yuan4	/cinema/movie theater/
+2	店	dian4	inn	dian4	/inn/shop/store/
+2	吊	diao4	condole with, to hang a person	diao4	/to hang a person//condole with/hang/
+2	钓	diao4	to fish	diao4	/to fish with a hook and bait/
+2	调	diao4	mode music, to adjust	diao4	/mode (music)/to move (troops)/tune/tone/melody/to transfer/
+2	调查	diao4cha2	investigation, to investigate	diao4cha2	/investigation/inquiry/to investigate/to survey/survey/(opinion) poll/
+2	跌	die1	fall, to drop	die1	/to drop/to fall/to tumble/
+2	顶	ding3	most, to oppose	ding3	/go against/most/peak/top/to replace/to substitute/a measure word (use with "hat")/
+2	顶	ding3	most, to oppose	ding3	/go against/most/peak/top/to replace/to substitute/a measure word (use with "hat")/
+2	定	ding4	to set, settled	ding4	/to set/to fix/to determine/to decide/to order/
+2	订	ding4	conclude, to agree	ding4	/to agree/to conclude/to draw up/to subscribe to (a newspaper, etc.)/to order/
+2	东北	dong1bei3	northeast	dong1bei3	/northeast/
+2	东部	dong1bu4	East, Eastern	dong1bu4	/the east/the eastern part/
+2	东方	dong1fang1	East, eastern	dong1fang1	/the East/Eastern countries/
+2	东面	dong1mian4	the east of some place, to the east of some place	dong1mian4	/east side (of sth.)/
+2	东南	dong1nan2	southeast	dong1nan2	/southeast/
+2	懂得	dong3de	to understand	dong3de	/to understand/to know/to comprehend/
+2	动人	dong4ren2	touching	dong4ren2	/touching/moving/
+2	动身	dong4shen1	get out on a journey	dong4shen1	/go on a journey/leave/
+2	动手	dong4shou3	start work, to hit with hands or fists	dong4shou3	/to hit with hands or fists/to start work/to touch/
+2	动物园	dong4wu4yuan2	zoo	dong4wu4yuan2	/zoo/
+2	动员	dong4yuan2	mobilize	dong4yuan2	/mobilize/arouse/
+2	动作	dong4zuo4	movement	dong4zuo4	/movement/motion/action/
+2	冻	dong4	freeze, to freeze	dong4	/to freeze/
+2	洞	dong4	cave	dong4	/cave/hole/
+2	斗争	dou4zheng1	conflict, to fight	dou4zheng1	/struggle (with)/fight/battle/
+2	豆腐	dou4fu	tofu	dou4fu	/tofu/bean curd/
+2	逗	dou4	linger	dou4	/linger/
+2	独立	du2li4	independence, to be independent	du2li4	/to be independent/to stand alone/
+2	读书	du2shu1	to study	du2shu1	/study/read/
+2	读者	du2zhe3	reader	du2zhe3	/reader/
+2	堵	du3	stop up	du3	/stop up/
+2	肚子	du4zi	belly	du4zi	/belly/abdomen/
+2	度	du4	degree	du4	/capacity/degree/standard/
+2	度过	du4guo4	to pass	du4guo4	/spend/pass/
+2	渡	du4	cross a river,  the sea	du4	/to cross/to pass through/to ferry/
+2	端	duan1	end, to hold	duan1	/end/extremity/item/port/to hold sth. level with both hands/to carry/regular/
+2	短期	duan3qi1	short-term	duan3qi1	/short-term/
+2	断	duan4	absolutely, to judge	duan4	/absolutely/decidedly (in negative constructions)/break/to judge/
+2	堆	dui1	a pile	dui1	/a pile/a mass/heap/stack/
+2	队	dui4	team	dui4	/squadron/team/group/
+2	队伍	dui4wu	ranks	dui4wu3	/ranks/troops/
+2	队长	dui4zhang3	captain	dui4zhang3	/captain/team leader/
+2	对	dui4	couple, to oppose	dui4	/couple/pair/to be opposite/to oppose/to face/for/to/correct (answer)/to answer/to reply/to direct (towards sth)/right/
+2	对比	dui4bi3	contrast	dui4bi3	/contrast/balance/
+2	对待	dui4dai4	treatment	dui4dai4	/treat/treatment/
+2	对方	dui4fang1	counterpart	dui4fang1	/counterpart/other person involved/opposite side/other side/receiving party/
+2	对付	dui4fu	to tackle	dui4fu	/(v) handle; deal with/(v) get by with what one has/
+2	对话	dui4hua4	conversation, to talk	dui4hua4	/dialog/
+2	对面	dui4mian4	opposite	dui4mian4	/opposite/
+2	对象	dui4xiang4	target	dui4xiang4	/target/object/partner/boyfriend/girlfriend/
+2	对于	dui4yu2	regarding	dui4yu2	/regarding/as far as (something) is concerned/with regards to/
+2	吨	dun1	ton	dun1	/ton/
+2	蹲	dun1	crouch	dun1	/crouch/squat/
+2	多数	duo1shu4	majority	duo1shu4	/majority/most/
+2	夺	duo2	to seize	duo2	/rob/snatch/
+2	躲	duo3	avoid, to hide	duo3	/avoid/get out of way/to hide/to go into hiding/
+2	朵	duo3		duo3	/M for flowers/
+2	鹅	e2	goose	e2	/goose/
+2	而	er2	and	er2	/and/as well as/but (not)/yet (not)/(shows causal relation)/(shows change of state)/(shows contrast)/
+2	儿童	er2tong2	children	er2tong2	/child/
+2	耳朵	er3duo	ear	er3duo	/ear/
+2	发表	fa1biao3	publication, to issue	fa1biao3	/to issue (a statement)/to publish/to issue/to put out/
+2	发出	fa1chu1	to send out	fa1chu1	/to send out/to issue/
+2	发达	fa1da2	to develop, developed	fa1da2	/developed (country, etc.)/flourishing/to develop/
+2	发动	fa1dong4	to start	fa1dong4	/to start/to launch/to mobilize/
+2	发抖	fa1dou3	shiver	fa1dou3	/shiver/shudder/tremble/tremulous/
+2	发挥	fa1hui1	to bring into play	fa1hui1	/bring to bear/bring into play/unleash/
+2	发明	fa1ming2	invention, to invent	fa1ming2	/to invent/invention/
+2	发言	fa1yan2	statement, to send a letter	fa1yan2	/statement/utterance/
+2	发扬	fa1yang2	to praise, glorious	fa1yang2	/develop/make full use of/
+2	法郎	fa3lang2	franc	fa3lang2	/franc/
+2	法律	fa3lv4	law, legal	fa3lu:4	/law/
+2	繁荣	fan2rong2	prosperity, prosperous	fan2rong2	/prosperous/booming (economy)/
+2	凡	fan2	ordinary	fan2	/ordinary/every/all/whatever/worldly/
+2	反动	fan3dong4	counteraction	fan3dong4	/reaction/reactionary/
+2	反复	fan3fu4	repeatedly	fan3fu4	/repeatedly/over and over/
+2	反抗	fan3kang4	resistance, to resist	fan3kang4	/revolt/resist/
+2	反应	fan3ying4	reaction	fan3ying4	/reaction/response/reply/
+2	反映	fan3ying4	reaction, to reflect	fan3ying4	/reaction/response/to reflect/to mirror/
+2	反正	fan3zheng4	actually	fan3zheng4	/anyway/anyhow/in any case/
+2	范围	fan4wei2	scope	fan4wei2	/range/scope/limit/extent/
+2	犯	fan4	contravene, to violate	fan4	/to violate/to offend/
+2	方	fang1	side	fang1	/square/quadrilateral/direction/just/
+2	方案	fang1'an4	plan	fang1an4	/plan/program (for action, etc)/proposal/proposed bill/
+2	方式	fang1shi4	method	fang1shi4	/way (of life)/pattern/style/mode/manner/
+2	方针	fang1zhen1	policy	fang1zhen1	/policy/guidelines/
+2	房子	fang2zi	house	fang2zi	/house/
+2	防	fang2	to protect	fang2	/to protect/to defend/to guard (against)/
+2	防止	fang2zhi3	to prevent	fang2zhi3	/to prevent/to guard against/to take precautions/
+2	仿佛	fang3fu2			
+2	纺织	fang3zhi1	textile, to weave	fang3zhi1	/spinning (thread)/
+2	放大	fang4da4	enlargement, to enlarge	fang4da4	/enlarge/
+2	放弃	fang4qi4	to renounce	fang4qi4	/to renounce/to abandon/to give up/
+2	放心	fang4xin1	to relax, relaxed	fang4xin1	/to set one's mind at rest/to be at ease/to rest/
+2	非_不可	fei1_bu4ke3			
+2	肥	fei2	fat, to fatten	fei2	/loose-fitting/fat/fertile/
+2	肺	fei4	lung	fei4	/lung/
+2	费	fei4	fee, to cost	fei4	/to cost/to spend/fee/wasteful/expenses/(surname)/
+2	费	fei4	fee, to cost	fei4	/to cost/to spend/fee/wasteful/expenses/(surname)/
+2	费用	fei4yong4	cost	fei4yong4	/cost/expenditure/expense/
+2	吩咐	fen1fu4	enjoin	fen1fu4	/tell/instruct/command/
+2	分别	fen1bie2	difference, to distinguish	fen1bie2	/difference/distinction/apart/separate/separately/respectively/
+2	分配	fen1pei4	division, to distribute	fen1pei4	/to distribute/to assign/to allocate/
+2	分析	fen1xi1	analysis, to analyze	fen1xi1	/to analyze/analysis/
+2	纷纷	fen1fen1	one after the other	fen1fen1	/one after another/in succession/one by one/
+2	粉笔	fen3bi3	chalk	fen3bi3	/chalk/
+2	奋斗	fen4dou4	struggle, to struggle	fen4dou4	/strive/struggle/
+2	份	fen4		fen4	/(a measure word for gifts, copies of a newspaper)/copy (of newspaper, magazine, etc.)/share/portion/part/(a measure word)/
+2	愤怒	fen4nu4	angry	fen4nu4	/angry/indignant/
+2	封建	feng1jian4	feudal	feng1jian4	/feudal/
+2	风景	feng1jing3	scenery	feng1jing3	/scenery/landscape/
+2	风力	feng1li4		feng1li4	/wind-force/wind power/
+2	风俗	feng1su2	custom	feng1su2	/custom/
+2	逢	feng2	every time, to encounter	feng2	/every time/meet by chance/
+2	否定	fou3ding4	negative	fou3ding4	/negative/
+2	否则	fou3ze2	if not	fou3ze2	/if not/otherwise/else/or else/
+2	扶	fu2	to support	fu2	/to support with hand/to help sb. up/to help/
+2	幅	fu2		fu2	/(measure word for textile or picture)/width/roll/
+2	符合	fu2he2	qualification, to fit	fu2he2	/in keeping with/in accordance with/to agree with/to correspond with/to be in line with/manage/to handle/
+2	服从	fu2cong2	obey an order	fu2cong2	/obey (an order)/
+2	浮	fu2	to float	fu2	/to float/
+2	副	fu4	vice	fu4	/secondary/auxiliary/deputy/assistant/vice-/(measure word for a pair)/
+2	副	fu4	vice	fu4	/secondary/auxiliary/deputy/assistant/vice-/(measure word for a pair)/
+2	副食	fu4shi2		fu4shi2	/non-staple food/
+2	复述	fu4shu4	Repeat	fu4shu4	/repeat/retell/
+2	复印	fu4yin4	manifolding	fu4yin4	/(v) make a photocopy; duplicate document/
+2	付	fu4	to pay	fu4	/pay/
+2	富	fu4	wealthy	fu4	/rich/
+2	妇女	fu4nv3	woman	fu4nu:3	/woman/
+2	该	gai1	to deserve, should	gai1	/that/the above-mentioned/most likely/to deserve/should/ought to/owe/
+2	改革	gai3ge2	reform, to reform	gai3ge2	/to reform/
+2	改进	gai3jin4	improvement, to improve	gai3jin4	/to improve/to make better/
+2	改善	gai3shan4	improvement, to improve	gai3shan4	/to make better/to improve/
+2	改造	gai3zao4	to change, to transform	gai3zao4	/to change/to alter/to transform/
+2	改正	gai3zheng4	correction, to correct	gai3zheng4	/to correct/to amend/to put right/correction/
+2	概括	gai4kuo4	epitome, to summarize	gai4kuo4	/summarize/generalize/briefly/
+2	概念	gai4nian4	concept	gai4nian4	/concept/idea/
+2	盖	gai4	lid, to build	gai4	/lid/top/cover/canopy/to build/
+2	干	gan1	dry, to concern	gan1	/dry/to concern/shield/
+2	干杯	gan1bei1			
+2	干脆	gan1cui4	sharp, sharply		
+2	干燥	gan1zao4	dryness, to dry	gan1zao4	/to dry (of paint, cement, etc.)/dessication/dull/uninteresting/
+2	杆	gan1	pole	gan1	/pole/
+2	肝	gan1	liver	gan1	/liver/
+2	赶	gan3	to overtake	gan3	/catch up/drive away/hurry//to catch up/to overtake/to hurry/to rush/to drive away/
+2	赶紧	gan3jin3	hurriedly	gan3jin3	/hurriedly/
+2	赶快	gan3kuai4	at once	gan3kuai4	/at once/immediately/
+2	感动	gan3dong4	to touch, touched	gan3dong4	/to move (sb)/to touch/moving/
+2	感激	gan3ji1	appreciate	gan3ji1	/appreciate/
+2	感觉	gan3jue2	feeling, to feel	gan3jue2	/to feel/to become aware of/feeling/sense/perception/
+2	感情	gan3qing2	feeling	gan3qing2	/feeling/emotion/affection/sensation/
+2	感想	gan3xiang3		gan3xiang3	/impressions/reflections/thoughts/
+2	感兴趣	gan3xing4qu4	to feel interested	gan3xing4qu4	/be interested/
+2	干活儿	gan4huo2r		gan4huor	/(v) do manual work/
+2	干吗	gan4ma2			
+2	刚刚	gang1gang1	just recently	gang1gang	/just recently/just a moment ago/
+2	钢	gang1	steel	gang1	/steel/
+2	港	gang3	harbor	gang3	/harbor/Hong Kong (abbr.)/
+2	高大	gao1du4		gao1da4	/tall/lofty/
+2	高度	gan1du4	height, high level	gao1du4	/height/very/high degree/highly/height/highness/
+2	高原	gao1yuan2	plateau	gao1yuan2	/plateau/
+2	告	gao4	to tell	gao4	/to tell/to inform/to say/
+2	告别	gao4bie2	adios, to leave	gao4bie2	/to leave/to bid farewell to/to say good-bye to/
+2	搁	ge1	to place	ge1	/to place/
+2	胳膊	ge1bo		ge1bo	/(n) arm/
+2	割	ge1	to cut	ge1	/cut off/
+2	革命	ge2ming4	revolution, revolutionary	ge2ming4	/(political) revolution/
+2	隔	ge2	to separate	ge2	/to separate/to stand or lie between/to divide/to cut off/
+2	隔壁	ge2bi4	bulkhead	ge2bi4	/next door/
+2	个别	ge4bie2	individual	ge4bie2	/individual/respective/respectively/
+2	个人	ge4ren2	individual	ge4ren2	/individual/personal/oneself/
+2	个体	ge4ti3	individual	ge4ti3	/individual/
+2	个子	ge4zi	height	ge4zi	/height/stature/build/size/
+2	根本	gen1ben3	basic, basically	gen1ben3	/(not) at all/simply/fundamental/basic/root/
+2	根据	gen1ju4	according to	gen1ju4	/according to/based on/basis/foundation/
+2	跟前	gen1qian2	front	gen1qian2	/front/in front (of)/
+2	更加	geng4jia1	even more, even more	geng4jia1	/more (than sth else)/even more/
+2	工程	gong1cheng2	project	gong1cheng2	/engineering/an engineering project/project/undertaking/
+2	工程师	gong1cheng2shi1	engineer	gong1cheng2shi1	/engineer/
+2	工夫	gong1fu	work	gong1fu	/work/labor/effort/
+2	工会	gong1hui4	union	gong1hui4	/union/
+2	工具	gong1ju4	tool	gong1ju4	/tool/instrument/utensil/means/
+2	工艺品	gong1yi4pin3	artware	gong1yi4pin3	/handicraft article/handiwork/
+2	工资	gong1zi1	wages	gong1zi1	/wages/pay/
+2	功夫	gong1fu	skill	gong1fu	/skill/art/kung fu/labor/effort/
+2	供	gong1	to offer	gong1	/offer (information etc.)/supply/
+2	供给	gong1ji3	supply, to supply	gong1gei3	/furnish/provide/supply/
+2	公费	gong1fei4	bursary	gong1fei4	/at public expense/
+2	公共	gong1gong4	public	gong1gong4	/public/common (use)/
+2	公开	gong1kai1	to make public, publicly	gong1kai1	/public/
+2	公路	gong1lu4	highway	gong1lu4	/public road/
+2	公司	gong1si1	company	gong1si1	/(business) company/company/firm/corporation/incorporated/
+2	公用电话	gong1yong4dian4hua4	jetton	gong1yong4dian4hua4	/public phone/
+2	公园	gong1yuan2	park	gong1yuan2	/a public park/
+2	巩固	gong3gu4	consolidate	gong3gu4	/consolidate/
+2	贡献	gong4xian4	contribution, to contribute	gong4xian4	/to contribute/to dedicate/to devote/contribution/
+2	共	gong4	all together, to share	gong4	/all together/in while/to share/common/general/together/
+2	共产党	gong4chan3dang3	Communist party	gong4chan3dang3	/Communist party/
+2	共同	gong4tong2	common, jointly	gong4tong2	/common/joint/jointly/together/collaborative/
+2	狗	gou3	dog	gou3	/dog/
+2	构成	gou4cheng2	to constitute	gou4cheng2	/to constitute/to form/to compose/to make up/
+2	构造	gou4zao4	structure	gou4zao4	/structure/composition/
+2	估计	gu1ji4	estimate, to estimate	gu1ji4	/estimate/reckon/
+2	姑姑	gu1gu		gu1gu	/(n) paternal aunt/
+2	鼓	gu3	convex, to rouse	gu3	/convex/drum/to rouse/to beat/
+2	鼓励	gu3li4	encouragement, to encourage	gu3li4	/to encourage/
+2	鼓舞	gu3wu3	encouragement, to encourage	gu3wu3	/heartening (news)/boost (morale)/
+2	鼓掌	gu3zhang3	to applaud	gu3zhang3	/to applaud/
+2	古	gu3	ancient	gu3	/ancient/old/
+2	古代	gu3dai4	ancient times	gu3dai4	/ancient times/olden times/
+2	估计	gu1ji4	estimate, to estimate	gu1ji4	/estimate/reckon/
+2	古老	gu3lao3	ancient	gu3lao3	/ancient/old/age-old/
+2	骨头	gu3tou	bone	gu2tou	/bone/man of character/
+2	故乡	gu4xiang1	home	gu4xiang4	/home/homeland/native place/
+2	故意	gu4yi4	deliberately	gu4yi4	/deliberately/on purpose/
+2	顾	gu4	look after, to attend to	gu4	/look after/take into consideration/to attend to/
+2	顾客	gu4ke4	client	gu4ke4	/client/customer/
+2	挂号	gua4hao4		gua4hao4	/to register (a letter, etc.)/
+2	拐	guai3	kidnap, to turn	guai3	/kidnap/to turn/
+2	怪	guai4	queer, to blame	guai4	/queer/to blame/
+2	关键	guan1jian4	key, crucial	guan1jian4	/crucial/key/pivotal/
+2	关于	guan1yu2	regarding	guan1yu2	/pertaining to/concerning/regarding/with regards to/about/
+2	关照	guan1zhao4	concern, to keep an eye on	guan1zhao4	/concern/care/to keep an eye on/to look after/
+2	官	guan1	official	guan1	/official/government/
+2	观察	guan1cha2	to observe	guan1cha2	/to observe/to watch/to survey/to examine/
+2	观点	guan1dian3	point of view	guan1dian3	/point of view/viewpoint/standpoint/
+2	观众	guan1zhong4	audience	guan1zhong4	/spectators/
+2	管	guan3	tube, to take care of	guan3	/to take care (of)/to control/to manage/to be in charge of/to look after/to run/tube/pipe/
+2	冠军	guan4jun1	champion	guan4jun1	/champion/
+2	罐头	guan4tou		guan4tou	/tin/can/
+2	贯彻	Guan4che4	to carry out, thoroughly	guan4che4	/implement/put into practice/carry out/
+2	光	guang1	light	guang1	/light/ray/bright/
+2	光	guang1	light	guang1	/light/ray/bright/
+2	光	guang1	light	guang1	/light/ray/bright/
+2	光辉	guang1hui1	radiance	guang1hui1	/radiance/
+2	光明	guang1ming2	bright future	guang1ming2	/bright (future)/promising/
+2	光荣	guang1rong2	honor and glory	guang1rong2	/honor and glory/
+2	光线	guang1xian4	optical line	guang1xian4	/optical line/optical cable/light ray/
+2	广场	guang3chang3	square	guang3chang3	/a public square (e.g. Tiananmen Square)/
+2	广大	guang3da4	vast	guang3da4	/vast/extensive/
+2	广泛	guang3fan4	extensive	guang3fan4	/extensive/wide range/
+2	广告	guang3gao4	advertisement, to advertise	guang3gao4	/to advertise/
+2	广阔	guang3kuo4	wide	guang3kuo4	/wide/vast/
+2	逛	guang4	to stroll	guang4	/to stroll/to visit/
+2	规定	gui1ding4	provision, to fix	gui1ding4	/provision/to fix/to set/to formulate/to stipulate/to provide/
+2	规律	gui1lv4	regulation	gui1lu:4	/discipline/
+2	规模	gui1mo2	scale	gui1mo2	/scale/scope/extent/
+2	鬼	gui3	ghost	gui3	/ghost/sly/crafty/
+2	跪	gui4	kneel	gui4	/kneel/
+2	滚	gun3	to boil	gun3	/to boil/to roll/
+2	锅	guo1	pot	guo1	/pot/pan/boiler/
+2	国际	guo2ji4	international, international	guo2ji4	/international/
+2	国民党	Guo2min2dang3	Kuomintang	guo2min2dang3	/Kuomintang/nationalist party/
+2	国王	guo2wang2	king	guo2wang2	/king/
+2	果然	guo3ran2	really	guo3ran2	/really/sure enough/as expected/
+2	过程	guo4cheng2	process	guo4cheng2	/course of events/process/
+2	过年	guo4nian2	New Year, to pass the year	guo4nian2	/celebrate the New Year/
+2	海关	hai3guan1	customs	hai3guan1	/customs (i.e., border crossing inspection)/
+2	海洋	hai3yang2	ocean	hai3yang2	/ocean/
+2	害	hai4	harm, to do harm to	hai4	/to do harm to/to cause trouble to/harm/evil/calamity/
+2	害处	hai4chu		hai4chu	/(n) harm/
+2	害怕	hai4pa4	funk, to be afraid	hai4pa4	/to be afraid/to be scared/
+2	含	han2	to keep	han2	/to keep/to contain/
+2	寒冷	han2leng3	cold climate	han2leng3	/cold (climate)/frigid/very cold/
+2	汗	han4	perspiration	han4	/perspiration/sweat/
+2	行	hang2	row, to go	hang2	/a row/profession/professional/
+2	航空	hang2kong1	aviation	hang2kong1	/aviation/
+2	毫不	hao2bu4	hardly	hao2bu2	/hardly/not in the least/not at all/
+2	毫无	hao2wu2	regardless how	hao2wu2	/without/
+2	好好儿	hao3hao1r			
+2	好久	hao3jiu3		hao3jiu3	/quite a while/
+2	好容易	hao3rong2yi4		hao3rong2yi4	/with great difficulty/have a hard time/
+2	好听	hao3ting1		hao3ting1	/pleasant to hear/
+2	好玩儿	hao3wan2r		hao3wanr	/(adj) interesting; delightful/
+2	好些	hao3xie1		hao3xie1	/a good deal of/quite a lot/
+2	号码	hao4ma3	number	hao4ma3	/number/
+2	号召	hao4zhao4	to call upon	hao4zhao4	/call/appeal/
+2	好	hao4	good, good	hao4	/be fond of/
+2	和平	he2ping2	peace, peaceful	he2ping2	/peace/
+2	合	he2	council, to join	he2	/Chinese musical note/fit/to join/
+2	合理	he2li3	rational	he2li3	/rationale/reasonable/
+2	合同	he2tong	contract	he2tong	/(business) contract/
+2	合作	he2zuo4	cooperation, to cooperate	he2zuo4	/to cooperate/to collaborate/to work together/cooperation/
+2	盒	he2	small box	he2	/small box/case/
+2	嘿	hei1	hey	hei1	/hey/
+2	黑暗	hei1'an4	darkness, dark	hei1an4	/dark/darkly/darkness/
+2	恨	hen4	to hate	hen4	/to hate/
+2	哼	heng1	hum	heng1	/hum/
+2	红茶	hong2cha2	black tea	hong2cha2	/black tea/
+2	红旗	hong2qi2	Red Flag	hong2qi2	/red flag/
+2	猴子	hou2zi	monkey	hou2zi	/monkey/
+2	厚	hou4	thick	hou4	/generous/thick (for flat things)/
+2	后悔	hou4hui3	regret	hou4hui3	/regret/repent/
+2	后来	hou4lai2	afterwards	hou4lai2	/afterwards/later/
+2	后面	hou4mian	rear	hou4mian	/rear/back/behind/
+2	后年	hou4nian2		hou4nian2	/(n) the year after next//the year after next/
+2	后天	hou4tian1	day after tomorrow	hou4tian1	/day after tomorrow/post-natal/
+2	呼	hu1	to call	hu1	/to call/to cry/to shout/to breath out/to exhale/
+2	呼吸	hu1xi1	breathe	hu1xi1	/breathe/
+2	壶	hu2	pot	hu2	/pot/(a measure word)/
+2	胡乱	hu2luan4		hu2luan4	/carelessly/recklessly/
+2	胡子	hu2zi	beard	hu2zi	/beard/moustache or whiskers/facial hair/
+2	糊涂	hu2tu	muddled	hu2tu	/muddled/silly/
+2	护士	hu4shi	nurse	hu4shi	/nurse/
+2	护照	hu4zhao4	passport	hu4zhao4	/passport/
+2	户	hu4	household	hu4	/a household/door/family/
+2	花园	hua1yuan2	garden	hua1yuan2	/garden/
+2	划	hua2	draw a line, to delimit	hua2	/to row/
+2	滑	hua2	comical, to slide	hua2	/comical/cunning/slippery/smooth/
+2	滑冰	hua2bing1	skating, to skate	hua2bing1	/to skate/skating/
+2	画报	hua4bao4	pictorial magazine	hua4bao4	/pictorial (magazine)/
+2	划	hua4	draw a line, to delimit	hua4	/to delimit/to transfer/to assign/to differentiate/to mark off/to draw (a line)/to delete/stroke of a Chinese character/
+2	化	hua4	ization	hua4	/to make into/to change into/-ization/to ... -ize/to transform/
+2	坏处	huai4chu		huai4chu	/(n) harm; troubles/
+2	欢送	huan1song4	to send off	huan1song4	/see off/send off/
+2	环	huan2	to surround, surrounding	huan2	/bracelet/ring (not for finger)/to surround/to loop/loop/
+2	环境	huan2jing4	environment, environmental	huan2jing4	/environment/circumstances/surroundings/
+2	慌	huang1	nervous	huang1	/nervous/
+2	黄瓜	huang2gua	cucumber	huang2gua1	/cucumber/
+2	黄油	huang2you2		huang2you2	/butter/
+2	皇帝	huang2di4	emperor	huang2di4	/emperor/
+2	灰	hui1	grey	hui1	/gray/ash/
+2	挥	hui1	to wield	hui1	/scatter/wield/wipe away/
+2	恢复	hui1fu4	to reinstate	hui1fu4	/to reinstate/to resume/to restore/to recover/to regain/
+2	回头	hui2tou2	to look back	hui2tou2	/turn round/
+2	回信	hui2xin4		hui2xin4	/reply/write back/
+2	回忆	hui2yi4	recollection, to recall	hui2yi4	/recall/recollect/
+2	会场	hui4chang3	meeting place	hui4chang3	/meeting place/place where people gather/
+2	会见	hui4jian4	meeting, to meet	hui4jian4	/to meet with (someone who is paying a visit)/
+2	会客	hui4ke4		hui4ke4	/receive a visitor/
+2	会谈	hui4tan2	talks	hui4tan2	/talks/discussions/
+2	会议	hui4yi4	conference	hui4yi4	/meeting/conference/
+2	昏迷	hun1mi2	conk, to lose consciousness	hun1mi2	/to lose consciousness/to be in a coma/
+2	婚姻	hun1yin1	matrimony	hun1yin1	/matrimony/wedding/marriage/
+2	混	hun4	to mix, dirty	hun4	/to mix/to get along/thoughtless/
+2	活泼	huo2po	lively	huo2po	/lively/vivacious/brisk/active/
+2	活跃	huo2yue4	active	huo2yue4	/active/vigorous/
+2	伙食	huo3shi		huo3shi2	/(n) food or meal served at a mess hall/
+2	火	huo3	fire	huo3	/fire/
+2	火柴	huo3chai2	match	huo3chai2	/match/
+2	获得	huo4de2	to obtain	huo4de2	/to obtain/to receive/to get/
+2	或	huo4	maybe, or	huo4	/maybe/perhaps/might/possibly/or/
+2	货	huo4	product	huo4	/goods/money/commodity/
+2	几乎	ji1hu1	almost	ji1hu1	/almost/nearly/practically/
+2	机床	ji1chuang2		ji1chuang2	/machine tool/
+2	机关	ji1guan1	organ	ji1guan1	/organ/mechanism/
+2	机械	ji1xie4	machine	ji1xie4	/machine/mechanical/
+2	积极	ji1ji2	active, actively	ji1ji2	/active/energetic/vigorous/positive (outlook)/proactive/
+2	积极性	ji1ji2xing4	activeness	ji1ji2xing4	/zeal/initiative/enthusiasm/activity/
+2	积累	ji1lei3	to accumulate	ji1lei3	/accumulate/
+2	激动	ji1dong4	exciting, to excite	ji1dong4	/to excite/to agitate/exciting/
+2	激烈	ji1lie4	intense, intense	ji1lie4	/intense/acute/fierce/
+2	极	ji2	extremely	ji2	/extremely/pole (geography, physics)/utmost/top/
+2	极其	ji2qi2	exceedingly	ji2qi2	/extremely/
+2	集	ji2	volume, to gather	ji2	/to gather/to collect/collected works/
+2	集体	ji2ti3	group, collective	ji2ti3	/collective/
+2	集中	ji2zhong1	to concentrate, concentrated	ji2zhong1	/to concentrate/to centralize/to focus/centralized/concentrated/to put together/
+2	及其	ji2qi2	and	ji2qi2	/and/as well as/
+2	及格	ji2ge2	satis, to pass a test	ji2ge2	/to pass a test/
+2	及时	ji2shi2	promptly	ji2shi2	/in time/promptly/without delay/timely/
+2	急忙	ji2mang2	hastily	ji2mang2	/hastily/
+2	即	ji2	to approach, immediately	ji2	/namely/right away/to approach/to draw near/
+2	级	ji2	level	ji2	/level/grade/rank/step/
+2	技术员	ji4shu4yuan2	technician	ji4shu4yuan2	/technician/
+2	季节	ji4jie2	season	ji4jie2	/time/season/period/
+2	计算	ji4suan4	processor, to count	ji4suan4	/to count/to calculate/to compute/
+2	记得	ji4de	to remember	ji4de	/to remember/
+2	记录	ji4lu4	record	ji4lu4	/record/
+2	记忆	ji4yi4	memory	ji4yi4	/memories/remember/memory/
+2	记者	ji4zhe3	writer	ji4zhe3	/reporter/journalist/
+2	既	ji4	already	ji4	/already/since/both... (and...)/
+2	既_也_	ji4_ye3_			
+2	既_又_	ji4_you4_			
+2	既然	ji4ran2	insomuch as	ji4ran2	/since/as/this being the case/
+2	纪律	ji4lv4	discipline	ji4lu:4	/discipline/
+2	纪念	ji4nian4	memorial, to commemorate	ji4nian4	/to commemorate/to remember/
+2	夹	jia1	clip, to press from both sides	jia1	/clip/folder/hold between/to press from both sides/to place in between/
+2	家具	jia1ju	furniture	jia1ju4	/furniture/
+2	家乡	jia1xiang1	home	jia1xiang1	/hometown/native place/
+2	加工	jia1gong1		jia1gong1	/to process/processing/working (of machinery)/
+2	加强	jia1qiang2	to reinforce	jia1qiang2	/to reinforce/to strengthen/to increase/
+2	加以	jia1yi3		jia1yi3	/in addition/[before a verb] handle, deal with/
+2	假	jia3	to borrow, fake	jia3	/fake/false/artificial/to borrow/if/suppose/
+2	价格	jia4ge2	price	jia4ge2	/price/
+2	价值	jia4zhi2	value	jia4zhi2	/value/worth/
+2	架	jia4	to support	jia4	/to support/frame/rack/framework/measure word for planes, large vehicles, radios, etc./
+2	假条	jia4tiao2		jia4tiao2	/leave permit/application for leave/
+2	坚定	jian1ding4	firm, resolute	jian1ding4	/firm/steady/staunch/
+2	坚决	jian1jue2	uncompromising, firmly	jian1jue2	/firm/resolute/determined/
+2	坚强	jian1qiang2	strong	jian1qiang2	/staunch/strong/
+2	尖	jian1	point of needle	jian1	/point (of needle)/sharp/shrewd/pointed/
+2	尖锐	jian1rui4	sharp	jian1rui4	/sharp/intense/penetrating/pointed/
+2	肩	jian1	shoulder	jian1	/shoulder/
+2	艰巨	jian1ju4	difficult task	jian1ju4	/very difficult (task)/
+2	艰苦	jian1ku3	difficult, difficult	jian1ku4	/difficult/hard/arduous/
+2	拣	jian3	choose	jian3	/choose/pick up/
+2	捡	jian3		jian3	/pick up/collect/gather/
+2	剪	jian3	scissors, to cut	jian3	/cut with scissors/scissors/
+2	减	jian3	coastdown, to lower	jian3	/to lower/to decrease/to reduce/to subtract/to diminish/
+2	减轻	jian3qing1	abatement, to moderate	jian3qing1	/lighten/ease/alleviate/
+2	减少	jian3shao3	reduction, to lessen	jian3shao3	/to lessen/to decrease/to reduce/to lower/
+2	箭	jian4	arrow	jian4	/arrow/
+2	渐渐	jian4jian4	gradually	jian4jian4	/gradually/
+2	建	jian4	to build	jian4	/to establish/to found/to set up/to build/to construct/
+2	建立	jian4li4	establishment, to establish	jian4li4	/creation/set up/construction/build/establish/set up/
+2	建议	jian4yi4	proposal, to propose	jian4yi4	/to propose/to suggest/to recommend/proposal/suggestion/recommendation/
+2	建筑	jian4zhu4	building, to build	jian4zhu4	/building/construct/
+2	将	jiang1	to get, will	jiang1	/(will, shall, "future tense")/ready/prepared/to get/to use/
+2	将	jiang1	to get, will	jiang1	/(will, shall, "future tense")/ready/prepared/to get/to use/
+2	将要	jiang1yao4		jiang1yao4	/will/shall/be going to/
+2	奖	jiang3	prize	jiang3	/prize/award/encouragement/
+2	奖学金	jiang3xue2jin1	scholarship	jiang3xue2jin1	/scholarship/
+2	讲话	jiang3hua4	speech, to speak	jiang3hua4	/a speech/to speak/to talk/to address/
+2	讲座	jiang3zuo4	lecture hall	jiang3zuo4	/a course of lectures/
+2	酱油	jiang4you2	soy sauce	jiang4you2	/soy sauce/
+2	降	jiang4	fall, to fall	jiang4	/to drop/to fall/to come down/to descend/
+2	降低	jiang4di1	reduction, to reduce	jiang4di1	/to reduce/to lower/to bring down/
+2	交换	jiao1huan4	exchange, to exchange	jiao1huan4	/to exchange/to swap/(telecom) to switch/(math.) to commute/(math.) commutative/
+2	交际	jiao1ji4	intercommunicate	jiao1ji4	/communication/social intercourse/
+2	交流	jiao1liu2	exchange, to exchange	jiao1liu2	/exchange/give-and-take/to exchange/to alternate/
+2	交通	jiao1tong1	traffic	jiao1tong1	/(automobile) traffic/communication/
+2	郊区	jiao1qu1	suburban district	jiao1qu1	/suburban district/outskirts/suburbs/
+2	骄傲	jiao1'ao4	pride, proud	jiao1ao4	/arrogant/conceited/full of oneself/
+2	角	jiao3	angle	jiao3	/angle/horn/horn-shaped/
+2	教材	jiao4cai2	teaching material	jiao4cai2	/teaching material/
+2	教师	jiao4shi1	teacher	jiao4shi1	/teacher/
+2	教授	jiao4shou4	professor	jiao4shou4	/university professor/
+2	教学	jiao4xue2	teacher and student	jiao4xue2	/teacher and student/education/
+2	教训	jiao4xun	lesson, to learn a lesson	jiao4xun	/(teach someone or learn a) lesson (i.e. obtain wisdom from an experience)/
+2	教员	jiao4yuan2	teacher	jiao4yuan2	/teacher/instructor/
+2	较	jiao4	distinct, when compared to	jiao4	/clear/distinct/compare/comparatively/
+2	叫做	jiao4zuo4	to be called	jiao4zuo4	/be called/be known as/
+2	接触	jie1chu4	contact, to contact	jie1chu4	/contact/to contact/to be in touch with/
+2	接待	jie1dai4	to admit	jie1dai4	/receive (a visit)/admit (entry to)/
+2	接到	jie1dao4	to receive	jie1dao4	/receive (letter etc.)/
+2	接见	jie1jian4	to receive	jie1jian4	/receive sb./grant an interview to/
+2	接近	jie1jin4	near, to near	jie1jin4	/near/close to/
+2	接受	jie1shou4	to accept	jie1shou4	/to accept/to receive/
+2	街道	jie1dao4	street	jie1dao4	/street/
+2	阶段	jie1duan4	stage	jie1duan4	/stage/section/
+2	阶级	jie1ji2		jie1ji2	/(social) class/
+2	结实	jie1shi	burliness	jie1shi	/(adj) strong; rugged; sturdy/
+2	节省	jie2sheng3	to save	jie2sheng3	/saving/
+2	节约	jie2yue1	frugal, to save	jie2yue1	/frugal/save/
+2	结构	jie2gou4	structure	jie2gou4	/structure/composition/makeup/architecture/
+2	结合	jie2he2	to join up	jie2he2	/to combine/to link/to integrate/
+2	结婚	jie2hun1	spouse, to marry	jie2hun1	/to marry/to get married/
+2	结论	jie2lun4	conclusion, to conclude	jie2lun4	/(reach a) conclusion/verdict/
+2	解	jie3	transport under guard, to separate	jie3	/to separate/to divide/to break up/to loosen/to explain/to untie/to emancipate/
+2	解答	jie3da2	answer	jie3da2	/answer/explanation/(math.) solution (of an equation)/
+2	解放	jie3fang4	liberation, to liberate	jie3fang4	/liberation/to liberate/
+2	解释	jie3shi4	explanation, to explain	jie3shi4	/explanation/to explain/to interpret/to resolve/
+2	届	jie4	period, to become due	jie4	/arrive at (place or time)/period/to become due/measure words for events (e.g., meetings, elections)/
+2	金	jin1	gold	jin1	/metal/money/gold/
+2	金属	jin1shu3	metal	jin1shu3	/metal/
+2	今后	jin1hou4	henceforth, following	jin1hou4	/hereafter/from now on//henceforth/in the future/from now on/
+2	仅	jin3	merely, only	jin3	/barely/only/merely/
+2	仅仅	jin3jin3	barely	jin3jin3	/barely/only/merely/only (this and nothing more)/
+2	尽	jin4	to exhaust, exhausted	jin4	/to use up/to exhaust/to end/to finish/to the utmost/exhausted/finished/to the limit (of sth)/
+2	尽管	jin3guan3	despite, even though	jin3guan3	/despite/although/even though/in spite of/
+2	尽量	jin4liang4	as much as possible	jin3liang4	/as much as possible/to the greatest extent/
+2	进步	jin4bu4	progress	jin4bu4	/progress/
+2	进攻	jin4gong1	military attack, to attack	jin4gong1	/attack (militarily)/
+2	进化	jin4hua4	evolution	jin4hua4	/evolution/
+2	进口	jin4kou3	import, to import	jin4kou3	/import/
+2	进入	jin4ru4	entry, to enter	jin4ru4	/to enter/to join/to go into/
+2	进修	jin4xiu1	advanced studies	jin4xiu1	/advanced studies/additional studies/
+2	进一步	jin4yi1bu4	to advance, increasingly	jin4yi1bu4	/(one step) further/to move forward a single step/further (onwards)/
+2	禁止	jin4zhi3	ban, to ban	jin4zhi3	/to prohibit/
+2	近来	jin4lai2	recently	jin4lai2	/recently/lately/
+2	尽	jin4	to exhaust, exhausted	jin4	/to use up/to exhaust/to end/to finish/to the utmost/exhausted/finished/to the limit (of sth)/
+2	劲	jin4	strength	jin4	/strength/
+2	京剧	jing1ju4	Beijing opera	jing1ju4	/Beijing opera/
+2	精力	jing1li4	energy	jing1li4	/energy/
+2	经	jing1	classic, to undergo	jing1	/classics/sacred book/pass through/to undergo/scripture/
+2	经理	jing1li3	manager	jing1li3	/manager/director/
+2	经历	jing1li4		jing1li4	/experience/go through/
+2	井	jing3	well	jing3	/warn/well/
+2	警察	jing3cha2	police	jing3cha2	/police/policeman/policewoman/
+2	静	jing4	still	jing4	/still/calm/quiet/not moving/
+2	敬爱	jing4'ai4		jing4ai4	/respect and love/
+2	敬礼	jing4li3	salute	jing4li3	/salute/
+2	镜子	jing4zi	mirror	jing4zi	/mirror/
+2	竞赛	jing4sai4	race	jing4sai4	/race/
+2	究竟	jiu1jing4	after all	jiu1jing4	/after all (when all is said and done)/actually/outcome/result/
+2	纠正	jiu1zheng4	reclaim, to correct	jiu1zheng4	/to correct/to make right/
+2	救	jiu4	to save	jiu4	/to save/to assist/to rescue/
+2	就	jiu4	at once	jiu4	/at once/then/right away/only/(emphasis)/to approach/to move towards/to undertake/
+2	就是	jiu4shi4	to be exactly, precisely	jiu4shi4	/(emphasizes that something is precisely or exactly what is stated)/precisely/exactly/even/if/just like/in the same way as/
+2	局长	ju2zhang3	director	ju2zhang3	/the chief of a bureau/
+2	举行	ju3xing2	meeting, to convene	ju3xing2	/to hold (a meeting, ceremony, etc.)/
+2	拒绝	ju4jue2	opposition, to refuse	ju4jue2	/to refuse/to decline/to reject/
+2	据说	ju4shuo1	it is said that	ju4shuo1	/it is said that/reportedly/
+2	巨大	ju4da4	to be enormous, enormous	ju4da4	/huge/immense/very large/tremendous/gigantic/enormous/
+2	具备	ju4bei4	to have	ju4bei4	/possess/have/be equipped with/be able to fulfill (conditions or requirements)/
+2	具体	ju4ti3	concrete	ju4ti3	/concrete/definite/specific/
+2	具有	ju4you3	to have	ju4you3	/have/possess/
+2	距离	ju4li2	distance, to be apart	ju4li2	/distance/to be apart/
+2	距离	ju4li2	distance, to be apart	ju4li2	/distance/to be apart/
+2	俱乐部	ju4le4bu4	club	ju4le4bu4	/club (i.e. a group or organization)/
+2	剧场	ju4chang3	theater	ju4chang3	/theater/
+2	卷	juan3	coil, to roll	juan3	/to roll (up)/to sweep up/to carry on//coil/to roll/
+2	觉悟	jue2wu4	preparedness	jue2wu4	/consciousness/awareness/
+2	决	jue2	to decide	jue2	/breach (a dyke)/to decide/to determine/
+2	决心	jue2xin1	determination, to resolve	jue2xin1	/determination/resolution/determined/firm and resolute/to make up one's mind/
+2	绝对	jue2dui4	absolute, absolutely	jue2dui4	/absolute/absolutely/
+2	军	jun1	army	jun1	/army/military/arms/
+2	军队	jun1dui4	army troops	jun1dui4	/army troops/
+2	军事	jun1shi4	military affairs	jun1shi4	/military affairs/military matters/military/
+2	开放	kai1fang4	liberalization, to liberalize	kai1fang4	/lift (restrictions)/open/to lift a ban/to make open to the public/
+2	开会	kai1hui4	to attend a meeting	kai1hui4	/have a meeting/be at a meeting/to hold or attend a meeting/
+2	开课	kai1ke4	to start class	kai1ke4	/school begins/give a course/teach a subject/
+2	开明	kai1ming2		kai1ming2	/enlightened/open-minded/enlightenment/
+2	开辟	kai1pi4	to open up	kai1pi4	/to open up/to set up/to start/to build//(v) open the flow of some stream; start/(v) build a road/
+2	开演	kai1yan3	to begin	kai1yan3	/(of a play, movie, etc.) to begin/
+2	开展	kai1zhan3	to begin to develop	kai1zhan3	/(begin to) develop/unfold /to start/to launch/to open/
+2	砍	kan3	to chop	kan3	/to chop/
+2	看不起	kan4buqi3	subordination	kan4buqi3	/look down upon/despise/
+2	看法	kan4fa3	point of view	kan4fa3	/way of looking at a thing/view/opinion/
+2	看来	kan4lai	apparently	kan4lai	/apparently/it seems that/it appears/it seems/
+2	看样子	kan4yang4zi		kan4yang4zi	/it seems/it looks as if/
+2	扛	kang2	to hang	kang2	/carry on one's shoulder/
+2	考	kao3	examine, to check	kao3	/to check/to verify/to test/to examine/
+2	考虑	kao3lv4	consideration, to consider	kao3lu:4	/to think over/to consider/consideration/
+2	烤	kao3	bake, to roast	kao3	/to roast/bake/to broil/
+2	靠	kao4	depend upon, to support	kao4	/depend upon/lean on/near/by/against/to support/
+2	颗	ke1		ke1	/(measure word for small spheres)/
+2	科	ke1	branch	ke1	/branch of study/administrative section/division/field/branch/stage directions/family (taxonomy)/rules/laws/to mete out (punishment)/to levy (taxes, etc.)/to fine somebody/
+2	科学家	ke1xue2jia1	scientist	ke1xue2jia1	/scientist/
+2	科学院	ke1xue2yuan4	academy of sciences	ke1xue2yuan4	/academy of sciences/
+2	科研	ke1yan2	research	ke1yan2	/(scientific) research/
+2	科长	ke1zhang3	branch director	ke1zhang3	/section chief/
+2	可	ke3	to suit, may	ke3	/can/may/able to/certain(ly)/to suit/(particle used for emphasis)/
+2	可爱	ke3'ai4	lovable	ke3ai4	/amiable/cute/lovely/
+2	可靠	ke3kao4	reliability, reliable	ke3kao4	/reliable/
+2	可怜	ke3lian2	pitiful	ke3lian2	/pitiful/
+2	可怕	ke3pa4	terrible	ke3pa4	/awful/dreadful/fearful/formidable/frightful/hideous/horrible/terrible/terribly/
+2	可以	ke3yi3	can	ke3yi3	/can/may/possible/able to/
+2	克服	ke4fu2	to try to overcome	ke4fu2	/(try to) overcome (hardships, etc)/to conquer/to put up with/to endure/
+2	刻	ke4	quarter, to carve	ke4	/quarter (hour)/(a measure word)/to carve/to engrave/to cut/oppressive/
+2	刻苦	ke4ku3	hardworking	ke4ku3	/hardworking/assiduous/
+2	客人	ke4ren	guest	ke4ren	/guest/
+2	课程	ke4cheng2	course	ke4cheng2	/course/class/
+2	肯	ken3	willing, to agree	ken3	/to agree/to consent/to be ready (to do sth)/willing/
+2	肯定	ken3ding4	to be sure, sure	ken3ding4	/to be sure/to be certain/sure/certain/definite/to confirm/to affirm/affirmative/
+2	空	kong1	empty	kong1	/air/sky/empty/in vain/
+2	空间	kong1jian1	space	kong1jian1	/space/
+2	空前	kong1qian2	unprecedent	kong1qian2	/unprecedented/
+2	空中	kong1zhong1		kong1zhong1	/in the sky/in the air/
+2	孔	kong3		kong3	/(surname)/hole/
+2	恐怕	kong3pa4	it is unfortunate that	kong3pa4	/(I'm) afraid (that)/perhaps/I think/
+2	空儿	kong4r	spare time	kongr4	/spare time/free time/
+2	控制	kong4zhi4	to control	kong4zhi4	/to (have) control (over)/to contain/
+2	口袋	kou3dai4	pocket	kou3dai4	/pocket/
+2	口号	kou3hao4	slogan	kou3hao4	/slogan/catchphrase/
+2	扣	kou4	ten percent	kou4	/10 percent/button/detain//button/
+2	裤子	ku4zi	trousers	ku4zi	/trousers/pants/
+2	跨	kua4	to cross	kua4	/step across/step astride/
+2	筷子	kuai4zi	chopsticks	kuai4zi	/chopsticks/
+2	快乐	kuai4le4	happiness, happy	kuai4le4	/happy/merry/
+2	宽	kuan1	lenient	kuan1	/lenient/wide/broad/
+2	款	kuan3	section	kuan3	/section/paragraph/funds/
+2	矿	kuang4	mine	kuang4	/ore/mine/
+2	捆	kun3	a bunch of	kun3	/a bunch/tie together/bundle/
+2	困	kun4	group, to fasten	kun4	/distress/sleepy/doze off//sleepy/doze off/
+2	扩大	kuo4da4	to expand	kuo4da4	/to expand/to enlarge/
+2	垃圾	la1ji1	garbage	la1ji1	/(n) trash/
+2	来	lai2	to come	lai2	/to come/
+2	来	lai2	to come	lai2	/to come/
+2	来不及	lai2buji2	theres not enough time to do sth	lai2buji2	/there's not enough time (to do sth.)/it's too late (to do sth.)/
+2	来得及	lai2deji2	to be on time	lai2deji2	/there's still time/be able to do sth. in time/
+2	来信	lai2xin4		lai2xin4	/incoming letter/send a letter here/
+2	来自	lai2zi4	source, to come from	lai2zi4	/to come from (a place)/
+2	拦	lan2	to block	lan2	/cut off/hinder/
+2	懒	lan3	lazy	lan3	/lazy/
+2	烂	lan4	overcooked	lan4	/overcooked/rotten/soft/
+2	狼	lang2	wolf	lang2	/wolf/
+2	朗读	lang3du2	deacon	lang3du2	/read aloud/read loudly and clearly/
+2	浪	lang4	wave	lang4	/wave/breaker/unrestrained/dissipated/
+2	浪费	lang4fei4	to waste	lang4fei4	/to waste/to squander/
+2	捞	lao1	fish up	lao1	/fish up/
+2	老是	lao3shi	always	lao3shi	/always/
+2	老百姓	lao3bai3xing4	ordinary people	lao3bai3xing4	/ordinary people/the "person in the street"/
+2	老板	lao3ban3	boss	lao3ban3	/boss/business proprietor/
+2	老大妈	lao3da4ma1		lao3da4ma1	/"Madam" (affectionate term for an elderly woman)/
+2	老大娘	lao3da4niang2		lao3da4niang2	/aunty/granny/
+2	老大爷	lao3da4ye		lao3da4ye2	/uncle/grandpa/
+2	老虎	lao3hu3	tiger	lao3hu3	/tiger/
+2	老人	lao3ren2	elder	lao3ren2	/old people/the aged/
+2	老实	lao3shi	credulousness		
+2	老太太	lao3tai4tai			
+2	老头儿	lao3tou2r		lao3tour	/(n) old n (often not polite)/
+2	乐观	le4guan1	optimism	le4guan1	/optimistic/hopeful/
+2	雷	lei2	thunder	lei2	/(surname)/thunder/
+2	类	lei4	kind, to resemble	lei4	/kind/type/class/category/similar/like/to resemble/
+2	厘米	li2mi3	centimeter	li2mi3	/centimeter/
+2	梨	li2	pear	li2	/pear/
+2	离婚	li2hun1	divorce, to divorce	li2hun1	/to divorce/to be divorced from (one's wife or husband)/
+2	理发	li3fa4	airdressing		
+2	理解	li3jie3	comprehension, to comprehend	li3jie3	/to comprehend/understanding/comprehension/to understand/
+2	理论	li3lun4	theory	li3lun4	/theory/
+2	理想	li3xiang3	ideal	li3xiang3	/ideal/
+2	理由	li3you2	reason	li3you2	/reason/ground(s)/justification/
+2	里面	li3mian4	inside	li3mian4	/inside/interior/
+2	礼拜天	li3bai4tian1		li3bai4tian1	/Sunday/
+2	礼貌	li3mao4	courtesy	li3mao4	/courtesy/manners/
+2	礼堂	li3tang2	assembly hall	li3tang2	/assembly hall/auditorium/
+2	厉害	li4hai	fearfulness	li4hai	/terrible/formidable/serious/devastating/tough/capable/sharp/severe/fierce/
+2	利益	li4yi4	benefit	li4yi4	/benefit/(in someone's) interest/
+2	例	li4	example	li4	/example/precedent/rule/case/instance/
+2	例子	li4zi	case	li4zi	/case/(for) instance/example/
+2	立	li4	set up, to stand	li4	/set up/to stand/
+2	立场	li4chang3	position	li4chang3	/position/standpoint/
+2	立方	li4fang1		li4fang1	/cube/
+2	立即	li4ji2	immediately	li4ji2	/immediately/
+2	粒	li4	a grain	li4	/a grain/a granule/
+2	力	li4	power	li4	/power/force/strength/
+2	力量	li4liang	power	li4liang	/power/force/strength/
+2	力气	li4qi	strength	li4qi	/strength/
+2	力所能及	li4suo3neng2ji2		li4suo3neng2ji2	/(saying) that which is in one's power to do/
+2	联合	lian2he2	alliance, to combine	lian2he2	/to combine/to join/unite/alliance/
+2	联欢	lian2huan1	get-together, to gather	lian2huan1	/have a get-together/
+2	连	lian2	successively, to link	lian2	/(surname)/even/as/join/to link/successively/
+2	连忙	lian2mang2	promptly	lian2mang2	/promptly/at once/
+2	恋爱	lian4'ai4	love, to have a love affair	lian4ai4	/to have a love affair/to be in love/to love/love/
+2	练	lian4	refine, to practice	lian4	/to practice/to train/to perfect (one's skill)/to drill/
+2	粮食	liang2shi	food	liang2shi	/foodstuffs/cereals/
+2	凉	liang2	cool	liang2	/cool/cold/
+2	量	liang2	volume, to measure	liang2	/to measure/
+2	良好	liang2hao3	good	liang2hao3	/good/favorable/well/fine/
+2	两	liang3	two	liang3	/both/two/ounce/some/a few/tael/
+2	聊	liao2	to chat	liao2	/to chat/to have a chat/to kill time/
+2	聊天	liao2tian1	chat, to chat	liao2tian1	/to chat/to gossip/
+2	了不起	liao3buqi3		liao3buqi3	/amazing/terrific/extraordinary/
+2	列	lie4	row, to arrange	lie4	/to arrange/to line up/row/file/series/
+2	临	lin2	just before, to face	lin2	/to face/to overlook/to arrive/to be (just) about to/just before/
+2	临时	lin2shi2	temporary	lin2shi2	/temporary/interim/
+2	邻居	lin2ju1	neighbor	lin2ju1	/neighbor/
+2	零钱	ling2qian2	change said of money	ling2qian2	/change (said of money)/
+2	铃	ling2	small bell	ling2	/(small) bell/
+2	灵活	ling2huo2	flexible	ling2huo2	/flexible/nimble/agile/
+2	领	ling3	neck, to lead	ling3	/neck/collar/to lead/to receive/
+2	领袖	ling3xiu4	leader	ling3xiu4	/leader/
+2	另	ling4	other, additionally	ling4	/other/another/separate/separately/
+2	另外	ling4wai4	additionally, an additional	ling4wai4	/additional/in addition/besides/separate/other/moreover/furthermore/
+2	流利	liu2li4	fluent	liu2li4	/fluent/
+2	龙	long2	dragon	long2	/dragon/imperial/Long (a surname)/
+2	楼梯	lou2ti1	stair	lou2ti1	/stair/staircase/
+2	漏	lou4	leak, to leak	lou4	/funnel/to leak/to let out/to divulge/
+2	露	lou4	dew, to show	lu4	/to show/to reveal/to expose/dew/
+2	路上	lu4shang		lu4shang	/(n) road surface/(n) while on a journey/
+2	路线	lu4xian4	route	lu4xian4	/route/(political) course/
+2	录	lu4	to record	lu4	/to record/to hit/to copy/
+2	录像	lu4xiang4	video recording	lu4xiang4	/video tape/
+2	录音机	lu4yin1ji1	tape recorder	lu4yin1ji1	/(tape) recording machine/tape recorder/
+2	陆续	lu4xu4	in turn	lu4xu4	/in turn/successively/one after the other/bit by bit/
+2	旅馆	lv3guan3	hotel	lu:3guan3	/hotel/
+2	旅客	lv3ke4	traveler	lu:3ke4	/traveler/
+2	旅途	lv3tu2		lu:3tu2	/journey/trip/
+2	略	lve4	plan, to rob	lu:e4	/plan/strategy/outline/summary/slightly/rather/to rob/to plunder/to summarize/
+2	轮船	lun2chuan2	ship	lun2chuan2	/steamship/
+2	论文	lun4wen2	paper	lun4wen2	/paper/treatise/thesis/
+2	萝卜	luo2bo		luo2bo	/radish//(n) radish/
+2	落	luo4	fall, to fall	luo4	/alight/to fall/to drop (behind)/
+2	落后	luo4hou4	backwards	luo4hou4	/fall behind/lag (technologically, etc.)/backward/
+2	码头	ma3tou	dock	ma3tou2	/dock/pier/wharf/
+2	马虎	ma3hu		ma3hu	/(adj) careless; not serious/
+2	马克	ma3ke4	Mark	ma3ke4	/mark/
+2	马路	ma3lu4	street	ma3lu4	/street/road/
+2	骂	ma4	to curse	ma4	/scold/abuse/
+2	埋	mai2	bury, to blame	mai2	/bury/
+2	买卖	mai3mai4	buying and selling	mai3mai4	/buying and selling/business dealings/transactions/
+2	迈	mai4	to step	mai4	/take a step/
+2	馒头	man2tou	steamed roll	man2tou	/steamed roll/steamed bun/steamed bread/
+2	满足	man3zu2	to satisfy, satisfied	man3zu2	/to satisfy/to meet (the needs of)/
+2	猫	mao1	cat	mao1	/cat/pussy/
+2	毛	mao2	hair	mao2	/hair/pore/fur/
+2	毛病	mao2bing	bad habit	mao2bing4	/fault/defect/shortcomings/
+2	毛巾	mao2jin1	towel	mao2jin1	/towel/
+2	贸易	mao4yi4	commercial trade, trade	mao4yi4	/(commercial) trade/
+2	矛盾	mao2dun4	contradiction	mao2dun4	/contradictory/contradiction/
+2	冒	mao4	brave, to cover	mao4	/brave/bold/to cover/
+2	贸易	mao4yi4	commercial trade, trade	mao4yi4	/(commercial) trade/
+2	煤	mei2	coal	mei2	/coal/
+2	煤气	mei2qi4	natural gas	mei2qi4	/coal gas/gas/
+2	没错	mei2cuo4	not to be wrong	mei2cuo4	/I'm quite sure./You can rest assured./can't go wrong/
+2	没什么	mei2shen2me		mei2shen2me	/(idiom) nothing/(idiom) never mind; it's nothing/
+2	没事儿	mei2shi4r		mei2shir	/(idiom) to be free from work/(idiom) never mind; it's nothing/
+2	没用	mei2yong4	to be useless, useless	mei2yong4	/useless/
+2	每	mei3	each	mei3	/each/every/
+2	美	mei3	America, American	mei3	/America/beautiful/
+2	美好	mei3hao3	happy	mei3hao3	/happy/fine/OK/
+2	美丽	mei3li4	beauty, beautiful	mei3li4	/beautiful/
+2	美术	mei3shu4	the fine arts	mei3shu4	/the fine arts/art/
+2	美元	Mei3yuan2	American dollar	mei3yuan2	/American dollar/U.S. dollar/
+2	梦	meng4	to dream	meng4	/to dream/
+2	米	mi3	meter	mi3	/(measure word) meter/rice/
+2	秘密	mi4mi4	secret, secret	mi4mi4	/secret/
+2	蜜蜂	mi4feng1		mi4feng1	/bee/honeybee/
+2	密	mi4	secret	mi4	/secret/confidential/close/thick/dense/
+2	密切	mi4qie4	familiar, ADVB	mi4qie4	/close/familiar/intimate/frequent/
+2	棉花	mian2hua	cotton	mian2hua	/cotton/
+2	棉衣	mian2yi1		mian2yi1	/cotton-padded clothes/
+2	面	mian4	face, to face	mian4	/fade/side/surface/aspect/top/face/flour/noodles//flour/noodles/
+2	面	mian4	face, to face	mian4	/fade/side/surface/aspect/top/face/flour/noodles//flour/noodles/
+2	面积	mian4ji	area	mian4ji	/area/
+2	面貌	mian4mao4		mian4mao4	/appearance/face/features/
+2	面前	mian4qian2	in front of	mian4qian2	/in front of/facing/presence/
+2	描写	miao2xie3	delineate, to describe	miao2xie3	/to describe/to depict/to portray/
+2	秒	miao3	second	miao3	/(a measure word)/second/
+2	庙	miao4	temple	miao4	/temple/monastery/
+2	妙	miao4	clever	miao4	/clever/wonderful/
+2	灭	mie4	extinguish	mie4	/extinguish/
+2	民主	min2zhu3	democracy, democratic	min2zhu3	/democracy/
+2	明亮	ming2liang4	brightness	ming2liang4	/brightness/
+2	明确	ming2que4	to clarify, clear	ming2que4	/clear-cut/definite/make clear/clear/
+2	明显	ming2xian3	clear, clear	ming2xian3	/clear/distinct/obvious/
+2	名	ming2	name	ming2	/name/(measure word for persons)/place (e.g. among winners)/
+2	名胜	ming2sheng4	a place famous for its scenery or historical relic	ming2sheng4	/a place famous for its scenery or historical relics/scenic spot/
+2	命令	ming4ling4	order, to order	ming4ling4	/(an) order or command/
+2	命运	ming4yun4	fate	ming4yun4	/fate/destiny/
+2	摸	mo1	to touch	mo1	/feel with the hand/to touch/to stroke/to grope/to feel (one's pulse)/
+2	模仿	mo2fang3	imitation, to imitate	mo2fang3	/to imitate/to copy//imitate/
+2	磨	mo2	hardship, to sharpen	mo2	/to sharpen/to delay/hardship/to grind/to rub/
+2	墨水儿	mo4shui3r	ink	mo4shuir3	/ink/
+2	某	mou3	certain, a certain	mou3	/(used before measure word and noun) some/(a) certain/so and so/
+2	模样	mu2yang4		mu2yang4	/(n) look, style/(n) approximation; about/
+2	亩	mu3	about 1	mu3	/about 1/6 acre (M)/
+2	母	mu3	female	mu3	/female/mother/
+2	木	mu4	tree	mu4	/tree/wood/
+2	木头	mu4tou		mu4tou	/log/wood/timber/
+2	目标	mu4biao1	target	mu4biao1	/target/goal/objective/
+2	目的	mu4di	goal	mu4di4	/purpose/aim/goal/target/objective/
+2	哪个	na3ge		na3ge	/which/who/
+2	哪怕	na3pa4		na3pa4	/even/even if/even though/no matter how/
+2	哪些	na3xie1	which	na3xie1	/which/who/what/
+2	那边	na4bian1	over there	na4bian	/yonder/
+2	奶奶	nai3nai	grandmother	nai3nai	/(informal) father's mother; paternal grandmother/
+2	耐心	nai4xin1	patience, patient	nai4xin1	/patient (adjective)/
+2	耐用	nai4yong4		nai4yong4	/durable/
+2	南部	nan2bu4	southern part	nan2bu4	/southern part/
+2	南方	nan2fang1	south, southern	nan2fang1	/south/the southern part of the country/the South/
+2	南面	nan2mian4	south side	nan2mian4	/south side/south/
+2	男人	nan2ren2	man	nan2ren2	/a man/a male/men/
+2	难道	nan2dao4		nan2dao4	/don't tell me .../could it be that...?/
+2	难过	nan2guo4		nan2guo4	/feel sorry/be grieved/
+2	难看	nan2kan4	malformation	nan2kan4	/ugly/unsightly/
+2	难受	nan2shou4	to be troubled, troubled	nan2shou4	/feel unwell/suffer pain/
+2	脑袋	nao3dai	coco	nao3dai4	/(n) person's head/(n) mental capability; brains/
+2	脑子	nao3zi	brain	nao3zi	/brains/mind/
+2	闹	nao4	make noise or disturbance	nao4	/make noise or disturbance/
+2	内部	nei4bu4	interior, internal	nei4bu4	/interior/inside (part, section)/internal/
+2	能干	neng2gan4	capable	neng2gan4	/capable/competent/
+2	能力	neng2li4	capability	neng2li4	/capability/capable/able/ability/
+2	能源	neng2yuan2	energy	neng2yuan2	/energy/power source/
+2	泥	ni2	mud	ni2	/mud/
+2	年代	nian2dai4	decade	nian2dai4	/a decade of a century (e.g. the Sixties)/age/era/period/
+2	年龄	nian2ling2	age	nian2ling2	/(a person's) age/
+2	年青	nian2qing1	youthful	nian2qing1	/youthful/
+2	鸟	niao3	bird	niao3	/bird/
+2	扭	niu3	gnarl, to turn	niu3	/to turn/to twist/to grab/to wring/
+2	浓	nong2	concentrated	nong2	/concentrated/dense/
+2	弄	nong4	lane, to do	nong4	/to do/to manage/to handle/to play with/to fool with/to mess with/to fix/to toy with/
+2	女人	nv3ren2	woman	nu:3ren2	/woman/
+2	女士	nv3shi4	lady	nu:3shi4	/lady/madam/
+2	暖	nuan3	warm	nuan3	/warm/
+2	暖气	nuan3qi4	heater	nuan3qi4	/heater/
+2	怕	pa4	to be afraid	pa4	/to be afraid/to fear/
+2	排	pai2	row, to place	pai2	/a platoon/line up/
+2	排	pai2	row, to place	pai2	/a platoon/line up/
+2	牌	pai2	cards	pai2	/cards/game pieces/signboard/plate/tablet/
+2	盘	pan2	disc, to build	pan2	/big/wooden tray//dish/tray/to build/to check/to examine/to transfer/(a measure word used for dishes of food or coils of wire)/to coil/
+2	盘子	pan2zi	tray	pan2zi	/tray/
+2	盼望	pan4wang4	look forward to, to hope for	pan4wang4	/to hope for/look forward to/
+2	判断	pan4duan4	judgement, to decide	pan4duan4	/to decide/to determine/
+2	旁	pang2	beside	pang2	/beside/one side/other/side/self/
+2	胖	pang4	fat	pang4	/fat/plump/
+2	炮	pao4	cannon	pao4	/cannon/gun/firecracker//gun/cannon/
+2	赔	pei2	loss	pei2	/lose in trade/pay damage/
+2	陪	pei2	to accompany	pei2	/to accompany/to keep sb. company/
+2	配合	pei4he2	coordination, to coordinate	pei4he2	/coordinate with/act in concert with/
+2	喷	pen1	to puff	pen1	/to puff/to spout/to spray/to spurt/
+2	盆	pen2	basin	pen2	/basin/
+2	捧	peng3	to hold	peng3	/hold or offer with both hands/
+2	碰见	peng4jian4	to run into	peng4jian4	/to run into/to meet/
+2	批	pi1	to ascertain	pi1	/to ascertain/(measure word for batches, lots)/to act on/to criticize/to pass on/
+2	批判	pi1pan4		pi1pan4	/criticize/
+2	批准	pi1zhun3	confirmation, to confirm	pi1zhun3	/to approve/to ratify/
+2	披	pi1	scatter, to open	pi1	/scatter/separate/to open/to unroll/to spread out/
+2	脾气	pi2qi	temperament	pi2qi4	/temperament/disposition/temper/
+2	疲劳	pi2lao2	fatigue	pi2lao2	/fatigue/wearily/weariness/weary/
+2	皮	pi2	leather	pi2	/leather/skin/fur/
+2	皮肤	pi2fu1	skin	pi2fu1	/skin/
+2	匹	pi3	mate	pi3	/(measure word for horses, mules, a bolt of cloth)/ordinary person/
+2	偏	pian1	one-sided, to lean	pian1	/one-sided/to lean/to slant/prejudiced/inclined to one side/
+2	片面	pian4mian4	one-sided	pian4mian4	/unilateral/one-sided/
+2	骗	pian4	to cheat	pian4	/to cheat/to swindle/to deceive/to fool/
+2	飘	piao1	to float	piao1	/to float/
+2	拼命	pin1ming4	to be ready to risk ones life in fighting,  work	pin1ming4	/to be ready to risk one's life (in fighting, work, etc.)/
+2	品种	pin3zhong3	breed	pin3zhong3	/breed/variety/
+2	乒乓球	Ping1pang1qiu2	table tennis	ping1pang1qiu2	/table tennis/ping-pong/table tennis ball/
+2	平	ping2	flat, to draw	ping2	/flat/level/equal/to make the same score/to tie/to draw/calm/peaceful/
+2	平安	ping2'an1	safety, safely	ping2an1	/safe and sound/well/without mishap/
+2	平常	ping2chang2	ordinary	ping2chang2	/ordinary/common/usually/ordinarily/
+2	平等	ping2deng3	equality	ping2deng3	/equality/
+2	平方	ping2fang1	square as in square foot,  square mile	ping2fang1	/square (as in square foot, square mile, square root)/
+2	平静	ping2jing4	peaceful	ping2jing4	/tranquil/undisturbed/
+2	平均	ping2jun1	equality, average	ping2jun1	/average/
+2	平时	ping2shi2	peacetime	ping2shi2	/in normal times/in peacetime/
+2	平原	ping2yuan2	field	ping2yuan2	/field/plain/
+2	瓶子	ping2zi	bottle	ping2zi	/bottle/
+2	坡	po1	slope	po1	/slope/
+2	破坏	po4huai4	to wreck	po4huai4	/wreck/break/destroy/
+2	迫切	po4qie4	urgent	po4qie4	/urgent/pressing/
+2	扑	pu1	to rush towards	pu1	/to rush at/to throw oneself on//rush on/
+2	铺	pu1	a bed, to spread	pu1	/to spread/
+2	朴素	pu3su4	austerity		
+2	普遍	pu3bian4	general, universal	pu3bian4	/universal/general/widespread/commonplace/
+2	普通	pu3tong1	common	pu3tong1	/common/ordinary/general/average/
+2	期	qi1	period, to hope	qi1	/a period of time/phase/stage/(used for issue of a periodical, courses of study)/time/term/period/to hope/
+2	期间	qi1jian1	time	qi1jian1	/period of time/time/time period/period/
+2	欺骗	qi1pian4	bamboozle, to deceive	qi1pian4	/to deceive/to cheat/
+2	妻子	qi1zi	wife	qi1zi	/wife/
+2	其次	qi2ci4	next	qi2ci4	/next/secondly/
+2	其他	qi2ta1	other	qi2ta1	/other/else/
+2	其它	qi2ta1	other	qi2ta1	/other/
+2	其余	qi2yu2	rest, additionally	qi2yu2	/rest/remaining/remainder/
+2	其中	qi2zhong1	among	qi2zhong1	/among/in/
+2	奇怪	qi2guai4	strange	qi2guai4	/strange/odd/
+2	齐	qi2	even, to make even	qi2	/(surname)/even/to make even/
+2	旗子	qi2zi	flag	qi2zi	/flag/banner/
+2	企图	qi3tu2	attempt, to attempt	qi3tu2	/attempt/
+2	企业	qi3ye4	business, industry	qi3ye4	/company/firm/enterprise/
+2	启发	qi3fa1	enlighten	qi3fa1	/enlighten/
+2	气	qi4	air, to enrage	qi4	/air/anger/gas//gas/air/smell/weather/vital breath/to make sb. angry/to get angry/to be enraged/
+2	气候	qi4hou4	climate	qi4hou4	/climate/atmosphere/situation/
+2	气温	qi4wen1	air temperature	qi4wen1	/air temperature/
+2	气象	qi4xiang4	meteorology	qi4xiang4	/meteorology/atmosphere/
+2	汽油	qi4you2	gas	qi4you2	/gas/gasoline/
+2	牵	qian1	to lead	qian1	/lead along/
+2	千万	qian1wan4	ten million	qian1wan4	/ten million/millions and millions/very many/
+2	签订	qian1ding4	to sign	qian1ding4	/to agree to and sign (a treaty, etc)/
+2	前进	qian2jin4	onward, to go forward	qian2jin4	/to go forward/to forge ahead/to advance/onward/
+2	前面	qian2mian	fore	qian2mian	/fore/front/
+2	前年	qian2nian2	the year before last	qian2nian2	/the year before last/
+2	前天	qian2tian1	yesterday	qian2tian1	/the day before yesterday/
+2	前途	qian2tu2	prospects	qian2tu2	/prospects/outlook (for the future)/future/
+2	欠	qian4	debt, to lack	qian4	/deficient/owe/to lack/yawn/
+2	枪	qiang1	gun	qiang1	/gun/firearm/rifle/spear//rifle/spear/
+2	强	qiang2	strength, ADJT	qiang2	/strength/force/power/powerful/better/
+2	强大	qiang2da4	large	qiang2da4	/large/formidable/powerful/strong/
+2	强盗	qiang2dao4	pirate	qiang2dao4	/bandit/robber/
+2	强调	qiang2diao4	stress, to emphasize	qiang2diao4	/to emphasize (a statement)/to stress/
+2	强度	qiang2du4	strength	qiang2du4	/strength/intensity/
+2	强烈	qiang2lie4	intense, intense	qiang2lie4	/intense/(violently) strong/
+2	抢	qiang3	to snatch	qiang3	/fight over/to rush/to scramble/to grab/to rob/to snatch/
+2	敲	qiao1	extort, to strike	qiao1	/extort/knock/to strike/to knock (at a door)/to hit/
+2	悄悄	qiao1qiao1	quiet, quietly	qiao3qiao3	/quietly/
+2	桥梁	qiao2liang2	bridge	qiao2liang2	/bridge/
+2	瞧	qiao2	look at	qiao2	/look at/
+2	巧	qiao3	opportunely	qiao3	/opportunely/coincidentally/as it happens/skillful/timely/
+2	巧妙	qiao3miao4	craftiness	qiao3miao4	/ingenious/clever/
+2	切	qie1	to cut	qie1	/to cut/to slice/
+2	且	qie3	further	qie3	/further/moreover/
+2	侵略	qin1lve4	invasion	qin1lu:e4	/invasion/encroachment/
+2	亲爱	qin1'ai4	dear way of starting a letter	qin1ai4	/Dear ... (way of starting a letter)/
+2	亲戚	qin1qi	relative	qin1qi	/(a) relative (i.e. family member)/
+2	亲切	qin1qie4	close, warmly	qin1qie4	/amiable/friendliness/gracious/hospitality/intimate/cordial/kind/close and dear/familiar/
+2	亲自	qin1zi4	personally	qin1zi4	/personally/
+2	青	qing1	blue	qing1	/green (blue, black)/
+2	轻松	qing1song1	gentle	qing1song1	/gentle/relaxed/
+2	清	qing1	clear	qing1	/clear/distinct/complete/pure/
+2	情景	qing2jing3	scene	qing2jing3	/scene/sight/circumstances/
+2	情形	qing2xing	circumstances	qing2xing	/circumstances/situation/
+2	情绪	qing2xu4	feeling	qing2xu4	/feeling/sentiment/
+2	请客	qing3ke4	to invite guests	qing3ke4	/give a dinner party/entertain guests/invite to dinner/
+2	请求	qing3qiu2	request	qing3qiu2	/request/
+2	庆祝	qing4zhu4	celebrate, to celebrate	qing4zhu4	/celebrate/
+2	穷	qiong2	exhausted	qiong2	/exhausted/poor/
+2	球场	qiu2chang3	ball park	qiu2chang3	/a ground where ball games are played/
+2	求	qiu2	to seek	qiu2	/to seek/to look for/to request/to demand/to beseech/
+2	区	qu1	region	qu1	/(ancient volume measure)/(surname)/area/region/district/small/distinguish/
+2	区别	qu1bie2	difference, to distinguish	qu1bie2	/difference/to distinguish/to discriminate/to make a distinction/
+2	渠	qu2	big	qu2	/big/stream or canal/drain/ditch/
+2	取	qu3	take, to take	qu3	/to take/to get/to choose/to fetch/
+2	取消	qu3xiao1	cancel, to cancel	qu3xiao1	/cancel/
+2	圈	quan1	loop, to confine	quan1	/circle/ring/loop/
+2	全面	quan2mian4	all-around, thoroughly	quan2mian4	/all-around/comprehensive/total/overall/
+2	劝	quan4	to advise	quan4	/to advise/to urge/to try to persuade/exhort/
+2	缺	que1	lack, to run short of	que1	/lack/scarce/vacant post/to run short of/
+2	缺点	que1dian3	weak point	que1dian3	/weak point/fault/shortcoming/
+2	缺乏	que1fa2	shortage, to lack	que1fa2	/shortage/be lacking/to be short of/to lack/
+2	缺少	que1shao3	lack, to be short of	que1shao3	/lack/shortage of/to be short (of)/to lack/
+2	却	que4	to retreat, however	que4	/but/yet/however/while/to go back/to decline/to retreat/nevertheless/
+2	确定	que4ding4	definite, to fix	que4ding4	/definite/certain/fixed/to fix/to determine/be sure/
+2	裙子	qun2zi	skirt	qun2zi	/skirt/
+2	群	qun2	crowd	qun2	/crowd/flock/group/
+2	群众	qun2zhong4	masses, popular	qun2zhong4	/the masses/
+2	然而	ran2'er2	however	ran2er2	/however/yet/but/
+2	燃烧	ran2shao1	inflammation	ran2shao1	/combustion/flaming/kindle/
+2	染	ran3	dye, to catch	ran3	/to catch (a disease)/dye/
+2	嚷	rang3	blurt out, to shout	rang3	/blurt out/to shout/
+2	绕	rao4	circle, to bypass	rao4	/go around/to wind (around)/
+2	惹	re3	to provoke	re3	/to provoke/to exasperate/to annoy/
+2	热爱	re4'ai4	passion, to love	re4ai4	/ardently love/
+2	热烈	re4lie4	warm	re4lie4	/warm (welcome, etc)/
+2	热闹	re4nao	excitement, lively	re4nao	/bustling with noise and excitement/lively/
+2	热水瓶	re4shui3ping2	thermos	re4shui3ping2	/thermos bottle/vacuum bottle/
+2	热心	re4xin1	enthusiasm, enthusiastic	re4xin1	/enthusiasm/zeal/zealous/zest/enthusiastic/ardent/warmhearted/
+2	人才	ren2cai2	talented person	ren2cai2	/talented person/
+2	人工	ren2gong1	workers	ren2gong1	/artificial/manpower/manual work/
+2	人家	ren2jia1	other people	ren2jia1	/other people/
+2	人口	ren2kou3	population	ren2kou3	/population/
+2	人类	ren2lei4	humanity, human	ren2lei4	/humanity/human race/mankind/
+2	人民币	ren2min2bi4	renminbi	ren2min2bi4	/Chinese unit of currency/Renminbi/
+2	人物	ren2wu4	character	ren2wu4	/characters (in a play, novel, etc.)/figure/someone who plays a part/
+2	人员	ren2yuan2	staff	ren2yuan2	/staff/crew/personnel/
+2	人造	ren2zao4	man-made	ren2zao4	/man-made/artificial/synthetic/
+2	忍	ren3	to beat	ren3	/to beat/to endure/to tolerate/
+2	任务	ren4wu	duty	ren4wu	/mission/assignment/task/duty/role/
+2	认	ren4	to recognize	ren4	/to recognize/to know/to admit/
+2	认得	ren4de		ren4de	/know/recognize/
+2	扔	reng1	throw	reng1	/throw/
+2	仍	reng2	to remain, still	reng2	/still/yet/to remain/
+2	仍然	reng2ran2	still	reng2ran2	/still/yet/
+2	日常	ri4chang2	routinely	ri4chang2	/daily/everyday/
+2	日程	ri4cheng2	schedule	ri4cheng2	/schedule/itinerary/
+2	日记	ri4ji4	diary	ri4ji4	/diary/
+2	日期	ri4qi1	date	ri4qi1	/date/
+2	日用品	ri4yong4pin3	daily necessities	ri4yong4pin3	/articles for daily use/
+2	日元	Ri4yuan2	Japanese yen	ri4yuan2	/yen/
+2	如	ru2	if	ru2	/as (if)/such as/
+2	如	ru2	if	ru2	/as (if)/such as/
+2	如果	ru2guo3	if	ru2guo3	/if/in case/in the event that/
+2	如何	ru2he2	how	ru2he2	/how/what way/what/
+2	如今	ru2jin1	today, contemporary	ru2jin1	/nowadays/
+2	入	ru4	to enter	ru4	/to enter/
+2	软	ruan3	soft	ruan3	/soft/flexible/
+2	弱	ruo4	weak	ruo4	/weak/feeble/young/inferior/
+2	撒	sa1	let go, to scatter	sa1	/let go/
+2	洒	sa3	to spill	sa3	/spill/sprinkle/
+2	赛	sai4	competition, to compete	sai4	/to compete/competition/match/
+2	伞	san3	umbrella	san3	/umbrella/parasol/
+2	嗓子	sang3zi	throat	sang3zi	/throat/voice/
+2	扫	sao3	broom, to sweep	sao3	/to sweep/
+2	嫂子	sao3zi		sao3zi	/(informal) older brother's wife; sister-in-law/
+2	色	se4	color	se4	/color/look/appearance/
+2	森林	sen1lin2	forest	sen1lin2	/forest/
+2	杀	sha1	killing, to kill	sha1	/to kill/to murder/to slaughter/
+2	沙发	sha1fa1	sofa	sha1fa1	/sofa/
+2	沙漠	sha1mo4	desert	sha1mo4	/desert/
+2	沙子	sha1zi		sha1zi	/sand/grit/
+2	傻	sha3	fool, foolish	sha3	/foolish/
+2	晒	shai4	airing, to sun	shai4	/to sun//to sun/
+2	山脉	shan1mai4	Range	shan1mai4	/mountain range/
+2	山区	shan1qu1	mountain region	shan1qu1	/mountain area/
+2	闪	shan3	flash, to flash	shan3	/flash/lightning/
+2	善于	shan4yu2		shan4yu2	/be good at/be adept in/
+2	伤	shang1	injury, to hurt	shang1	/injure/injury/wound/
+2	伤心	shang1xin1	to be hurt, hurt	shang1xin1	/grieve/
+2	商场	shang1chang3	shopping mall	shang1chang3	/market/bazaar/
+2	商量	shang1liang	to discuss	shang1liang4	/consult/
+2	商品	shang1pin3	good	shang1pin3	/good/commodity/merchandise/
+2	商业	shang1ye4	business	shang1ye4	/business/trade/commerce/
+2	上班	shang4ban1	to go to work	shang4ban1	/to go to work/to be on duty/to start work/to go to the office/
+2	上当	shang4dang4	to take the bait	shang4dang4	/be take in/be fooled/be duped/
+2	上级	shang4ji2	higher-up	shang4ji2	/higher authorities/superiors/
+2	上面	shang4mian	on top of	shang4mian	/on top of/above-mentioned/
+2	上衣	shang4yi1	jacket	shang4yi1	/jacket/upper outer garment/
+2	稍	shao1	somewhat	shao1	/somewhat/a little/
+2	稍微	shao1wei1	a little bit	shao1wei1	/a little bit/
+2	烧	shao1	fever, to burn	shao1	/to burn/to cook/to stew/to bake/to roast/fever/
+2	勺子	shao2zi	scooper	shao2zi	/scoop/ladle/
+2	少数	shao3shu4	small number	shao3shu4	/small number/few/minority/
+2	少年	shao4nian2	youth	shao4nian2	/juvenile/youngster/
+2	蛇	she2	snake	she2	/snake/serpent/
+2	舌头	she2tou	tongue	she2tou2	/tongue/
+2	射	she4	radio- chem	she4	/radio- (chem.)/shoot/
+2	设备	she4bei4	equipment	she4bei4	/equipment/facilities/installations/
+2	设计	she4ji4	plan, to plan	she4ji4	/plan/design/to design/to plan/
+2	伸	shen1	loll, to stretch	shen1	/to stretch/to extend/
+2	身	shen1	body	shen1	/body/torso/person/life/status/pregnancy/(a measure word used for clothes) suit/
+2	身边	shen1bian1	side	shen1bian1	/at one's side/
+2	深厚	shen1hou4	deep	shen1hou4	/deep/profound/
+2	深刻	shen1ke4	profound	shen1ke4	/profound/deep/deep-going/
+2	深入	shen1ru4	thorough, thoroughly	shen1ru4	/penetrate deeply/thorough/
+2	什么的	shen2mede		shen2mede	/and so on/and what not/
+2	神	shen2	spirit, divine	shen2	/God/unusual/mysterious/soul/spirit/divine essence/lively/spiritual being/
+2	神经	shen2jing1	nerve	shen2jing1	/nerve/
+2	生	sheng1	life, to be born	sheng1	/to be born/to give birth/life/to grow/
+2	生	sheng1	life, to be born	sheng1	/to be born/to give birth/life/to grow/
+2	生动	sheng1dong4	vivid	sheng1dong4	/vivid/
+2	生命	sheng1ming4	life	sheng1ming4	/life (force)/
+2	生气	sheng1qi4	angry, to get angry	sheng1qi4	/angry/mad/offended/to get angry/to be enraged/to take offense/
+2	生物	sheng1wu4	living creature	sheng1wu4	/living creature/organism/biological/
+2	生意	sheng1yi4	business	sheng1yi	/business/
+2	生长	sheng1zhang3	grow	sheng1zhang3	/grow/
+2	升	sheng1	liter, to raise	sheng1	/to raise/to hoist/to promote/pint//ascend/peaceful//promoted/
+2	绳子	sheng2zi	rope	sheng2zi	/cord/string/
+2	省	sheng3	province, to save	sheng3	/frugal/save/to omit/to leave out/to save (money)/province/
+2	胜	sheng4	able to bear	sheng4	/victorious//victorious/
+2	失败	shi1bai4	defeat, to lose	shi1bai4	/be defeated/
+2	失去	shi1qu4	to lose	shi1qu4	/to lose/
+2	失望	shi1wang4	be disappointed, to lose hope	shi1wang4	/be disappointed/to lose hope/to despair/
+2	失业	shi1ye4	unemployment	shi1ye4	/unemployment/
+2	狮子	shi1zi	lion	shi1zi	/lion/
+2	施工	shi1gong1	to start construction	shi1gong1	/construction/
+2	湿	shi1	moist	shi1	/moist/wet/
+2	诗	shi1	poem	shi1	/poem/poetry/verse/
+2	石头	shi2tou	stone	shi2tou	/stone/
+2	石油	shi2you2	oil	shi2you2	/oil/petroleum/
+2	拾	shi2		shi2	/pick up/ten (fraud-proof)/
+2	时代	shi2dai4	age	shi2dai4	/age/era/epoch/period/
+2	时刻	shi2ke4	moment	shi2ke4	/moment/
+2	时期	shi2qi1	period	shi2qi1	/a period in time or history/period/time (interval)/phase/
+2	食品	shi2pin3	foodstuff	shi2pin3	/foodstuff/food/provisions/
+2	食物	shi2wu4	food	shi2wu4	/food/
+2	实际	shi2ji4	reality, practical	shi2ji4	/actual/reality/practice/
+2	实事求是	shi2shi4qiu2shi4		shi2shi4qiu2shi4	/be practical and realistic/
+2	实行	shi2xing2	to implement	shi2xing2	/implement/carry out/to put into practice/
+2	试验	shi4yan4	experiment, to test	shi4yan4	/experiment/test/experimental/
+2	使用	shi3yong4	use, to use	shi3yong4	/to use/to employ/to apply/to make use of/
+2	实在	shi2zai4	in reality	shi2zai4	/in reality/honestly/really/verily/concrete/
+2	实用	shi2yong4	practical	shi2yong4	/practical/functional/pragmatic/applied (science)/
+2	始终	shi3zhong1	always	shi3zhong1	/from beginning to end/all along/
+2	世纪	shi4ji4	century	shi4ji4	/century/
+2	事件	shi4jian4	event	shi4jian4	/event/happening/incident/
+2	事实	shi4shi2	in fact	shi4shi2	/(the) fact (that)/
+2	事物	shi4wu4	affair	shi4wu4	/thing/object/
+2	事先	shi4xian1	ahead of time	shi4xian1	/in advance/before(hand)/prior/
+2	事业	shi4ye4	cause	shi4ye4	/cause/undertaking/enterprise/plant/
+2	适当	shi4dang4	suitability, suitable	shi4dang4	/suitable/appropriate/
+2	适合	shi4he2	agreeability, to fit	shi4he2	/to fit/to suit/
+2	适应	shi4ying4	to suit	shi4ying4	/suit/fit/be suitable/
+2	使用	shi3yong4	use, to use	shi3yong4	/to use/to employ/to apply/to make use of/
+2	市场	shi4chang3	market, market	shi4chang3	/market/
+2	室	shi4	room	shi4	/room/
+2	试卷	shi4juan4	test	shi4juan4	/examination paper/test paper/
+2	试验	shi4yan4	experiment, to test	shi4yan4	/experiment/test/experimental/
+2	收获	shou1huo4	acquisition	shou1huo4	/acquisition/
+2	收入	shou1ru4	income, to take in	shou1ru4	/to take in/income/revenue/
+2	收音机	shou1yin1ji1	radio	shou1yin1ji1	/radio/
+2	手段	shou3duan4	method	shou3duan4	/method/mean (of doing sth)/
+2	手工	shou3gong1		shou3gong1	/handwork/manual/
+2	手帕	shou3pa4	handkerchief	shou3pa4	/handkerchief/
+2	手术	shou3shu4	surgical operation	shou3shu4	/surgical operation/operation/surgery/
+2	手套	shou3tao4	glove	shou3tao4	/glove/mitten/
+2	手续	shou3xu4	formalities	shou3xu4	/formalities/
+2	手指	shou3zhi3	finger	shou3zhi3	/finger/
+2	首	shou3	head, leading	shou3	/head/chief/first (occasion)/first (thing)/measure word for poems/
+2	首先	shou3xian1	first of all, first of all	shou3xian1	/first (of all)/in the first place/
+2	受	shou4	to bear	shou4	/to bear/to stand/to endure/(passive marker)/to receive/
+2	瘦	shou4	to lose, thin	shou4	/tight/thin/lean/
+2	蔬菜	shu1cai4	vegetables	shu1cai4	/vegetables/produce/
+2	叔叔	shu1shu	fathers younger brother	shu1shu	/(informal) father's younger brother; uncle/
+2	舒适	shu1shi4	cozy	shu1shi4	/cozy/snug/
+2	书包	shu1bao1		shu1bao1	/schoolbag/satchel/
+2	书店	shu1dian4	bookstore	shu1dian4	/bookstore/
+2	书记	shu1ji	secretary	shu1ji	/secretary/clerk/
+2	书架	shu1jia4	bookshelf	shu1jia4	/bookshelf/
+2	熟练	shu2lian4	experienced	shu2lian4	/practiced/proficient/skilled/skillful/
+2	熟悉	shu2xi1	conversance, to know well	shu2xi1	/to be familiar with/to know well/
+2	暑假	shu3jia4	summer vacation	shu3jia4	/summer vacation/
+2	属于	shu3yu2	to belong to	shu3yu2	/be classified as/to belong to/to be part of/
+2	树林	shu4lin2	woods	shu4lin2	/woods/grove/forest/
+2	数	shu4	number, to count	shu4	/number/figure/to count/to calculate/several/
+2	数量	shu4liang4	amount	shu4liang4	/amount/quantity/
+2	数字	shu4zi4	number, digital	shu4zi4	/number/figure/amount/digital (electronics, etc)/numeral/digit/
+2	刷	shua1	brush, to select	shua1	/brush/
+2	摔	shuai1	throw on ground, to fall	shuai1	/throw on ground/to fall/
+2	甩	shuai3	fling	shuai3	/fling/
+2	率领	shuai4ling3	leader	shuai4ling3	/lead/command/head/
+2	双方	shuang1fang1	both sides, bilateral	shuang1fang1	/bilateral/both sides/both parties involved/
+2	水稻	shui3dao4		shui3dao4	/rice/paddy/
+2	水泥	shui3ni2	cement	shui3ni2	/cement/
+2	顺	shun4	along, to obey	shun4	/to obey/to follow/to arrange/to make reasonable/along/favorable/
+2	顺便	shun4bian4	passingly	shun4bian4	/conveniently/in passing/
+2	顺利	shun4li4	smooth, smoothly	shun4li4	/smoothly/without a hitch/
+2	撕	si1	fastfood, to tear	si1	/to tear/
+2	私	si1	private, privately	si1	/personal/private/selfish/
+2	私人	si1ren2	private citizen	si1ren2	/private (citizen)/private/
+2	司机	si1ji1	driver	si1ji1	/chauffeur/driver/
+2	丝	si1	silk	si1	/silk/thread/trace/
+2	似乎	si4hu1	to seem, apparently	si4hu	/apparently/to seem/to appear/as if/seemingly/
+2	松	song1	to loosen, loose	song1	/loose/pine//loose/
+2	送行	song4xing2	send-off, to see someone off	song4xing2	/to see someone off/
+2	速度	su4du4	speed	su4du4	/speed/rate/velocity/
+2	塑料	su4liao4	lastics	su4liao4	/plastics/
+2	算了	suan4le		suan4le	/let it be/let it pass/
+2	随	sui2	VERB	sui2	/to follow/to comply with/to allow/(surname)/
+2	随便	sui2bian4	as one wishes	sui2bian4	/as one wishes/as one pleases/casual/
+2	随时	sui2shi2	at any time	sui2shi2	/at any time/
+2	碎	sui4	fragementary, to break down	sui4	/to break down/to break into pieces/fragmentary/
+2	损失	sun3shi1	loss, to lose	sun3shi1	/a (financial, etc.) loss/to lose/
+2	缩	suo1	crinkle, to withdraw	suo1	/to withdraw/to pull back/to contract/to shrink/to reduce/
+2	所	suo3	actually	suo3	/actually/place/
+2	所	suo3	actually	suo3	/actually/place/
+2	所谓	suo3wei4	so-called	suo3wei4	/so-called/
+2	塔	ta3	pagoda	ta3	/pagoda/tower/
+2	台	tai2		tai2	/surname/(classical) you (in letters)/platform/Taiwan (abbr.)//desk/platform//(measure word)/platform/stage/terrace/stand/support/desk/station/broadcasting station/
+2	太太	tai4tai	married woman	tai4tai	/married woman/Mrs./Madam/wife/
+2	谈话	tan2hua4	talk	tan2hua4	/talk/conversation/
+2	谈判	tan2pan4	negotiation, to negotiate	tan2pan4	/to negotiate/negotiation/conference/
+2	弹	tan2	bullet, VERB	tan2	/impeach/to pluck a string/to play (a stringed musical instrument with fingers)/
+2	毯子	tan3zi	rug	tan3zi	/a blanket/
+2	探	tan4	to explore	tan4	/to explore/to search out/to scout/to visit/
+2	趟	tang4	a time	tang4	/a time/a trip/
+2	烫	tang4	to scald, scalding	tang4	/to scald/to burn/to iron/hot/
+2	掏	tao1	fish out from pocket	tao1	/fish out (from pocket)//fish out (from pocket)/
+2	逃	tao2	escapable, to escape	tao2	/to escape/to run away/to flee/
+2	讨厌	tao3yan4	to hate, disgusting	tao3yan4	/disgusting/troublesome/nasty/to hate (doing something)/
+2	套	tao4	set, to cover	tao4	/to cover/covering/case/cover/(a measure word, a set of something)/sheath/
+2	特此	te4ci3	hereby	te4ci3	/hereby/
+2	特点	te4dian3	characteristic	te4dian3	/characteristic (feature)/trait/feature/
+2	特殊	te4shu1	irregular	te4shu1	/special/particular/unusual/extraordinary/
+2	提倡	ti2chang4	to promote	ti2chang1	/to promote/to advocate/
+2	提供	ti2gong1	provider, to provide	ti2gong1	/to supply/to provide/to furnish/
+2	提前	ti2qian2	preact, to shift to an earlier date	ti2qian2	/to shift to an earlier date/to bring forward/to advance/
+2	题	ti2	topic, to inscribe	ti2	/topic/subject/to inscribe/to superscribe/
+2	题目	ti2mu4	subject	ti2mu4	/subject/title/topic/
+2	体会	ti3hui4	to learn	ti3hui4	/know (through learning or by experience)/
+2	体积	ti3ji1	cubage	ti3ji1	/volume/bulk/
+2	体系	ti3xi4	system	ti3xi4	/system/setup/
+2	体育场	ti3yu4chang3	stadium	ti3yu4chang3	/stadium/
+2	体育馆	ti3yu4guan3	gym	ti3yu4guan3	/gym/gymnasium/stadium/
+2	替	ti4	for, to substitute for	ti4	/to substitute for/to take the place of/to replace/for/on behalf of/to stand in for/
+2	天真	tian1zhen1	childishness	tian1zhen1	/naive/innocent/artless/
+2	添	tian1	appose, to add	tian1	/to add/to increase/to replenish/
+2	填	tian2	to fill in	tian2	/to fill in/
+2	田	tian2		tian2	/(surname)/field/farm/
+2	田野	tian2ye3	field	tian2ye3	/field/open land/
+2	甜	tian2	sweet	tian2	/sweet/
+2	挑	tiao1	carry on a pole	tiao1	/carry on a pole/choose/
+2	条约	tiao2yue1	treaty	tiao2yue1	/treaty/pact/
+2	调整	tiao2zheng3	adjustment, to adjust	tiao2zheng3	/adjustment/revision/
+2	贴	tie1	allowance, to stick	tie1	/to stick/to paste/to keep close to/to fit snugly/allowance/
+2	铁	tie3		tie3	/iron/
+2	铁路	tie3lu4	railroad	tie3lu4	/railroad/railway/
+2	听讲	ting1jiang3		ting1jiang3	/attend a lecture/listen to a talk/
+2	停止	ting2zhi3	to stop, to cease	ting2zhi3	/to stop/to halt/to cease/
+2	通讯	tong1xun4	communication	tong1xun4	/communications/a news story (e.g. dispatched over the wire)/
+2	同	tong2	like, at the same time	tong2	/like/same/similar/together/alike/with/
+2	同	tong2	like, at the same time	tong2	/like/same/similar/together/alike/with/
+2	同情	tong2qing2	compassion	tong2qing2	/compassion/relent/sympathize/sympathy/
+2	同屋	tong2wu1	roommate	tong2wu1	/roommate/
+2	同样	tong2yang4	same	tong2yang4	/same/equal/equivalent/
+2	铜	tong2	copper	tong2	/copper/
+2	桶	tong3	barrel	tong3	/pail/bucket/bin/barrel/
+2	统一	tong3yi1	unification, to unify	tong3yi1	/to unify/to unite/to integrate/
+2	统治	tong3zhi4	political rule over, to rule	tong3zhi4	/(political) rule (over)/to rule/to dominate/rule/domination/
+2	痛	tong4	ache	tong4	/ache/pain/sorrow/
+2	痛苦	tong4ku3	pain	tong4ku3	/pain/suffering/painful/
+2	偷	tou1	to steal, improperly	tou1	/to steal/to pilfer/
+2	偷偷	tou1tou1	stealthily	tou1tou1	/stealthily/secretly/covertly/on the sly/
+2	投	tou2	to throw	tou2	/to throw/to send/
+2	投入	tou2ru4	investment, to put into	tou2ru4	/put into operation/throw into battle/to put into/
+2	头	tou2	head	tou2	/head/
+2	头发	tou2fa	hair on the head	tou2fa	/hair (on the head)/
+2	透	tou4	defolation, to penetrate	tou4	/to penetrate/thorough/penetrating/to pass through/to pierce/
+2	突出	tu1chu1	prominent	tu1chu1	/prominent/give prominence to/
+2	突击	tu1ji1	onrush	tu1ji1	/make a sudden and violent attack/do a crash job/
+2	图	tu2	diagram, to plan	tu2	/diagram/to plan/picture/drawing/chart/
+2	涂	tu2	to smear	tu2	/to smear/daub//(surname)/to smear/daub/to apply (paint)/to spread/
+2	土	tu3	earth	tu3	/earth/dust/
+2	土地	tu3di4	land	tu3di4	/land/territory/
+2	土豆	tu3dou4	potato	tu3dou4	/potato/
+2	吐	tu3	vomit, to spit	tu3	/to spit/
+2	吐	tu4	vomit, to spit	tu4	/vomit/
+2	兔子	tu4zi	rabbit	tu4zi	/hare/rabbit/
+2	团	tuan2	group	tuan2	/regiment/round/circular/group/society//dumpling/
+2	推动	tui1dong4	to promote	tui1dong4	/to push (for acceptance of a plan)/to push forward/to promote/
+2	推广	tui1guang3	popularization, to popularize	tui1guang3	/popularize/make more widespread/
+2	拖	tuo1	to drag along	tuo1	/dragging (brush stroke in painting)/to drag along/
+2	托	tuo1	entrust, to hold in ones hand	tuo1	/to hold in one's hand/to entrust/to support in one's palm//entrust/
+2	脱离	tuo1li2	to leave	tuo1li2	/separate/break away/
+2	挖	wa1	dig, to dig	wa1	/to dig/to excavate/to scoop out/
+2	哇	wa	sound of childs crying	wa1	/sound of child's crying/
+2	歪	wai1	askew	wai1	/askew/
+2	外地	wai4di4	foreign	wai4di4	/parts of the country other than where one is/foreign lands/
+2	外交	wai4jiao1	foreign affairs	wai4jiao1	/diplomacy/diplomatic/foreign affairs/
+2	外面	wai4mian	outside	wai4mian	/outside/
+2	弯	wan1	corner	wan1	/bend/bent/
+2	完整	wan2zheng3	complete	wan2zheng3	/complete/intact/
+2	网球	wang3qiu2	tennis	wang3qiu2	/tennis/
+2	往往	wang3wang3	often	wang3wang3	/often/frequently/
+2	望	wang4	hope, to visit	wang4	/hope/expect/to visit/to gaze (into the distance)/look towards/towards/
+2	忘记	wang4ji4	to forget	wang4ji4	/forget/
+2	微笑	wei1xiao4	smile	wei1xiao4	/smile/
+2	危害	wei1hai4	disserve, to jeopardize	wei1hai4	/to jeopardize/to harm/to endanger/
+2	危机	wei1ji1	crisis	wei1ji1	/crisis/
+2	违反	wei2fan3	violation, to violate	wei2fan3	/to violate (a law, e.g.)/
+2	围	wei2	to circle	wei2	/to circle/to surround/
+2	围绕	wei2rao4	to encompass	wei2rao3	/revolve around/center on (an issue)/
+2	维护	wei2hu4	defense, to maintain	wei2hu4	/defense/safeguard/protect/uphold/maintain/
+2	委员	wei3yuan2	committee member	wei3yuan2	/committee member/committee/council/
+2	尾巴	wei3ba	tail	wei3ba	/tail/
+2	未	wei4	no, not	wei4	/1-3 p.m./8th earthly branch/not yet/did not/have not/not/
+2	未来	wei4lai2	future, future	wei4lai2	/future/tomorrow/approaching/coming/pending/
+2	味道	wei4dao	flavor	wei4dao	/flavor/
+2	胃	wei4	hedgehog	wei4	/stomach/
+2	喂	wei4	interjection hello, to feed	wei4	/(interjection) hello/to feed (someone or some animal)/hey/telephone greeting//to feed/
+2	位置	wei4zhi	position	wei4zhi	/position/place/seat/
+2	卫生	wei4sheng1	health	wei4sheng1	/health/hygiene/sanitation/
+2	卫星	wei4xing1	satellite	wei4xing1	/(space) satellite/
+2	温度	wen1du4	temperature	wen1du4	/temperature/
+2	温暖	wen1nuan3	warmth, warm	wen1nuan3	/warm/
+2	文件	wen2jian4	file	wen2jian4	/document/file/
+2	文明	wen2ming2	civilized	wen2ming2	/civilized/civilization/culture/
+2	文物	wen2wu4	relic	wen2wu4	/cultural relic/historical relic/
+2	文字	wen2zi4	text	wen2zi4	/character/
+2	闻	wen2	sniff	wen2	/(surname)/hear/sniff at/
+2	稳	wen3	stable	wen3	/settled/steady/stable/
+2	稳定	wen3ding4	stability, stable	wen3ding4	/stable/steady/
+2	问候	wen4hou4	greetings, to send greetings	wen4hou4	/give someone one's respects/send a greeting/
+2	握	wo4	handshake, to hold	wo4	/shake hands/to hold/to grasp/
+2	污染	wu1ran3	pollution, to pollute	wu1ran3	/pollution/
+2	屋	wu1	house	wu1	/house/room/
+2	无	wu2	not to have	wu2	/-less/not to have/no/none/not/to lack/un-/
+2	无论	wu2lun4	no matter	wu2lun4	/no matter what|how/regardless of whether.../
+2	无数	wu2shu4	countless	wu2shu4	/countless/numberless/innumerable/
+2	无限	wu2xian4	unlimited	wu2xian4	/unlimited/unbounded/
+2	武器	wu3qi4	weapon	wu3qi4	/weapon/arms/
+2	武术	wu3shu4	wushu,  martial arts such as shadow-boxing	wu3shu4	/wushu, martial arts such as shadow-boxing, swordplay, etc./
+2	雾	wu4	fog	wu4	/fog/mist/
+2	物价	wu4jia4	commodity prices	wu4jia4	/(commodity) prices/
+2	物质	wu4zhi4	product	wu4zhi4	/matter/substance/material/materialistic/
+2	误会	wu4hui4	misunderstanding, to misunderstand	wu4hui4	/to misunderstand/to mistake/misunderstanding/
+2	西北	xi1bei3	northwest	xi1bei3	/northwest/
+2	西部	xi1bu4	West, Western	xi1bu4	/western part/
+2	西餐	xi1can1		xi1can1	/Western-style food/
+2	西方	xi1fang1	West, Western	xi1fang1	/the West/the Occident/Western countries/
+2	西瓜	xi1gua1	watermelon	xi1gua1	/watermelon/
+2	西红柿	xi1hong2shi4	tomato	xi1hong2shi4	/tomato/
+2	西南	xi1nan2	southwest	xi1nan2	/southwest/
+2	西面	xi1mian4	west side	xi1mian4	/west side/west/
+2	吸	xi1	to breathe	xi1	/to breathe/to suck in/to absorb/to inhale/
+2	吸收	xi1shou1	to absorb	xi1shou1	/absorb/assimilate/
+2	吸烟	xi1yan1	to smoke	xi1yan1	/to smoke/
+2	吸引	xi1yin3	attraction, to attract	xi1yin3	/attract (interest, investment, etc.)/
+2	牺牲	xi1sheng1	sacrifice, to sacrifice	xi1sheng1	/sacrifice (one's life, etc.)/
+2	洗衣机	xi3yi1ji1	washer	xi3yi1ji1	/washer/washing machine/
+2	系统	xi4tong3	system, systematically	xi4tong3	/system/
+2	戏	xi4	trick	xi4	/trick/drama/play/show/
+2	细菌	xi4jun1	bacterial	xi1jun1	/bacterial/virus/germ/
+2	细心	xi4xin1	cautiousness	xi4xin1	/careful/attentive/
+2	下班	xia4ban1	to come or go or get off work	xia4ban1	/to come or go or get off work/
+2	下面	xia4mian	below	xia4mian	/below/next/the following/under/below/
+2	吓	xia4	to frighten	xia4	/to frighten/to scare/to intimidate/to threaten/
+2	掀	xian1	lift cover	xian1	/lift (cover)/
+2	先后	xian1hou4	in succession	xian1hou4	/early or late/priority/in succession/one after another/
+2	先进	xian1jin4	to advance, advanced	xian1jin4	/advanced (technology)/to advance/
+2	鲜	xian1	fresh	xian1	/fresh/
+2	鲜花	xian1hua1	flower	xian1hua1	/fresh flowers/
+2	纤维	xian1wei2	fiber	xian1wei2	/fiber/
+2	闲	xian2	interstice, to stay idle	xian2	/to stay idle/to be unoccupied/not busy/leisure/enclosure/
+2	显得	xian3de	to appear	xian3de	/appear (to be)/seem/
+2	显然	xian3ran2	clear, clearly	xian3ran	/clear/evident/obvious/
+2	显著	xian3zhu4	outstanding		
+2	现代化	xian4dai4hua4	modernization, modern	xian4dai4hua4	/modernization/
+2	现实	xian4shi2	reality, useful	xian4shi2	/reality/actuality/real/actual/
+2	现象	xian4xiang4	phenomenon	xian4xiang4	/appearance/phenomenon/
+2	献	xian4	to offer	xian4	/to offer/
+2	县	xian4	district	xian4	/a district/county/
+2	羡慕	xian4mu4	envy, to envy	xian4mu4	/envious/envy/admire/
+2	限制	xian4zhi4	restriction, to limit	xian4zhi4	/(impose) restrictions/to limit/to bound/to restrict/
+2	线	xian4	line	xian4	/thread/string/wire/line/
+2	相	xiang1	each other	xiang1	/each other/one another/mutually/
+2	相当	xiang1dang1	equivalent to, appropriate	xiang1dang1	/equivalent to/appropriate/considerably/to a certain extent/fairly/
+2	相反	xiang1fan3	opposite	xiang1fan3	/opposite/contrary/
+2	相互	xiang1hu4	each other, mutual	xiang1hu4	/each other/mutual/
+2	相似	xiang1si4	similar, to resemble	xiang1si4	/to resemble/similar/like/resemblance/similarity/
+2	相同	xiang1tong2	identical	xiang1tong2	/identical/same/
+2	香肠	xiang1chang2	sausage	xiang1chang2	/sausage/
+2	香皂	xiang1zao4		xiang1zao4	/perfumed soap/toilet soap/
+2	箱子	xiang1zi	container	xiang1zi3	/bin/
+2	乡	xiang1	district	xiang1	/country/village/
+2	乡下	xiang1xia	country as opposed to town or city	xiang1xia4	/country (as opposed to town or city)/rural/
+2	详细	xiang2xi4	detailed, in detail	xiang2xi4	/detailed/in detail/minute/
+2	想法	xiang3fa3	idea, to think of a way to do sth	xiang3fa3	/idea/what (someone) is thinking/to think of a way (to do sth)/
+2	想念	xiang3nian4	yearold	xiang3nian4	/miss/remember with longing/long to see again/
+2	想象	xiang3xiang4	envisage, to imagine	xiang3xiang4	/to imagine/to fancy/
+2	响应	xiang3ying4	respond to	xiang3ying4	/respond to/answer/
+2	享受	xiang3shou4	bask, to enjoy	xiang3shou4	/to enjoy (rights, benefits, etc.)/
+2	项	xiang4	vast	xiang4	/(surname)/back of neck/item/thing/
+2	项目	xiang4mu4	project	xiang4mu4	/item/project/sports event/
+2	象	xiang4	shape, to be like	xiang4	/shape/form/appearance/to be like/to resemble/to take after/to seem/elephant/image under a map (math.)/
+2	消费	xiao1fei4	consumption, to consume	xiao1fei4	/to consume/
+2	消化	xiao1hua4	digest	xiao1hua4	/digest/digestion/digestive/
+2	消灭	xiao1mie4	perish	xiao1mie4	/perish/cause to perish/annihilation (in quantum field theory)/
+2	消失	xiao1shi1	disappear	xiao1shi1	/disappear/fade away/
+2	晓得	xiao3de2	cognizant, to know	xiao3de	/to know/
+2	小伙子	xiao3huo3zi	young man	xiao3huo3zi	/lad/young fellow/youngster/
+2	小麦	xiao3mai4	wheat	xiao3mai4	/wheat/
+2	小朋友	xiao3peng2you		xiao3peng2you3	/children/
+2	小说	xiao3shuo1	novel	xiao3shuo1	/novel/fiction/{CL 篇}/
+2	小心	xiao3xin1	careful	xiao3xin1	/careful/
+2	小学	xiao3xue2	primary school	xiao3xue2	/primary school/
+2	校长	xiao4zhang3	president	xiao4zhang3	/(college, university) president/schoolmaster/
+2	笑话	xiao4hua	joke	xiao4hua4	/joke/jest/
+2	效果	xiao4guo3	result	xiao4guo3	/result/effect/
+2	效率	xiao4lv4	efficiency	xiao4lu:4	/efficiency/
+2	歇	xie1	to rest	xie1	/to rest/
+2	斜	xie2	slant, slanted	xie2	/slanting/
+2	血	xie3	blood	xie3	/blood/
+2	新鲜	xin1xian1	fresh	xin1xian1	/fresh (experience, food, etc.)/freshness/
+2	心得	xin1de2	knowledge gained	xin1de2	/knowledge gained/
+2	心情	xin1qing2	mood	xin1qing2	/mood/frame of mind/
+2	心脏	xin1zang4	heart	xin1zang4	/heart/
+2	信	xin4	letter, evidence	xin4	/letter/true/to believe/sign/evidence/
+2	信心	xin4xin1	confidence	xin4xin1	/confidence/faith (in someone or something)/
+2	星星	xing1xing	stars	xing1xing	/(n) star in the sky/
+2	兴奋	xing1fen4	be excited	xing1fen4	/(be) excited/
+2	形成	xing2cheng2	appearance, to form	xing2cheng2	/to form/to take shape/
+2	形容	xing2rong2	describe	xing2rong2	/describe/look or appearance/
+2	形式	xing2shi4	form	xing2shi4	/form/shape/situation/circumstance/
+2	形势	xing2shi4	circumstances	xing2shi4	/circumstances/situation/terrain/
+2	形象	xing2xiang4	image	xing2xiang4	/image/form/figure/
+2	形状	xing2zhuang4	form	xing2zhuang4	/form/shape/
+2	行	xing2	row, to go	xing2	/all right/capable/competent/OK/okay/to go/to do/to travel/temporary/to walk/to go/will do/
+2	行动	xing2dong4	movement, to move	xing2dong4	/operation/action/to move/mobile/
+2	行李	xing2li	luggage	xing2li	/luggage/
+2	醒	xing3	to wake up	xing3	/to wake up/to be awake/
+2	兴趣	xing4qu4	interest	xing4qu	/interest (directed towards, not inherent in something)/
+2	性	xing4	sex	xing4	/sex/nature/surname/suffix corresponding to -ness or -ity/
+2	性格	xing4ge2	nature	xing4ge2	/nature/disposition/temperament/character/
+2	性质	xing4zhi4	nature	xing4zhi4	/nature/characteristic/
+2	姓名	xing4ming2	name	xing4ming2	/name and surname/
+2	兄弟	xiong1di	brothers	xiong1di4	/brothers/younger brother/brethren/
+2	胸	xiong1	chest	xiong1	/chest/bosom/heart/mind/thorax/
+2	雄	xiong2	hero, heroic	xiong2	/heroic/male/
+2	雄伟	xiong2wei3	grand	xiong2wei3	/grand/
+2	熊猫	xiong2mao1	panda	xiong2mao1	/panda/
+2	修	xiu1	cultivate, to decorate	xiu1	/to decorate/to embellish/to repair/to build/to study/to write/to cultivate/
+2	修改	xiu1gai3	to modify	xiu1gai3	/amend/alter/
+2	修理	xiu1li3	repair, to overall	xiu1li3	/repair/perform maintenance/to overall/to fix/
+2	虚心	xu1xin1		xu1xin1	/modest/
+2	许	xu3	to allow	xu3	/to allow/to permit/to praise/(surname)/
+2	宣布	xuan1bu4	announcement, to announce	xuan1bu4	/to declare/to announce/to proclaim//announce/declare/
+2	宣传	xuan1chuan2	propaganda	xuan1chuan2	/publicize/
+2	选	xuan3	to choose	xuan3	/to choose/to pick/to select/to elect/
+2	选举	xuan3ju3	election, to elect	xuan3ju3	/to elect/election/
+2	选择	xuan3ze2	selection, to select	xuan3ze2	/to select/to pick/to choose/to make a choice/
+2	学	xue2	to study	xue2	/learn/study/science/-ology/
+2	学费	xue2fei4	tuition	xue2fei4	/tuition fee/tuition/
+2	学期	xue2qi1	term	xue2qi1	/term/semester/
+2	学术	xue2shu4	learning	xue2shu4	/learning/science/academic/
+2	学问	xue2wen	learning	xue2wen4	/learning/knowledge/
+2	血液	xue4ye4	blood	xue4ye4	/blood/
+2	寻找	xun2zhao3	quest, to seek	xun2zhao3	/to seek/to look for/
+2	训练	xun4lian4	drill	xun4lian4	/drill/exercise/train/training/
+2	迅速	xun4su4	to dispatch, rapid	xun4su4	/rapid/speedy/fast/
+2	压	ya1	to press, first of all	ya1	/to press/to push down/to keep under (control)/
+2	压迫	ya1po4	oppress	ya1po4	/oppress/oppression/
+2	牙	ya2	tooth	ya2	/tooth/ivory/
+2	牙刷	ya2shua1		ya2shua1	/toothbrush/
+2	盐	yan2	salt	yan2	/salt/
+2	严格	yan2ge2	strict, strictly	yan2ge2	/strict/stringent/tight/rigorous/
+2	严肃	yan2su4	solemn	yan2su4	/solemn/solemnity/
+2	严重	yan2zhong4	serious, seriously	yan2zhong4	/grave/serious/severe/critical/
+2	研究所	yan2jiu1suo3	research institute	yan2jiu1suo3	/research institute/
+2	延长	yan2chang2	extend, to extend	yan2chang2	/extend/prolong/
+2	沿	yan2	along, along	yan2	/along/
+2	眼	yan3	eye	yan3	/eye/
+2	眼镜	yan3jing4	spectacles	yan3jing4	/spectacles/eyeglasses/
+2	眼泪	yan3lei4	tear	yan3lei4	/tear/
+2	眼前	yan3qian2	now	yan3qian2	/now/present/
+2	演	yan3	to develop	yan3	/to develop/to evolve/to practice/to perform/to play/to act/
+2	演员	yan3yuan2	actor	yan3yuan2	/actor or actress/performer/
+2	咽	yan4	narrow pass, to swallow	yan4	/to swallow/
+2	圆光	yuan2guang1			
+2	阳光	yang2guang1	sunshine	yang2guang1	/sunshine/
+2	养	yang3	to support	yang3	/give birth/keep (pets)/to support/to bring sb. up/to raise (pig, etc.)/
+2	样	yang4	manner	yang4	/manner/pattern/way/appearance/shape/
+2	邀请	yao1qing3	invite, to invite	yao1qing3	/invite/
+2	腰	yao1	waist	yao1	/waist/
+2	摇	yao2	shake, to rock	yao2	/shake/to rock/
+2	咬	yao3	bite	yao3	/bite/nip/
+2	要紧	yao4jin3	important	yao4jin3	/important/urgent/
+2	爷爷	ye2ye	grandfather	ye2ye	/(informal) father's father; paternal grandfather/
+2	业务	ye4wu4	business service	ye4wu4	/business/profession/
+2	业余	ye4yu2	spare time	ye4yu2	/spare time/amateur/
+2	叶子	ye4zi	foliage	ye4zi	/foliage/leaf/
+2	夜里	ye4li	nighttime	ye4li3	/(n) during the night; at night/
+2	夜晚	ye4wan3	night	ye4wan3	/night/
+2	一	yi1	one	yi1	/one/single/a(n)/
+2	一半	yi1ban4	half	yi1ban4	/half/
+2	一边	yi1bian1	side, on the one hand	yi1bian1	/one side/
+2	一_也_	yi1_ye3_			
+2	一方_一方面_	yi1fang1_yi1fang1mian4_			
+2	一齐	yi1qi2		yi1qi2	/at the same time/simultaneously/
+2	一生	yi1sheng1	all ones life	yi4sheng1	/all one's life/throughout one's life/
+2	一时	yi1shi2	temporary, temporary	yi4shi2	/temporary/momentary/
+2	一同	yi1tong2	along	yi1tong2	/along/together/
+2	一下子	yi1xia4zi	in a short while	yi2xia4zi	/in a short while/all at once/all of a sudden/
+2	一致	yi1zhi4	unanimity, unanimous	yi1zhi4	/unanimous/identical (views or opinions)/
+2	一道	yi1dao4	a stream of	yi1dao4	/together/
+2	医务室	yi1wu4shi4	infirmary	yi1wu4shi4	/clinic/
+2	医学	yi1xue2	medicine	yi1xue2	/medicine/medical science/study of medicine/
+2	依靠	yi1kao4	rely on for support,  etc	yi1kao4	/rely on (for support, etc)/depend on/
+2	移	yi2	to move	yi2	/to move/to shift/to change/to alter/to remove/
+2	移动	yi2dong4	movement, VERB	yi2dong4	/mobile/movement/to move/to shift/
+2	仪器	yi2qi4	scientific,  etc instrument	yi2qi4	/(scientific, etc) instrument/
+2	疑问	yi2wen4	suspicion	yi2wen4	/interrogation/interrogative/query/
+2	已	yi3	to stop, ADVB	yi3	/already/to stop/then/afterwards/
+2	以	yi3	to use, in order to	yi3	/to use/according to/so as to/in order to/by/with/because/abbr. for Israel/
+2	以及	yi3ji2	as well as	yi3ji2	/as well as/too/and/
+2	以来	yi3lai2	since	yi3lai2	/since (a previous event)/
+2	以内	yi3nei4	within	yi3nei4	/within/less than/
+2	以上	yi3shang4	more than	yi3shang4	/more than/above/over/the above-mentioned/
+2	以外	yi3wai4	beyond	yi3wai4	/apart from/other than/except for/external/outside of/
+2	以下	yi3xia4	below	yi3xia4	/below/under/following/
+2	意外	yi4wai4	unexpected	yi4wai4	/unexpected/
+2	意志	yi4zhi4	determination	yi4zhi4	/will/
+2	议论	yi4lun4	debate, to comment	yi4lun4	/to comment/to talk about/to discuss/discussion/
+2	异常	yi4chang2	exceptional	yi4chang2	/exceptional/abnormal/
+2	因此	yin1ci3	that is why	yin1ci3	/that is why/for that reason/therefore/for this reason/
+2	因而	yin1'er2	therefore	yin1er2	/therefore/as a result/thus/and as a result, .../
+2	因素	yin1su4	element	yin1su4	/element/factor/
+2	银	yin2	silver	yin2	/silver/
+2	引起	yin3qi3	to lead to	yin3qi3	/to give rise to/to lead to/to cause/to arouse/
+2	印	yin4	stamp, VERB	yin4	/stamp/seal/mark/print/
+2	印刷	yin4shua1	print	yin4shua4	/print/
+2	印象	yin4xiang4	impression	yin4xiang4	/impression/
+2	英雄	ying1xiong2	hero	ying1xiong2	/hero/
+2	英勇	ying1yong3	bravery	ying1yong3	/bravery/gallant/valiant/
+2	应	ying1	ought, to answer	ying1	/ought/
+2	应当	ying1dang1	should	ying1dang1	/should/ought to/
+2	营养	ying2yang3	nutrition	ying2yang3	/nutrition/nourishment/
+2	营业	ying2ye4	business, to do business	ying2ye4	/to do business/to trade/
+2	迎接	ying2jie1	to meet	ying2jie1	/to meet/to welcome/to greet/
+2	影子	ying3zi	shadow	ying3zi	/shadow/reflection/
+2	应用	ying4yong4	application, to use	ying4yong4	/to use/to apply/application/applicable/
+2	硬	ying4	hard	ying4	/hard/stiff/strong/firm/
+2	拥抱	yong1bao4	enfold, to embrace	yong1bao4	/to embrace/to hug/
+2	拥护	yong1hu4	advocacy, to advocate	yong1hu4	/to endorse/to support/
+2	勇敢	yong3gan3	brave	yong3gan3	/brave/
+2	勇气	yong3qi4	courage	yong3qi4	/courage/valor/
+2	用不着	yong4buzhao2		yong4buzhao2	/not need/have no use for/
+2	用处	yong4chu	usefulness	yong4chu	/usefulness/
+2	用功	yong4gong1	diligent	yong4gong1	/diligent/industrious (in one's studies)/
+2	用力	yong4li4	energise	yong4li4	/exert oneself (physically)/put forth one's strength/
+2	优点	you1dian3	merit	you1dian3	/merit/strong point/
+2	优良	you1liang2	excellent	you1liang2	/fine/good/
+2	优美	you1mei3	graceful	you1mei3	/graceful/fine/elegant/
+2	优秀	you1xiu4	outstanding	you1xiu4	/outstanding/excellent/
+2	悠久	you1jiu3	established	you1jiu3	/established/long/
+2	由	you2	by	you2	/follow/from/it is for...to/reason/cause/because of/due to/by/to/to leave it (to sb)/
+2	由于	you2yu2	due to	you2yu2	/due to/as a result of/thanks to/because of/owing to//due to/as a result of/thanks to/because of/owing to/
+2	油	you2	oil	you2	/oil/sly/
+2	游览	you2lan3	SEE, to go sight-seeing	you2lan3	/to go sight-seeing/to tour/to visit/
+2	游泳池	you2yong3chi2	natatorium	you2yong3chi2	/swimming pool/
+2	有的是	you3deshi4		you3deshi4	/have plenty of/there's no lack of/
+2	有点儿	you3dian3r		you3dianr	/(adv) slightly; little; somewhat/
+2	有关	you3guan1	to concern, related	you3guan1	/to have something to do with/to relate to/to concern/concerning/related to/
+2	有利	you3li4	advantageous, to have advantages	you3li4	/advantageous/to have advantages/favorable/
+2	有力	you3li4	powerful	you3li4	/powerful/forceful/vigorous/
+2	有趣	you3qu4	interesting	you3qu4	/interesting/fascinating/amusing/
+2	有时	you3shi2	sometimes	you3shi2	/sometimes/now and then/
+2	有效	you3xiao4	effectiveness, effective	you3xiao4	/effective/in effect/valid/
+2	有用	you3yong4	useful	you3yong4	/useful/
+2	右边	you4bian	right as opposed to left	you4bian1	/right (as opposed to left)/
+2	于	yu2	within	yu2	/(surname)//in/at/to/from/by/than/out of/
+2	于是	yu2shi4	thereupon	yu2shi4	/thereupon/as a result/consequently/thus/hence/
+2	雨衣	yu3yi1	raincoat	yu3yi1	/raincoat/
+2	与	yu3	to give, and	yu3	/and/to give/together with/
+2	语调	yu3diao4	Tone	yu3diao4	/intonation/
+2	语气	yu3qi4	Tone	yu3qi4	/tone/manner of speaking/mood/
+2	语音	yu3yin1	voice	yu3yin1	/voice/
+2	羽毛球	yu3mao2qiu2	badminton	yu3mao2qiu2	/badminton/
+2	玉米	yu4mi3	corn	yu4mi3	/corn/maize/
+2	遇	yu4	to encounter	yu4	/meet with/
+2	遇见	yu4jian4	meet	yu4jian4	/meet/
+2	预备	yu4bei4	preparation, to prepare	yu4bei4	/to prepare/to make ready/preparation/preparatory/
+2	员	yuan2	person	yuan2	/person/employee/member/
+2	原料	yuan2liao4	raw material	yuan2liao4	/raw material/
+2	原因	yuan2yin1	cause	yuan2yin1	/cause/origin/root cause/reason/
+2	原则	yuan2ze2	principle	yuan2ze2	/principle/
+2	圆珠笔	yuan2zhu1bi3	ball point pen	yuan2zhu1bi3	/ball point pen/
+2	愿望	yuan4wang4	desire	yuan4wang4	/desire/wish/
+2	院	yuan4	courtyard, institute	yuan4	/courtyard/institution/
+2	院长	yuan4zhang3	director	yuan4zhang3	/president (of a university, etc.)/department head/dean/
+2	院子	yuan4zi	courtyard	yuan4zi	/courtyard/
+2	约	yue1	weight, to arrange	yue1	/appointment/agreement/to arrange/to restrict/approximately/
+2	约会	yue1hui4	appointment	yue1hui4	/appointment/engagement/
+2	越_越_	yue4_yue4_			
+2	越来越_	yue4lai2yue4_			
+2	阅读	yue4du2	to read	yue4du2	/to read/
+2	阅览室	yue4lan3shi4	reading room	yue4lan3shi4	/reading room/
+2	允许	yun3xu3	allowed, to permit	yun3xu3	/to permit/to allow/
+2	运	yun4	fortune, to move	yun4	/to move/to transport/to use/to apply/fortune/luck/fate/
+2	运动会	yun4dong4hui4	competition	yun4dong4hui4	/a sports competition/
+2	运动员	yun4dong4yuan2	athlete	yun4dong4yuan2	/athlete/
+2	运输	yun4shu1	transportation, to transport	yun4shu1	/transit/transport/
+2	运用	yun4yong4	application, to use	yun4yong4	/to use/to put to use/
+2	咋	ze2	gnaw	ze2	/gnaw/
+2	杂技	za2ji4	acrobatics	za2ji4	/acrobatics/
+2	灾	zai1	disaster	zai1	/disaster/calamity/
+2	灾害	zai1hai4	disaster	zai1hai4	/disastrous damage/scourge/
+2	暂时	zan4shi2	temporary, temporarily	zan4shi2	/temporary/provisional/
+2	赞成	zan4cheng2	approve	zan4cheng2	/approve/endorse/
+2	遭到	zao1dao4	to suffer	zao1dao4	/suffer/meet with (something unfortunate)/
+2	遭受	zao1shou4	suffering, to suffer	zao1shou4	/suffer/sustain (loss, misfortune)/
+2	糟糕	zao1gao1	awful, too bad	zao1gao1	/too bad/how terrible/what bad luck/terrible/bad/
+2	造	zao4	make, to make	zao4	/to make/to build/to invent/to manufacture/
+2	造句	zao4ju4		zao4ju4	/sentence-making/
+2	责任	ze2ren4	responsibility	ze2ren4	/responsibility/blame/duty/
+2	则	ze2	to imitate, also	ze2	/(expresses contrast with a previous sentence or clause)/standard/norm/rule/to imitate/to follow/then/principle/
+2	增长	zeng1zhang3	growth, to increase	zeng1zhang3	/grow/increase/
+2	扎	zha1	tie with string or ribbon, to stop	zha1	/to prick/to run or stick (a needle, etc.) into/
+2	摘	zhai1	fruit, to borrow	zhai1	/to borrow/to pick (flowers, fruit)/to pluck/to take/to select/
+2	窄	zhai3	narrow	zhai3	/narrow/
+2	粘	zhan1	sticky, to stick	zhan1	/to stick/paste/
+2	展出	zhan3chu1	to put on display	zhan3chu1	/to put on display/to be on show/to exhibit/
+2	展开	zhan3kai1	to open	zhan3kai1	/to unfold/to carry out/to be in full swing/to launch/
+2	展览会	zhan3lan3hui4	exhibition	zhan3lan3hui4	/exhibition/show/
+2	战斗	zhan4dou4	struggle, to fight	zhan4dou4	/to fight/to battle/
+2	战胜	zhan4sheng4	prevail, to prevail over	zhan4sheng4	/prevail/surmount/
+2	战士	zhan4shi4	fighter	zhan4shi4	/fighter/soldier/warrior/
+2	战争	zhan4zheng1	war	zhan4zheng1	/war/conflict/
+2	章	zhang1	part	zhang1	/(surname)/chapter/seal/section/
+2	涨	zhang3	to rise	zhang3	/to rise (of prices, rivers)/
+2	丈	zhang4	ten feet	zhang4	/ten feet/
+2	丈夫	zhang4fu	husband	zhang4fu	/husband/
+2	招待	zhao1dai4	reception, to receive guests	zhao1dai4	/to receive (guests)/to entertain/reception/
+2	招待会	zhao1dai4hui4	press conference	zhao1dai4hui4	/(press) conference/reception/
+2	招呼	zhao1hu	glad-hand	zhao1hu	/(v) call out to sb/(v) greet sb/(v) inform sb; instruct sb to do sth/(v) take care of sb/
+2	着	zhao2		zhao2	/part. indicates the successful result of a verb/to touch/to come in contact with/to feel/to be affected by/to catch fire/to fall asleep/to burn/
+2	照	zhao4	according to, to shine	zhao4	/according to/in accordance with/to shine/to illuminate/to reflect/photograph/
+2	照常	zhao4chang2	normal	zhao4chang2	/(business, etc) as usual/
+2	照片	zhao4pian4	photograph	zhao4pian4	/photograph/picture/
+2	召开	zhao4kai1	to convene	zhao4kai1	/convene (a conference or meeting)/to convoke/to call together/
+2	折	zhe2	broken as of rope, to break	zhe2	/tenth (in price)/to break/to fold/to turn/
+2	哲学	zhe2xue2	philosophy	zhe2xue2	/philosophy/
+2	这边	zhe4bian1		zhe4bian1	/this side/here/
+2	真理	zhen1li3	truth	zhen1li3	/truth/
+2	真实	zhen1shi2	TRUE	zhen1shi2	/true/real/
+2	针	zhen1	injection	zhen1	/injection/needle/pin//needle/
+2	针对	zhen1dui4	in connection with, to direct at	zhen1dui4	/in connection with/directed towards/to direct at/to aim at/to point against/
+2	阵	zhen4	disposition	zhen4	/disposition of troops/short period/wave/spate/burst/spell/
+2	睁	zheng1	to open	zheng1	/to open (eye)/
+2	征求	zheng1qiu2	to solicit	zheng1qiu2	/solicit/seek/ask for/
+2	争	zheng1	struggle	zheng1	/struggle/fight/
+2	争论	zheng1lun4	argument, to argue	zheng1lun4	/to argue/to debate/to contend/argument/contention/controversy/debate/
+2	争取	zheng1qu3	to strive for	zheng1qu3	/fight for/compete for (a prize)/to struggle/
+2	整个	zheng3ge4	entire	zheng3ge4	/whole/entire/total/
+2	整理	zheng3li3	to arrange	zheng3li3	/arrange/sort out/list systematically/
+2	正	zheng4	currently	zheng4	/just (right)/main/upright/straight/correct/principle/
+2	正常	zheng4chang2	normal	zheng4chang2	/regular/normal/ordinary/
+2	正好	zheng4hao3	just, to happen to	zheng4hao3	/just (in time)/just right/just enough/to happen to/to chance to/by chance/it just so happens that/
+2	正式	zheng4shi4	formal, formally	zheng4shi4	/formal/official/
+2	政策	zheng4ce4	policy	zheng4ce4	/policy/
+2	证明	zheng4ming2	proof, to prove	zheng4ming2	/proof/testimony/prove/confirm the truth of/
+2	支持	zhi1chi2	support, to support	zhi1chi2	/to be in favor of/to support/to back/support/backing/to stand by/
+2	支援	zhi1yuan2	to provide assistance	zhi1yuan2	/provide assistance or backing/to support/to back/
+2	之后	zhi1hou4		zhi1hou4	/after(wards)/following/later/after/
+2	之前	zhi1qian2	before	zhi1qian2	/before/prior to/ago/
+2	之上	zhi1shang4		zhi1shang4	/above/
+2	之下	zhi1xia4	under	zhi1xia4	/under/beneath/less than/
+2	之一	zhi1yi1	one of	zhi1yi1	/one of (sth)/one out of a multitude/one (third, quarter, percent, etc.)/
+2	之中	zhi1zhong1		zhi1zhong1	/inside/
+2	织	zhi1	weave	zhi1	/weave/
+2	职工	zhi2gong1	worker	zhi2gong1	/workers/staff/
+2	职业	zhi2ye4	job occupation	zhi2ye4	/job occupation/profession/
+2	直	zhi2	straight	zhi2	/straight/vertical/frank/directly/straightly/upright/
+2	直	zhi2	straight	zhi2	/straight/vertical/frank/directly/straightly/upright/
+2	直到	zhi2dao4	until	zhi2dao4	/until/
+2	直接	zhi2jie1	direct, directly	zhi2jie1	/direct (opposite of indirect)/immediate/
+2	植物	zhi2wu4	plant	zhi2wu4	/botanical/plant/vegetation/
+2	执行	zhi2xing2	implementation, to carry out	zhi2xing2	/implement/carry out/to execute/to run/
+2	值得	zhi2de	worthiness, to be worth	zhi2de	/to be worth/to deserve/
+2	指出	zhi3chu1	to indicate	zhi3chu1	/to indicate/to point out/
+2	指导	zhi3dao3	to lead	zhi3dao3	/to guide/(give) directions/to direct/
+2	指挥	zhi3hui1	commander, to command	zhi3hui1	/to conduct/to command/to direct/
+2	指示	zhi3shi4	to point out	zhi3shi4	/point out/(give) directives or instructions/
+2	止	zhi3	to stop	zhi3	/to stop/toe/
+2	只是	zhi3shi4	merely	zhi3shi4	/merely/simply/only/but/
+2	只要	zhi3yao4		zhi3yao4	/if only/so long as/
+2	只有	zhi3you3	only	zhi3you3	/only/
+2	至	zhi4	to	zhi4	/arrive/most/to/until/
+2	至今	zhi4jin1	up to now	zhi4jin1	/until now/
+2	至少	zhi4shao3	at least, at least	zhi4shao3	/(to say the) least/(at the very) least/
+2	制定	zhi4ding4	draft, to draw up	zhi4ding4	/to draw up/to formulate/
+2	制订	zhi4ding4	to establish	zhi4ding4	/work out/formulate/
+2	制度	zhi4du4	institution	zhi4du4	/(political) system or institution/
+2	制造	zhi4zao4	manufacturer, to make	zhi4zao4	/to manufacture/to make/
+2	秩序	zhi4xu4	order, orderly	zhi4xu4	/order (orderly)/order (sequence)/
+2	质量	zhi4liang4	quality	zhi4liang4	/quality/mass (in physics)/
+2	治	zhi4	cure, to rule	zhi4	/to rule/to govern/to manage/to control/to harness (a river)/cure/treatment/to heal/
+2	中餐	Zhong1can1		zhong1can1	/Chinese meat/Chinese food/
+2	中心	zhong1xin1	center	zhong1xin1	/center/heart/core/
+2	中央	zhong1yang1	center, central	zhong1yang1	/central/middle/center/
+2	中药	zhong1yao4	traditional Chinese medicine	zhong1yao4	/(traditional) Chinese medicine/
+2	终于	zhong1yu2	at last	zhong1yu2	/at last/in the end/finally/eventually/
+2	种子	zhong3zi	seed	zhong3zi	/seed/
+2	种	zhong4	kind, VERB	zhong4	/to plant/to cultivate/
+2	重大	zhong4da4	important	zhong4da4	/great/important/major/significant/
+2	重点	zhong4dian3	main point	zhong4dian3	/emphasis/focal point/
+2	重量	zhong4liang4	weight	zhong4liang4	/weight/
+2	重视	zhong4shi4	importance, to pay attention to	zhong4shi4	/importance/to pay attention to/attach importance to/value/
+2	周到	zhou1dao	thoughtful	zhou1dao4	/thoughtful/considerate/
+2	株	zhu1	trunk	zhu1	/(a measure word, use with plants)/trunk of tree/
+2	逐步	zhu2bu4	to approach, increasingly	zhu2bu4	/progressively/step by step/
+2	逐渐	zhu2jian4	gradually	zhu2jian4	/gradually/
+2	竹子	zhu2zi		zhu2zi	/bamboo/
+2	煮	zhu3	to cook	zhu3	/to cook/to boil/
+2	主动	zhu3dong4	to take the initiative, to take the initiative	zhu3dong4	/(to take the) initiative/
+2	主观	zhu3guan1		zhu3guan1	/subjective/
+2	主人	zhu3ren2	master	zhu3ren2	/master/host/
+2	主任	zhu3ren4	director	zhu3ren4	/director/head/
+2	主席	zhu3xi2	chairman	zhu3xi2	/chairperson/premier/chairman/
+2	主张	zhu3zhang1	position, to advocate	zhu3zhang1	/to advocate/to stand for/view/position/stand/proposition/viewpoint/assertion/
+2	著名	zhu4ming2	famous		
+2	著作	zhu4zuo4	work		
+2	住院	zhu4yuan4	to be in hospital	zhu4yuan4	/to be in hospital/to be hospitalized/
+2	祝贺	zhu4he4	congratulations, to congratulate	zhu4he4	/to congratulate/congratulations/
+2	抓	zhua1	to grab	zhua1	/to grab/to catch/to arrest/to snatch/
+2	抓紧	zhua1jin3	grasp, to grasp	zhua1jin3	/grasp/
+2	专家	zhuan1jia1	expert	zhuan1jia1	/expert/specialist/
+2	专门	zhuan1men2	specialist, specially	zhuan1men2	/specialist/specialized/customized/
+2	专心	zhuan1xin1	absorption	zhuan1xin1	/absorption/concentrate/concentrate/concentration/engrossed/
+2	专业	zhuan1ye4	profession, professional	zhuan1ye4	/specialized field/
+2	转	zhuan3	to turn	zhuan3	/to convey/to forward (mail)/to transfer/to turn/to shift/
+2	转变	zhuan3bian4	change, to change	zhuan3bian4	/change/transform/
+2	转告	zhuan3gao4	to express	zhuan3gao4	/pass on/communicate/transmit/
+2	转	zhuan4	to turn	zhuan4	/to revolve/to turn/to circle about/to walk about/
+2	庄稼	zhuang1jia	emblement	zhuang1jia	/(n) farm crops/
+2	庄严	zhuang1yan2	stately	zhuang1yan2	/stately/
+2	撞	zhuang4	to hit	zhuang4	/to hit/to strike/to meet by accident/to run into/to bump against/to bump into/
+2	状况	zhuang4kuang4	condition	zhuang4kuang4	/condition/state/situation/
+2	状态	zhuang4tai4	condition	zhuang4tai4	/state of affairs/state/mode/
+2	追	zhui1	pursue a problem, to chase	zhui1	/pursue (a problem)/to chase/
+2	准	zhun3	accurate, to allow	zhun3	/to allow/to grant/to permit/accurate/standard//accurate/standard/
+2	准确	zhun3que4	accurate	zhun3que4	/accurate/exact/precise/
+2	准时	zhun3shi2	punctuality	zhun3shi2	/on time/punctual/on schedule/
+2	捉	zhuo1	to clutch	zhuo1	/to clutch/to grab/to capture/
+2	资料	zi1liao4	data	zi1liao4	/data/material/
+2	资源	zi1yuan2	resources	zi1yuan2	/(natural) resources/
+2	紫	zi3	purple	zi3	/purple/
+2	仔细	zi3xi4	careful	zi3xi4	/careful/attentive/cautious/
+2	自	zi4	from	zi4	/from/self/oneself/since/
+2	自从	zi4cong2	ever since	zi4cong2	/since (a time)/ever since/
+2	自动	zi4dong4	automatic, automatically	zi4dong4	/automatic/
+2	自费	zi4fei4	to pay oneself for	zi4fei4	/(be) at one's own expense/
+2	自觉	zi4jue2	self-knowledge	zi4jue2	/conscious/aware/on one's own initiative/
+2	自然	zi4ran2	nature	zi4ran2	/nature/natural/naturally/
+2	自我	zi4wo3	selfishness, selfish	zi4wo3	/self-/
+2	自学	zi4xue2	self-study	zi4xue2	/self-study/study on one's own/
+2	自由	zi4you2	freedom, free	zi4you2	/freedom/free/liberty/
+2	综合	zong1he2	summary, to sum up	zong1he2	/composite/synthesized/to sum up/to integrate/to synthesize/
+2	总结	zong3jie2	summary, to summarize	zong3jie2	/summarize/summary/
+2	总理	zong3li3	Prime Minister	zong3li3	/premier/prime minister/
+2	总统	zong3tong3	president	zong3tong3	/president (of a country)/
+2	走道	zou3dao4	walkway	zou3dao4	/pavement/sidewalk/path/walk/footpath/
+2	组	zu3	compose, to form	zu3	/to form/compose/make up/group/to organize/cord/
+2	钻	zuan1	to probe	zuan1	/enter (a hole)/probe/
+2	钻研	zuan1yan2		zuan1yan2	/study intensively/dig into/
+2	醉	zui4	intoxicated	zui4	/intoxicated/
+2	最好	zui4hao3	best	zui4hao3	/best/(you) had better (do what we suggest)/
+2	尊敬	zun1jing4	respect, to respect	zun1jing4	/respect/respectfully/revere/reverence/
+2	遵守	zun1shou3	comply with	zun1shou3	/comply with/respect (an agreement)/
+2	左边	zuo3bian	left	zuo3bian1	/left/
+2	左右	zuo3you4	about, more or less	zuo3you4	/about/approximately/left and right/around/
+2	做法	zuo4fa3	way of doing things	zuo4fa3	/way of doing things/a (regular) practice/a behavior/
+2	做客	zuo4ke4	to be a guest of	zuo4ke4	/to be a guest or visitor/
+2	做梦	zuo4meng4	dreamt	zuo4meng4	/dream/have a dream/
+2	作家	zuo4jia1	author	zuo4jia1	/author/
+2	作品	zuo4pin3	works of art	zuo4pin3	/works (of art)/
+2	作为	zuo4wei2	to become	zuo4wei2	/accomplish/action/to regard (sth as sth)/to look upon (sth as)/conduct/
+2	作文	zuo4wen2	composition	zuo4wen2	/composition/
+2	作用	zuo4yong4	work, to use	zuo4yong4	/action/activity/actions/acts/effect/to play a role/
+2	作者	zuo4zhe3	author	zuo2zhe3	/author/writer/
+2	坐班	zuo4ban1		zuo4ban1	/keep office hours/
+2	座谈	zuo4tan2	interview	zuo4tan2	/have a informal discussion/
+2	座位	zuo4wei4	seat	zuo4wei4	/seat/
+2	连续	lian2xu4	continuously	lian2xu4	/continuous/in a row/

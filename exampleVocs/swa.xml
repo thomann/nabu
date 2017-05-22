@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="swa">
+        <name>Swahili</name>
+        <description>ALI Swahili</description>
+        <mapping>
+            <col id="sw" name="Swahili" script="sw"/>
+            <col id="sw_pl" name="Swahili Plural" script="sw"/>
+            <col id="sw_info" name="info" script="latin"/>
+            <col id="en" name="English" script="latin.en" del=",;"/>
+            <col id="sw_info_conv" name="info" script="latin" column="2"
+            	class="ch.unizh.ori.nabu.voc.ConvertStringColumn"
+                className="ch.unizh.ori.common.text.helper.SwahiliHelper"
+                methodName="ripThings"/>
+        </mapping>
+	<src src="swa.txt" enc="ASCII"/>
+	<modes>
+	    <mode id="1" short="sw=?en"/>
+	    <mode id="2" short="en=?sw"/>
+	    <mode id="3" name="Swahili with Plural -> English" short="sw=sw_pl=sw_info=?en"/>
+	    <mode id="4" name="Swahili everything" short="en=?sw=?sw_pl"/>
+	    <mode id="5" name="Swahili Singular -> Plural" short="sw=?sw_pl">
+	        <filter field="sw_info" starts="N"/>
+	    </mode>
+	    <mode id="6" name="Nouns" short="en=?sw">
+	        <filter field="sw_info" starts="N"/>
+	    </mode>
+	    <mode id="6b" name="Noun Classes" short="sw=?sw_info_conv">
+	        <filter field="sw_info" starts="N"/>
+	    </mode>
+	    <mode id="7" name="Verba" short="en=?sw">
+	        <filter field="sw_info" starts="V"/>
+	    </mode>
+	    <mode id="8" name="Adjectives" short="en=?sw">
+	        <filter field="sw_info" starts="Adj"/>
+	    </mode>
+	    <mode id="9" name="Adverbs" short="en=?sw">
+	        <filter field="sw_info" pattern="Adv|ADV"/>
+	    </mode>
+	    <mode id="91" name="Questions" short="en=?sw">
+	        <filter field="sw_info" starts="Q"/>
+	    </mode>
+	    <mode id="92" name="Others" short="en=sw_info=?sw">
+	        <filter field="sw_info" except="\A(N.*|V|Adj|Adv|ADV|Q.*)\Z"/>
+	    </mode>
+	</modes>
+    </vocabulary>
+
+    <vocabulary id="swa_forms">
+        <name>Swahili Congruents</name>
+        <description>ALI Swahili Congruents</description>
+	<!-- fields: Class	NCpreC	NCpreV	S	O	A	D1	D2	D3	R -->
+<!-- $ echo ... | perl -e '$_ = <>;chop;chop; @a = split(/\t/); foreach $x (@a){print "<col id=\"$x\" name=\"$x\" script=\"latin\"/>\n"};' -->
+        <mapping>
+<col id="Class" name="Class" script="latin"/>
+<col id="NCpreC" name="NCpreC" script="latin"/>
+<col id="NCpreV" name="NCpreV" script="latin"/>
+<col id="S" name="S" script="latin"/>
+<col id="O" name="O" script="latin"/>
+<col id="A" name="A" script="latin"/>
+<col id="D1" name="D1" script="latin"/>
+<col id="D2" name="D2" script="latin"/>
+<col id="D3" name="D3" script="latin"/>
+<col id="R" name="R" script="latin"/>
+        </mapping>
+	<src src="swa_conc.txt" enc="Latin1"/>
+	<modes>
+	    <mode id="1" name="Some" short="Class=NCpreC=?S"/>
+	    <mode id="2" name="All" short="Class=?NCpreC=?NCpreV=?S=?O=?A=?D1=?D2=?D3=?R"/>
+	    <mode id="1a" name="Philipp" short="Class=NCpreC=?S">
+	    	<filter field="Class" pattern="3|4|5|6|9|10"/>
+	    </mode>
+	</modes>
+    </vocabulary>
+</items>

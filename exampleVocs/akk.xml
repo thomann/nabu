@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="akk">
+        <name>Akkadian</name>
+        <description>Akkadian glossar Caplice</description>
+        <mapping>
+            <col id="akk" name="Akkadian" script="akk"/>
+    		<col id="en" name="English" script="en"/>
+        </mapping>
+	<src src="akk.txt" enc="latin1"
+	/>
+	<modes>
+		<mode id="0" short="akk=?en"/>
+	    <mode id="1" short="en=?akk"/>
+	</modes>
+    </vocabulary>
+</items>
+

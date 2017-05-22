@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="es.esoes">
+        <name>Spanisch</name>
+        <description>Spanisch Lernwortschatz Eso es</description>
+        <mapping>
+	
+	
+            <col id="es" name="Spanisch" script="es"/>
+	
+	
+            <col id="de" name="Deutsch" script="de"/>
+	
+        </mapping>
+	<src src="es.esoes.txt" enc="UTF-8"
+		label="Lektion {0}"
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="es=?de"/>
+	
+	
+	    <mode id="1" short="de=?es"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

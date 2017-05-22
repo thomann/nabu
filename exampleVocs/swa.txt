@@ -1,0 +1,629 @@
+anguka		V	fall
+asante		Interj	thank you
+asubuhi	asubuhi	N9	morning
+baadaye		Adv	later
+baya		Adj	bad ; ugly
+bibi	bibi	N9	Mrs. ; woman ; grandmother
+bwana	bwana	N9	mister; man
+dogo		Adj	small
+gari	magari	N5	car
+habari	habari	N9	news
+haya		Dpart	ok
+heri		N9	luck
+hujambo			you are well
+jioni	jioni	N9	afternoon
+karibu		Interj	welcome
+kazi	kazi	N9	work
+kikombe	vikombe	N7	cup
+kisu	visu	N7	knife
+kitabu	vitabu	N7	book
+kitanda	vitanda	N7	bed
+kubwa		Adj	big ; large
+kwa heri			good bye
+leo		N9	today
+maagano		N6	farewell
+maamkio		N6	greetings
+mama	mama	N9	mother
+marahaba			answer to respectful greetings
+masomo		N6	studies
+matamshi		N6	pronunciation
+mazungumzo		N6	conversation
+mchana		N9	noon
+mkeka	mikeka	N3	mat
+mkulima	wakulima	N1	farmer
+mlango	milango	N3	door
+msamiati	misamiati	N3	vocabulary
+mti	miti	N3	tree
+mto	mito	N3	river
+mtoto	watoto	N1	child
+mtu	watu	N1	person
+Mungu akipenda			if God wishes
+mzee	wazee	N1	elder
+ngeli	ngeli	N9	noun class
+ngoma	ngoma	N9	drum
+nguo	nguo	N9	dress
+njema		Adj	good
+refu		Adj	long
+safi	*	Adj	good ; clean
+salama		N9	peace
+sarufi	sarufi	N9	grammar
+shikamoo			respectful greeting
+tunda	matunda	N5	fruit
+ua	maua	N11	flower
+ufagio	fagio	N11	broom
+usiku		N11	night
+zuri		Adj	good ; nice
+
+baridi		N9	cold
+fanya		V	do
+gani		QAdj	which
+geni		Adj	foreign
+ishi		V	live
+ita		V	call
+je		Qparticle	Qparticle
+jibu		V	answer
+jina	majina	N5	name
+karani	karani	N1	secretary
+Kaskazini		N9	North
+kesho		N9	tomorrow
+Kiswisi		N7	Swiss German
+ko		COP LOC	be in a place
+Kusini		N9	South
+lugha	lugha	N9	language
+Magharibi		N9	West
+Mashariki		N9	East
+Mswisi	Waswisi	N1	Swiss
+mvuvi	wavuvi	N1	fisherman
+mwalimu	walimu	N1	teacher
+mwanafunzi	wanafunzi	N1	student
+mwanamke	wanawake	N1	woman
+Mwingereza	Waingereza	N1	Englishman
+nani		QN	who
+ni		COP	be
+onekana		V	be visible
+penda		V	like ; love
+pika		V	cook
+rudi		V	return
+safari	safari	N9	trip
+samehe		V	forgive
+sana		ADV	very
+sehemu	sehemu	N9	part
+sema		V	say ; speak
+shule	shule	N9	school
+siku	siku	N9	day
+soma		V	read ; learn
+tembea		V	visit ; stroll
+toka		V	come from ; go out
+tu		Adv	only ; just
+Uingereza		N11	England
+Ulaya		N11	Europe
+Unguja		N11	Zanzibar
+wali		N11	cooked rice
+wapi		QN	where
+wili		Adj	two
+
+a		Ass.	of
+aina	aina	N9	kind
+au		CONJ	or
+bei	bei	N9	price
+bila		CONJ	without
+chai		N9	tea
+chaji		V	charge
+chandarua	vyandarua	N7	moskito net
+choo	vyoo	N7	toilet
+chukua		V	take ; fetch
+chumba	vyumba	N7	room
+dolari	dolari	N9	Dollar
+eakondisheni	eakondisheni	N9	aircondition
+enye		Adj	having
+feni	mafeni	N5	fan
+friji	mafriji	N5	refridgerator
+hodi		Interj	may I come in
+hoteli	hoteli	N9	hotel
+kahawa		N9	coffee
+katika		CONJ	in ; at
+kiasi	viasi	N7	amount
+kichwa	vichwa	N7	head
+Kiingereza		N7	English
+kodi		V	rent
+kubali		V	agree
+kwa		PREP	for ; with
+lia		V	cry
+mguu	miguu	N3	foot ; leg
+mimi		PRON 1s	me ; I
+moja		Adj	one
+na		CONJ	with ; and
+ndani		ADV	inside
+ngapi		QAdj	how many
+nini		QN	what
+ninyi		PRON 2p	you
+nne		Adj	four
+pamoja		ADV	together
+pata		V	find ; get
+patikana		V	be available
+shilingi	shilingi	N9	Shilling
+sisi		PRON 1p	we ; us
+swali	maswali	N5	question
+taka		V	want
+tatizo	matatizo	N5	trouble
+tatu		Adj	three
+tena		Adv	again
+tumbo	matumbo	N5	stomach
+uliza		V	ask
+wao		PRON 3p	they
+wewe		PRON 2s	you
+yeye		PRON 3s	he ; she
+
+andazi	maandazi	N5	doughnut
+anza		V	begin
+bahati	bahati	N9	fate
+basi		CONJ	then ; well
+chagua		V	choose
+chakula	vyakula	N7	meal ; food
+choma		V	burn
+embe	maembe	N5	mango
+enda		V	go
+fa		V	die
+fikiri		V	think
+hatari	hatari	N9/10	danger
+isha		V	stop ; finish
+ja		V	come
+juisi	juisi	N9	juice
+kiatu	viatu	N7	shoe
+kitoweo	vitoweo	N7	side dish
+koti	makoti	N5	coat
+kuku	kuku	N1	chicken
+la		V	eat
+labda		Adv	maybe ; perhaps
+lala		V	sleep
+leta		V	bring
+maharage		N6	beans
+maji		N6	water
+maziwa		N6	milk
+mchuzi	michuzi	N3	curry
+mji	miji	N3	town
+mkate	mikate	N3	bread
+mpira	mipira	N3	ball
+muhogo	mihogo	N3	cassava
+mvua		N9	rain
+nanasi	mananasi	N5	pineapple
+ngoja		V	wait
+nunua		V	buy
+nyama		N9	meat
+nywa		V	drink
+ona		V	see
+pa		V	give
+sababu	sababu	N9	reason
+saidia		V	help
+samahani		Interj	sorry!
+samaki	samaki	N1	fish
+soda	soda	N9	lemonade
+supu		N9	soup
+tafuta		V	search
+ugali		N11	porridge
+wa		V	be ; become
+weta	weta	N9	waiter
+weza		V	be able to
+
+bamia	bamia	N9	okra
+bichi		Adj	unripe
+bivu		Adj	ripe
+chache		Adj	few
+chafu		Adj	dirty
+chenji		N9	change
+chenza	machenza	N5	tangerine
+chungwa	machungwa	N5	orange
+dai		V	claim
+ekundu		Adj	red
+enyewe		Adj	self
+eupe		Adj	white
+eusi		Adj	black
+fungu	mafungu	N5	pile
+ghali	*	Adj	expensive
+halafu		Adv	then
+ingi		Adj	many
+ingine		Adj	other
+kicha	vicha	N7	bundle
+kijani	vijani	N7	green
+kila	*	Adj	each
+kilo	kilo	N9	kilo
+kitunguu	vitunguu	N7	onion
+laini	*	Adj	soft ; smooth
+manjano		N9	yellow
+maskini	*	Adj	poor
+mbatata		N9/10	potatoe(s)
+mbona		QAdv	why
+mchicha		N3	spinach
+mia	mia	N9/10	hundred
+mkungu	mikungu	N3	bunch
+moto	myoto	N3	fire
+mteja	wateja	N1	customer
+mwisho		N3	end
+nane		Adj	eight
+nazi	nazi	N9	coconut
+ndimu	ndimu	N9	lime
+ndizi	nsizi	N9	banana
+nusu		N9	half
+o-ote		Adj	any
+ote		Adj	all
+pesa	pesa	N9/10	money
+pesheni	mapesheni	N5	passion fruit
+pilipili	pilipili	N9	chilli
+pungua		V	diminish
+punguza		V	lower the price
+pya		Adj	new
+rahisi	*	Adj	cheap ; easy
+saba	*	Adj	seven
+sawa	*	Adj	equal
+sita	*	Adj	six
+soko	masoko	N5	market
+tajiri	*	Adj	rich
+tamu		Adj	delicious ; sweet
+tano		Adj	five
+tisa	*	Adj	nine
+tungule	tungule	N9	tomatoe
+
+arubaini		N9	fourty
+bandari	bandari	N9/10	harbour ; port
+basi	mabasi	N5	bus
+benki	benki	N9/10	bank
+boti	boti	N9/10	boat
+chombo	vyombo	N7	vessel
+dakika	dakika	N9/10	minute(s)
+daladala	madaladala	N5	local bus
+duka	maduka	N5	shop
+elfu	elfu	N9	thousand
+funga		V	close ; tie
+hamsini		N9	fifty
+hisi		V	feel
+hospitali	hospitali	N9/10	hospital
+ishirini		N9	twenty
+jana		N9	yesterday
+Jumamosi		N9	Saturday
+juzi		N9	day before yesterday
+kamili		Adj	exact
+kasoro		Conj	minus
+kituo	vituo	N7	stand ; stop
+kumi		N5	ten
+kuta		V	meet
+kutana		V	meet each other
+lini		QN	when
+maisha		N6	life
+Mei		N9	May
+meli	meli	N9/10	ship
+moshi		N3	smoke ; steam
+mosi		Adj	first
+mwezi	miezi	N3	month
+ndege	ndege	N9/10	bird ; airplane
+njia	njia	N9/10	road
+nyumba	nyumba	N9/10	house
+Oktoba		N9	October
+ondoka		V	leave
+panda		V	climb ; ascend
+pili		Adj	second
+pitia		V	pick up
+posta	posta	N9/10	post office
+pumzika		V	relax
+robo	robo	N9	quarter
+saa	saa	N9/10	time ; clock
+sabini		N9	seventy
+safiri		V	travel
+sinema	sinema	N9/10	cinema
+sitini		N9	sixty
+skuli	skuli	N9/10	school
+stesheni	stesheni	N9/10	railway station
+tangu		Adv	since
+tarehe	tarehe	N9	date
+teksi	teksi	N9/10	taxi
+thelathini		N9	thirty
+themanini		N9	eighty
+tisini		N9	ninety
+treni	matreni	N5	train
+tumia		V	use ; send
+uliza		V	ask
+upepo	pepo	N11	wind
+uwanja	nyanja	N11	field ; plot
+vipi		Adv	how
+wiki	wiki	N9/10	week
+zima		Adj	healthy
+
+ake		POSS 3s	his ; her ; its
+ako		POSS 2s	your
+ambia		V	say to sb.
+angu		POSS 1s	my
+ao		POSS 3p	their
+baba	baba	N9/10	father
+babu	babu	N9/10	grandfather
+baraza	baraza	N9/10	sitting area
+dada	dada	N9/10	older sister
+dawa	dawa	N9/10	medicine
+enu		POSS 2p	your
+etu		Poss.	our
+fika		V	arrive
+furahi		V	be glad
+hali	hali	N9/10	situation
+jamaa	jamaa	N9/10	family ; relative
+jambo	mambo	N5	matter
+jicho	macho	N5	eye
+kaa		V	sit ; stay
+kaka	kaka	N9/10	older brother
+kama		Conj	like ; if
+kitu	vitu	N7	thing
+lakini		Adv	but
+maliza		V	finish
+mjomba	wajomba	N1	maternal uncle
+mjukuu	wajukuu	N1	grandchild
+mke	wake	N1	wife
+mkwe	wakwe	N1	father (mother/daughter/son) in law
+mume	waume	N1	husband
+mwanamme	wanaume	N1	man
+mwanangu	wanangu	N1	my child
+nafasi	nafasi	N9/10	opportunity
+ndugu	ndugu	N9/10	sibling
+pita		V	pass
+rafiki	rafiki	N9/10	male friend
+salaam	salaam	N9/10	greeting
+salimia		V	greet
+sasa		ADV	now
+shangazi	mashangazi	N5	paternal aunt
+shemeji	mashemeji	N5	brother in law
+shoga	shoga	N9/10	female friend
+shukuru		V	give thanks
+sikia		V	hear ; feel
+sikiliza		V	listen to
+sindikiza		V	see off
+tengeneza		V	prepare
+tia		V	put in
+ukumbi	kumbi	N11	parlour ; living room
+umwa		V	be sick
+wifi	wifi	N9/10	sister in law
+zee		Adj	old
+zungumza		V	speak
+
+amka		V	wake up
+andika		V	write
+biringani	mabiringani	N5	eggplant
+changa		Adj	immature
+chelewa		V	be late
+doriani	madoriani	N5	dorian fruit
+fenesi		N5	jack-fruit
+gome	magome	N5	bark
+iva		V	ripen
+kiazi	viazi	N7	potato
+kiungo	viungo	N7	spice
+kua		V	grow
+lima		V	cultivate
+mbalimbali	*	Adj	different
+muda	miuda	N3	time
+mwaka	miaka	N3	year
+nukia		V	smell nice
+papai	mapapai	N5	papaya
+pea		V	ripen
+pera	mapera	N5	guava
+shiba		V	be satiated
+shokishoki	mashokishoki	N5	rambutan
+simama		V	stop ; stand
+tofaa	matofaa	N5	apple
+uza		V	sell
+vuna		V	harvest
+zaa		V	give birth
+
+bahari	bahari	N9	ocean
+cherehani	vyerehani	N7	sewing-machine
+daktari	madaktari	N5	doctor
+faa		V	be useful
+fundi	mafundi	N5	craftsman
+fundisha		V	teach
+fupi		Adj	short
+furaha		N9	happiness
+gonjwa		Adj	ill
+hai	*	Adj	alive
+haraka		N9	haste
+hudumia		V	attend
+kabisa		Adv	completely
+kali		Adj	sharp ; fierce
+kishenzi		Adv	like a savage
+kitoto		Adv	childish
+mlima	milima	N3	mountain
+muuguzi	wauguzi	N1	nurse
+polepole		Adv	slowly
+seremala	maseremala	N5	carpenter
+shona		V	sew
+shwari	*	Adj	calm
+tangaza		V	announce
+tayari		Adv	ready
+tegemea		V	depend
+tibu		V	cure
+ubao	mbao	N11	wood
+upesi		Adv	fast
+upole		N11	friendliness
+vaa		V	dress
+vilevile		Adv	also
+vua		V	fish
+wazi		Adv	open
+weka		V	put
+
+ajili	ajili	N9/10	reason
+angalia		V	look
+baada		ADV	after
+baadhi		N9	some
+bado		Adv	not yet ; still
+bora	*	ADV	better
+chini		N9/10	down
+chuma	vyuma	N7	iron
+dirisha	madirisha	N5	window
+elekeza		V	direct
+endelea		V	continue
+fagia		V	sweep
+fahamisha		V	explain
+fahamu		V	understand
+hata		Conj	until ; even
+hebu		Interj	well then
+hitaji		V	need
+jua		V	know
+juu		ADV	on top
+kabla		ADV	before
+kando		ADV	beside
+karibu		ADV	near
+kisha		ADV	then ; afterwards
+kiti	viti	N7	chair
+kumbe		Interj	really!
+kushoto		V	left hand side
+maana	maana	N9	meaning
+mapema		Adv	early
+mbali		N9	far
+mbele		N9/10	front
+meza	meza	N9/10	table
+mfano	mifano	N3	example
+mfuko	mifuko	N3	bag
+mpaka		Adv	until
+nje		N9/10	outside
+nyuma	nyuma	N9/10	behind
+omba		V	beg
+pinda		V	turn
+potea		V	be lost
+poteza		V	loose
+sahani	sahani	N9/10	plate
+tafadhali		ADV	please
+ufunguo	funguo	N11	key
+upande	pande	N11	side
+
+biriani		N9	Biriani
+giza		N9	darkness
+haja	haja	N9	need
+hudhuria		V	participate
+ingia		V	go in
+jaali		V	consider
+jirani	majirani	N5	neighbour
+kabati	makabati	N5	cupboard ; closet
+karimu		Adv	generous
+keki	keki	N9	cake
+kina		ADV	the likes of
+kiwanja	viwanja	N7	place
+kongwe		Adj	old ; ancient
+kulia		V	right hand side
+kweli		ADV	true
+mahali		N16	place
+mandhari		N6	view
+mara	mara	N9	times
+mfunguo	mifunguo	N3	(Islamic) month
+msichana	wasichana	N1	girl
+mvulana	wavulana	N1	boy
+mwenza	wenza	N1	colleague
+onyesho	maonyesho	N5	show
+pamba		V	decorate
+picha	picha	N9	picture
+piga		V	beat ; hit
+sherekea		V	celebrate
+sikukuu	sikukuu	N9/10	holiday
+sukari	sukari	N9/10	sugar
+tazama		V	look at ; observe
+tisha		V	frighten
+toa		V	take out
+tosha		V	suffice
+tundu		Adj	foolish
+ukuta	kuta	N11	wall
+wakati	nyakati	N11	(point of) time
+zaidi		ADV	more
+zidi		V	increase
+
+afadhali		ADV	better
+amri	amri	N9	order
+bega	mabega	N5	shoulder
+bidi		V	be obliged
+cheti	vyeti	N7	certificate
+damu		N9	blood
+eleza		V	tell ; explain
+fyonza		V	suck
+goti	magoti	N5	knee
+hamu	hamu	N9	desire
+hara		V	have diarrhoea
+homa		N9	fever
+ili		Conj	so that
+-je		Qparticle	Qparticle
+kataa		V	refuse
+kichefuchefu		N7	nausea
+kidole	vidole	N7	finger ; toe
+kidonge	vidonge	N7	tablet
+kifua	vifua	N7	chest
+kinywa	vinywa	N7	mouth
+kipindi	vipindi	N7	duration ; period
+kipindupindu		N7	cholera
+kizunguzungu		N7	dizziness
+kohoa		V	cough
+koo	makoo	N5	throat
+laza		V	hospitalize
+lazima		N9	necessity
+mafua		N6	flu
+malaria		N6	malaria
+maumivu		N6	pain
+mdomo	midomo	N3	lip ; mouth
+meza		V	swallow
+mgongo	migongo	N3	back
+mkono	mikono	N3	arm ; hand
+moyo	mioyo	N3	heart
+nguvu		N9	strength
+paka		V	apply
+pi		QAdj	which one
+pima		V	measure ; weigh ; test
+pole		ADV	sorry!
+pona		V	get well
+pua	pua	N9	nose
+sharti		N	must
+sikio	masikio	N5	ear
+sindano	sindano	N9	injection
+tapika		V	vomit
+ukimwi		N11	AIDS
+uma		V	bite ; hurt
+
+amba		Rel	Relative
+azima		V	borrow
+baina		Conj	between
+chemka		V	boil
+chemsha		V	boil sth.
+cheza		V	play
+choma		V	roast; toast
+chuja		V	filter; squeeze
+chujio	machujio	N5	filter; sieve
+chumvi		N9	salt
+chungu	vyungu	N7	earthen cooking pot
+chunguza		V	examine; inspect; investigate
+funika		V	cover
+jenga		V	build
+jiko	meko	N5	kitchen; stove
+jua		N5	sun
+kaa	makaa	N5	charcoal
+kaanga		V	fry
+kanda		V	knead; massage
+kata		V	cut
+kifuniko	vifuniko	N7	cover; lid
+kikaango	vikaango	N7	frying pan
+kinu	vinu	N7	mortar
+koroga		V	stir
+kosha		V	wash
+kuna		V	scratch; grate
+kwamba		Conj	that
+maalum	*	Adj	special
+mbuzi	mbuzi	N9	coconut grater
+mchi	michi	N3	pestle
+mdalasini	midalasini	N3	cinnamon
+menya		V	peel
+mkungu	mikungu	N3	earthenware lid
+mwiko	miiko	N3	wooden spoon
+ngano		N9	wheat
+pakua		V	dish out
+pasha moto		V	heat (up)
+pepeta		V	winnow grain/rice
+ponda		V	crush; mash; crash
+roweka		V	soak
+saga		V	grind; mince
+saumu	saumu	N9	garlic
+sufuria	sufuria	N9	metal pot/pan
+sukuma		V	push; roll
+tangawizi	tangawizi	N9	ginger
+tofauti; tafauti	tofauti	N9	difference
+tui		N9	coconut milk
+twanga		V	pound
+ukuni	kuni	N11	firewood
+unga		N11	flour; dough
+uzile		N11	cumin

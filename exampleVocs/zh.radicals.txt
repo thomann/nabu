@@ -1,0 +1,227 @@
+1	一	yi1	ih1	eins
+2	丨	 	 	 
+3	丶	 	 	 
+4	丿	 	 	 
+5	乙	 	 	 
+6	亅	 	 	 
+
+7	二	er4	�?rh4	zwei
+8	亠	 	t'ou2	(bedecken)
+9	人	ren2	jen2	Mensch
+10	儿	ren2	jen2	(Mensch)
+11	入	ri4	juh4	eintreten
+12	八	ba1	pah1	acht
+13	冂	 	k'iung1	(Grenzland)
+14	冖	 	mih4	(bedecken)
+15	冫	 	ping1	(Eis)
+16	几	ji1	ki3	Tisch
+17	凵	kan3	k'an3	(Behältnis)
+18	刀	dao1	tao1	Messer
+19	力	li4	lih4	Kraft
+20	勹	 	pao1	(einwickeln)
+21	匕	bi3	pi3	(Löffel)
+22	匚	 	fang1	(Kasten)
+23	匸	xi3	hi3	(verbergen)
+24	�??	shi2	shih2	zehn
+25	�?�	bu3	puh3	Orakel
+26	�?�	 	tsieh2	Stempel
+27	厂	an1	han4	Felshang
+28	厶	 	szě1	(selbstsüchtig)
+29	�?�	you4	yu4	auch
+
+30	�?�	kou3	k'ou3	Mund
+31	囗	wei2	wei3	(Einfassung)
+32	土	du4	t'u3	Erde
+33	士	shi4	shi4	Gelehrter
+34	夂	 	chi4	(folgen)
+35	夊	 	sui1	langsam gehen
+36	夕	xi4	sih2	Abend
+37	大	da4	ta4	gross
+38	女	nu3	nü3	Weib
+39	�?	ci2	tze3	Sohn
+40	宀	 	mien2	(Dach)
+41	寸	cun4	ts'un4	Zoll
+42	�?	xiao3	siao1	klein
+43	尢	wang1	wang1	lahm
+44	尸	shi1	shi1	Leichnam
+45	屮	che4	ch'êh4	(Spross)
+46	山	shan1	shan1	Berg
+47	�?	chuan1	ch'uang1 Strom
+48	工	gong1	kung1	Arbeit
+49	己	ji3	ki3	selbst
+50	巾	jin1	kin1	Kopftuch
+51	干	gan1	kan1	Schild
+52	幺	huan4	yao1	klein,unreif
+53	广	 	yen3	Schrägdach
+54	廴	 	yin3	(eine Reise unternehmen)
+55	廾	gong3	kung1	(Hände zusammenhalten)
+56	弋	yi4	ih4	Wurfspiess
+57	弓	gong1	kung1	Schiessbogen
+58	�?	 	ki4	Schweinskopf
+59	彡	 	shan1	Haare
+60	彳	chi4	ch'ih4	Schritt
+
+61	心	xin1	sin1	Herz
+62	戈	ge1	ko1	Speer
+63	戶	hu4	hu4	Tür
+64	手	shou3	shou3	Hand
+65	支	zhi1	chi1	Zweig
+66	攴	 	p'uh3	(schlagen)
+67	文	wen2	wen2	Literatur
+68	斗	dou3	tou3	Raummass
+69	斤	jin1	kin1	Axt
+70	方	fang1	fang1	Viereck, Himmelsrichtung
+71	无	 	wu2	nicht
+72	日	mi4	jih4	Sonne
+73	曰	yue1	yüeh4	sagen
+74	月	yue4	yüeh4	Mond
+75	木	mu4	muh4	Baum
+76	欠	qian4	k'ien4	mangeln
+77	止	zhi3	chi3	haltmachen
+78	歹	dai3	tai3	böse
+79	殳	shu1	shu2	Lanzenschaft
+80	毋	gui4	wu2	nicht
+81	比	bi3	pi3	vergleichen
+82	毛	mao2	mao2	Körperhaar
+83	�?	shi4	shi4	Familie
+84	气	qi4	k'i4	Atem
+85	水	shui3	shui3	Wasser
+86	�?�	huo3	huo3	Feuer
+87	爪	zhao3	chao3	Klaue
+88	父	fu3	fu4	Vater
+89	爻	xiao2	hiao2	mengen
+90	爿	ban4	ts'iang2	(Rahmen)
+91	片	pian1	p'ien4	Streifen,Span
+92	牙	ya2	ya2	Augenzahn
+93	牛	niu2	niu2	Rind
+94	犬	quan3	k'üan3	Hund
+
+95	玄	xuan2	hüan2	dunkel
+96	玉	yu4	yüh4	Edelstein
+97	瓜	gua1	kua1	Kürbis
+98	瓦	wa3	wa3	Ziegel
+99	甘	gan1	kan1	süss
+100	生	sheng1	sheng1	geboren werden
+101	用	yong4	yung4	gebrauchen
+102	田	tian2	t'ien2	Ackerfeld
+103	疋	pi3	p'ih3	Rolle Zeug
+104	疒		nih4	(Krankheit)
+105	癶		poh4	(gespreizte Beine)
+106	白	bai2	poh2	weiss
+107	皮	pi2	p'i2	Haut
+108	皿	min3	min3	Schüssel
+109	目	mu4	muh4	Auge
+110	矛	mao2	mao2	Hellebarde
+111	矢	shi3	shi3	Pfeil
+112	石	dan4	shi2	Stein
+113	示	shi4	shi4	zeigen
+114	禸	rou2	jou3	Fussstapfe
+115	禾	he2	ho2	Getreide
+116	穴	xue2	hüeh4	Loch
+117	立	li4	lih4	stehen
+118	竹	zhu2	chuh2	Bambus
+119	米	mi3	mi3	Reis
+120	糸	mi4	mih4	Seide
+121	缶	fou3	fou3	Tonware
+122	网	wang3	wang3	(Netz)
+123	羊	xiang2	yang2	Schaf
+124	羽	yu3	yü3	Federn
+125	�?	lao3	lao3	alt
+126	而	er2	�?rh2	und, dabei
+127	耒	lei3	kei3	Pflug
+128	耳	er3	�?rh3	Ohr
+129	�?�	yu4	yüh4	(Pinsel)
+130	肉	rou4	juh4	Fleisch
+131	臣	chen2	ch'en2	Minister
+132	自	zi4	tzě4	selbst, aus
+133	至	zhi4	chi4	anlangen
+134	臼	jiu4	kiu4	Mörser
+135	舌	she2	shêh2	Zunge
+136	舛	chuan3	ch'uan3	gegensätzlich
+137	舟	zhou1	chou1	Schiff
+138	艮	gen3	ken3	Grenze
+139	色	se4	sêh4	Farbe
+140	艸	cao3	ts'ao3	Kräuter
+141	�?	hu1	hu1	Tiger
+142	虫	chong2	hui3	Insekten
+143	血	xie3	hüeh3	Blut
+144	行	hang2	hing2	gehen
+145	衣	yi1	i1	Kleid
+146	襾	xia4	hia4	(bedecken)
+
+147	見	jian4	kien4	sehen
+148	角	jiao3	kioh2	Horn
+149	言	yan2	yen2	sprechen
+150	谷	gu3	kuh3	Tal
+151	豆	dou4	tou4	Opferschale
+152	豕	shi3	shi3	Schwein
+153	豸	zhi4	chi4	Kriechtiere
+154	�?	bei4	pei4	Kostbarkeit
+155	赤	chi4	ch'ih4	rot
+156	走	zou3	tsou3	laufen
+157	足	ju4	tsuh2	Fuss
+158	身	juan1	shen1	Körper
+159	車	che1	kü1,ch'e1	Wagen
+160	辛	xin1	sin1	bitter
+161	辰	chen2	ch'en2	5. Doppelstunde
+162	辿	chan1	ch'oh1	(gehen)
+163	邑	yi4	ih4	Stadt
+164	酉	you3	yu3	Wein
+165	釆	bian4	pien4	trennen
+166	里	li3	li3	Meile
+
+167	金	jin1	kin1	Erz
+168	長	chang2	ch'ang2	lang
+169	門	men2	men2	Tür
+170	阜�?	dai1	fou4	Hügel
+171	隶		tai4	erreichen
+172	隹	zhui1	chui1	Vogel
+173	雨	yu3	yü3	Regen
+174	�?�	jing1	ts'ing1	grün
+175	�?�	fei1	fei1	nicht das
+
+
+176	�?�	mian4	mien4	Gesicht
+177	�?�	ge2	koh2	Rohleder
+178	韋	wei2	wei2	Leder
+179	韭	jiu3	kiu3	Lauch
+180	音	yin1	yin1	Laut
+181	�?	ye4	hieh4	Kopf
+182	風	feng1	feng1	Wind
+183	飛	fei1	fei1	fliegen
+184	食	shi2	shih2	essen
+185	首	shou3	shou3	Kopf
+186	香	xiang1	hiang1	Duft
+
+187	馬	ma3	ma3	Pferd
+188	骨	gu1	kuh1	Knochen
+189	高	gao1	kao1	hoch
+190	髟	biao1	piao1	lange Haare
+191	鬥	dou4	tou4	streiten
+192	鬯	chang4	ch'ang4	duftende Kräuter
+193	鬲	ge2	lih4	Dreifuss
+194	鬼	gui3	kuei3	Dämon
+
+195	魚	yu2	yü2	Fisch
+196	鳥	diao3	niao3	Vogel
+197	鹵	lu3	lu3	Salz
+198	鹿	lu4	luh4	Hirsch
+199	麥	mai4	moh4	Weizen
+200	麻	ma2	ma2	Hanf
+
+201	黃	huang2	huang2	gelb
+202	�?	shu3	shu2	Hirse
+203	黑	he4	hêh1	schwarz
+204	黹	zhi3	chi3	Stickerei
+
+205	黽	meng3	min3	Frosch
+206	鼎	ding3	ting3	Dreifuss
+207	鼓	gu3	ku3	Trommel
+208	鼠	shu3	shu3	Ratte
+
+209	鼻	bi2	pi4	Nase
+210	齊	ji4	ts'i2	gleichmässig
+211	齒	chi3	ch'i3	obere Schneidezähne
+212	�?	long2	lung2	Drache
+213	龜	gui1	kuei1	Schildkröte
+214	龠	yue4	yoh4	Flöte

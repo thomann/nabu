@@ -1,0 +1,257 @@
+uno	eins, einer
+en la frontera	an der Grenze
+qué	was
+hay	es gibt
+el bolso	Tasche
+¿Qué hay en el bolso?	Was ist in der Tasche?
+un disco	eine Schallplatte
+y	und
+un libro	ein Buch
+¿Algo más?	Etwas mehr/anderes?
+sí	ja
+también	auch
+un periódico	eine Zeitung
+una carta	ein Brief
+una revista	eine Zeitschrift
+¿Y esto? ¿Qué es?	Und das?, Was ist das?
+Es una cámera fotográfica.	Das ist ein Fotoapparat
+la maleta	Koffer
+¿En qué maleta?	In welchem Koffer?
+la maleta negra	der schwarze Koffer
+camisas	Hemden
+botellas	Flaschen
+¿Cuántas?	Wieviele?
+dos	zwei
+o	oder
+tres	drei
+cuatro	vier
+el tabaco	Tabak
+el chocolate	Schokolade
+no	nein
+el señor	Herr
+la maleta blanca	der weisse Koffer
+discos	Schallplatten
+¿Cuántos?	Wieviele?
+cinco	fünf
+¿Qué es esto?	Was ist das?
+
+¿Dónde está?	Wo ist/liegt es?
+Burgos	Stadt im Norden Spaniens
+España	Spanien
+Burgos está en España, ¿verdad?	Burgos liegt in Spanien, nicht wahr?
+Sí, claro.	Ja, klar.
+Lima	Hauptstadt Perus
+el chico	Junge
+Lima está en Perú.	Lima liegt in Peru.
+Montevideo	Haupstadt Uruguays
+No sé.	Ich weiss nicht.
+la señora	Frau, Dame
+¡Mucha gusto!	Sehr erfreut!
+¡Encantado!	Angenehm!
+Buenos días.	Guten Tag./Guten Morgen.
+¿Cóm está usted?	Wie geht es Ihnen?
+Muy bien, gracias, ¿y usted?	Sehr gut, danke, und Ihnen?
+¡Adiós!	Auf Wiedersehen!
+el amigo	Freund
+entre amigos	unter Freunden
+¡Hola, Pedro!	Hallo, Pedro!
+¿Qué tal?	Wie geht's?
+Y tú, ¿cómo estás?	Und Dir, wie geht es Dir?
+la agencia de viajes	Reisebüro
+Granada	Stadt im Süden Spaniens
+Madrid	Hauptstadt Spaniens
+Caracas	Hauptstadt Venezuelas
+
+aquí	hier
+se habla(n)	man spricht
+la lengua	Sprach
+el español, el castellano	Spanisch
+el catalán	Katalanisch
+el gallego	Galicisch
+el vasco	Baskisch
+la capital de España	die Hauptstadt Spaniens
+el centro del país	das Landesinnere
+una ciudad grande	eine grosse Stadt
+en el noreste	im Nordosten
+en la costa	an der Küste
+la fábrica de coches	Automobilfabrik
+en el oeste	im Westen
+en el norte	im Norden
+en el sur	im Süden
+una isla	eine Insel
+los Pirineos	die Pyrenäen
+España limita con Fancia.	Spanien grenzt an Frankreich.
+exportar	exportieren
+la naranja	Apfelsine
+el vino tinto	Rotwein
+el jerez	Sherrywein
+el zapato	Schuh
+el río	Fluss
+el mar	Meer
+el océano	Ozean
+hoy	heute
+voy	ich gehe/fahre
+Sagunto	Stadt im Osten Spaniens
+Hoy voy a Sagunto.	Heute fahre ich nach Sagunto
+entre	zwischen
+Valencia	Stadt im Osten Spaniens
+Castellón (de la Plana)	Stadt im Osten Spaniens
+Está entre Valencia y Castellón	Es liegt zwischen Valencia und Castellón.
+vas	du gehst/fährst
+¿Cómo vas?	Wie fährst du hin?
+en tren	mit dem Zug
+en autobús	mit dem Bus
+Latinoamérica	Lateinamerika
+mañana	morgen
+en avión	mit dem Flugzeug
+¿Va usted en avión?	Fliegen Sie?
+en barco	mit dem Schiff
+grande	gross
+pequeño	klein
+adónde	wohin
+la señorita	Fräulein
+la región	Region
+donde	wo
+allí	dort
+muchos	viele, zahlreiche
+pero	aber
+junto al mar	am Meer
+
+en la calle	auf der Strasse
+la farmacia	Apotheke
+el banco	Bank
+el bar	Imbissstube
+el autobús	Autobus
+el coche	Wagen
+el portero	Portier
+sé	ich weiss
+el guardia	Polizist
+cerca	nahe
+la parada	Haltestelle
+el número	Nummer
+seis	sechs
+el cine	Kino
+la biblioteca	Bibliothek
+caro	teuer
+barato	billig
+enfrente	gegenüber
+el/la turista	der/die Tourist/in
+dice	er/sie sagt
+
+¿quién?	wer?
+la chica	Mädchen
+la cocina	Küche
+la cocinera	Köchin
+lafábrica	Fabrik
+el mecánico	Mechaniker
+ahora	jetzt
+la bicicleta	Fahrrad
+aquí	hier
+mucho	viel
+poco	wenig
+yo	ich
+pronto	bald
+el restaurante	Restaurant
+¿por qué?	warum?
+porque	weil
+mi	mein, meine
+la familia	Familie
+la casa	Haus
+
+la Postal	Postkarte
+el sello	Briefmarke
+elcuadro	Bild, Gemälde
+siete	sieben
+la peseta	Pesete
+¡Tenga!	Bitte schön!
+diez	zehn
+la vuelta	Wechselgeld
+ocho	acht
+nueve	neun
+la iglesia	Kirche
+la catedral	Kathedrale
+trece	dreizehn
+once	elf
+quince	fünfzehn
+doce	zwölf
+catorce	vierzehn
+el precio	der Preis
+cambiar	sich ändern
+solamente	nur
+ya no	nicht mehr
+la estafeta de correos	Postamt
+Déme ...	Geben Sie mir ...
+europeo	europäisch
+
+la mesa	Tisch
+la silla	Stuhl
+la taza	Tasse
+la chica	Mädchen
+el café	Kaffee
+los padres	Eltern
+la madre	Mutter
+el padre	Vater
+la empresa	Unternehmen
+el domingo	sonntag
+Buenas tardes.	Guten Tag.
+¿Vamos?	Gehen wir?
+¿Adónde vais?	Wo geht ihr hin?
+nuevo	neu
+el trabajo	Arbeit
+el jefe	Chef
+simpático	freundlich
+exigente	anspruchsvoll
+la hora	Stunde
+el día	Tag
+por la mañana	vormittags
+de ocho a una	von acht bis eins
+por la tarde	nachmittags
+la recepción	Rezeption
+la pensión	Pension
+el camarero	Kellner
+el teléfono	Telefon
+moderno	modern
+el mes	Monat
+las pagas	zusätzliche Monatsgehälter
+después	danach, nachher
+
+la lotería	Lotterie
+el gordo	höchster Lotteriegewinn
+el número	Los
+veinte	zwanzig
+el año	Jahr
+¿Cuántos años tienes?	Wie alt bist du?
+a ver	mal sehen
+si	ob
+cuarenta	vierzig
+menos	weniger
+treinto y cinco	fünfunddreissig
+¡Eso es!	Genau das!, Richtig!
+el dinero	Geld
+
+el centro	Zentrum
+el estanco	Tabakladen
+el buzón	Briefkasten
+a la derecha de	rechts von
+a la izquierda de	links von
+la tienda	Geschäft
+el cigarillo	Zigarette
+la pipa	Tabakpfeife
+la caja de cerillas	Schachtel Streichhölzer
+el bolígrafo	Kugelschreiber
+el paquete	Paket
+la marca	Marke
+este; esta, estos, estas	dieser; diese
+entonces	dann
+aquel, aquella, aquellos, aquellas	jener, jenes, jene
+caro	teuer
+barato	billig
+al lado de	neben
+estos, estas	diese hier
+grande	gross
+ahí	da; dort
+ese, esa, esos, esas	dieser, diese
+¿Ése que está ahí?	Der da?
+demasiado caro	zu teuer
+pequeño	klein
+la moto	Motorrad

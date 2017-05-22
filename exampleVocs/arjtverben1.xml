@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="arjtverben1">
+        <name>Arabische Verbformen 1</name>
+        <description>Arabische Verbformen stark I-III</description>
+        <mapping>
+	
+	
+            <col id="ar" name="Arabisch" script="ar"/>
+	
+	
+            <col id="fo" name="Form"/>
+	
+	
+            <col id="ro" name="Wurzel" script="ar"/>
+	
+	
+            <col id="st" name="Stamm"/>
+	
+	
+            <col id="rt" name="Wurzel (Trskr.)"/>
+	
+        </mapping>
+	<src src="arjtverben1.txt" enc="UTF-8"
+		label="I au,II,III"
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="ar#pretty=?fo=?ro#pretty=?st" name="Analyse"/>
+	
+	
+	    <mode id="1" short="ar=?fo=?rt=?st" name="Analyse (Tr.)"/>
+	
+	
+	    <mode id="2" short="ro=st=fo=?ar" name="Synthese"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

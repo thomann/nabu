@@ -1,0 +1,307 @@
+ookii	gross
+chiisai	klein
+nagai	lang
+mijikai	kurz
+takai	teuer
+yasui	billig
+oishii	wohlschmeckend
+mazui	schlecht schmeckend
+takai	hoch
+hikui	niedrig
+omoshiroi	interessant
+tsumaranai	langweilig
+muzukashii	schwierig
+yasasii	leicht	Schwierigkeitsgrad
+hayai	rasch
+osoi	langsam
+tsuyoi	stark
+yowai	schwach
+usui	dünn, blass
+koi	dunkel (Farbe) stark (Kaffee)
+yawarakai	weich
+katai	hart
+atsui	dick	Buch etc.
+usui	dünn
+atsui	heiss
+samui	kalt	Wetter
+atatakai	warm
+suzushii	kühl
+nurui	lauwarm
+atsui	heiss	bei Berührung
+tsumetai	kalt	bei Berührung
+shiroi	weiss
+kuroi	schwarz
+akai	rot
+aoi	grün, blau
+atarashii	neu
+furui	alt
+hiroi	weitläufig, geräumig
+semai	eng
+kowai	furchterregend
+kowakunai	nicht furchterregend
+fukai	tief
+asai	seicht, nicht tief
+ii, yoi	gut
+warui	schlecht
+tanoshii	vergnüglich
+wazurawashii	ärgerlich
+ureshii	glücklich
+kanashii	traurig
+utsukushii	schön
+minikui	hässlich
+amai	süss
+karai	scharf
+shiokarai	salzig
+omoi	schwer	Gewicht
+kuarui	leicht	Gewicht
+adunai	gefährlich
+adunakunai	nicht gefährlich
+kusai	übelriechend
+kusakunai	nicht schlecht riechend
+
+kantan	einfach		na
+fukuzatsu	kompliziert		na
+benri	praktisch		na
+fuben	unpraktisch		na
+shizuka	ruhig		na
+nigiyaka	belebt		na
+jôzu	geschickt		na
+heta	ungeschickt		na
+iya	zuwider		na
+kirei	hübsch, schön		na
+kirai	nicht gerne haben		na
+suki	gerne haben		na
+kôkyû	Qualitäts-, hochrangig		na
+
+ue	oben, auf, über
+naka	in
+shita	unten, unter
+mae	vor
+ushiro	hinter
+yoko	neben
+soba	direkt neben, benachbart
+chikaku	in der Nähe
+mukô	gegenüber, jenseits von
+hidari	links
+migi	rechts
+soto	draussen
+doko	wo
+dokoka	irgendwo
+
+totemo	sehr
+ichiban	am meisten
+mâmâ	ziemlich
+kitto	sicherlich	+ deshô
+angai	wider Erwarten, unerwartet, überraschend		na
+amari	nicht allzu	+ Neg.
+dai	sehr	nur in Kombination mit suki oder kirai
+sonna ni	so, so stark
+sore hodo	nicht allzu	+ Neg.
+yori	als	Vergleich
+zenzen	überhaupt nicht	+ Neg.
+
+kore	diese hier	beim Sprechenden
+sore	jene	bem Angesprochenen
+are	jene dort drüben	kein SAP
+dore	welche
+-re	dieses
+-ko	hier
+-chira	hierhin	formell
+-tchi	hierhin	informell
+-no	dieser...	attributiv
+-nna	ein solcher...	attributiv
+kô, sô, aa, dô	so... attributiv
+dare	wer
+nanji ni	um welche Zeit
+
+arau	waschen		1
+aruku	zu Fuss gehen		1
+asobu	spielen		1
+au	treffen		1
+dasu	herausnehmen		1
+erabu	auswählen		1
+hairu	hineingehen		1
+hakobu	transportieren		1
+hanasu	sprechen		1
+harau	bezahlen		1
+haru	aufkleben		1
+hataraku	arbeiten		1
+hiku	spielen	Saiteninstrumente	1
+hosu	trocknen		1
+iku	gehen, fahren		1
+kaeru	heimkehren		1
+kaku	zeichnen, schreiben		1
+katsugu	auf den Schultern tragen		1
+kau	kaufen		1
+kiku	zuhören		1
+kiru	schneiden		1
+mamoru	einhalten		1
+matsu	warten		1
+migaku	polieren, putzen		1
+morau	erhalten		1
+motte iku	mitnehmen		1
+narabu	anstehen		1
+narau	lernen		1
+noboru	hinaufsteigen		1
+nomu	trinken		1
+noru	reiten		1
+nugu	ausziehen		1
+oku	setzen, stellen		1
+oyogu	schwimmen		1
+sagasu	suchen		1
+sasu	aufspannen		1
+sawaru	berühren		1
+soru	rasieren		1
+sumu	wohnen, leben		1
+suu	rauchen		1
+suwaru	sich setzen		1
+tanoshimu	sich erfreuen an		1
+tatamu	falten		1
+tatsu	aufstehen		1
+tomaru	übernachten, bleiben		1
+tôru	hindurchfahren		1
+toru	nehmen		1
+tsukau	benützen		1
+tsukuru	herstellen, machen		1
+tsurete iku	mitnehmen		1
+tsuru	fangen		1
+tsutsumu	einwickeln		1
+utau	singen		1
+warau	lachen		1
+wataru	überqueren		1
+watasu	überreichen		1
+yaru	machen, tun		1
+yobu	rufen		1
+yomu	lesen		1
+
+abiru	über sich ergiessen		2
+akeru	öffnen		2
+dekiru	können		2
+ireru	einfüllen		2
+kakeru	anrufen		2
+kangaeru	denken		2
+kariru	ausleihen		2
+kasaneru	aufeinanderschichten		2
+katazukeru	aufräumen		2
+kayoeru	zählen		2
+kiru	anziehen, tragen		2
+kite miru	anprobieren		2
+miru	schauen		2
+miseru	zeigen		2
+nagameru	betrachten		2
+neru	schlafen gehen, schlafen		2
+oriru	heruntersteigen		2
+oshieru	lehren		2
+shimeru	umbinden		2
+shiraberu	untersuchen		2
+suteru	wegwerfen		2
+taberu	essen		2
+tateru	bauen, konstruieren		2
+kuru	kommen		3
+suru	machen		3
+
+V1 nai	Verneinung	informelle Sprache
+V1 nakereba narimasen	müssen
+V1 nakereba narimasen deshita	müssen	Vergangenheit
+V1 nakute mo ii desu	es ist nicht nötig zu tun
+V1 nakute mo yokatta desu	es wäre nicht nötig gewesen zu tun
+V1 nakute yokatta desu	es war richtig, nicht zu tun
+V1 nai de kudasai	tun Sie bitte nicht
+V1 nai hô ga ii desu	es ist besser, nicht zu tun
+V1 nai hô ga yokatta desu	es wäre besser gewesen, nicht zu tun
+V1 nai koto ga ari masu	es kommt vor, dass (ich) nicht mache
+V1 nai koto ni shi masu	(heute) entscheide ich mich, nicht zu tun
+V1 nai koto ni shite i masu	(ich) mache prinzipiell nicht
+V1 nai yô ni	damit nicht
+
+V2 masu	Gegenwart affirmativ	alle Personen
+V2 masen	Gegenwart negativ	alle Personen
+V2 mashita	Vergangenheit affirmativ	alle Personen
+V2 masen deshita	Vergangenheit negativ	alle Personen
+V2 mashô	Aufforderung
+V2 nasai	Aufforderung	oft an jüngere Personen, vertrauliche Sprache
+V2 tai desu	möchten	1./2. Sg./Pl.
+V2 takunai desu	nicht möchten	1./2. Sg./Pl.
+V2 tagatte i masu	möchten	3. Sg./Pl.
+V2 tagatte i masen	nicht möchten	3. Sg./Pl.
+V2 tagari masu	immer möchten	Gewohnheit, 3. Sg./Pl.
+V2 tagari masen	nie möchten	Gewohnheit, 3. Sg./Pl.
+V2 takute tamari masen	(ich) möchte unbedingt
+V2 ni iki masu	(ich) gehe machen
+V2 ni iki mashô	Gehen wir ... (machen)
+V2 hajime masu	(ich) beginne mit
+V2 dashi masu	plötzlich zu tun beginnen
+V2 owari masu	etwas beenden
+V2 sugi masu	zuviel tun
+V2 yasui desu	leicht zu tun
+V2 nikui desu	schwierig zu tun
+V2 nagara	während (ich) mache
+
+V3	finit	finite Form des Verbs, informelle Sprache
+V3 koto ga ari masu	es kommt vor dass
+V3 koto wa muzukashii desu	schwierig zu tun
+V3 koto ga deki masu	ich kann tun	Tätigkeit beherrschen
+V3 no ga suki desu	ich mache gerne
+V3 no ga kirai desu	ich mache nicht gerne
+V3 tsumori desu	vorhaben zu tun
+V3 darô to omoi masu	ich vermute, dass wohl gemacht wird
+V3 darô to wa omoi masen	ich vermute, dass nicht getan wird
+V3 yô ni shite kudasai	bitte schauen Sie, dass getan wird
+V3 tokoro desu	daran sein zu tun
+V3 tame ni	um zu tun
+V3 toki ni	wenn ich
+V3 mae ni	bevor ich
+V3 no ni	um zu tun
+V3 koto ni shi masu	ich entscheide mich zu tun
+V3 koto ni shite i masu	ich mache prinzipiell
+
+V4 -ba ii desu ka	ist es ratsam zu tun	Verbgruppe 1
+V4 -ba dô desu ka	wie wäre es wenn	nur Verbgruppe 1
+V4 -ba (Adj.) desu ka	ist es (Adj.), wenn man macht?	nur Verbgruppe 1
+V4 -ba ii ka oshiete kudasai	sagen Sie mir bitte, was ich tun soll	nur Verbgruppe 1
+V4 -ba V3 hodo	je mehr desto	nur Verbgruppe 1
+V4 -ba yokatta desu	es wäre besser gewesen zu tun	nur Verbgruppe 1
+
+V5	Aufforderung	informelle Sprache
+V5	Willensbekundung/Zukunftsform	informelle Sprache
+V5 to omoi masu	beabsichtigen zu tun
+V5 to wa omoi masen	nicht beabsichtigen zu tun
+V5 to shi masu	sich anschicken zu tun
+V5 to shita toki ni	als ich mich anschickte zu tun
+
+V6	Befehl, Aufforderung	informelle Sprache
+V6 kudasai	tun Sie bitte
+V6 kudasai masen ka	würden Sie nicht bitte
+V6 mo ii desu ka	darf ich?
+V6 wa ike masen	es ist verboten
+V6 itadake masen ka	würden Sie nicht bitte?	mir einen Gefallen tun
+V6 i masu	daran sein zu tun
+V6 i masen	nicht daran sein zu tun
+V6 yokatta to omoi masu	ich denke, es war gut zu tun
+V6 yokatta to wa omoi masen	ich denke nicht, dass es gut war zu tun
+V6 mi masu	(ich) versuche zu tun	wörtlich: tun und schauen
+
+V7	Vergangenheitsform	informelle Sprache
+V7 koto ga ari masu	ich habe schon einmal getan
+V7 koto ga ari masen	ich habe noch nie getan
+V7 hô ga ii desu	es ist besser zu tun	Ratschlag
+V7 ka dô ka shirimasen	ich weiss nicht ob
+V7 ka dô ka oboete i masen	ich kann mich nicht erinnern, ob ich schon einmal
+V7 ka mo shiremasen	vielleicht hat er gemacht
+V7 rashii desu	es macht den Anschein dass
+V7 bakari desu	(ich) habe gerade eben
+V7 ra dô desu ka	wie wäre es, wenn Sie einmal
+V7 -ri V7 -ri shi masu	dies und jenes tun
+
+kaka kaki kaku kake kakô kaite kaita	schreiben
+oyoga oyogi oyogu oyoge oyogô oyoide oyoida	schwimmen
+dasa dashi dasu dase dasô dashite dashita	absenden
+tata tachi tatsu tate tatô tatte tatta	aufstehen
+harawa harai harau harae haraô haratte haratta	bezahlen
+tora tori toru tore torô totte totta	nehmen
+shina shini shinu shine shinô shinde shinda	sterben
+yoba yobi yobu yobe yobô yonde yonda	rufen
+yoma yomi yomu yome yomô yonde yonda	lesen
+tabe tabe taberu tabero tabeyô tabete tabeta	essen
+ko ki kuru koi koyô kite kita	kommen
+shi shi suru shiro shiyô shite shita	machen

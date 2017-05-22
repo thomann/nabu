@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="ar">
+        <name>Arabisch</name>
+        <description>Vokabeln aus dem &#034;Lehrbuch des modernen Arabisch&#034;</description>
+        <mapping>
+	
+            <col id="no" name="Nummer"/>
+	
+            <col id="less" name="Lektion"/>
+	
+            <col id="lem" name="Lemma"/>
+	
+            <col id="pl" name="Plural"/>
+	
+            <col id="fem" name="Feminin"/>
+	
+            <col id="gen" name="Genus"/>
+	
+            <col id="impf" name="Imperfekt"/>
+	
+            <col id="rect" name="Rektion"/>
+	
+            <col id="sign" name="Bedeutung"/>
+	
+            <col id="supp" name="Zusatz"/>
+	
+            <col id="refs" name="Referenzen"/>
+	
+            <col id="clas" name="Wortklasse"/>
+	
+            <col id="pos" name="Part of speech"/>
+	
+        </mapping>
+	<src table="arabic" lesson="less" res="jdbc/Nabu"
+        	class="ch.unizh.ori.nabu.input.db.NamingDBSource"/>
+	<modes>
+	    <mode id="0" short="lem=pl=impf=fem=gen=rect=?sign" name="Arabisch-Deutsch"/>
+	    <mode id="1" short="sign=supp=?lem" name="Deutsch-Arabisch"/>
+	</modes>
+    </vocabulary>
+</items>

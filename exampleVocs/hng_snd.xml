@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<items>
+    <vocabulary id="hng_snd">
+        <name>Hannig with sound</name>
+        <description>Hannig with Sound</description>
+        <mapping>
+            <img id="eg" name="Egyptisch" prefix="../nabutil/hiero?text="/>
+            <col id="eg_tr" name="Egyptisch Transliteration"/>
+            <col id="de" name="Deutsch" script="latin.de"/>
+            <snd id="eg.snd" ad="eg_tr" class="ch.unizh.ori.nabu.voc.ConvertSndColumn" column="1"
+			className="ch.unizh.ori.tuppu.hieroglyph.EgyptianText" methodName="string2speech">
+                <voice type="file" prefix="../nabutil/sotm?text="/>
+            </snd>
+        </mapping>
+	<src src="hng.txt" enc="latin1" class="ch.unizh.ori.nabu.voc.EmptyLineSource"/>
+	<modes>
+	    <mode id="1" short="eg=eg_tr=?de"/>
+	</modes>
+    </vocabulary>
+</items>

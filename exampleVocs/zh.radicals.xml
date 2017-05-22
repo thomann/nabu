@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="zh.radicals">
+        <name>Chinesische Radikale</name>
+        <description></description>
+        <mapping>
+	
+            <col id="id" name="ID"/>
+	
+            <col id="sign" name="Zeichen"/>
+	
+            <col id="py" name="Pinyin"/>
+	
+            <col id="other" name="Anderes"/>
+	
+            <col id="de" name="Bedeutung"/>
+	
+        </mapping>
+	<src src="zh.radicals.txt" enc="UTF-8"
+		label="1 Strich,{0} Striche"
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="sign=?py" name="Zeichen -&gt; Pinyin"/>
+	
+	
+	    <mode id="1" short="sign=py=?de" name="Zeichen, Pinyin -&gt; Bedeutung"/>
+	
+	
+	    <mode id="2" short="sign=?py=?de" name="Zeichen -&gt; Pinyin, Bedeutung"/>
+	
+	
+	    <mode id="3" short="de=?sign" name="Bedeutung -&gt; Zeichen"/>
+	
+	
+	    <mode id="4" short="py=?sign" name="Pinyin -&gt; Zeichen"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

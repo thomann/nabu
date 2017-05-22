@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="ja.woude">
+        <name>Japanisch JLPT Woude</name>
+        <description>Japanisch JLPT Vocabulary from Mr. Woude</description>
+        <mapping>
+	
+	
+            <col id="num" name="Number"/>
+	
+	
+            <col id="kana" name="Kana" script="ja"/>
+	
+	
+            <col id="kanji" name="Kanji" script="kanji"/>
+	
+	
+            <col id="type" name="Type"/>
+	
+	
+            <col id="en" name="English" script="en" del=","/>
+	
+        </mapping>
+	<src src="ja.woude.txt" enc="UTF-8"
+		label="JLPT 4,JLPT 3"
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="kanji=kana=?en=type"/>
+	
+	
+	    <mode id="1" short="kanji=?kana"/>
+	
+	
+	    <mode id="2" short="kanji=?kana=en=type"/>
+	
+	
+	    <mode id="3" short="en=?kana"/>
+	
+	
+	    <mode id="4" short="kanji=?kana"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

@@ -1,0 +1,779 @@
+﻿你	ni3	you
+好	hao3	well; good
+您	nin2	you	polite
+你们	ni3men	you	plural
+老师	lao3shi1	teacher
+谢谢	xie4xie4	thank
+不	bu4	not
+客气	ke4qi	polite; courteous
+不客气	bu4ke4qi	Don't mention it; You're welcome
+对不起	dui4buqi3	I am sorry
+没关系	mei2guan1xi	Don't mention it
+再见	zai4jian4	good-bye
+请	qing3	please
+进	jin4	enter
+坐	zuo4	sit
+听	ting1	listen
+说	shuo1	say
+读	du2	read
+写	xie3	write
+
+吗	ma		a particle used at the end of a question
+我	wo3	I
+很	hen3	very
+呢	ne		a particle used at the end of special, alternative, or rhetorical question
+也	ye3	too, also
+爸爸	ba4ba	father
+妈妈	ma1ma	mother
+都	dou1	both; all
+他们	ta1men	they; them
+哥哥	ge1ge	elder brother
+他	ta1	he; him
+姐姐	jie3jie	elder sister
+她	ta1	she; her
+爱人	ai4ren	husband, wife
+弟弟	di4di	younger brother
+妹妹	mei4mei	younger sister
+忙	mang2	busy
+累	lei4	tired
+饿	e4	hungry
+渴	ke3	thirsty
+
+吃	chi1	eat
+什么	shen2me	what
+饺子	jiao3zi	dumpling	with meat and vegetable stuffing
+米饭	mi3fan4	cooked rice
+面条	mian4tiao2	nuddle
+面包	mian4bao1	bread
+包子	bao1zi	stuffed bun
+喝	he1	drink
+啤酒	pi2jiu3	beer
+可口可乐	ke3kou3ke3le4	Coca-cola
+茶	cha2	tea
+咖啡	ka1fei1	coffee
+矿泉水	kuang4quan2shui3	mineral water
+牛奶	niu2nai3	milk
+买	mai3	buy
+词典	ci2dian3	dictionary
+本子	ben3zi	notebook
+书	shu1	book
+笔	bi3	pen
+书包	shu1bao1	schoolbag
+
+要	yao4	want
+换	huan4	change
+钱	qian2	money
+多少	duo1shao	how much; how many
+一	yi1	one
+百	bai3	hundred
+美元	mei3yuan2	US dollar
+二	er2	two
+三	san1	three
+四	si4	four
+五	wu3	five
+两	liang3	two
+杯	bei1	cup; glass
+块（元）	kuai4(yuan2)	yuan	the basic monetary unit of China
+个	ge4		a measure word most extensively used
+六	liu4	six
+毛（角）	mao2(jiao3)	jiao	the fractional monetary unit of China, = 1/10 of a yuan
+瓶	ping2	bottle
+七	qi1	seven
+八	ba1	eight
+本	ben3		a measure word for books, etc.
+九	jiu3	nine
+十	shi2	ten
+分	fen1	fen	the fractional monetary unit of China, = 1/10 of a jiao
+
+请问	qing3wen4	Excuse me
+图书馆	tu2shu1guan3	library
+在	zai4	exist; be at, in or on a place
+哪儿	nar3	where
+就	jiu4	just
+那儿	nar4	there
+食堂	shi2tang2	dining hall
+留学生	liu2xue2sheng1	overseas student
+宿舍	su4she4	dormitory
+办公室	ban4gong1shi4	office
+楼	lou2	building
+邮局	you2ju2	post office
+银行	yin2hang2	bank
+医院	yi1yuan4	hospital
+商店	shang1dian4	shop
+书店	shu1dian4	bookshop
+知道	zhi1dao4	know
+去	qu4	go
+天安门	Tian1'an1men2	the Tian'anmen Square
+故宫	Gu4gong1	the Forbidden City
+颐和园	Yi2he2yuan2	the Summer Palace
+长城	Chang2cheng2	the Great Wall
+
+认识	ren4shi	meet; know
+高兴	gao1xing4	happy
+来	lai2		used before a verb, indicating an intended action
+介绍	jie4shao4	introduce
+一下儿	yi2xiar4		indicates that an action is brief, slight
+是	shi4	be
+学习	xue2xi2	learn
+汉语	Han4yu3	Chinese language
+班	ban1	class
+的	de	of
+学生	xue2sheng	student
+这	zhe4	this
+我们	wo3men	we; us
+那	na4	that
+朋友	peng2you	friend
+和	he2	and
+人	ren2	people
+教室	jiao4shi4	classroom
+大	da4	big
+新	xin1	new
+同学	tong2xue2	classmate
+厚	hou4	thick
+漂亮	piao4liang	pretty; beautiful
+极了	ji2le	extremely
+女儿	nü3'er2	daughter
+聪明	cong1ming	clever
+可爱	ke3'ai4	lovely
+看	kan4	look
+帅	shuai4	handsome
+小	xiao3	small, little	a prefix showing endearment for young people
+德国	De2guo2	Germany
+法国	Fa3guo2	France
+韩国	Han2guo2	Korea
+保罗	Bao3luo2	Paul
+西蒙	Xi1meng2	Simon
+李英男	Li3 Ying1nan2		name of a person
+
+最近	zui4jin4	recently
+身体	shen1ti3	health; body
+比较	bi3jiao4	quite	relatively
+成绩	cheng2ji4	score
+马马虎虎	ma3mahu1hu1	so-so
+努力	nu3li4	hard
+非常	fei1chang2	very
+太	tai4	very; too
+里	li3	in
+有	you3	have; there be
+没（有）	mei2(you3)	not have; there be not; have not or did not
+空调	kong1tiao2	air-conditioner
+同屋	tong2wu1	roommate
+离	li2	from	indicating an interval of space or time
+远	yuan3	far
+近	jin4	near
+学校	xue2xiao4	school
+多	duo1	many; much
+挺	ting3	quite
+怎么样	zen3meyang4	what about ...
+不错	bu2cuo4	not bad
+头发	tou2fa	hair
+长	chang2	long
+眼睛	yan3jing	eye
+个子	ge4zi	height
+高	gao1	tall; high
+电视	dian4shi4	TV
+中国	Zhong1guo2	China
+
+哪	na3	which
+国	guo2	country
+叫	jiao4	call
+名字	ming2zi	name
+贵	gui4	honourable	polite way of asking people's surname
+姓	xing4	surname
+几	ji3	how many
+位	wei4		a measure word for respected persons
+教	jiao1	teach
+住	zhu4	live
+号	hao4	number
+房间	fang2jian1	room
+电话	dian4hua4	telephone
+号码	hao4ma3	number
+每	mei3	every
+天	tian1	day
+下午	xia4wu3	afternoon
+做	zuo4	do
+有时候	you3shi2hou	sometimes
+休息	xiu1xi	rest
+常常	chang2chang2	often
+跟	gen1	with; and
+谁	shui2	who; whom
+一起	yi4qi3	together
+睡觉	shui4jiao4	sleep
+这儿	zher4	here
+晚上	wan3shang	evening
+王	Wang2		a Chinese Surname
+北京语言文化大学	Bei3jing1 Yu3yan2 Wen2hua4 Da4xue2	Beijing Language and Culture University
+小雨	Xiao3yu3		name of a person
+张	Zhang1		a Chinese surname
+
+想	xiang3	miss; think
+当然	dang1ran2	of course
+家	jia1	home; family
+口	kou3	mouth	a measure word for people
+兄弟	xiong1di4	brother
+姐妹	jie3mei4	sister
+独生女	du2sheng1nü3	only daughter
+工作	gong1zuo4	work; job
+父亲	fu4qin	father
+母亲	mu3qin	mother
+医生	yi1sheng1	doctor
+公司	gong1si1	company
+职员	zhi2yuan2	staff member
+记者	ji4zhe3	journalist
+名片	ming2pian4	name card
+父母	fu4mu3	parents
+今年	jinnian3	this year
+多	duo1	over
+年纪	nian2ji4	age
+岁	sui4	year (of age)
+秘密	mi4mi4	secret
+孩子	hai2zi	child; children
+儿子	er2zi	son
+真	zhen1	very
+售货员	shou4huo4yuan2	shop assistant
+经理	jing1li3	manager
+司机	si1ji1	driver
+爷爷	ye2ye	grandfather
+奶奶	nai3nai	grandmother
+小叶	Xiao3ye4		name of a person
+直美	Zhi2mei3		name of a person
+
+现在	xian4zai4	now
+点	dian3	o'clock
+刻	ke4	quarter
+早饭	zao3fan4	breakfast
+半	ban4	half
+时候	shi2hou	when
+上课	shang4ke4	attend class
+从...到	cong2...dao4	from ... to
+上午	shang4wu3	morning
+今天	jin1tian1	today
+月	yue4	month
+号（日）	hao4(ri4)	date
+星期	xing1qi1	week
+星期天（星期日）	xing1qi1tian1(xing1qi1ri4)	Sunday
+吧	ba		a particle forming a leading question which asks for confirmation of a supposition
+咱们	zan2men	we; us
+啊	a		a particle used at the end of a sentence to express enthusiasm
+出发	chu1fa1	set out
+行	xing2	OK
+见面	jian4mian4	meet
+差	cha4	less than
+分	fen1	minute
+门口	men2kou3	entrance
+等	deng3	wait
+早上	zao3shang	morning
+起	qi3	get up; rise
+床	chuang2	bed
+下课	xia4ke4	finish class
+午饭	wu3fan4	lunch
+晚饭	wan3fan4	supper
+年	nian2	year
+大前天	da4qian2tian1	three days ago
+前天	qian2tian1	the day before yesterday
+昨天	zuo2tian1	yesterday
+明天	ming2tian1	tomorrow
+后天	hou4tian1	the day after tomorrow
+大后天	da4hou4tian1	three days from now
+生日	sheng1ri	birthday
+
+里边	li3bian1	in		11_001.wav
+教学楼	jiao4xue2lou2	teaching building		11_002.wav
+办公楼	ban4gong1lou2	administrative building		11_003.wav
+北边	bei3bian1	north		11_004.wav
+西边	xi1bian1	west		11_005.wav
+南边	nan2bian1	south		11_006.wav
+附近	fu4jin4	nearby; close to		11_007.wav
+饭馆儿	fan4guanr3	restaurant		11_008.wav
+东边	dong1bian1	east		11_009.wav
+还	hai2	still; also		11_010.wav
+电影	dian4ying3	movie		11_011.wav
+电影院	dian4ying3yuan4	cinema		11_012.wav
+对面	dui4mian4	opposite side		11_013.wav
+药	yao4	medicine		11_014.wav
+旁边	pang2bian1	beside		11_015.wav
+茶叶	cha2ye4	tea leaves; tea		11_016.wav
+门	men		a suffix denoting a plural form	11_017.wav
+照片	zhao4pian4	photo		11_018.wav
+左边	zuo3bian1	on the left		11_019.wav
+右边	you4bian1	on the right		11_020.wav
+中间	zhong1jian1	in the middle		11_021.wav
+后边	hou4bian1	behind		11_022.wav
+桌子	zhuo1zi	desk; table		11_023.wav
+上边	shang4bian1	on		11_024.wav
+台灯	tai2deng1	desk lamp		11_025.wav
+张	zhang1		a measure word for desks, tables, paper, etc.	11_026.wav
+男	nan2	male		11_027.wav
+男朋友	nan2peng2you	boyfriend		11_028.wav
+下边	xia4bian1	under		11_029.wav
+抽屉	chou1ti	drawer		11_030.wav
+快	kuai4	piece; lump	a measure word	11_031.wav
+巧克力	qiao3ke4li4	chocolate		11_032.wav
+前边	qian2bian1	in the front of		11_033.wav
+鞋	xie2	shoe		11_034.wav
+眼镜	yan3jing4	glasses		11_035.wav
+闹钟	nao4zhong1	alarm clock		11_036.wav
+
+支	zhi1		a measure word for pens, pencils, etc.
+圆珠笔	yuan2zhu1bi3	ball-point pen
+红	hong2	red
+还是	hai2shi	or
+蓝	lan2	blue	
+一样	yi2yang2	every kind
+别的	bie2de	others
+了	le		a particle
+卖	mai4	sell
+再	zai4	more; again
+听	ting1	tin, can	a measure word
+一共	yi2gong4	altogether
+给	gei3	give
+零钱	ling2qian2	small change
+找（钱）	zhao3(qian2)	give (change)
+零（０）	ling2	zero; and
+数	shu3	count
+橘子	ju2zi	orange
+斤	jin1	jin	half kilogram
+东西	dong1xi	thing
+甜	tian2	sweet
+尝	chang2	taste
+西红柿	xi1hong2shi4	tomato
+怎么	zen3me	how
+新鲜	xin1xian1	fresh
+摘	zhai1	pick
+酸	suan1	sour
+辆	liang4		a measure word for bicycles, cars, etc.
+自行车	zi4xing2che1	bicycle
+铅笔	qian1bi3	pencil
+苹果	ping2guo3	apple
+凉	liang2	cool
+热	re4	hot
+短	duan3	short
+青岛	Qing1dao3		name of a Chinese city and brand of beer
+
+想	xiang3	would like
+录音机	lu4yin1ji1	tape-recorder
+给	gei3	for; to; by
+参谋	can1mou2	advise
+左右	zuo3you4	or so; about
+牌子	pai2zi	brand
+质量	zhi4liang4	quality
+又...又...	you4...you4...	both ... and ...
+价钱	jia4qian	price
+便宜	pian2yi	cheap
+样子	yang4zi	appearance; shape
+好看	hao3kan4	nice; beautiful
+双	shuang1	pair
+号	hao4	size
+可以	ke3yi3	can
+试	shi4	try
+有点儿	you3dianr3	a bit
+一点儿	yi4dianr3	a little
+合适	he2shi4	suitable
+件	jian4		a measure word for clothing, matters, etc.
+白	bai2	white
+真丝	zhen1si1	real silk
+衬衣	chen4yi1	shirt
+颜色	yan2se4	color
+只	zhi3	only
+种	zhong3	kind; type
+用	yong4	use
+算	suan4	calculate
+条	tiao2		a measure word for long or narrow or thin things
+裤子	ku4zi	trousers; pants
+乱	luan4	messy
+老	lao3	old
+
+听说	ting1shuo1	it is said that
+菜	cai4	dish
+好吃	hao3chi1	delicious
+服务员	fu2wu4yuan2	attendant; waiter; waitress
+事	shi4	thing; affair; business
+菜单	cai4dan1	menu
+点	dian3	order (dishes)
+鱼香肉丝	yu2xiang1rou4si1	fish-favored shredded pork
+麻婆豆腐	ma2po2dou4fu	stir-fried beancurd in hot sauce
+碗	wan3	bowl
+辣	la4	hot; peppery
+汤	tang1	soup
+饮料	yin3liao4	beverage
+壶	hu2	pot
+捎	shao1	a little; slightly
+觉得	jue2de	feel; think
+不过	bu2guo4	but
+油	you2	oil
+喜欢	xi3huan	like
+最	zui4	most
+呀	ya		a particle
+咸	xian2	salty
+苦	ku3	bitter
+就是	jiu4shi4	but
+小姐	xiao3jie3	waitress; Miss
+结帐	jie2zhang4	get the check
+餐巾纸	can1jin1zhi3	napkin paper
+付	fu4	pay
+请客	qing3ke4	stand treat
+以后	yi3hou4	later
+唱	chang4	sing
+卡拉OK	ka3la1'ou1kei1	karaoke
+有意思	you3yi4si	interesting
+汉字	Han4zi4	Chinese character
+告诉	gao4su	tell
+问题	wen4ti2	question
+问	wen4	ask
+难	nan2	difficult
+四川	Si4chuan1		name of a Chinese province
+
+走	zou3	go; walk
+一直	yi4zhi2	straight
+往	wang3	toward
+到	dao4	arrive; reach
+字	zi4	character
+路口	lu4kou3	crossing; intersection
+拐	guai3	turn
+米	mi3	meter
+公里	gong1li3	kilometer
+车	che1	vehicle
+过	guo4	cross
+马路	ma3lu4	avenue; street
+先	xian1	first
+路	lu4	route; No. (for bus); road
+公共汽车	gong1gong4 qi4che1	bus
+然后	ran2hou4	then
+地铁	di4tie3	subway; underground
+应该	ying1gai1	should
+或者	huo4zhe3	or
+骑	qi2	ride
+技术	ji4shu4	skill
+还是	hai2shi		expressing a preference for an alternative
+周末	zhou1mo4	weekend
+火车	hou3che1	train
+飞机	fei1ji1	plane
+快	kuai4	fast
+舒服	shu1fu	comfortable
+可是	ke3shi4	but
+宽	kuan1	wide
+重	zhong4	heavy
+出租汽车	chu1zu1 qi4che1	taxi
+送	song4	send
+礼物	li3wu4	gift
+花	hua1	flower
+大同	Da4tong2		name of a Chinese City
+百货大楼	Bai3huo4 Da4lou2	Department Store
+
+家	jia1		a measure word for shops, stores, etc.
+正在	zheng4zai4	in process of
+减价	jian3jia4	reduce the prices
+顾客	gu4ke4	costumer
+少	shao3	few; little
+有的	you3de	some
+挑	tiao1	choose
+排队	pai2dui4	queue
+交	jiao1	pay
+咦	yi2	hey
+先生	xian1sheng	sir
+找	zhao3	look for
+刚才	gang1cai2	just now
+打（电话）	da3(dian4hua4)	make (a call)
+招聘	zhao1pin4	advertise for (new employees)
+打算	da3suan	plan
+应聘	ying4pin4	accept an offer of employment
+外边	wai4bian1	outside
+下（雨）	xia4(yu3)	rain
+雨	yu3	rain
+一边。。。一边。。。	yi4bian1...yi4bian1...	while
+聊天儿	liao2tianr1	chat
+大家	da4jia1	all; everybody
+明年	ming2nian2	next year
+可能	ke3neng2	maybe
+旅行	lü3xing2	travel
+回答	hui2da2	answer
+猜	cai1	guess
+擦	ca1	wipe
+黑板	hei1ban3	blackboard
+音乐	yin1yue4	music
+歌	ge1	song
+信	xin4	letter
+邮票	you2piao4	stamp
+寄	ji4	post
+安娜	An1na4	Anna
+
+逛	guang4	ramble
+裙子	qun2zi	skirt
+顶	ding3		a measure word for hats
+帽子	mao4zi	hat
+嗬	he1	ah
+这么	zhe4me	so
+陪	pei2	accompany
+风景	feng1jing3	scenery
+特别	te4bie2	especially
+美	mei3	beautiful
+烤鸭	kao3ya1	roast duck
+只	zhi1		a measure word for animals
+病	bing4	be ill; disease
+抽（时间）	chou1(shi2jian1)	find (time to do)
+时间	shi2jian1	time
+看	kan4	call on; visit; see
+已经	yi3jing1	already
+上	shang4	last
+公园	gong1yuan2	park
+玩儿	wanr2	play
+以前	yi3qian2	before
+预习	yu4xi2	preview
+生词	sheng1ci2	new word
+课文	ke4wen2	text
+洗	xi3	wash
+衣服	yi1fu	clothes
+枝	zhi1		a measure word for flowers with stems intact
+洗澡	xi3zao3	take a shower
+全聚德	Quan2ju4de2		name of a restaurant famous for its roast duck
+上海	Shang4hai3		name of a Chinese City
+
+秋天	qiu1tian1	autumn
+天气	tian1qi4	weather
+山	shan1	hill; mount
+树叶	shu4ye4	leaf
+巧	qiao3	opportunely; coincidentally
+阴	yin1	overcast
+懒	lan3	lazy
+睡觉	shui4jiao4	sleep
+睡懒觉	shui4lan3jiao4	get up late
+瘦	shou4	thin
+看上去	kan4shang4qu	it looks ...
+更	geng4	more
+下	xia4	next
+回	hui2	return; call back
+亲戚	qin1qi	relative
+冬天	dong1tian1	winter
+冷	leng3	cold
+春天	chun1tian1	spring
+暖和	nuan3huo	warm
+夏天	xia4tian1	summer
+晴	qing2	sunny
+刮	gua1	blow	of wind
+风	feng1	wind
+导游	dao3you2	tour guide
+胖	pang4	fat
+饱	bao3	full	of eating
+开	kai1	bloom
+考试	kao3shi4	exam; examination
+结婚	jie2hun1	marry
+关	guan1	close; shut
+门	men2	door
+分钟	fen1zhong1	minute
+开	kai1	leave; start	of a train, bus, ship, etc.
+香山	Xiang1shan1		name of a hill in Beijing
+
+会	hui4	can
+游泳	you2yong3	swim
+得	de		a particle
+能	neng2	can
+羡慕	xian4mu4	admire
+旱鸭子	han4ya1zi	non-swimmer
+运动	yun4dong4	sports; exercises
+爱	ai4	like
+踢	ti1	play (football); kick
+足球	zu2qiu2	football
+球星	qiu2xing1	star	football, basketball, etc.
+棒	bang4	excellent
+今晚	jin1wan3	tonight
+队	dui4	team
+比赛	bi3sai4	match
+女	nü3	female
+女朋友	nü3peng2you	girlfriend
+音乐会	yin1yue4hui4	concert
+得	dei3	should
+赢	ying2	win
+估计	gu1ji4	estimate
+一定	yi2ding4	surely
+输	shu1	lose
+早	zao3	early
+晚	wan3	late
+带	dai4	take
+雨伞	yu3san3	umbrella
+打（球）	da3(qiu2)	play
+网球	wang3qiu2	tennis
+篮球	lan2qiu2	basketball
+做	zuo4	cook
+打字	da3zi4	type
+场	chang3		a measure word for matches
+吸烟(抽烟)	xi1yan1(chou1yan1)	smoke
+罗纳尔多	Luo2na4'er3duo1	Ronaldo	a famous Brazilian football player
+巴西	Ba1xi1	Brazil
+
+过	guo4	pass
+虽然	sui1ran2	though
+紧张	jin3zhang1	intense
+但是	dan4shi4	but
+愉快	yu2kuai4	happy
+小时	xiao3shi2	hour
+送	song4	see sb. off
+才	cai2		used before a verb to indicate that something has just happened or it is rather late by general standards
+半天	ban4tian1	a long time
+因为	yin1wei4	because
+堵车	du3che1	traffic jam
+所以	suo3yi3	so; therefore
+好	hao3	very
+一会儿	yi2huir4	a while
+准备	zhun3bei4	plan
+报纸	bao4zhi3	newspaper
+小学	xiao3xue2	primary school
+话	hua4	word
+流利	liu2li4	fluent
+安静	an1jing4	quiet
+邻居	lin2ju1	neighbor
+巴黎	Ba1li2	Paris
+
+过	guo		a particle indicating the completion of an action
+自己	zi4ji3	oneself
+行	xing2	capable; competent
+次	ci4	times	a measure word
+第	di4		prefix for ordinal numbers
+除了。。。以外	chu2le...yi3wai4	besides
+些	xie1	some
+有名	you3ming2	famous
+风味	feng1wei4	local flavour
+小吃	xiao3chi1	snack
+差不多	cha4bu4duo1	almost
+真	zhen1	real
+盘	pan2		a measure word for tapes
+磁带	ci2dai4	tape
+好听	hao3ting1	pleasant to hear
+可	ke3	very
+遍	bian4	times	a measure word
+简单	jian3dan1	simple; ordinary	; used in the negative
+从来	cong2lai2	always; at all times
+英语	Ying1yu3	English
+假	jia3	fake; sham
+去年	qu4nian2	last year
+毕业	bi4ye4	graduate
+出差	chu1chai1	be on a business trip
+封	feng1		a measure word for letters
+乒乓球	ping1pang1qiu2	table tennis
+排球	pai2qiu2	volleyball
+田中	Tian1zhong1		surname of a Japanese person
+大连	Da4lian2		name of a Chinese city
+美国	Mei3guo2	USA
+
+开	kai1	open; switch on
+着	zhe		indicating an action is in progress
+书架	shu1jia4	bookshelf
+放	fang4	put
+椅子	yi3zi	chair
+躺	tang3	lie
+地	de		used after an adjective, a noun or a phrase to form an adverbial adjunct before the verb
+超级	chao1ji2	super
+市场	shi4chang3	market
+立	li4	stand
+排	pai2	row
+货架	huo4jia4	goods shelves
+整齐	zheng3qi2	in good order
+摆	bai3	place; display
+各	ge4	every; various
+挂	gua4	hang
+牌子	pai2zi	board
+勿	wu4	not	indicating prohibition
+书房	shu1fang2	study
+报	bao4	newspaper
+沙发	sha1fa1	sofa
+客厅	ke4ting1	parlor; drawing room
+猫	mao1	cat
+窗台	chuang1tai2	windowsill
+趴	pa1	lie on one's stomach
+窗户	chuang1hu	window
+站	zhan4	stand
+戴	dai4	wear	hat, glasses, watch, etc.
+穿	chuan1	wear; put on	clothes
+抱	bao4	hold in the arms
+拿	na2	take
+背	bei1	carry on the back
+墙	qiang2	wall
+地图	di4tu2	map
+哭	ku1	cry
+生气	sheng1qi4	be angry
+认真	ren4zhen1	conscientious
+
+喂	wei4	hello
+错	cuo4	wrong
+对	dui4	correct; right
+一直	yi4zhi2	until
+呆	dai1	stay
+回来	hui2lai	come back
+录	lu4	record
+取	qu3	take; fetch
+一。。。就。。。	yi1...jiu4...	as soon as...
+完	wan2	finish
+麻烦	ma2fan	bother; troublesome
+转告	zhuan3gao4	pass on; transmit	word;
+票	piao4	ticket
+清楚	qing1chu	clear
+看见	kan4jian4	see
+急	ji2	urgent; pressing
+听见	ting1jian4	hear
+叫	jiao4	call; greet
+记	ji4	remember; bear in mind
+呼机	hu1ji1	beeper; pager
+呼	hu1	page
+留言	liu2yan2	leave a message
+转	zhuan3	extension
+作业	zuo4ye4	homework
+修	xiu1	repair
+手表	shou3biao3	watch
+接	jie1	meet; catch
+停	ting2	stop
+开始	kai1shi3	start
+讲	jiang3	explain; make clear
+懂	dong3	understand
+
+出	chu1	go out
+妨碍	fang2'ai4	hinder, obstruct
+屋	wu1	room
+那么	na4me	then
+打扰	da3rao3	bother
+抱歉	bao4qian4	sorry
+让	rang4	let
+久	jiu3	long
+叫	jiao4	ask, let
+帮	bang1	help
+送	song4	send
+不好意思	bu4hao3yi4si	feel impolite	to do sth.
+又	you4	again
+帮忙	bang1mang2	help
+别	bie2	don't; had better not
+上	shang4	go up
+要是	yao4shi	if
+马上	ma3shang4	at once; immediately
+下	xia4	go down
+照相机	zhao4xiang4ji1	camera
+照相	zhao4xiang4	take a photo
+盒	he2	box
+借	jie4	borrow, lend
+小说	xiao3shuo1	novel
+杂志	za2zhi4	magazine
+起来	qi3lai2	rise up
+跑	pao3	run
+
+控儿	kongr4	spare time
+。。。的话	dehua4		a particle indicating supposition
+对话	dui4hua4	dialogue
+中文	Zhong1wen2	Chinese language
+字幕	zi4mu4	captions; subtitles
+大概	da4gai4	general
+意思	yi4si	meaning; idea
+肯定	ken3ding4	sure
+恐怕	kong3pa4	I'm afraid
+为什么	wei4shen2me	why
+受伤	shou4shang1	be injured
+俩	lia3	two
+座位	zuo4wei4	seat
+邀请	yao1qing3	invite
+郊游	jiao3you2	go for an outing
+约	yue1	appoint
+长途	chang2tu2	long-distance
+赶 	gan3	catch
+约会	yue1hui4	appointment
+放心	fang4xin1	feel relieved
+耽误	dan1wu	miss
+脏	zang1	dirty
+烫	tang4	boiling hot
+忘	wang4	forget
+上（闹钟）	shang4(nao4zhong1)	wind (clock)

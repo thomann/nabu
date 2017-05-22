@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="th.alph">
+        <name>Thai Alphabet</name>
+        <description></description>
+        <mapping>
+	
+	
+            <col id="s" name="Symbol" script="th"/>
+	
+	
+            <col id="n" name="Name" script="en"/>
+	
+	
+            <col id="ipa" name="IPA"/>
+	
+	
+            <col id="royal" name="Royal"/>
+	
+        </mapping>
+	<src src="th.alph.txt" enc="UTF-8"
+		
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="s=?n=?ipa"/>
+	
+	
+	    <mode id="1" short="n=?s"/>
+	
+	
+	    <mode id="2" short="ipa=?s"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

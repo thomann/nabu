@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="ja.adj">
+        <name>Japanisch Sprachenzentrum</name>
+        <description>Japanisch aus dem Einführungskurs von Heinrich Reinfried</description>
+        <mapping>
+	
+	
+            <col id="ja" name="Japanisch Hepburn" script="de"/>
+	
+	
+            <col id="de" name="Deutsche Sprache" script="de"/>
+	
+	
+            <col id="bem" name="Bemerkung" script="de"/>
+	
+	
+            <col id="type" name="Rektion" script="de"/>
+	
+        </mapping>
+	<src src="ja.adj.txt" enc="Latin1"
+		label="Adjektive,Na-Adjektive,Lokativ,Adverbien,Pronomina,Verba 1,Verba 2/3,V1,V2,V3,V4,V5,V6,V7,Verb Morphologie"
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="ja=type=?de=bem"/>
+	
+	
+	    <mode id="1" short="de=?ja"/>
+	
+	
+	    <mode id="2" short="de=bem=?ja"/>
+	
+	
+	    <mode id="3" short="ja=?type"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

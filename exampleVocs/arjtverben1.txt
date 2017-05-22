@@ -1,0 +1,179 @@
+فَعَلَ	perf,3p,m,sg,act	فعل	I au	fEl
+فَعَلَتْ	perf,3p,f,sg,act	فعل	I au	fEl
+فَعَلْتَ	perf,2p,m,sg,act	فعل	I au	fEl
+فَعَلتِ	perf,2p,f,sg,act	فعل	I au	fEl
+فَعَلتُ	perf,1p,c,sg,act	فعل	I au	fEl
+فَعَلُوا	perf,3p,m,pl,act	فعل	I au	fEl
+فَعَلْنَ	perf,3p,f,pl,act	فعل	I au	fEl
+فَعَلْتُمْ	perf,2p,m,pl,act	فعل	I au	fEl
+فَعَلْتُنَّ	perf,2p,f,pl,act	فعل	I au	fEl
+فَعَلْنَا	perf,1p,c,pl,act	فعل	I au	fEl
+فَعَلَا	perf,3p,m,du,act	فعل	I au	fEl
+فَعَلَتَا	perf,3p,f,du,act	فعل	I au	fEl
+فَعَلَتُمَا	perf,2p,c,du,act	فعل	I au	fEl
+يَفْعُلُ	impf,3p,m,sg,act	فعل	I au	fEl
+تَفْعُلُ	impf,3p,f,sg,act	فعل	I au	fEl
+تَفْعُلُ	impf,2p,m,sg,act	فعل	I au	fEl
+تَفْعُلِينَ	impf,2p,f,sg,act	فعل	I au	fEl
+أَفْعُلُ	impf,1p,c,sg,act	فعل	I au	fEl
+يَفْعُلَانِ	impf,3p,m,du,act	فعل	I au	fEl
+تَفْعُلَانِ	impf,3p,f,du,act	فعل	I au	fEl
+تَفْعُلَانِ	impf,2p,c,du,act	فعل	I au	fEl
+يَفْعُلُونَ	impf,3p,m,pl,act	فعل	I au	fEl
+يَفْعُلْنَ	impf,3p,f,pl,act	فعل	I au	fEl
+تَفْعُلُونَ	impf,2p,m,pl,act	فعل	I au	fEl
+تَفْعُلْنَ	impf,2p,f,pl,act	فعل	I au	fEl
+نَفْعُلُ	impf,1p,c,pl,act	فعل	I au	fEl
+يَفْعُلَ	conj,3p,m,sg,act	فعل	I au	fEl
+تَفْعُلَ	conj,3p,f,sg,act	فعل	I au	fEl
+تَفْعُلَ	conj,2p,m,sg,act	فعل	I au	fEl
+تَفْعُلِي	conj,2p,f,sg,act	فعل	I au	fEl
+أَفْعُلَ	conj,1p,c,sg,act	فعل	I au	fEl
+يَفْعُلَا	conj,3p,m,du,act	فعل	I au	fEl
+تَفْعُلَا	conj,3p,f,du,act	فعل	I au	fEl
+تَفْعُلَا	conj,2p,c,du,act	فعل	I au	fEl
+يَفْعُلُوا	conj,3p,m,pl,act	فعل	I au	fEl
+يَفْعُلْنَ	conj,3p,f,pl,act	فعل	I au	fEl
+تَفْعُلُوا	conj,2p,m,pl,act	فعل	I au	fEl
+تَفْعُلْنَ	conj,2p,f,pl,act	فعل	I au	fEl
+نَفْعُلَ	conj,1p,c,pl,act	فعل	I au	fEl
+يَفْعُلْ	juss,3p,m,sg,act	فعل	I au	fEl
+تَفْعُلْ	juss,3p,f,sg,act	فعل	I au	fEl
+تَفْعُلْ	juss,2p,m,sg,act	فعل	I au	fEl
+تَفْعُلِي	juss,2p,f,sg,act	فعل	I au	fEl
+أَفْعُلْ	juss,1p,c,sg,act	فعل	I au	fEl
+يَفْعُلَا	juss,3p,m,du,act	فعل	I au	fEl
+تَفْعُلَا	juss,3p,f,du,act	فعل	I au	fEl
+تَفْعُلَا	juss,2p,c,du,act	فعل	I au	fEl
+يَفْعُلُوا	juss,3p,m,pl,act	فعل	I au	fEl
+يَفْعُلْنَ	juss,3p,f,pl,act	فعل	I au	fEl
+تَفْعُلُوا	juss,2p,m,pl,act	فعل	I au	fEl
+تَفْعُلْنَ	juss,2p,f,pl,act	فعل	I au	fEl
+نَفْعُلْ	juss,1p,c,pl,act	فعل	I au	fEl
+اُفْعُلْ	ipv,2p,m,sg	فعل	I au	fEl
+اُفْعُلِي	ipv,2p,f,sg	فعل	I au	fEl
+اُفْعُلُوا	ipv,2p,m,pl	فعل	I au	fEl
+اُفْعُلْنَ	ipv,2p,f,pl	فعل	I au	fEl
+اُفْعُلَا	ipv,2p,c,du	فعل	I au	fEl
+فِعْلٌ	inf	فعل	I au	fEl
+
+فَاعِلٌ	part,act	فعل	I au	fEl
+فَعَّلَ	perf,3p,m,sg,act	فعل	II	fEl
+فَعَّلَتْ	perf,3p,f,sg,act	فعل	II	fEl
+فَعَّلْتَ	perf,2p,m,sg,act	فعل	II	fEl
+فَعَّلتِ	perf,2p,f,sg,act	فعل	II	fEl
+فَعَّلتُ	perf,1p,c,sg,act	فعل	II	fEl
+فَعَّلُوا	perf,3p,m,pl,act	فعل	II	fEl
+فَعَّلْنَ	perf,3p,f,pl,act	فعل	II	fEl
+فَعَّلْتُمْ	perf,2p,m,pl,act	فعل	II	fEl
+فَعَّلْتُنَّ	perf,2p,f,pl,act	فعل	II	fEl
+فَعَّلْنَا	perf,1p,c,pl,act	فعل	II	fEl
+فَعَّلَا	perf,3p,m,du,act	فعل	II	fEl
+فَعَّلَتَا	perf,3p,f,du,act	فعل	II	fEl
+فَعَّلَتُمَا	perf,2p,c,du,act	فعل	II	fEl
+يُفَعِّلُ	impf,3p,m,sg,act	فعل	II	fEl
+تُفَعِّلُ	impf,3p,f,sg,act	فعل	II	fEl
+تُفَعِّلُ	impf,2p,m,sg,act	فعل	II	fEl
+تُفَعِّلِينَ	impf,2p,f,sg,act	فعل	II	fEl
+أُفَعِّلُ	impf,1p,c,sg,act	فعل	II	fEl
+يُفَعِّلَانِ	impf,3p,m,du,act	فعل	II	fEl
+تُفَعِّلَانِ	impf,3p,f,du,act	فعل	II	fEl
+تُفَعِّلَانِ	impf,2p,c,du,act	فعل	II	fEl
+يُفَعِّلُونَ	impf,3p,m,pl,act	فعل	II	fEl
+يُفَعِّلْنَ	impf,3p,f,pl,act	فعل	II	fEl
+تُفَعِّلُونَ	impf,2p,m,pl,act	فعل	II	fEl
+تُفَعِّلْنَ	impf,2p,f,pl,act	فعل	II	fEl
+نُفَعِّلُ	impf,1p,c,pl,act	فعل	II	fEl
+يُفَعِّلَ	conj,3p,m,sg,act	فعل	II	fEl
+تُفَعِّلَ	conj,3p,f,sg,act	فعل	II	fEl
+تُفَعِّلَ	conj,2p,m,sg,act	فعل	II	fEl
+تُفَعِّلِي	conj,2p,f,sg,act	فعل	II	fEl
+أُفْعُلَ	conj,1p,c,sg,act	فعل	II	fEl
+يُفَعِّلَا	conj,3p,m,du,act	فعل	II	fEl
+تُفَعِّلَا	conj,3p,f,du,act	فعل	II	fEl
+تُفَعِّلَا	conj,2p,c,du,act	فعل	II	fEl
+يُفَعِّلُوا	conj,3p,m,pl,act	فعل	II	fEl
+يُفَعِّلْنَ	conj,3p,f,pl,act	فعل	II	fEl
+تُفَعِّلُوا	conj,2p,m,pl,act	فعل	II	fEl
+تُفَعِّلْنَ	conj,2p,f,pl,act	فعل	II	fEl
+نُفَعِّلَ	conj,1p,c,pl,act	فعل	II	fEl
+يُفَعِّلْ	juss,3p,m,sg,act	فعل	II	fEl
+تُفَعِّلْ	juss,3p,f,sg,act	فعل	II	fEl
+تُفَعِّلْ	juss,2p,m,sg,act	فعل	II	fEl
+تُفْعُلِي	juss,2p,f,sg,act	فعل	II	fEl
+أُفَعِّلْ	juss,1p,c,sg,act	فعل	II	fEl
+يُفَعِّلَا	juss,3p,m,du,act	فعل	II	fEl
+تُفَعِّلَا	juss,3p,f,du,act	فعل	II	fEl
+تُفَعِّلَا	juss,2p,c,du,act	فعل	II	fEl
+يُفَعِّلُوا	juss,3p,m,pl,act	فعل	II	fEl
+يُفَعِّلْنَ	juss,3p,f,pl,act	فعل	II	fEl
+تُفَعِّلُوا	juss,2p,m,pl,act	فعل	II	fEl
+تُفَعِّلْنَ	juss,2p,f,pl,act	فعل	II	fEl
+نُفَعِّلْ	juss,1p,c,pl,act	فعل	II	fEl
+فَعِّلْ	ipv,2p,m,sg	فعل	II	fEl
+فَعِّلِي	ipv,2p,f,sg	فعل	II	fEl
+فَعِّلُوا	ipv,2p,m,pl	فعل	II	fEl
+فَعِّلْنَ	ipv,2p,f,pl	فعل	II	fEl
+فَعِّلَا	ipv,2p,c,du	فعل	II	fEl
+تَفْعِيلٌ	inf	فعل	II	fEl
+مُفَعِّلٌ	part,act	فعل	II	fEl
+
+فَاعَلَ	perf,3p,m,sg,act	فعل	III	fEl
+فَاعَلَتْ	perf,3p,f,sg,act	فعل	III	fEl
+فَاعَلْتَ	perf,2p,m,sg,act	فعل	III	fEl
+فَاعَلتِ	perf,2p,f,sg,act	فعل	III	fEl
+فَاعَلتُ	perf,1p,c,sg,act	فعل	III	fEl
+فَاعَلُوا	perf,3p,m,pl,act	فعل	III	fEl
+فَاعَلْنَ	perf,3p,f,pl,act	فعل	III	fEl
+فَاعَلْتُمْ	perf,2p,m,pl,act	فعل	III	fEl
+فَاعَلْتُنَّ	perf,2p,f,pl,act	فعل	III	fEl
+فَاعَلْنَا	perf,1p,c,pl,act	فعل	III	fEl
+فَاعَلَا	perf,3p,m,du,act	فعل	III	fEl
+فَاعَلَتَا	perf,3p,f,du,act	فعل	III	fEl
+فَاعَلَتُمَا	perf,2p,c,du,act	فعل	III	fEl
+يُفَاعِلُ	impf,3p,m,sg,act	فعل	III	fEl
+تُفَاعِلُ	impf,3p,f,sg,act	فعل	III	fEl
+تُفَاعِلُ	impf,2p,m,sg,act	فعل	III	fEl
+تُفَاعِلِينَ	impf,2p,f,sg,act	فعل	III	fEl
+أُفَاعِلُ	impf,1p,c,sg,act	فعل	III	fEl
+يُفَاعِلَانِ	impf,3p,m,du,act	فعل	III	fEl
+تُفَاعِلَانِ	impf,3p,f,du,act	فعل	III	fEl
+تُفَاعِلَانِ	impf,2p,c,du,act	فعل	III	fEl
+يُفْاعِلُونَ	impf,3p,m,pl,act	فعل	III	fEl
+يُفَاعِلْنَ	impf,3p,f,pl,act	فعل	III	fEl
+تُفَاعِلُونَ	impf,2p,m,pl,act	فعل	III	fEl
+تُفَاعِلْنَ	impf,2p,f,pl,act	فعل	III	fEl
+نُفَاعِلُ	impf,1p,c,pl,act	فعل	III	fEl
+يُفَاعِلَ	conj,3p,m,sg,act	فعل	III	fEl
+تُفَاعِلَ	conj,3p,f,sg,act	فعل	III	fEl
+تُفَاعِلَ	conj,2p,m,sg,act	فعل	III	fEl
+تُفَاعِلِي	conj,2p,f,sg,act	فعل	III	fEl
+أُفَاعِلَ	conj,1p,c,sg,act	فعل	III	fEl
+يُفَاعِلَا	conj,3p,m,du,act	فعل	III	fEl
+تُفَاعِلَا	conj,3p,f,du,act	فعل	III	fEl
+تُفَاعِلَا	conj,2p,c,du,act	فعل	III	fEl
+يُفَاعِلُوا	conj,3p,m,pl,act	فعل	III	fEl
+يُفَاعِلْنَ	conj,3p,f,pl,act	فعل	III	fEl
+تُفَاعِلُوا	conj,2p,m,pl,act	فعل	III	fEl
+تُفَاعِلْنَ	conj,2p,f,pl,act	فعل	III	fEl
+نُفَاعِلَ	conj,1p,c,pl,act	فعل	III	fEl
+يُفَاعِلْ	juss,3p,m,sg,act	فعل	III	fEl
+تُفَاعِلْ	juss,3p,f,sg,act	فعل	III	fEl
+تُفَاعِلْ	juss,2p,m,sg,act	فعل	III	fEl
+تُفَاعِلِي	juss,2p,f,sg,act	فعل	III	fEl
+أُفَاعِلْ	juss,1p,c,sg,act	فعل	III	fEl
+يُفَاعِلَا	juss,3p,m,du,act	فعل	III	fEl
+تُفَاعِلَا	juss,3p,f,du,act	فعل	III	fEl
+تُفَاعِلَا	juss,2p,c,du,act	فعل	III	fEl
+يُفَاعِلُوا	juss,3p,m,pl,act	فعل	III	fEl
+يُفَاعِلْنَ	juss,3p,f,pl,act	فعل	III	fEl
+تُفَاعِلُوا	juss,2p,m,pl,act	فعل	III	fEl
+تُفَاعِلْنَ	juss,2p,f,pl,act	فعل	III	fEl
+نُفَاعِلْ	juss,1p,c,pl,act	فعل	III	fEl
+فَاعِلْ	ipv,2p,m,sg	فعل	III	fEl
+فَاعِلِي	ipv,2p,f,sg	فعل	III	fEl
+فَاعِلُوا	ipv,2p,m,pl	فعل	III	fEl
+فَاعِلْنَ	ipv,2p,f,pl	فعل	III	fEl
+فَاعِلَا	ipv,2p,c,du	فعل	III	fEl
+مُفَاعَلَةٌ	inf	فعل	III	fEl
+مُفَاعِلٌ	part,act	فعل	III	fEl

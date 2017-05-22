@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="th.beginners" decorate="true">
+        <name>Thai for Beginners</name>
+        <description>Vocabulary from the language learning book</description>
+        <mapping>
+	
+	
+            <col id="th" name="Thai" script="th"/>
+	
+	
+            <col id="th_pr" name="Thai Pronunciation" script="th_pr"/>
+	
+	
+            <col id="en" name="English" script="en"/>
+	
+	
+            <col id="comm" name="Comment"/>
+            <snd id="th_snd" ad="th" pattern="{0}/{0}_{1}.wav" class="ch.unizh.ori.nabu.voc.LineSndColumn" col="-2">
+		    <voice type="file" name="1.wav" prefix="file:/D:/Tiamat/thai/"/>
+            </snd>
+	
+        </mapping>
+	<src src="th.beginners.txt" enc="UTF-8"
+		
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="th=th_pr=?en=comm"/>
+	
+	
+	    <mode id="1" short="th=th_pr=?en=?comm"/>
+
+	
+	
+	    <mode id="2" short="th=?en"/>
+	    <mode id="01" short="th=?en=comm" /> 
+	
+	
+	    <mode id="3" short="th=?th_pr"/>
+	    <mode id="3b" short="th_pr=?th"/>
+	
+	
+	    <mode id="4" short="en=comm=?th"/>
+	
+	
+	    <mode id="5" short="en=comm=?th_pr"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

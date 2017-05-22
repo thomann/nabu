@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<items>
+    <vocabulary id="chin_test" decorate="true">
+        <name>Chinese</name>
+        <description>Chinese Intensive course</description>
+        <mapping>
+            <col id="zh" name="Chinese" script="zh"/>
+            <col id="zh_py" name="Chinese Pinyin" script="zh_py"/>
+            <col id="en" name="English" script="en"/>
+            <col id="en_info" name="English info" script="en"/>
+        </mapping>
+	<src src="chin.txt" enc="UTF-8" class="ch.unizh.ori.nabu.voc.EmptyLineSource"/>
+	<modes>
+	    <mode id="1" short="zh=?en"/>
+	    <mode id="2" short="zh=zh_py=?en"/>
+	    <mode id="3" short="zh=?zh_py=?en"/>
+	    <mode id="3b" short="zh=zh_py=?en=en_info"/>
+	    <mode id="4" short="zh=?zh_py"/>
+	    <mode id="4b" short="zh=?zh_py=en=en_info"/>
+	    <mode id="4c" short="zh=?zh_py=en_info"/>
+	    <mode id="5" short="en=?zh_py">
+	        <filter field="en" except="\A\s*\Z"/>
+	    </mode>
+	    <mode id="6" short="en=?zh">
+	        <filter field="en" except="\A\s*\Z"/>
+	    </mode>
+	</modes>
+    </vocabulary>
+</items>

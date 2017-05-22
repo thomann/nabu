@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="hin_snd">
+        <name>Hindi with Sound</name>
+        <description>Hindi Language Vocabulary</description>
+        <mapping>
+            <col id="hi" name="Hindi" script="hi"
+            	class="ch.unizh.ori.nabu.voc.ConvertStringColumn"
+                className="ch.unizh.ori.common.text.helper.SanskritHelper"
+                methodName="tz2unicode"/>
+            <col id="hi_info" name="info" script="latin"/>
+            <col id="en" name="English" script="latin.en"/>
+            <col id="l" name="Lesson" script="latin"/>
+            <snd id="hi.snd" ad="hi">
+                <voice type="file" name="1.wav" prefix="file:/D:/Tiamat/hindi/"/>
+            </snd>
+        </mapping>
+	<src src="hindi_snd_sort2.txt" enc="ASCII" column="3"
+        	class="ch.unizh.ori.nabu.voc.FileLectionSource"/>
+	<modes>
+	    <mode id="1" short="hi=hi_info=?en"/>
+	    <mode id="2" short="en=?hi"/>
+	</modes>
+    </vocabulary>
+</items>

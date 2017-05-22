@@ -1,0 +1,762 @@
+﻿ผม	phom4	I	male speaker
+ดิฉัน, ฉัน	di1chan4, chan4/chan3	I	female speaker
+คุณ	khun	you
+ชื่อ	chWW2	name, be called
+สวัสดี	sawat1dii	hello, goodbye
+สบายดี	sabaay dii	be well, comfortable
+ยินดี	yin-dii	be pleased
+ที่	thii2	that, to	subordinator
+ได้	day2	get to V
+รู้จัก	ruu3-cak1	know (someone)
+ยินดีที่ได้รู้จัก	yin-dii thii2 day2 ruu3-cak1	glad to meet you
+เช่นกัน	chen2 kan	same (to you)
+ขอโทษ	khOO4-thoot2	sorry, excuse me
+ไม่เป็นไร	may2 pen-ray	don't worry, it's OK, you're welcome
+ขอบคุณ	khOOp1-khun	thank you
+ล่ะ	la?2	and what about ...?
+ครับ	khrap3	sir, mam	male speaker
+ค่ะ, คะ	kha?2, kha?3	sir, mam	female speaker
+หนังสือ	nang4-sWW4	book, writing
+หนังสือพิมพ์	nang4-sWW4-phim	newspaper
+นาฬิกา	naali?3kaa	watch, clock, o'clock
+ปากกา	paak1-kaa	pen
+ดินสอ	din-sOO4	pencil
+กระเป๋า	kra?1paw4	bag
+แผนที่	phEEn4-thii2	map
+สมุด	samut1	notebook
+นี่	nii2	this one, here
+นั่น	nan2	that one, there
+โน่น	noon2, nuun2	that one over there
+อะไร	aray	what
+ใช่	chay2	right
+ไม่	may2	not	before verb to be negated
+ไหม, มั๊ย	may4, may3		question particle
+หรือ	rWW4	or
+ก็	kOO2	also, well...
+เข้าใจ	khaw2-cay	understand	enter the heart
+
+โทรศัพท์	thoorasap1	telephone, call (by phone)
+โทรทัศน์ (ทีวี)	thoorathat3 (thiiwii)	television, TV
+แว่นตา	wEEn2-taa	glasses
+เงิน	ngYn	silver, money
+พจนานุกรม (ดิก)	phot3canaanu?3krom (dik1)	dictionary
+รูป, ภาพ	ruup2, phaap2	picture, photo
+กระดาษ	kra?1daat1	paper
+โต๊ะ	to?3	table
+เก้าอี้	kaw2-ii2	chair
+ห้อง	hOng2	room
+นอน	nOOn	sleep
+ห้องนอน	hOng2-nOOn	bedroom
+น้ำ	naam3	water
+ห้องน้ำ	hOng2-naam3	bathroom
+บ้าน	baan2	house
+เป็น	pen	to be (something)
+อยู่	yuu1	to be (somewhere), stay, remain
+เอา	aw	take, want to have
+ใน	nay	in
+บน	bon	on
+ใต้	taay2	under, south
+ระหว่าง	ra?3waang1	between
+กับ	kap1	with
+เมือง	mWang	town, city, country
+คน	khon	person, people
+ไทย	thay	Thai
+ลาว	laaw	Laotian
+จีน	ciin	Chinese
+ญี่ปุ่น	yii2pun1	Japanese
+อเมริกา	ameeri?3kaa	American
+ฝรั่งเศส	farang1seet1	French
+สวิส, สวิตเซอร์แลนด์	sawit3, sawit3sYYlEEn	Swiss
+เยอรมัน	yYYraman	German
+เกาหลี	kawlii4	Korean
+อังกฤษ	angkrit1	English, British
+ขาย	khaay4	sell
+ประเทศ	pra?1theet2	country
+ภาษา	phaasaa4	language
+ที่	thii2	at, in	locative
+ที่นี่	thii2 nii2	here
+ที่นั่น	thii2 nan2	there
+ที่โน่น	thii2 noon2, thii2 nuun2	over there, yonder
+ที่ไหน	thii2 nay4	where?
+ไหน	nay4	which, where?
+ทาง	thaang	way
+ซ้าย	saay3	left
+ขวา	khwaa4	right
+นี้	nii3	this
+นั้น	nan3	that
+โน้น	noon3, nuun3	that	more distant
+อัน	an	piece, thing	classifier
+อันนี้	an nii3	this one
+เท่าไร	thaw2-ray	how much?
+กี่	kii1	how many?
+กี่คน	kii1 khon	how many people
+บาท	baat1	Baht
+ดอล, ดอลลาร์	dOn, dOnlaa2	Dollar
+แฟรงค์	frEng3	Franc
+เยน	yeen	Yen
+ถูก	thuuk1	cheap, correct
+แพง	phEEng	expensive
+ยาก	yaak2	difficult
+ง่าย	ngaay2	easy
+มาก	maak2	much, many, very
+เรา, พวกเรา	raw, phuak2 raw	we
+เขา	khaw4, khaw3	he, she, they
+พวก	phuak2	group	plural marker
+มัน	man	it, he, she	impolite
+
+จะ	ca?1	will	future, irrealis
+ได้	day2, daay2	get, can
+แต่	tEE1	but
+ช้า	chaa3	slow
+ช้าๆ	chaa3-chaa3	slowly
+เร็ว	rew	quick, fast
+เร็วๆ	rew-rew	quickly
+อีก	iik1	another, again
+ที	thii	time	dt. Mal
+อีกที	iik1 thii	once more, again
+ทำ	tham	do, make
+ชอบ	chOOp2	like	v.
+กิน	kin	eat, drink	informal
+ทาน	thaan	eat	formal
+ดื่ม	dWWm1	drink	formal
+ดู	duu	watch, look
+พูด	phuut2	speak
+อ่าน	aan1	read
+เขียน	khian4	write
+เรียน	rian	learn
+สอน	sOOn4	teach
+งาน	ngaan	work, job	n.
+ทำงาน	tham ngaan	work	v.
+นอน	nOOn	sleep, lie down
+ตื่น	tWWn1	wake up	intrans.
+ไป	pay	go	away from speaker
+มา	maa	come	toward speaker
+เก่ง	keng1	clever, good, brave
+นิดหน่อย	nit3nOy1	a little bit
+หน่อย	nOy1	a bit
+รถ	rot3	car, vehicle
+รถยนต์	rot3 yon	car
+วัด	wat3	temple
+โบสถ์	boot1	church
+ตลาด	talaat1	market
+โรง	roong	big building
+โรงแรม	roong-rEEm	hotel
+หนัง	nang4	skin, leather, movie
+โรงหนัง	roong-nang4	movie theatre, cinema
+โรงเรียน	roong-rian	school
+โรงพยาบาล	roong-phayaabaan	hospital
+ธนาคาร	thanaakhaan	bank
+ไปรษณีย์	praysanii	post office
+มหาวิทยาลัย	mahaa4wit3thayaalay	university
+สนาม	sanaam4	field, open place
+บิน	bin	fly	v.
+สนามบิน	sanaam4-bin	airport
+ร้าน	raan3	shop
+อาหาร	aahaan4	food
+ร้านอาหาร	raan3-aahaan4	restaurant
+ขนม	khanom4	snack
+ของ	khOOng4	thing
+หวาน	waan4	sweet
+ของหวาน	khOOng-waan4	dessert, sweets
+แข็ง	khEng4	hard
+น้ำแข็ง	nam3-khEng4	ice
+ส้ม	som2	orange
+น้ำส้ม	nam3-som2	orange juice
+กาแฟ	kaafEE	coffee
+ชา	chaa	tea
+เบียร์	bia	beer
+ข้าว	khaaw2	rice
+บะหมี่	ba?1mii1	yellow noodles
+ก๋วยเตี๋ยว	kuay4-tiaw4	noodles
+ฝรั่ง	farang1	Western, European
+เช้า	chaaw3	morning
+เที่ยง	thiang2	noon
+กลาง	klaang	middle
+วัน	wan	day
+กลางวัน	klaang-wan	during the day
+เย็น	yen	cool, evening
+สี	sii4	colour
+ดำ	dam	black
+ขาว	khaaw4	white
+แดง	dEEng	red
+เขียว	khiaw4	green
+ฟ้า	faa3	sky, light blue
+น้ำเงิน	nam3-ngYn	dark blue
+น้ำตาล	nam3-taan	sugar, brown
+เหลือง	lYang4	yellow
+ชมพู	chomphuu	pink
+ม่วง	muang2	purple
+เทา	thaw	grey
+
+เวลา	weelaa	time
+ชั่วโมง	chua2-moong	hour
+นาที	naathii	minute
+วินาที	wi?3naathii	second
+ตรง	trong	straight, exactly
+ครึ่ง	khrWng2	half
+เกือบ	kWap1	almost
+กว่า	kwaa1	more than, past
+แล้ว	lEEw3	already, now	indicating complete change of situation, new situation (nsit) marker
+ประมาณ	pra?1maan	about, approximate
+ราวๆ	raaw-raaw	around, about
+สาย	saay4	late, late morning	about 8-11 am
+ก่อน	kOOn1	before, former
+หลัง	lang4	back, after, behind
+ตอน	tOOn	at, when	usually temporal preposition
+ดึก	dWk1	late at night	about 9 pm - 3 am
+ค่ำ	kham2	late evening	7-9 pm
+บ่าย	baay1	afternoon	1-3 pm
+คืน	khWWn	night
+เดี๋ยว	diaw4	moment
+เมื่อกี้	mWa2-kii2	a moment ago
+เมื่อ	mWa2	when, on	temporal preposition, past reference
+เมื่อไร	mWa2-ray	when?
+จาก	caak1	part, leave, from
+ตั้งแต่	tang2-tEE1	since, from	usually temporal
+ถึง	thWng4	arrive, until	temporal and locative
+โมง	moong	o'clock	6 am - 6 pm
+ทุ่ม	thum2	o'clock	7 pm - 11 pm
+ตี	tii	hit, beat, o'clock	1 am - 5 am
+เที่ยง	thiang2	noon
+เที่ยงคืน	thiang2-khWWn	midnight
+
+วัน	wan	day	no classifier needed
+จันทร์	can	Monday, Moon
+อังคาร	angkhaan	Tuesday, Mars
+พุธ	phut3	Wednesday, Mercury
+พฤหัส(บดี)	pharW?3hat1 (sabOOdii)	Thursday, Jupiter
+ศุกร์	suk1	Friday, Venus
+เสาร์	saw4	Saturday, Saturn
+อาทิตย์	aathit3	Sunday, Sun, week
+หยุด	yut1	stop
+วันหยุด	wan-yut1	holiday
+เดือน	dWan	month
+มกราคม	mok3karaakhom	January
+กุมภาพันธ์	kumphaaphan	February
+มีนาคม	miinaakhom	March
+เมษายน	meesaa4yon	April
+พฤษภาคม	phrWt3saphaakhom	May
+มิถุนายน	mi?3thu?1naayon	June
+กรกฎาคม	karak3kadaakhom	July
+สิงหาคม	sing4haa4khom	August
+กันยายน	kanyaayon	September
+ตุลาคม	tu?1laakhom	October
+พฤสจิกายน	phrWt3saci?1kaayon	November
+ธันวาคม	thanwaakhom	December
+เมื่อวาน	mWa2-waan	yesterday
+พรุ่งนี้	phrung2-nii3	tomorrow
+ทุก	thuk3	every	with CL
+ที่แล้ว	thii2-lEEw3	last, past	with temporal expression
+สัปดาห์	sap1daa	week	formal
+หน้า	naa2	face, in front, next
+เดือนหน้า	dWan-naa2	next month
+เดือนที่แล้ว	dWan-thii2-lEEw3	last month
+ปี	pii	year
+แฟน	fEEn	girlfriend, boyfriend, lover
+เพื่อน	phWan2	friend
+ว่าง	waang2	be free
+ยุ่ง	yung2	busy, disturb
+ต้อง	tOng2	must
+มี	mii	have, there is
+ปลุก	pluk1	wake up	transitive
+กลับ	klap1	return, go/come back
+เที่ยว	thiaw2	round	n.
+ไปเที่ยว	pay thiaw2	go out, go for fun
+รับ	rap3	receive, pick up
+แต่เช้า	tEE1-chaaw3	(since) early morning
+กัน	kan	together	optional plural marker on verbs
+ด้วย	duay2	also, too, with
+ด้วยกัน	duay2-kan	together
+เดียว	diaw	only one
+นัด	nat3	make an appointment
+เจอ	cYY	meet, find
+
+กำลัง	kamlang	be V-ing	PROGRESSIVE
+กำลังจะ	kamlang ca?1	be about to V
+ไม่ค่อย	may2 khOy2	not very, rather not
+ไม่...เลย	may2 lYYy	not ... at all
+เลย	lYYy	exceed; very; right away
+อย่างไร, ยังไง	yaang1-ray, yangngay	how
+อยาก	yaak1	want to, would like to
+เอา	?aw	take, want to have
+เคย	khYYy	be familiar; ever, once
+ไม่เคย	may2 khYYy	never	only past
+ปกติ	pok1kati?1	normal, usual
+ประจำ	pra?1cam	permanent, regular
+บ่อย	bOy1	often
+ยัง	yang	still, yet; yet?
+แล้ว	lEEw3	already	NSIT
+ดี	dii	good
+ฟัง	fang	listen
+คุย	khuy	chat
+พบ	phop3	meet, find
+เจอ	cYY	meet, find, see
+นั่ง	nang2	sit, sit down
+ยืน	yWWn	stand, stand up
+เดิน	dYYn	walk
+วิ่ง	wing2	run
+ซื้อ	sWW3	buy
+ขาย	khaay4	sell
+ร้อง	rOOng3	cry, sing
+เต้น	ten2	dance
+รำ	ram	dance	Thai style
+เล่น	len2	play; V for fun
+หา	haa4	look for, visit, to PERS
+ขับ	khap1	drive
+ขี่	khii1	ride
+ตก	tok1	fall
+งาน	ngaan	work	n.
+ธุระ	thu?3ra?3	business, thing to do, errand
+เพลง	phleeng	song
+โดย	dooy	by	formal
+รถ	rot3	car, vehicle	with wheels
+ไฟ	fay	fire, electricity, light
+รถไฟ	rot3 fay	train
+รถไฟใต้ดิน	rot3 fay taay2 din	subway, underground
+ดิน	din	earth, ground, soil
+รถเมล์	rot3 mee	bus	eng. mail
+รถบัส	rot3 bat3	bus	non-aircon
+แท็กซี่	thEk3sii2	taxi
+สองแถว	sOOng4-thEw4	pick-up bus
+สามล้อ	saam4-lOO3	tricycle
+ล้อ	lOO3	wheel
+ตุ๊กๆ	tuk3-tuk3	Tooktook, three wheel taxi
+มอเตอร์ไซค์	mOOtYYsay	motorbike
+จักรยาน	cak1krayaan	bicycle
+เครื่องบิน	khrWang2-bin	aeroplane
+เรือ	rWa	boat, ship
+ฝน	fon4	rain
+หิมะ	hi?1ma?3	snow
+ต้นไม้	ton2-maay3	tree, plant
+ต้น	ton2	stem, beginning, plant
+ไม้	maay3	wood
+ภูเขา	phuu-khaw4	hill, mountain
+ทะเล	tha?3lee	sea
+แม่น้ำ	mEE2-naam3	river
+ลม	lom	wind
+ดิสโก้	dis3koo2	discotheque
+คาราโอเกะ	khaaraa?ooke?1	Karaoke
+สาย	saay4	line
+จริง	cing	true
+เด็ก	dek1	child
+ตอบ	tOOp1	answer
+ถาม	thaam4	ask
+ที่	thii2	portion
+น้อง	nOOng3	younger brother/sister
+ผู้	phuu2	person
+พี่	phii2	older brother/sister
+รอ	rOO	wait
+เรียก	riak2	call
+สับ	sap1	chop, mince
+หญิง	ying4	female, woman
+ชาย	chaay	male, man
+หมู	muu4	pork, pig
+บ้าง	baang2	some	pl of wh-questions
+พัก	phak3	rest, stay/live	temporarily
+ขอ	khOO4	ask for, beg
+แขก	khEEk1	guest, visitor; Indian, Moslem
+อย่างนั้น, ยังงั้น	yaang1-nan3, yangngan3	thus, like that
+จำ	cam	remember, keep in mind
+แน่	nEE2	sure
+เปล่า	plaaw1	empty; no, not; or not?
+เต็ม	tem	full
+โชค	chook2	luck, fortune
+
+ใคร	khray	who	
+ของใคร	khOOng4 khray	whose	
+เป็น	pen	be; be able	
+ไม่เป็น	may2 pen	cannot, unable	
+ว่ายน้ำ	waay2 naam3	swim	
+จำ	cam	remember, keep in mind	
+จำได้	cam day2	remember	
+ได้ยิน	day2-yin	hear	
+มอง	mOOng	look at	
+เห็น	hen4	see	
+รู้	ruu3	know	
+ทราบ	saap3	know 	polite
+นอน	nOOn	lie down, sleep	
+หลับ	lap1	(fall) asleep	
+เสร็จ	set1	finish	
+ง่วง	nguang2	sleepy	
+ดัง	dang	loud	
+หนวกหู	nuak1-huu4	noisy, deafening	
+เหนื่อย	nWay1	tired, exhausted	
+ทัน	than	catch up, in time	
+ออก	OOk1	(move) out	
+คิด	khit3	think	
+คิดถึง	khit3 thWng4	think of, miss	
+ถูก	thuuk1	hit; correct; cheap	
+ผิด	phit1	wrong	
+อร่อย	?rOy1	delicious	
+หวาน	waan4	sweet	
+เค็ม	khem	salty	
+เผ็ด	phet1	(spicy) hot	
+จืด	cWWt1	bland	
+เปรี้ยว	priaw2	sour	
+
+ตา	taa	eye	
+หู	huu4	ear	
+จมูก	cEmuuk1	nose	
+ปาก	paak1	mouth	
+ฟัน	fan	tooth	
+ลิ้น	lin3	tongue	
+หนวด	nuEt1	mustache, beard	
+เครา	khraw	beard	
+ลักยิ้ม	lak3-yim3	dimple	
+คิ้ว	khiw3	eyebrow	
+ผม	phom4	hair	on head
+ขน	khon4	hair, feather	on body
+ขนตา	khon4-taa	eyelash	
+หัว	huə4	head	
+หน้า	naa2	face	
+หน้าผาก	naa2-phaak1	forehead	
+หลัง	lang4	back	
+คอ	khOO	neck, throat	
+ท้อง	thOOng3	stomach	
+สะดือ	sEdWW	navel	
+หัวใจ	huE4-cay	heart	anatomical + emotional
+นม	nom	breast, milk	
+อก	?ok1	chest	
+มือ	mWW	hand	
+นิ้ว	niw3	finger, toe	
+เล็บ	lep3	nail	
+แขน	khEEn4	arm	
+ขา	khaa4	leg	
+หัวเข่า	huE4-khaw1	knee	
+เท้า	thaaw3	foot	
+ไฝ	fay4	mole	
+สิว	siw4	pimple	
+น้ำตา	nam3-taa	tears	
+สมอง	sEmOOng4	brain	
+ตับ	tap1	liver	
+ไต	tay	kidney	
+ไส้	say2	intestine	
+พุง	phung	belly	
+กระดูก	krEduuk1	bone	
+ตัว	tuE	body, self	cl for animals, letters, clothes, etc.
+ใส่	say1	put (on, in)	
+ถอด	thOOt1	take off, pull out	
+แต่ง	tEEng1	adorn, decorate	
+ปวด	puEt1	ache (internal)	v.
+เจ็บ	cep1	ache (surface)	v.
+เป็น	pen	have (an illness)	
+หวัด	wat1	cold	n.
+ตัด	tat1	cut	
+โกน	koon	shave	
+ล้าง	laang3	wash, rinse	
+สระ	sa?1	wash	only used with ผม
+อาบน้ำ	?aap1-naam3	take a bath/shower	
+ซัก	sak3	wash	clothes
+ผ้า	phaa2	cloth, clothes	
+แปรง	prEEng	brush	n. and v.
+แปรงสีฟัน	prEEng-sii4-fan	toothbrush	
+ยา	yaa	medicine, chemical	
+ยาสีฟัน	yaa-sii4-fan	toothpaste	
+สบู่	sEbuu1	soap	
+แฟ้บ	fEp3	detergent	brandname Fab
+ผง	phong4	powder	
+ฟอก	fOOk2	cleanse, purify	
+ผงซักฟอก	phong4-sak3-fOOk2	detergent	
+หมวก	muEk1	hat	
+เสื้อ	sWE2	shirt, blouse	
+ยืด	yWWt2	elastic	
+นอก	nOOk2	outside	
+ยาว	yaaw	long	spatial
+สั้น	san2	short	temporal and spatial
+เข็มขัด	khem4-khat1	belt	
+เข็มกลัด	khem4-klat1	pin, brooch	
+รอง	rOOng	support, put under	v. and n.
+รองเท้า	rOOng-thaaw3	shoe	
+ถุง	thung4	bag	
+ถุงเท้า	thung4-thaaw3	sock	
+ถุงมือ	thung4-mWW	glove	
+น่อง	nOng2	thigh	
+ถุงน่อง	thung4-nOng2	stocking, panty hose	
+กระโปรง	krEproong	skirt	
+กางเกง	kaangkeeng	trousers	
+ตุ้มหู	tum2-huu4	earring	
+แหวน	wEEn4	ring	
+กำไล	kamlay	bracelet	
+สร้อย	sOy2	necklace	
+โบว์	boo	ribbon, bow	
+ละ	la?3	per	after cl or noun
+ครั้ง	khrang3	time	dt. Mal
+
+สวน	suan4	park, garden	
+สัตว์	sat1	animal, living being	
+สวนสัตว์	suan4-sat1	zoo	
+อายุ	?aayu?3	age, be ... old	
+บริษัท	bOOri?3sat1	company, firm	
+ทำไม	thammay	why	from ทำอะไร
+เพราะ	phrO?3	because, because of	
+ถ้า	thaa2	if	
+แต่งงาน	tEng1-ngaan	get married	
+โสด	soot1	unmarried, single	
+รัก	rak3	love	
+ทั้ง	thang3	all (of )..., the whole ...	INCLUSIVE marker
+ผู้	phuu2	person	
+ลูก	luuk2	child, son, daughter	
+ครอบครัว	khrOOp2khrua	family	
+สาว	saaw4	young woman, virgin	
+ชาย	chaay	man, male	human only
+หญิง	ying4	woman, female	human only
+สามี	saa4mii	husband	formal
+ภรรยา	phanrayaa	wife	[พันระยา] formal
+ผัว	phua4	husband	informal
+เมีย	mia	wife	informal
+พ่อ	phOO2	father	
+แม่	mEE2	mother	
+พี่	phii2	older brother/sister	
+น้อง	nOOng3	younger brother/sister	
+ปู่	puu1	grandfather	father's father
+ย่า	yaa2	grandmother	father's mother
+ตา	taa	grandfather	mother's father
+ยาย	yaay	grandmother	mother's mother
+ลุง	lung	uncle	พี่ชาย of father or mother
+ป้า	paa2	aunt	พี่สาว of father or mother
+น้า	naa3	aunt, uncle	น้อง of mother
+อา	?aa	aunt, uncle	พี่ of father
+อาจารย์	?aacaan	teacher	highschool
+อาชีพ	?aachiip2	profession, occupation	
+ครู	khruu	teacher	primary school
+หมอ	mOO4	doctor	
+ฟัน	fan	tooth	
+นัก-	nak3	professional	PREFIX
+ธุรกิจ	thu?3ra?3kit1	business	
+ศึกษา	sWk1saa4	study	university level
+บิน	bin	fly	
+ร้อง	rOOng3	sing	
+สืบ	sWWp1	investigate	
+แบบ	bEEp1	kind, pattern, design	
+ออกแบบ	?OOk1bEEp1	design	v.
+ข้า	khaa2	servant	
+ราชการ	raat2chakaan	public affairs	
+ข้าราชการ	khaa2-raat2chakaan	government official	
+วิศวกร	wit3sawa?3kOOn	engineer	
+ตำรวจ	tamruat1	police	
+ทหาร	thahaan4	soldier	
+พยาบาล	phayaabaan	nurse	
+ช่าง	chang2	mechanic, handy man	
+ชาว	chaaw	person	member of specific group
+นา	naa	rice field	
+ชาวนา	chaaw-naa	farmer	
+พระ	phra?3	monk, Buddha, amulet	
+เลขา	leekhaa4	secretary	
+แม่บ้าน	mEE2-baan2	housewife	
+แม่ค้า	mEE2-khaa3	merchant	f.
+พ่อค้า	phOO2-khaa3	merchant	m.
+ลูกค้า	luuk2-khaa3	customer	
+ดารา	daaraa	star, celebrity	
+เจ้า	caaw2	lord, master	
+เจ้าของ	caaw2-khOOng4	owner	
+ส่วน	suan1	part	
+ส่วนตัว	suan1-tua	private	
+โจร	coon	bandit	
+ขโมย	khamooy	thief, steal	n. and v.
+เลี้ยง	liang3	nurture, raise	
+สัตว์เลี้ยง	sat1-liang3	pet animal	
+ตัวผู้	tua-phuu2	male	animal
+ตัวเมีย	tua-mia	female	animal
+หมา	maa4	dog	
+แมว	mEEw	cat	
+หมู	muu4	pig, pork	
+เป็ด	pet1	duck	
+ไก่	kay1	chicken	
+ช้าง	chaang3	elephant	
+ม้า	maa3	horse	
+วัว	wua	cow, ox	
+ควาย	khwaay	water buffalo	
+ปู	puu	crab	
+ปลา	plaa	fish	
+หอย	hOOy4	shell, oyster, snail	
+กุ้ง	kung2	shrimp	
+นก	nok3	bird	
+ลิง	ling	monkey	
+หนู	nuu4	rat, mouse	
+งู	nguu	snake	
+เสือ	sWa4	tiger	
+สิงโต	sing4too	lion	
+จระเข้	cOOrakhee2	crocodile	[จอระเข้]
+เต่า	taw1	turtle, tortoise	
+จิงโจ้	cingcoo2	kangaroo	
+แพะ	phE?3	goat	
+แกะ	kE?1	sheep	
+หมี	mii4	bear	n.
+อูฐ	?uut1	camel	
+ค้างคาว	khaang3khaaw	bat	
+ม้าลาย	maa3-laay	zebra	
+หมาป่า	maa4-paa1	wolf	
+ป่า	paa1	forest, wild	
+หมาจิ้งจอก	maa4-cing2cOOk1	fox	
+ผี	phii4	ghost	
+ผีเสื้อ	phii4-sWa2	butterfly	
+มด	mot3	ant	
+ยุง	yung	mosquito	
+แมลง	malEEng	insect	
+แมลงวัน	malEEng-wan	fly	n.
+
+กว่า	kwaa1	more than	
+ที่สุด	thii2-sut1	most	
+แต่	tEE1	but, only	
+เล็ก	lek3	small	v.
+ใหญ่	yay1	big	v.
+อ้วน	?uan2	fat	v. (people, animals)
+ผอม	phOOm4	thin, lean	v. (people, animals)
+หนา	naa4	thick	v. (things)
+บาง	baang	thin	v. (things)
+สูง	suung4	high, tall	v.
+เตี้ย	tia2	short, not tall	v.
+ต่ำ	tam1	low	v.
+ยาว	yaaw	long	v.
+สั้น	san2	short, not long	v.
+หนัก	nak1	heavy	v.
+เบา	baw	light, not heavy	v.
+กว้าง	kwaang2	wide, broad	v.
+แคบ	khEEp2	narrow	v.
+ร้อน	rOOn3	hot	v.
+หนาว	naaw4	cold, feel cold	v.
+เย็น	yen	cool	v.
+มาก	maak2	much, very	v.
+เยอะ	yY?3	many, a lot	v.
+น้อย	nOOy3	few, a little	v.
+แก่	kEE1	old (age)	v.
+ใหม่	may1	new	v.
+เก่า	kaw1	old, former	v.
+แข็ง	khEng4	hard	v.
+แรง	rEEng	strength, strong	n., v.
+แข็งแรง	khEng4-rEEng	strong	v.
+อ่อน	?On1	soft, young	v.
+อ่อนแอ	?On1-?EE	weak	v.
+ฉลาด	chalaat1	clever	v.
+โง่	ngoo2	stupid	v.
+สว่าง	sawaang1	bright, light	v.
+มืด	mWWt2	dark	v.
+ไกล	klay	far	v.
+ใกล้	klay2	near	v.
+อันตราย	?antaraay	danger(ous)	n., v.
+ปลอด	plOOt1	free from	v.
+ภัย	phay	danger	n.
+ปลอดภัย	plOOt1-phay	safe	
+น่า-	naa2-	good for -, -able	PREFIX
+กลัว	klua	be afraid, fear	
+สนใจ	son4-cay	interested	v.
+เบื่อ	bWa1	bored	v.
+สะดวก	saduak1	convenient	v.
+สะอาด	sa?aat1	be clean	v.
+สกปรก	sok1kaprok1	dirty	v.
+ยุ่ง	yung2	busy	v.
+ว่าง	waang2	free, empty	v.
+ขยัน	khayan4	diligent	v.
+ขี้-	khii2-	do in excess	PREFIX
+ขี้เกียจ	khii2-kiat1	lazy	v.
+รวย	ruay	rich	v.
+จน	con	poor, not rich	v.
+สวย	suay4	beautiful	v. (females, things)
+น่ารัก	naa2-rak3	lovely	v.
+หล่อ	lOO1	handsome	v. (males)
+รูปหล่อ	ruup2-lOO1	handsome	v. (males)
+ดัง	dang	loud, famous	v.
+มีชื่อเสียง	mii chWW2-siang4	famous	v.
+สำคัญ	sam4khan	important	v.
+พิเศษ	phi?3seet1	special	v.
+เหนียว	niaw4	sticky	v.
+ขี้เหนียว	khii2-niaw4	stingy	v.
+ดีใจ	dii-cay	glad	v.
+ใจดี	cay-dii	kind	v.
+ใจกว้าง	cay-kwaang2	generous	v.
+ใจเย็น	cay-yen	calm	v.
+ใจร้อน	cay-rOOn3	impatient	v.
+เลว	leew	bad, mean	v.
+เงียบ	ngiap2	quiet	v.
+ขอ	khOO4	ask for	
+เกลียด	kliat1	hate	
+โกหก	koohok1	(tell a) lie	v.
+โลก	look2	world	
+ราคา	raakhaa	price	
+กัน	kan	together, each other	PL marker on verbs
+เหมือน	mWan4	same	v.
+คล้าย	khlaay3	similar	v.
+หน้า	naa2	page	
+ตัวหนังสือ	tua-nang4sWW4	letter (alphabet)	
+ตุ๊กตา	tuk3kataa	doll	
+บุหรี่	bu?1rii1	cigarette	
+นิตยสาร	nit3tayasaan4	magazine	
+มีด	miit2	knife	
+เทียน	thian	candle	
+เข็ม	khem4	needle	
+อม	?om	keep in mouth	
+ลูกอม	luuk2-?om	candy	
+เขี่ย	khia1	brush, scrape off	
+ที่เขี่ยบุหรี่	thii2-khia1-bu?1rii1	ashtary	
+แก้ว	kEEw2	glass	
+ถ้วย	thuay2	cup	
+ผล	phon4	fruit	
+ผลไม้	phon4lamaay4	fruit (general)	
+กล้วย	kluay2	banana	
+ทุเรียน	thu?3rian	durian	
+มะม่วง	ma?3muang2	mango	
+มังคุด	mangkhut3	mangosteen	
+เงาะ	ngO?3	rambutan	
+ลำไย	lamyay	longan	
+มะละกอ	ma?3la?3kOO	papaya	
+ชมพู่	chomphuu2	rose apple	
+สับปะรด	sap1parot3	pineapple	
+ส้ม	som2	orange	
+ส้มโอ	som2-?oo	pomelo	
+ขนุน	khanun4	jackfruit	
+มะพร้าว	ma?3phraaw3	coconut	
+แตงโม	tEEng-moo	water melon	
+ดอก	dOOk1	blossom	cl for flowers, keys
+ดอกไม้	dOOk1-maay3	flower	
+กุหลาบ	ku?1laap1	rose	
+กล้วยไม้	kluay2-maay3	orchid	
+จาน	caan	plate, dish	
+ขวด	khuat1	bottle	
+กล่อง	klOng1	box	
+ไข่	khay1	egg	
+ผัด	phat1	fry	
+จดหมาย	cot1-maay4	letter	
+เอกสาร	?eek1kasaan4	document	
+ตู้	tuu2	cupboard, closet	
+ช้อน	chOOn3	spoon	
+ส้อม	sOm2	fork	
+ร่ม	rom2	umbrella	
+ตึก	tWk1	building	
+ขนมปัง	khanom4-pang	bread	
+เนื้อ	nWa3	meat, beef	
+คุกกี้	khuk3kii2	cookie	
+ชั้น	chan3	grade, floor, shelf, level	
+ขนิด	chanit3	kind, species	
+น้ำตาล	nam3-taan	sugar	
+เกลือ	klWa	salt	
+ดาว	daaw	star	
+แสตมป์	satEm	stamp	
+ของขวัญ	khOOng4-khwan4	present, gift	
+ถนน	thanon4	road, street	
+คลอง	khlOOng	canal	
+เรื่อง	rWang2	story, affair	
+คน	khon	human	CL for humans
+ตัว	tua	body	CL for animals, clothes, furniture, letters, etc.
+เล่ม	lem2		CL for books, candles, knives
+อัน	?an		CL for small, unclassified things
+ใบ	bay		CL for round, hollow objects
+แผ่น	phEn1		CL for leaves, sheets
+ลูก	luuk2		CL for round objects
+ฉบับ	chabap1		CL for documents
+เครื่อง	khrWang2		CL for machines and equipment
+ลำ	lam		CL for boats, ships, aeroplanes
+คัน	khan		CL for vehicles, spoons, forks
+หลัง	lang4		CL for buildings
+ชิ้น	chin3	piece	
+ก้อน	kOOn2	lump	CL for lumps of solid masses
+ด้าม	daam2		CL for ballpens
+แท่ง	thEng2		CL for pencils, chocolate bars
+เส้น	sen2		CL for long, thin objects
+ม้วน	muan3		CL for tapes, film, toilet paper
+ดวง	duang		CL for stars, lights, stamps
+เรือน	rWan	house	CL for watches and clocks
+ห่อ	hOO1	wrap	CL for packs, bags
+สาย	saay4		CL for roads, rivers
+คู่	khuu2	pair	
+ชุด	chut3	set	n.
+ต้น	ton2	origin, beginning	CL for plants

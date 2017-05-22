@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<items>
+    <vocabulary id="hng_new">
+        <name>Hannig</name>
+        <description>Hannig Grundwortschatz Ägyptisch</description>
+        <mapping>
+            <col id="eg" name="Egyptisch" script="egy"/>
+            <col id="eg_tr" name="Egyptisch Transkription"/>
+            <col id="de" name="Deutsch" script="de"/>
+        </mapping>
+	<src src="hng.txt" enc="latin1" class="ch.unizh.ori.nabu.voc.EmptyLineSource"/>
+	<modes>
+	    <mode id="1" short="eg=eg_tr=?de"/>
+	</modes>
+    </vocabulary>
+</items>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="ja.wiki">
+        <name>Japanisch</name>
+        <description>Japanisch Strukturwortschatz des deutschen Wikibook.</description>
+        <mapping>
+	
+	
+            <col id="ja" name="Japanisch Hepburn"/>
+	
+	
+            <col id="ja2" name="Japanisch 2"/>
+	
+	
+            <col id="de" name="Deutsch" script="de"/>
+	
+	
+            <col id="type" name="Wortart"/>
+	
+	
+            <col id="kana" name="Katakana"/>
+	
+	
+            <col id="kanji" name="Kanji"/>
+	
+        </mapping>
+	<src src="ja.wiki.txt" enc="UTF-8"
+		
+		
+	/>
+	
+	<modes>
+	
+	
+	    <mode id="0" short="ja=?de"/>
+	
+	
+	    <mode id="1" short="ja=kana=kanji=type=?de"/>
+	
+	
+	    <mode id="2" short="kana=kanji=?de"/>
+	
+	
+	    <mode id="3" short="de=?ja"/>
+	
+	</modes>
+    </vocabulary>
+</items>
+

@@ -1,0 +1,339 @@
+A-t-F3:hrw	At	Zeit, Zeitdauer; Augenblick, Moment
+	m km n At	in einem Augenblick
+A-t-F9	At	Aktion; beim Handeln, Handeln
+m-A-W-Z6	m Aw	tot, verstorben
+Aw-w-Y1v	Aw (Awjw)	Länge, Ausdehnung	(räumlich, zeitlich)
+Aw-w-t:Y1-,-Aw-W-Y1v	Awt	Länge, Spanne, Dauer
+Aw-w-Y1	Awj	lang, weit
+Aw-w-i-i-A24	Awj	reichen; ausgeben; ausstrecken
+Aw-w-t-X4:3	Awt	Geschenk, Gabe; Opfer
+Aw-t-ib	Awt-jb	Freude, in Freude, Fröhlichkeit
+Aw-w:t-a:Z1-Y1:3	Awt-a	Geschenk, Gabe
+Ab-b	Abj (jAb)	aufhören, anhalten; vermeiden
+Ab-b-w-D54	Abw (Abjw)	Aufhören, Halt
+Ab-b-A2	Abj	wünschen, begehren
+Ab-b-t-A1-B1-3	Abt	Anerbensippe, Grosssippe
+Ab-b-w-E26	Abw	Elephant
+Ab-b-x:Z9	Abx	mischen, vermischen; sich gesellen
+Abd:sbA-d	Abd	Monat; Monatsdienst
+A-p:d-zA	Apd	Vogel; pl. Geflügel
+A-f:a-E28	Afa	gierig, unersättlich
+A-m-Q7	Am	brennen, verbrennen
+A-mi-i-A24	Amj	mischen
+A-m-m-D49	Amm	verdrängen; fassen, packen
+A-r:Ar	Ar (Ajr)	verdrängen; vertreiben, unterdrücken
+A-h-w-G37	Ahw (jh)	Leiden; Kummer; Elend
+A-H-t:N23-,-H-A-t:N23	AHt	Acker; Ackererde
+Ax-x	Ax	nützlich, brauchbar; verklärt, selig
+Ax-Z1	Ax (jAx)	Ach, Verklärter; würdiger Toter; Dämon
+Ax-x-w-Z3	Axw	Zauberkraft; zauberkräftige Sprüche; nützliche Kenntnis; Verklärtheit
+Ax-x:t-Y1:3	Axt	Nützliches, Brauchbares
+M8:x*t	Axt	Achet-Jahreszeit
+Axt:t*pr	Axt	Horizont; Grab	Grab des Königs
+A-s-V2:D54	As	eilen, sich beeilen; antreiben; einholen
+A-s-x-T30	Asx	sicheln, absicheln, ernten, mähen, abmähen
+A-S:r-Q7	ASr	grillen, backen
+A-q:G37	Aq	umkommen, zugrunde gehen; schwinden, vergehen
+A-t:f-w-Atf	Atfw (Atf)	Atef-Krone
+A-T:p-A9	ATp (Atp)	laden, beladen
+A-T:p-w-A9	ATpw (Atpw)	Last, Fracht
+A-d:I3	Ad	wütend; toben
+
+i	j	sagen
+i-A-t-F37B	jAt	Rückgrat, Rücken
+i-A-t:R12	jAt	Standarte
+i-A-t:iAt	jAt	Stätte, Hügel, bewohnter Hügel; Tell; zerstörter Ort
+i-A-w-A19	jAwj	alt, bejahrt
+i-A-w-t-A19	jAwt	hohes Alter, Bejahrtheit
+i-A-w-t-O44	jAwt (jAt)	Beruf, Amt; Aufgabe
+iAb-b-y:a	jAbj	links, linke Seite; östlich, Osten
+iAb-b-t*t:xAst	jAbtt	Osten
+i-A-r-w-Hn:3	jArw	'Binsen'
+i-A-r:r-t-M43	jArrt	Weintraube
+i-A-q:t-Hn:3	jAqt	Lauch; Gemüse
+i-A-d:t-A14	jAdt	Plage, Seuche; Elend; Katastrophe
+i-A-d:t-idt	jAdt	Tau, Dunst
+i-A-d:t-T90	jAdt	Netz
+ii-,-ii-i-D54-;-D54-w	jj; jwj	kommen; zurückkehren; künftig geschehen
+ii-i-i-t-G37	jyt	Kommendes; Unheil
+i-a:mw	jaj	waschen, reinigen
+i-a-w-mw-r:Z1	jaw-rA	Frühstück
+i-a:iab-b	jab (abj)	vereinigen, sich vereinigen; sich gesellen; übergeben
+i-a:n-?	jan	Pavian
+i-a:n-nw:w-A2	janw	Wehe	Weheruf
+i-a:r-N31	jar	aufsteigen
+i-a:r-t-I12	jart	Uräus-Schlange
+i-a-H-N12	jaH	Mond
+iw:Z1*N23	jw	Insel
+E9-w-E14	jw	Hund
+E9-w-G37	jw	Ungerechtigkeit, Sünde; Leid, Unglück; Fehl
+E9-w-i-i-t-G37:3	jwyt	Böses, Sünde
+i-wA-A-E1	jwA	Langhornrind
+E9:a-iwa	jwa	Schenkel, verzehrbarer Schenkel
+E9:a-iwa	jwa	erben; beschenken
+E9:a-w-iwa-A1	jwaw	der Erbe
+E9:a-t-iwa-Y1:3	jwat	das Erbe, Erbschaft
+i-f:F51	jwf	Fleisch; Körper, Leib
+i-w-ms-s-A2	jwms (jw-ms)	aufgestellte Behauptung
+i-wn:n-Sny	jwn	Farbe; Charakter, Wesen
+iwn-Z1	jwn	Pfeiler, Säule; Stütze
+iwn-iwn-iwn-t:pr	jwnyt	Pfeilersaal
+E9-w-wr:r-B2	jwr	schwanger, empfangen
+E9-W-h-D41:D40	jwh	beladen
+E9-w-H-mw	jwH	befeuchten, bewässern
+E9-w-sw-w-xt	jwsw	Waage, Handwaage
+D35-w-t-sw-w	jwtj-sw	Besitzloser, Habenichts
+E9-t:n-N21-Z1	jwtn	Boden, Erde; Fussboden; Grundstück
+E9-w-d:D54	jwd	trennen, sich trennen, scheiden
+ib:Z1	jb	Herz; Verstand, Meinung; Wille; Gemüt; Mittelpunkt
+i-b-E3-A2	jb	wünschen; denken; fühlen
+i-b-E3-t:mw	jbt	Durst
+i-b-bA-A32	jbA	tanzen
+i-b-H-F18:Z1	jbH	Zahn
+i-p:Y1	jp	zählen, rechnen, berechnen; zuweisen; untersuchen; achten
+i-p:t-Y1v	jpt	Zählung, Abrechnung; Zahl, Quote
+i-p:t-U9	jpt	Oipe, Scheffel	Hohlmass = 19.2 l
+i-p:t-ipt	jpAt (jpt)	Privaträume, Harem
+i-im-m-A2	jm	klagen, wehklagen, jammern
+i-im-m-A2-3	jmw	Wehgeschrei, Klageruf
+i-i-G20-mw-N36:N23	ym	Meer, die See
+imi-wr:r-t	jmj-wrt	Steuerbord; Westseite; Totenreich; rechte Seite
+imi-m:t-Y1:3-pr:Z1	jmt-pr	Testament, Hausurkunde
+m:r-,-ns	jmj-rA (mr)	Vorsteher
+ns-A-H-t:N23-3	jmj-rA AHt	Vorsteher der Ackerverwaltung
+ns-E1-3	jmj-rA jHw	Rindervorsteher
+ns-P1-3	jmj-rA aHaw	Flottenkommandant
+ns:a-Xn-nw:t-pr	jmj-rA a-Xnwtj	Seneschall, Kanzler, Hofkanzler
+m:r-wp-p:t-Y2	jmj-rA jpwt (jmj-rA wpwt)	Vorsteher der Aufträge
+m:r-pr	jmj-rA pr	Haushofmeister; Vermögensverwalter
+	jmj-rA pr wr	Oberhaushofmeister, Obervermögenverwalter
+m:r-mSa	jmj-rA mSa	General, Feldherr, Expeditionsleiter
+ns-niwt:t*Z1	jmj-rA njwt	Stadtvorsteher
+ns-nTr-Hm-Z1-Z3	jmj-rA Hmw-nTr	Priestervorsteher
+ns-xtm-t	jmj-rA xtmt (sDAwt)	Hofkämmerer, 'Schatzmeister'
+m:r-Y3	jmj-rA sXAw	Schreibervorsteher
+ns-Snwt-Snwt	jmj-rA Snwtj	Scheunenvorsteher
+m-r-kA:t-A9	jmj-rA kAt	Arbeitsvorsteher
+imi-m-r:n-f-A1:3	jmj-rn=f	Namensliste
+imi-HAt:t*Z1	jmj-HAt	Original, Vorbild; Muster
+imi-xnt-A1-,-xnt-m	jmj-xnt	Kammerherr, Kammerdiener
+i-m-im:D38-,-i-m-m:a	jmj	gib!, setze!; veranlasse!
+i-im-m-w-P1	jmw	Imu-Schiff
+i-mA-M1	imA (iAm)	angenehm; gütig, wohlgesinnt
+i-mA-m-t-iAm-Y1v	jmAt (jAmt)	Freundlichkeit, Liebenswürdigkeit; Beliebtheit
+i-imAx:x	jmAx	versorgt; würdig
+i-mA-x-imAx:Z1	jmAx	Jenseitsversorgtheit; Ehrwürdigkeit
+i-mA-imAx:x-w	jmAxw	Ehrwürdiger, Versorgter
+i-mn:n-A4	jmn	verborgen, verstecken; seltsam, selten
+imnt-t:xAst-,-i-mn:n-t:xAst	jmnt	rechte Seite; Westen; Totenreich; Westwüste, Nekropole
+imnt-t:y-xAst	jmntj	westlich
+R13-tyw	jmntjw	die Westlichen, die Toten
+imnt-t*t:xAst	jmntt	Westen; Totenreich; Nekropole
+ini:n	jnj	holen, herbeibringen; wegholen; entfernen; einführen in; kaufen; mieten, ausleihen; an sich bringen; gebrauchen
+	jnj r jsw	kaufen
+	jnj Hr/r-DbA	kaufen
+	jnj m	verkaufen
+ini-nw:3	jnw	Gaben, Lieferungen; Abgaben, Tribute; Produkte
+i-in:n-t:xAst	jnt	Tal
+i-in:n-b-inb	jnb	Mauer; Wand; Befestigungsmauer, Umfassungsmauer
+i-in:n-nm-m-F27	jnm	Haut; Fell, Leder; Hautfarbe, Färbung
+i-n:r-S	jnr	Stein; Steinblock; Fels; Gewicht, Gewichtsstein
+i-in:n-H-D13:D13	jnHwj	Augenbrauen
+i-in:n-q:D40	jnq	umfassen; umarmen; sammeln
+i-r:y-A48	jrj	Gefährte, Kamerad; Beauftragter, Verantwortlicher
+sw:t-r:x-,-sw:x	jrj-jxt-nsw	Sachverwalter
+A48-a:t*pr	jrj-at	Magazinverwalter
+A48-O31	jrj-aA	Pförtner, Türwächter
+r:p:a	jrj-pat (rpat)	Iripat, Prinzregent
+r:p-a:t*t	jrt-pat (rpatt)	Iretpat, Regentin
+O48-A48	jrj-nxn	Hüter von Nechen
+i-r:t-A48-Y1v	jrt (jrjt)	Pflicht, Aufgabe
+ir:t*Z1	jrt	Auge; Sicht
+ir:ir	jrtjwj (mrtj, brtj)	die beiden Augen
+ir	jrj	machen, handeln; anfertigen, herstellen; bereiten; erschaffen; erwerben; erreichen; Zeit verbringen
+	jry	ja, ich tue es
+i-ir-w-A53-Z1	jrw	Geschöpf, Geschaffenes; Gestalt
+i-r:p-nw:3	jrp	Wein
+i-r:T-t-?	jrTt	Milch
+i-h-A28-i-i	jhy (yhy)	Jauchzen, Freude, Freudenruf
+i-h:h-i-i-A2	jhhy	Jauchzen, Freude, Jubel
+i-H-F1	jH	Rind
+i-H-w-pr	jHw	Pferdestall
+x*t:Y1	jxt (xt)	Sache, Habe; Ware
+nTr-x*t:Y1-Z3	jxt-nTr	Tempelgut; Ritual, heilige Handlung; Opferdienst
+i-x-m-w-D35:3-wr:r-D:sbA-A40-Z3	jxmw-wrD	Nicht-Zirkumpolarsterne
+i-x-m-w-D35:3-s-k:sbA	jxmw-sk	Zirkumpolarsterne
+i-zb	js (jz)	gehe!, eile!
+i-iz-z:pr	js (jz)	Mastaba, Grab, Felsgrab
+i-iz-z:pr	js (jz)	Kammer, Amt, Archiv; Werkstatt
+iz-t:Z1-A1:3	jst (jzt)	Truppe, Mannschaft; Bande; Crew
+i-iz-z:Hn	jsj (jzj)	leicht, unbedeutend
+i-iz-s-Hn-Y1v	js (jz)	alt; gebraucht; bisherig
+i-s-w-t:Hn	jswt (jzwt)	Altes; alte Generation; alter Brauch; alte Schrift; alte Zeit
+isw-w	jsw	Entgelt
+i-s-f:t-G37	jsft (jzft)	Sünde, Unrecht; Empörung; Ungeordnetes, Chaos
+i-s-q:D54	jsq	hindern, zurückhalten; zögern, verweilen
+i-S:d-iAm	jSd	Laubbaum
+i-q:r	jqr	vorzüglich, ausgezeichnet; fähig, leistungsfähig; beliebt
+i-t:f-A1-,-t:f	jt (jtj)	Vater; Ahnherr; Lehrer
+nTr-t	jt-nTr	Gottesvater
+it-,-i-t-M33	jt	Gerste; Getreide
+i-ti-i-i-A22-,-mzH:mzH	jty	Monarch, Landesherr
+i-t:n-ra	jtn	Sonnenscheibe; Scheibe
+i-t:n-fnd-A24	jtn	im Widerspruch sein; sich widersetzen
+i-t:n-nw:W-A24	jtnw	Widersacher
+i-t:n-nw-w-fnd-Y1v	jtnw	Problem; Schwierigkeit
+i-t:r-w-mw-N36	jtrw	Strom, Fluss; Nil
+i-t:r-t:pr	jtrt	Kapellenreihe; Reihe
+i-t-H-A24	jtH	ziehen; schleppen; transportieren
+i-t-H-U31-pr	jtHw	Fort, Kastell; Gefängnis
+iTi-A24	jTj	nehmen, packen; rauben; verbringen; mitnehmen, führen; ziehen, einziehen
+i-TA-A-A24	jTA	nehmen, fortnehmen; fortführen; stehlen; konfiszieren
+i-TA-A-A24-A1	jTA (jTAy)	Dieb, Räuber
+i-d-Xrd	jd	Junge
+i-d:t-idt	jdt	Weihrauchduft; Parfüm
+i-d-b-idb	jdb	Rand; Ufer
+sDm-n:nw*w	jdnw	Stellvertreter, stellvertretener Leiter
+i-d-H-w-N23	jdHw	Sumpfgebiete des Deltas, Deltamarschen
+
+a:Z1	a	Arm; Pfote, Klaue
+a:Z1	a	Gegend, Distrikt; Parzelle; Seite; Stelle
+a:Z1-,-a:Z1-W:y-D54	a	Zustand, Befinden
+a:Z1	a	Stück, Portion; Paar
+a-,-arq:Z1	a	Schriftstück, Urkunde; Register; Rechtstitel
+a:t*pr	at	Raum; Abteilung; Wohnhaus
+a:t-F51	at	Glied, Körperglied
+a:Xn-nw:W-ti-t:y-pt	a-Xnwtj (aXnwtj)	Kabinett; Kanzlei, Hofkanzlei
+aA:a-A	aA	gross; hoch; zahlreich; reich; erhaben; älter
+aAv-A-Y1v-A1	aA	Grosser; Vornehmer, Angesehener; Aelterer
+aA:a-A-t:Y1	aAt	Grosses
+aA:O31	aA	Türflügel, Tür
+aA:mt-E7	aA (jaA)	Esel
+aA:t-N33	aAt	kostbarer Stein, wertvolle Mineralien
+a:S25-,-A-a:a-F18-T14-A2	aAw (Aaa, aw)	Dolmetscher; Ausländer, Fremdsprachiger; Söldner
+aA:a-A-b-M43-Y1	aAb	wünschenswert, angenehm, wohlgefällig; selbstsüchtig
+aA:a-A-b-t-?-X4:3	aAbt	Hekatombe, Festopfer
+T14-m-A1	aAm	Asiat, Semit, Kanaaniter
+HqA-w:t-E3-Z3-,-T14-w:t-E1-Z3	awt	Kleinvieh; Wild; Ziegen
+a:wA-A-A24	awAj	rauben, plündern; Böses antun, berauben
+a-wn:n-A24	awn	gierig, habgierig; betrügen; schädigen, plündern
+a-wn:n-A24-ib:Z1	awn-jb	habgierig, neidisch
+a-b-db	ab	Horn, Stachel; Bogen
+a-b-F17-A2-,-a-wab-w	abw	Unreinheit; Sündhaftigkeit; Unreines
+a-b-w-F17	abw	Reinheit, Reinigung, Reinigungsmittel; Reinigungszeremonie
+a-b-bA-S	abA	Opferstein, Stele; Altar
+a-b-a-A2	aba (ab)	prahlen, sich rühmen
+a-b-a-A2	aba	Prahlerei, Uebertreibung
+apr-r-Y1v	apr	ausstatten, versehen; bemannen; ausgestattet
+apr-r-w-Y1:3	aprw	Ausstattung
+apr-r-w-N33A	aprw	Schmuck, Schmuckstücke
+apr-r-w-A1:3	aprw	Schiffsmannschaft; Arbeitsmannschaft
+a:f-f-zA	aff	Fliege
+a:f-n:t-?	afnt	Kopftuch
+a:f-t:y-A36-,-A37-t:y	aftj	Brauer
+a:f-D:t-?	afDt (afdt)	Kasten
+a-m-F10-A2	am	schlucken; verschlingen
+a:im-F10-A2-,-a-mA-A-m-D6	am (amA)	wissen, erfahren, erkennen, verstehen
+D51:t*Z1-,-a:n-t:D51	ant	Nagel; Kralle
+a:n:n-D55	ann	sich umwenden, umkehren; abwenden
+anx-n:x	anx	leben
+	anx.w wDA.w snb.w	er lebe, sei heil und gesund
+anx-,-anx-n:x	anx	Leben
+	anx wAs (snb)	Leben und Glück und Gesundheit
+	anx Dd (wAs)	Leben und Dauer (und Glück)
+	anx wDA snb	(mit) Leben, Heil und Gesundheit
+anx-n:x-A1	anx	Lebender, Lebendiger; Person, Einwohner
+anx-n:x-t	anxt	Einwohnerin, Freie
+	anxt nt njwt	Städterin, Bürgerin, Stadtfreie
+anx-n:x-A2	anx	schwören
+anx-n:x-A2	anx	Eid, Schwur
+anx-Z1-N34	anx	Spiegel
+anx-anx-sDm-sDm	anxwj	die Ohren
+anx-n:x-t-E31	anxt	Ziege; Kleinvieh
+a:n-tyw-nw:3	antjw	Myrrhenharz; Myrrhe
+a:n-d:G37	anD (and)	wenig; mangelhaft; verringert
+a:r-Hn	ar	Binse; Schreibbinse
+a:r-t:Hn	art (awrt)	Buchrolle, Liste
+a:r:f-sSr	arf	Beutel, Säckchen
+a:r:f-Ss	arf	einpacken, umschliessen, eingepackt; enthalten
+a:r:r-w-t-O38-,-a:r:r-i-i-t:pr	arrt (arrwt, aryt)	Areret, Torgebäude mit Wachgängen
+a:r-q-arq:Y1	arq	krümmen
+a:r-q-arq:Y1	arq	vollenden; verfertigen
+arq:q-i-i-ra-,-?-i-i	arqy	letzter Monatstag, Ultimo
+a:r-q-arq	arq	klug, verständig; erfahren
+arq:q-A2	arq	schwören; beschwören; abschwören, entsagen
+iH-t:N21	aHt	Acker, bestelltes Feld; Domänenfeld
+iH-t:N23-A1	aHwtj (jHwtj)	Feldarbeiter
+aH-a:pr-,-O12-pr	aH	Palast, Wohnpalast
+aHA-A-A24	aHA	kämpfen; sich bemühen; zanken
+aHA-A-A24	aHA	Kampf, Schlacht, Krieg
+aHA-w	aHAw	Waffen; Pfeile
+aHA-A-W-t:y-A24	aHAtj (aHAwtj)	Kämpfer, Krieger; Mann
+aHa-a:D54	aHa	aufstehen; stehen; standhalten; stillstehen; bereit stehen; warten; sich verlassen auf
+aHa-a-w-D54:3	aHaw	Standort, Stillstand
+aHa-a:M35	aHa	Haufen; Quantität; Habe; Getreidehaufen
+aHa-P1-Z3	aHaw (Haw)	Schiffe, Flotte
+aHa-a-w-ra	aHaw	Lebenszeit; Zeitdauer von etwas
+a:x-pt	axj	aufhängen, hochheben
+a:x-m-,-mw-A24	axm	löschen
+a:X-xn	aXj	fliegen, auffliegen; sich stürzen auf
+a:X-m-G7-,-a:x-im-G12	aXm	Achom, Götterbild
+a:S-A2-,-i-A-a:S-A2	aS	rufen; lesen, vorlesen
+a:S-Aa2-iAm	aS	'Zeder'; Konifere
+aSA:3	aSA	viel, zahlreich; vielartig; reich an; gewöhnlich
+aSA-A-3	aSA	Menge, Schar
+aq-q:D54	aq	eintreten; eindringen; registrieren
+aq-q:D54-A1*B1:3	aqw	Freunde, Vertraute, Klienten
+aq-q-X4:3	aqw	Laibe; Einkünfte, Naturalentgelt; Brot
+a:q-A-qmA-qmA	aqA	akkurat; genau, in Ordnung; präzise; richtigbenutzen; regeln
+a:q-A-qmA-qmA-Y1v	aqA	Richtigkeit, Redlichkeit; wahrer Sinn
+a:q-A-qmA-qmA-Y1-ib-Z1	aqA-jb	Rechtschaffener
+a:t-x-A36c	atx (jtx)	durchpressen, durchseihen
+aD:d-Y1	aD	gesund und munter, unversehrt, intakt
+	aD.tj!	sei gesund und munter!
+	jj.tj aD.tj!	Willkommen!
+aD:d-U7:D40	aD	hacken, aushöhlen; aufgewühlt
+ad:N36	aD-mr	Landrat
+aD:d-nw:3	aD	Fett, festes Fett
+a-DA-A-D40	aDA	Unrecht, Fehler; Schuld; Meineid
+a-DA-A-W-A24	aDA	schuldig
+a-D:d-W-Xrd	aDd	Bursche; Jüngling; Schüler
+
+w-N21:Z1-,-W:N23-,-S42:N23	w(ww)	Landbezirk; Verwaltungsbezirk
+wA-A-N31	wAj	entfernt, weit entfernt, fern
+wA-A-N31	wAj	sich anschicken; in einen Zustand geraten
+wA-A-t:N31-,-N31:t*Z1	wAt	Weg, Strasse; Distanz; Richtung; Strecke
+wA-A-w-mw	wAw	Welle; Brandung
+wA-A-wA-A-A2	wAwA	planen, überlegen; sich beraten; konspirieren
+wAH-H-Y1	wAH	setzen, stellen, legen; opfern, stiften; einfügen; hinzufügen; dauern, Bestand haben; lassen; übrig lassen; da lassen; beiseite lassen; schonen, begnadigen; erlauben
+wAH-H-Y1v-ib:Z1	wAH-jb	freundlich; wohlgesinnt; bescheiden; geduldig
+wA-A-x-M15	wAxj	grünen; überschwemmt; Ueberfluss haben
+wA-A-x:y-M15-pr	wAxj	Säulenhalle, Audienzsaal, Empfangshalle
+wAs	wAs	Herrschaftsglück, Amtsgewalt
+wA-A-s-wAs-,-wAs-m-G37	wAsj	verfallen
+wA-A-S-A28	wAS	mächtig, angesehen
+wA-A-g-W3	wAg (wAgj)	Wag-Fest
+wAD-Z1	wAD	Papyrusstengel mit Blattdolde; Papyrus
+M14-i-i-t:pr	wADt (wADyt)	Papyrussäulenhalle, Säulenhalle
+M14-Y1	wAD	grün; gedeihen; frisch; roh; unbearbeitet; reichlich
+M14-wr:r-mw-N36:N23	wAD-wr	Meer, Ozean
+w-i-A-P1	wjA	Barke
+W-i-A-D40	wjA	abweisen, abwehren; wegräumen
+W-i-in:n-D41:D40	wjn	abweisen, ablehnen; beiseite schieben
+wa:a*Z1-G37	waj	allein; einsam
+wa:a-t:Z1-,-wa:a-t:y	watj	allein, einzigartig; einzeln
+wa:a-a-w-pr	waaw	Einsamkeit, Alleinsein; Privatsphäre
+w-aA:a-A-A2	waA	fluchen, schmähen, schmählich reden
+w-a-w-D40	waw	Soldat, Infantrist; Matrose
+wab-mw	wab	rein; sauber; geweiht; reinigen, sich reinigen
+wab-mw	wab	(kultische) Reinheit; Reinigung
+wab-mw-A1	wab	Wab-Priester; Priester, Laienpriester
+wab-t:mw-pr	wabt	Wabet; Balsamierungsstätte; Werkstatt; Wirtschaftsraum
+w-a:f-W:D40	waf	gekrümmt, gebogen; nach unten drücken
+w-a:r-gHs-D54	war	fliehen; entlaufen
+w-a:r-gHs-D54-A1	war	Flüchtling
+w-a:r-t-gHs	wart	Bein
+gHs-t:N23*Z1-,-w-a:r-gHs-t:N23	wart	Bezirk, Verwaltungsbezirk; Gilde
+w-a:r-t-gHs-xAst	wart	Nekropolenbezirk; Wüstenbezirk
+iaH:N33*3	waH	Erdmandel
+U26-b-bA-A-Y1v	wba	öffnen; erschliessen

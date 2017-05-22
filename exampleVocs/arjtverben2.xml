@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="arjtverben2">
+        <name>Arabische Verbformen 2</name>
+        <description>Arabische Verbformen stark IV-VI</description>
+        <mapping>
+	
+            <col id="ar" name="Arabisch"/>
+	
+            <col id="fo" name="Form"/>
+	
+            <col id="ro" name="Wurzel"/>
+	
+            <col id="st" name="Stamm"/>
+	
+            <col id="rt" name="Wurzel (Trskr.)"/>
+	
+        </mapping>
+	<src src="arjtverben2.txt" enc="UTF-8"
+		label="IV,V,VI"
+		
+	/>
+	<modes>
+	
+	
+	    <mode id="0" short="ar=?fo=?ro=?st" name="Analyse"/>
+	
+	
+	    <mode id="1" short="ar=?fo=?rt=?st" name="Analyse (Tr.)"/>
+	
+	
+	    <mode id="2" short="ro=st=fo=?ar" name="Synthese"/>
+	
+	</modes>
+    </vocabulary>
+</items>

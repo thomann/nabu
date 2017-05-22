@@ -1,0 +1,253 @@
+﻿aa		so	Adv	ああ
+achira	atira	dorthin, in jene Richtung	N	あちら
+agaru		aufsteigen, hochgehen	V	あがる	上がる
+ageru		geben, ich gebe;hochheben	V	あげる	上げる
+aida		Zwischenraum, inzwischen, während	N	あいだ	間
+aitsu	aitu	jener Kerl, jener Typ	N	あいつ
+anata		Du, Sie (nur als Anrede gegenüber Leuten mit geringerem Status)	N	あなた
+anna		soch ein	Apro	あんな
+anna-ni		so	Adv	あんなに
+ano		jener, e, es	A-pro	あの
+are		jenes dort drüben	N	あれ
+aru		sein sich befinden (nur Dinge)	V	ある
+ashi	asi	Fuß, Bein	N	あし	足
+ashita	asita	morgen	Adv	あした
+asoko		dort drüben, dort	N	あそこ
+atarashii	atarasii	neu	A	あたらしい	新らしい
+atari		Umgebung	N	あたり	辺
+atchi	atti	dorthin, in jene Richtung (familiär für achira)	N	あっち
+ato		danach	N	あと	後
+
+ba		wenn, falls Konditional Präsens	Flex	ば
+boku		ich (familiär, kollegial) nur von Männern verwendet	N	ぼく	撲
+
+chan	tyan	Fräulein (Anrede mit Vornamen)	Suf	ちゃん
+chiisai	tiisai	klein	A	ちいさい	小さい
+
+da		ist, sind (Kopula einfache form)	Kop	だ
+dai		Stück, Gestell große Gegenstände	ZEW	だい	台
+dare		wer	N	だれ	誰
+dasu		hinaus-, heraus-tun, -geben, -werfen, -schieben, -platzen	V	だす	出す
+de		Instrumental, bei an in mit	P	で
+dekiru		werden, enstehen, können	V	できる	出来る
+deru		hinausgehen, herauskommen	V	でる	出る
+desu		ist, sind (Kopula Höfliche form)	Kop	です
+dochira	dotira	in welche Richtung	N	どちら
+doitsu	doitu	welcher Kerl, Typ	N	どいつ
+doko		wo	N	どこ
+donna		was für ein	Apro	どんな
+donna-ni		auf welche Weise	Adv	どんなに
+donata		wer (formal)	N	どなた
+dono		welcher,e,es	APro	どの
+doo	dou	wie	Adv	どう
+dooshite	dousite	wie, warum	Adv	どうして
+dore		welcher	N	どれ
+dotchi	dotti	in welche Richtung (familiär für dochira)	N	どっち
+
+e	he	nach Richtungspartikel Rechtschreibung he	P	え
+ee		ja	Int	ええ
+eru, reru, rareru		Potenzial tun können	Flex	える,れる,られる
+
+futa	huta	zwei	Num	ふた	二
+
+ga		Nominativ, unbestimmt (ein, Plural ohne Artikel)	P	が
+ga		aber	Ps	が
+go		fünf	Num	ご	五
+go-		honorativ-präfix	Präf	ご	御
+gozaru		superformal für aru	V	ござる
+
+ha	wa	siehe wa Themapartikel	P	は
+hai		ja, jawoll	Int	はい
+hanasu		sprechen	V	はなす	話す
+hazu		sollte, es wird erwartet	N	はず	
+he	e	siehe e	P	へ
+hidari		links	N	ひだり	左
+hiki		Tiere, kleine Tiere	ZEW	ひき	匹
+hito		Mensch, Person, Leute	N	ひと	人
+hito		eins	Num	ひと	一
+hodo		in dem Maße wie	N	ほど	程
+hoka		außer	N	ほか	外
+hoo	hou	Richtung	N	ほう	方
+hon		Stück, lange schmale Gegenstände	ZEW	ほん	本
+
+ichi	iti	eins	Num	いち	一
+itsu	itu	wann	Adv	いつ
+itsu	itu	fünf	Num	いつ	五
+ie		Haus	N	いえ	家
+ii		gut	A	いい
+iie		nein, doch	Int	いいえ
+iku		gehen	V	いく	行
+ikutsu	ikutu	wieviele	Num	いくつ	幾つ
+ikura		wieviel (kostet das)	Num	いくら	幾ら
+ima		jetzt	Adv	いま	今
+ireru		einfügen	V	いれる	入れる
+iru		sein, sich befinden (nur Lebewesen)	V	いる
+iu		sagen	V	いう	言う
+
+jibun	zibun	selbst	N	じぶん	自分
+
+ka		gesprochenes Fragezeichen, ob	Ps	か
+kakeru		senkrecht hängen	V	かける
+kara		von her, aus	P	から
+kara		nachdem, und dann, weil	Ps	から
+kata		Person, Persönlichkeit	N	かた	方
+keredomo		aber	Ps	けれども
+ki		Luft, Gefühl, Geist	N	き	気
+kimi		Du	N	きみ	君
+kinoo	kinou	gestern	Adv	きのう
+kirai		nicht mögen, hassen	Ana	きらい	嫌い
+ko		Kind	N	こ	子
+ko		Stück, kleine, runde Dinge	ZEW	こ	個
+kochira	kotira	hierhin	N	こちら
+kodomo		Kind	N	こども	子供
+koitsu	koitu	dieser Kerl, dieser Typ	N	こいつ
+koko		hier bei mir	N	ここ
+kokoro		Herz	N	こころ	心
+konna		solch ein	Apro	こんな
+konna-ni		so	Adv	こんなに
+kono		dieser, e,es hier bei mir	Apro	この
+koo	kou	so	Adv	こう
+kore		dies hier bei mir	N	こら
+kotchi	kotti	hierhin (familiär für kochira)	N	こっち
+koto		Angelegenheit, dass	N	こと	事
+kotoshi	kotosi	dieses Jahr, heuer	Adv	ことし
+ku		Adverbialform der i-Adjektive	Flex	く
+kuchi	kuti	Mund, Öffnung	N	くち	口
+kudaru		hinabfahren	V	くだる	下る
+kudasaru		mir geben, mir zuliebe tun, formal für kureru	V	くださる	下さる
+kun		Herr (Anrede mit Vornamen)	Suf	くん	君
+kureru		mir geben, familiär für kudasaru	V	くれる	呉れる
+kuru		kommen	V	くる	来る
+kyonen		letztes Jahr	Adv	きょねん	去年
+kyoo	kyou	heute	Adv	きょう
+
+maa		na ja	Int	まあ
+mada		noch	Adv	まだ
+made		bis	P	まで
+mae		vor	N	まえ	前
+mai		Stück, Blatt, flache Gegenstände	ZEW	まい	枚
+masen		höfliche Negativendung im Hauptsatz	Flex	ません
+masu		höfliche Positivendung im Hauptsatz	Flex	ます
+mawari		um herum	N	まわり	回り
+me		Auge	N	め	目
+mei		Leute, Personen,formell	ZEW	めい	名
+mi		drei	Num	み	三
+migi		rechts	N	みぎ	右
+mo		auch	P	も
+mono		Ding	N	もの	物
+moo	mou	schon	Adv	もう
+
+na		Adnominalform (Attributivform, Relativform) der na-Adjektive	Kop	な
+nai		Negation, (nicht)	A, Flex	ない
+nan		was	Präf, N	なん	何
+nani		was	N	なに	何
+naka		innen, in	N	なか	中
+naru		werden	V	なる
+naze		warum	Adv	なぜ
+ne		nicht wahr? Gelle?	Ps	ね
+ni		zwei	Num	に	二
+ni		Dativ, Ankunftsort, Agens beim Passiv oder Kausativ, Zeitadverb	P	に
+ni		Adverbialform der na-Adjektive	Kop	に
+nin		Leute, Personen	ZEW	にん	人
+no		Genitiv, adnominale Zuordnung eines Nomens	P	の
+no		nämlich	Ps,N	の
+noboru		aufsteigen	V	のぼる	上る
+noru		einsteigen, fahren, reiten	V	のる	乗る
+
+o-		Honorativ-Präfix	Präf	お	御
+o		Objektpartikel, Akkusativ ,Rechtschreibung wo	P	を
+oku		setzen, stellen, legen, vorbereitend tun	V	おく	置く
+omae		Du (nur gruppenintern gegenüber Männern)	N	おまえ	お前
+onna		Frau	N	おんな	女
+oo	ou	Rechtschreibung: - ou an die o-Stammform gehängtes Suffix -u.	Flex	おう
+		Imperativ 1. Person Plural; Vermutungsform einfache Form
+ookii		groß	A	おおきい	大きい
+ooi		viele	A	おおい	多い
+ore		ich als Mann (gruppenintern)	N	おれ	俺
+oru		bescheiden für iru	V	おる
+otoko		Mann	N	おとこ	男
+
+ra		Pluralsuffix	Suf	ら	等
+rainen		nächstes Jahr	Adv	らいねん	来年
+rashii	rasii	scheinen	A	らしい
+reru, rareru		Passiv	Flex	れる,られる
+
+sa		denn,halt	Ps	さ
+saa		Tja, nun ja	Int	さあ
+sagaru		hinabkommen, sinken	V	さがる	下がる
+saki		vorher	N	さき	先
+sama		Art und Weise, Anredeform im Brief nach Namen	Suf	さま	様
+san		Herr, Frau, Fräulein	Suf	さん
+san		drei	Num	さん	三
+seru, saseru		Kausativ, machen dass, veranlassen zu tun, zulassen dass	Flex	せる,させる
+shi	si	vier	Num	し	四
+shimau	simau	leider geschehen lassen, leider passieren	V	しまう
+shiru	siru	herausfinden, wissen	V	しる
+shita	sita	unten	N	した	下
+sochira	sotira	dorthin (zu dir)	N	そちら
+soitsu	soitu	der Typ da (bei dir)	N	そいつ
+soko		da bei dir	N	そこ
+sonna		solch ein	Apro	そんな
+sonna-ni		so	Adv	そんなに
+sono		jener, e, es da bei dir	Apro	その
+soo	sou	so	Adv	そう
+soo	sou	man sagt,dass	Ana	そう
+soo	sou	es scheint, dass	Flex,Ana	そう
+sore		das da bei dir	N	それ
+soredewa	soredeha	nun, denn, also, dabei	Konj	それでは
+soretomo		oder auch	Konj	それとも
+sotchi	sotti	dorthin, in deine Richtung (familiär für sochira)	N	そっち
+soto		außen	N	そと	外
+sugiru		zuviel, zu sehr	V	すぎる	過ぎる
+suki		mögen	Ana	すき	好き
+sukunai		wenig	A	すくない	少ない
+suru		tun, machen	V	する
+
+ta, da		Vergangenheit, Präteritum	Flex	た,だ
+tachi	tati	und andere (Pluralsuffix nur Menschen)	Suf	たち	達
+tagaru		er will	V	たがる
+tai		ich will	A	たい
+takusan		viel	Adv	たくさん	沢山
+tame		Zweck, für	N	ため	為
+tara, dara		wenn, falls Konditional Perfekt	Flex	たら,だら
+tari, dari		das zum Beispiel tun und noch etwas anderes tun	Flex	たり,だり
+te		Hand, Arm	N	て	手
+te, de		und dann	Flex	て,で
+to		Äußerungspostposition, gesprochener Doppelpunkt, dass	P	と
+to		wenn falls	Ps	と
+to		und (ausschließlich)	P	と
+too	tou	Tiere, große Tiere	ZEW	とう	頭
+tokoro		Ort	N	ところ	所
+tsu	tu	Stück	ZEW	つ
+tsuku	tuku	anhaften, ankommen, antreten,..	V	つく
+tsuzukeru	tudukeru	fortsetzen	V	つづける	続ける
+
+u		siehe -oo	Flex	う
+u , ru	u-Stammform, adnominale Zuordnung, Relativsatz, einfache Hauptsatz-Form	Flex
+uchi	uti	innen, zuhause, zwischen	N	うち	内
+ue		oben	N	うえ	上
+ushiro	usiro	hinten	N	うしろ	後
+
+wa	ha	Themapartikel, Gegensatz, Nominativ bestimmt (der die das), Rechtschreibung ha	P	は
+wa		ja wirklich (nur von Frauen verwendet)	Ps	わ
+wa		Vögel	ZEW	わ	羽
+wake		Grund Zweck	N	わけ	訳
+wakaru		verstehen	V	わかる	分かる
+ware		ich wir (schriftsprachlich)	N	われ	我
+watakushi	watakusi	ich (formal)	N	わたくし	私
+watashi	watasi	ich (weniger formal)	N	わたし
+wo	o	siehe o (Objektpartikel)	P	を
+
+ya		und (nicht ausschließlich) und unter anderem	P	や
+yaa		hallo ,hee, hoo	Int	やあ
+yaru		tun (familiär für suru), (einem Tier) geben	V	やる
+yatsu	yatu	Typ, Kerl	N	やつ	奴
+yoi		gut	A	よい	良い
+yori		verglichen mit, als	P	より
+yoru		abhängen von	V	よる
+yoroshii	yorosii	gut (formal)	A	よろしい	宜しい
+yon		vier	Num	よん	四
+yobu		rufen nennen	V	よぶ	呼ぶ
+yoo	you	Art und Weise, ausehen als ob, wie	Ana	よう	様
+
+ze		aber hallo (nur von Männern verwendet)	Ps	ぜ

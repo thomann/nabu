@@ -29,10 +29,20 @@ The main part is a Tomcat-Application in `web` with a helper webapp in `webutil`
 > 
 > Furthermore the WebSockets are currently not working and have to be disabled.
 
-We also will soon provide a Docker image:
-```
+The Docker image is used as:
+```bash
 docker pull thomann/nabu
+docker run -it --rm -p 8080:8080 thomann/nabu
 ```
+and then visit http://localhost:8080/nabu/ (or use the IP on which your docker is running).
+
+If you want to setup a server that already has lots of interesting examples, useThe Docker image is used as:
+```bash
+docker pull thomann/nabu:latest-examples
+docker run -it --rm -p 8080:8080 thomann/nabu:latest-examples
+```
+and then visit http://localhost:8080/nabu/ (or use the IP on which your docker is running).
+
 
 ## Thanks
 

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<items>
+    <vocabulary id="hin">
+        <name>Hindi</name>
+        <description>Hindi Language Vocabulary</description>
+        <mapping>
+            <col id="hi" name="Hindi" script="hi"
+            	class="ch.unizh.ori.nabu.voc.ConvertStringColumn"
+                className="ch.unizh.ori.common.text.helper.SanskritHelper"
+                methodName="tz2unicode"/>
+            <col id="hi_info" name="info" script="latin"/>
+            <col id="en" name="English" script="latin.en"/>
+        </mapping>
+	<src src="hindi.txt" enc="ASCII" column="3"
+        	class="ch.unizh.ori.nabu.voc.FileLectionSource"/>
+	<modes>
+	    <mode id="1" short="hi=hi_info=?en"/>
+	    <mode id="2" short="en=?hi"/>
+	</modes>
+    </vocabulary>
+    <vocabulary id="hin_tz">
+        <name>Hindi in Umschrift</name>
+        <description>Hindi Language Vocabulary</description>
+        <mapping>
+            <col id="hi" name="Hindi" script="hi"/>
+            <col id="hi_info" name="info" script="latin"/>
+            <col id="en" name="English" script="latin.en"/>
+        </mapping>
+	<src src="hindi.txt" enc="ASCII" column="3"
+        	class="ch.unizh.ori.nabu.voc.FileLectionSource"/>
+	<modes>
+	    <mode id="1" short="hi=hi_info=?en"/>
+	    <mode id="2" short="en=?hi"/>
+	</modes>
+    </vocabulary>
+</items>
