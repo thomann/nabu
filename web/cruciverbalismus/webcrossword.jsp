@@ -46,7 +46,7 @@ Size
 <input type="text" name="size" value="4" size="2"/>
 </c:when>
 <c:otherwise>
-<input type="text" name="size" value="<c:out value="${userInput.size}"/>" size="2"/>
+<input type="text" name="size" value='<c:out value="${userInput.size}"/>' size="2"/>
 </c:otherwise>
 </c:choose>
 

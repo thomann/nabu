@@ -32,15 +32,15 @@
 <c:if test="${!empty voc.description}"><tr><td></td><td>${voc.description}</td></tr></c:if>
 </table>
 
-<a href="<c:url value="${sub}/overview.jsp"/>">&Uuml;bersicht</a>
-<c:if test="${advanced}"> | <a href="<c:url value="admin/vocabularies.jsp"/>">Verwaltung</a> (braucht Berechtigung)</c:if>
+<a href='<c:url value="${sub}/overview.jsp"/>'>&Uuml;bersicht</a>
+<c:if test="${advanced}"> | <a href='<c:url value="admin/vocabularies.jsp"/>'>Verwaltung</a> (braucht Berechtigung)</c:if>
 
 <c:if test="${param.toPdf eq 'true' }">
 <p style="color: red" class="message">Keine Lektionen Ausgew&auml;hlt!</p>
 </c:if>
 
 <c:url value="xrt.jsp" var="theUrl"/>
-<input:form bean="xrt" action="<%=(String)pageContext.getAttribute("theUrl")%>">
+<input:form bean="xrt" action='<%=(String)pageContext.getAttribute("theUrl")%>'>
 <input type="hidden" name="id" value="${param.id}"/>
 
 <p>W&auml;hlen Sie den Modus:</p>
@@ -62,7 +62,7 @@
 		<c:forEach items="${voc.lections}" var="i">
 			<c:set var="myid" value="l.${i.id}" />
 			<li><input:checkbox attributesText="id='${myid}'"
-				name="<%= (String)pageContext.getAttribute("myid") %>" value="on" />
+				name='<%= (String)pageContext.getAttribute("myid") %>' value="on" />
 			<label for="${myid}">${i.name} (${i.count} W&ouml;rter)</label>
 			<c:if test="${!empty i.description}">
 				<br />

@@ -22,12 +22,7 @@ It is licensed under the AGPL.
 
 The main part is a Tomcat-Application in `web` with a helper webapp in `webutil`.
 
-> Currently Tomcat has to be configured with by setting
-> `org.apache.jasper.compiler.Parser.STRICT_QUOTE_ESCAPING=false`
->  in `$TOMCAT_HOME/conf/catalina.properties`.
-> This works only until Tomcat 8.0.* and is not supported on 8.5 anymore.
-> 
-> Furthermore the WebSockets are currently not working and have to be disabled.
+> Currently, WebSockets are currently not working and have to be disabled.
 
 The Docker image is used as:
 ```bash

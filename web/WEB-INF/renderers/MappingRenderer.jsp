@@ -10,7 +10,7 @@
 					<c:when test="${m.image}">
 						<td class="questionbox">
 							<nabu:image modeField="${m}" var="url">
-								<img src="<c:url value="${url}"/>" />
+								<img src='<c:url value="${url}"/>' />
 							</nabu:image>
 						</td>
 					</c:when>
@@ -18,9 +18,9 @@
 						<td class="questionbox">
 							${r.presentedQuestion[m.key]}
 							<nabu:sound modeField="${m}" var="url">
-								<embed src="<c:url value="${url}"/>" width="140" height="30"/>
+								<embed src='<c:url value="${url}"/>' width="140" height="30"/>
 								<span style="font-size: 12pt;">
-									<a href="<c:url value="${url}"/>">play</a>
+									<a href='<c:url value="${url}"/>'>play</a>
 								</span>
 							</nabu:sound>
 						</td>
@@ -31,8 +31,8 @@
 					<c:otherwise>
 						<td class="answerbox">
 							<input class="inputfield" type="TEXT"
-								name="<c:out value="q_${m.key}"/>"
-								value="<c:out value="${r.userAnswer[m.key]}"/>" size='30'>
+								name='<c:out value="q_${m.key}"/>'
+								value='<c:out value="${r.userAnswer[m.key]}"/>' size='30'>
 						</td>
 					</c:otherwise>
 				</c:choose>

@@ -75,10 +75,10 @@
 </table>
 
 <c:set var="autocomplete" value="${(empty param.disableAutocomplete) ? 'ON' : 'OFF'}"/>
-<form method=POST action="<c:url value="showQuestion.jsp"/>" name="ques" autoComplete="${autocomplete}"><%-- *********** action is self *********** --%>
+<form method=POST action='<c:url value="showQuestion.jsp"/>' name="ques" autoComplete="${autocomplete}"><%-- *********** action is self *********** --%>
 	<nabu:showRenderer />
-	<input type=SUBMIT name="ok" value="<fmt:message key="showQuestion.ok"/>">
-	<c:if test="${!r.showSolution}"> <input type=SUBMIT value="<fmt:message key="showQuestion.showSol"/>" name="fail"> </c:if>
+	<input type=SUBMIT name="ok" value='<fmt:message key="showQuestion.ok"/>'>
+	<c:if test="${!r.showSolution}"> <input type=SUBMIT value='<fmt:message key="showQuestion.showSol"/>' name="fail"> </c:if>
 	<br>
 	<c:set var="po" value="${iter.problemsOnly}"/>
 	<!-- this is a dummy value, so browsers like Safari won't get the page from the cache -->
@@ -121,9 +121,9 @@
 </nabu:stats>
 
 <nabu:focus ques="ques"/><br>
-<a href="<c:url value="${newVocUrl}"/>"><fmt:message key="showQuestion.newSameVoc"/> ${newVocName}</a>
-| <a href="<c:url value="${sub}/overview.jsp"/>"><fmt:message key="overview"/></a>
-<c:if test="${advanced}"> | <a href="<c:url value="admin/vocabularies.jsp"/>"><fmt:message key="admin"/></a> (<fmt:message key="needsLogin"/>)</c:if>
+<a href='<c:url value="${newVocUrl}"/>'><fmt:message key="showQuestion.newSameVoc"/> ${newVocName}</a>
+| <a href='<c:url value="${sub}/overview.jsp"/>'><fmt:message key="overview"/></a>
+<c:if test="${advanced}"> | <a href='<c:url value="admin/vocabularies.jsp"/>'><fmt:message key="admin"/></a> (<fmt:message key="needsLogin"/>)</c:if>
 
 <br/>
 

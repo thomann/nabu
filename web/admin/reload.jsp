@@ -13,9 +13,9 @@
 %><c:if test="${!empty param.what}"><c:set var="voc" value="${central.vocs[param.what]}"/></c:if>
 <tags:adminHeader title="Reload ${voc.name}"/>
 
-<a href="<c:url value="${sub}/overview.jsp"/>">overview</a>
+<a href='<c:url value="${sub}/overview.jsp"/>'>overview</a>
 
-<c:if test="${!empty param.what}"><a href="<c:url value="${sub}/selectVoc.jsp?id=${param.what}"/>">${voc.name}</a></c:if>
+<c:if test="${!empty param.what}"><a href='<c:url value="${sub}/selectVoc.jsp?id=${param.what}"/>'>${voc.name}</a></c:if>
 
 
 </body>

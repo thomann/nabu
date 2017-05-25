@@ -32,7 +32,7 @@
 if(r.isShowSolution()){
 %><b><jsp:getProperty name='r' property='answer' /></b><%
 }else{
-%><input type=TEXT name="ans" value="<jsp:getProperty name='r' property='answer' />" size='50'><%
+%><input type=TEXT name="ans" value='<jsp:getProperty name='r' property='answer' />' size='50'><%
 }
 %></td></tr>
 </table>

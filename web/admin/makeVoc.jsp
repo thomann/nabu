@@ -18,7 +18,7 @@ dontWrite="${!empty param.dontWrite}"><?xml version="1.0" encoding="UTF-8" ?>
             <col id="${fn:escapeXml(i[0])}" name="${fn:escapeXml(i[1])}"<c:if test="${len>=3}"> script="${fn:escapeXml(i[2])}"</c:if><c:if test="${len>=4}"> del="${fn:escapeXml(i[3])}"</c:if>/>
 	</c:forEach>
         </mapping>
-	<c:set var="srcXml"><src src="${fn:escapeXml(vars.id)}.txt" enc="<c:out value="${fn:escapeXml(vars.enc)}" default="UTF-8"/>"
+	<c:set var="srcXml"><src src="${fn:escapeXml(vars.id)}.txt" enc='<c:out value="${fn:escapeXml(vars.enc)}" default="UTF-8"/>'
 		<c:if test="${!empty vars.lfmt}">label="${fn:escapeXml(vars.lfmt)}"</c:if>
 		<c:if test="emptyline" >class="ch.unizh.ori.nabu.voc.EmptyLineSource"</c:if>
 	/></c:set><c:out value="${srcXml}" escapeXml="false"/>
@@ -81,7 +81,7 @@ dontWrite="${!empty param.dontWrite}"><?xml version="1.0" encoding="UTF-8" ?>
 
 The vocabulary ${name} has been successfully updated.
 <br/>
-<a href="<c:url value="${sub}/selectVoc.jsp?id=${id}" />">${name}</a>
+<a href='<c:url value="${sub}/selectVoc.jsp?id=${id}" />'>${name}</a>
 </body>
 </html>
 	

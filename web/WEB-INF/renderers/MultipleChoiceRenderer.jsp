@@ -15,7 +15,7 @@
 if(r.isShowSolution()){
     %><b><jsp:getProperty name='r' property='answerString' /></b><%
 }else{
-    %><input type=TEXT name="ans" value="<c:out value="${r.answer}"/>" size='50'><%
+    %><input type=TEXT name="ans" value='<c:out value="${r.answer}"/>' size='50'><%
 }
 %></td>
   </tr><%

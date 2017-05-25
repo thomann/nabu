@@ -8,9 +8,9 @@
 	Object props = c.loadProps(request.getParameter("what"));
 	pageContext.setAttribute("props", props);
 %>
-<a href="<c:url value="vocabularies.jsp" />">Vocabularies</a>
-<a href="<c:url value="${sub}/overview.jsp" />">Overview</a>
-<a href="<c:url value="reload.jsp" />">Reload</a>
+<a href='<c:url value="vocabularies.jsp" />'>Vocabularies</a>
+<a href='<c:url value="${sub}/overview.jsp" />'>Overview</a>
+<a href='<c:url value="reload.jsp" />'>Reload</a>
 
 <h1>New Vocabulary</h1>
 
@@ -44,9 +44,9 @@
 e.g.: <code>en=?de</code> <br/> <code>en=?de:Englisch nach Deutsch</code> <br/> <code>en=?de=desc</code></td></tr>
 <tr><td class="label"></td><td class="field"><input name="emptyline" id="emptyline" type="checkbox"<c:if test="props.emptyline"> checked</c:if>><label for="emptyline">Lections are divided by empty lines</label></td><td class="example"></td></tr>
 <tr><td class="label">Vocabulary:</td><td class="field"><input type="file" name="voc"></td><td class="example"></td></tr>
-<tr><td class="label">Encoding:</td><td class="field"><input type="text" name="enc" value="<c:out value="${props.enc}" default="UTF-8"/>"></td><td class="example">UTF-8</td></tr>
+<tr><td class="label">Encoding:</td><td class="field"><input type="text" name="enc" value='<c:out value="${props.enc}" default="UTF-8"/>'></td><td class="example">UTF-8</td></tr>
 <tr><td class="label">Lesson-Format:</td><td class="field"><input type="text" name="lfmt" value="${props.lfmt}"></td><td class="example">Excercise,Lesson {0}</td></tr>
-<tr><td class="label">Separator in the Tables:</td><td class="field"><input type="text" name="columnSep" value="<c:out value="${props.columnSep}" default=":"/>"></td><td class="example">:</td></tr>
+<tr><td class="label">Separator in the Tables:</td><td class="field"><input type="text" name="columnSep" value='<c:out value="${props.columnSep}" default=":"/>'></td><td class="example">:</td></tr>
 
 </table>
 <input type=SUBMIT><input type=RESET>

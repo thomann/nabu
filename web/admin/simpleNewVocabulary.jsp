@@ -29,9 +29,9 @@ function selectLang1(val, selectObj){
 	Object props = c.loadProps(request.getParameter("what"));
 	pageContext.setAttribute("props", props);
 %>
-<a href="<c:url value="vocabularies.jsp" />">Vocabularies</a>
-<a href="<c:url value="${sub}/overview.jsp" />">Overview</a>
-<a href="<c:url value="reload.jsp" />">Reload</a>
+<a href='<c:url value="vocabularies.jsp" />'>Vocabularies</a>
+<a href='<c:url value="${sub}/overview.jsp" />'>Overview</a>
+<a href='<c:url value="reload.jsp" />'>Reload</a>
 <h1>Simple Vocabulary</h1>
 
 <form action="makeVoc.jsp" method="POST" enctype="multipart/form-data" id="theform">
@@ -40,7 +40,7 @@ Foreign language</td><td>Known language</td></tr><tr><td>
 <input:select name="lang1" size="1" default="ar" attributesText='onchange="selectLang1(this.value,this);"'>
 	<c:forEach items="${central.scripts}" var="i">
 		<c:set var="key" value="${i.key }" scope="page"/>
-		<input:option value="<%= (String)pageContext.getAttribute("key") %>">
+		<input:option value='<%= (String)pageContext.getAttribute("key") %>'>
 			<c:choose>
 				<c:when test="${!empty i.value.title}">${i.value.title}</c:when>
 				<c:otherwise>${i.value.name}</c:otherwise>
@@ -57,7 +57,7 @@ Foreign language</td><td>Known language</td></tr><tr><td>
 <input:select name="lang2" size="1" default="de">
 	<c:forEach items="${central.scripts}" var="i">
 		<c:set var="key" value="${i.key }" scope="page"/>
-		<input:option value="<%= (String)pageContext.getAttribute("key") %>">
+		<input:option value='<%= (String)pageContext.getAttribute("key") %>'>
 			<c:choose>
 				<c:when test="${!empty i.value.title}">${i.value.title}</c:when>
 				<c:otherwise>${i.value.name}</c:otherwise>

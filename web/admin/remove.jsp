@@ -29,8 +29,8 @@
 
 <c:if test="${!test}">
 Do you want to remove really?
-<a href="<c:url value="remove.jsp?what=${param.what}&doit=true" />">Yes</a>
-<a href="<c:url value="vocabularies.jsp" />">No</a>
+<a href='<c:url value="remove.jsp?what=${param.what}&doit=true" />'>Yes</a>
+<a href='<c:url value="vocabularies.jsp" />'>No</a>
 </c:if>
 <c:if test="${test}">
 ${param.what} removed!

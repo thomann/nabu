@@ -20,16 +20,16 @@
 <c:if test="${!empty voc.description}"><tr><td></td><td>${voc.description}</td></tr></c:if>
 </table>
 
-<a href="<c:url value="${sub}/overview.jsp"/>"><fmt:message key="overview"/></a>
+<a href='<c:url value="${sub}/overview.jsp"/>'><fmt:message key="overview"/></a>
 | <a href="alternate.jsp?id=${param.id}"><fmt:message key="selectVoc.alternate"/></a>
-<c:if test="${advanced}"> | <a href="<c:url value="admin/vocabularies.jsp"/>"><fmt:message key="admin"/></a> (<fmt:message key="needsLogin"/>)</c:if>
+<c:if test="${advanced}"> | <a href='<c:url value="admin/vocabularies.jsp"/>'><fmt:message key="admin"/></a> (<fmt:message key="needsLogin"/>)</c:if>
 
 
-<!--<form method=GET action="<c:url value="nabu-podcast.wav"/>">-->
-<form method=GET action="<c:url value="rss.jsp"/>">
+<!--<form method=GET action='<c:url value="nabu-podcast.wav"/>'>-->
+<form method=GET action='<c:url value="rss.jsp"/>'>
 <input type="hidden" name="id" value="${param.id}"/>
 <input type="hidden" name="myVoc" value="${param.myVoc}"/>
-<input type="hidden" name="issued" value="<%= System.currentTimeMillis() %>"/>
+<input type="hidden" name="issued" value='<%= System.currentTimeMillis() %>'/>
 
 <p><fmt:message key="selectVoc.preMode"/>:</p>
 
@@ -53,8 +53,8 @@
 %>
   <c:if test="${hasLessons}"><li> <input:checkbox name="l-all"  attributesText="id='l-all'" value="on"/> <label for="l-all"><fmt:message key="selectVoc.allVoc"/></label></li></c:if>
 <c:forEach items="${voc.lections}" var="i"><c:set var="myid" value="l.${i.id}"/>
-  <li> <input:checkbox name="<%= (String)pageContext.getAttribute("myid") %>" value="on"
-  	default="<%= (b.booleanValue() && index++==0)?"on":"" %>" attributesText="id='${myid}'"/>
+  <li> <input:checkbox name='<%= (String)pageContext.getAttribute("myid") %>' value="on"
+  	default='<%= (b.booleanValue() && index++==0)?"on":"" %>' attributesText="id='${myid}'"/>
     <label for="${myid}">${i.name} (<fmt:message key="selectVoc.words"><fmt:param value="${i.count}"/></fmt:message>)
 	<c:if test="${!empty i.description}"><br/>${i.description}</c:if></label>
     </li>
@@ -76,7 +76,7 @@ Welche Lektionen:<br/>
 </p>
 
 
-<input type="submit" value="<fmt:message key="selectVoc.ok"/>"/>
+<input type="submit" value='<fmt:message key="selectVoc.ok"/>'/>
 </form>
 
 </body>

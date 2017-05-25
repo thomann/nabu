@@ -31,9 +31,9 @@
 <tr><td><fmt:message key="statistics.tries"/></td><td>${iter.statistics.tries}</td></tr>
 </table>
 
-<a href="<c:url value="${newVocUrl}"/>"><fmt:message key="showQuestion.newSameVoc"/> <c:out value="${newVocName}"/></a>
-| <a href="<c:url value="${sub}/overview.jsp"/>"><fmt:message key="overview"/></a>
-<c:if test="${advanced}"> | <a href="<c:url value="admin/vocabularies.jsp"/>"><fmt:message key="admin"/></a> (<fmt:message key="needsLogin"/>)</c:if>
+<a href='<c:url value="${newVocUrl}"/>'><fmt:message key="showQuestion.newSameVoc"/> <c:out value="${newVocName}"/></a>
+| <a href='<c:url value="${sub}/overview.jsp"/>'><fmt:message key="overview"/></a>
+<c:if test="${advanced}"> | <a href='<c:url value="admin/vocabularies.jsp"/>'><fmt:message key="admin"/></a> (<fmt:message key="needsLogin"/>)</c:if>
 
 <c:if test="${advanced}">
 <form action="makeMyVoc.jsp" method="POST">
@@ -53,7 +53,7 @@
 </c:forEach></c:set>
 <input type=hidden name="columns" value="${fn:substring(columns,0,-1) }"/>
 
-<input type=submit value="<fmt:message key="statistics.askProblems"/>"/>
+<input type=submit value='<fmt:message key="statistics.askProblems"/>'/>
 </form>
 <hr>
 <form action="makeMyVoc.jsp" method="POST">
@@ -73,7 +73,7 @@
 </c:forEach></c:set>
 <input type=hidden name="columns" value="${fn:substring(columns,0,-1) }"/>
 
-<input type=submit value="<fmt:message key="statistics.askMarked"/>"/>
+<input type=submit value='<fmt:message key="statistics.askMarked"/>'/>
 </form>
 </c:if>
 </body>

@@ -16,7 +16,7 @@ dontWrite="true"><?xml version="1.0" encoding="UTF-8" ?>
             <col id="${i[0]}" name="${i[1]}"<c:if test="${len>=3}"> script="${i[2]}"</c:if><c:if test="${len>=4}"> del="${i[3]}"</c:if>/>
 	</c:forEach>
         </mapping>
-	<c:set var="srcXml"><src src="${vars.id}.txt" enc="<c:out value="${vars.enc}" default="UTF-8"/>"
+	<c:set var="srcXml"><src src="${vars.id}.txt" enc='<c:out value="${vars.enc}" default="UTF-8"/>'
 		<c:if test="${!empty vars.lfmt}">label="${vars.lfmt}"</c:if>
 		<c:if test="emptyline" >class="ch.unizh.ori.nabu.voc.EmptyLineSource"</c:if>
 	/></c:set><c:out value="${srcXml}" escapeXml="false"/>
@@ -80,12 +80,12 @@ dontWrite="true"><?xml version="1.0" encoding="UTF-8" ?>
 <meta http-equiv="Refresh" content="0,<c:url value="selectVoc.jsp?myVoc=true" />"/>
 </head>
 <body>
-<a href="<c:url value="overview.jsp" />">Overview</a>
+<a href='<c:url value="overview.jsp" />'>Overview</a>
 
 <h1>Adding ${name}</h2>
 The vocabulary ${name} has been successfully updated.
 <br/>
-<a href="<c:url value="selectVoc.jsp?myVoc=on" />">${name}</a>
+<a href='<c:url value="selectVoc.jsp?myVoc=on" />'>${name}</a>
 </body>
 </html>
 	

@@ -27,9 +27,9 @@
 <c:if test="${!advanced}">
 <br/>
 <form><input type="hidden" name="advanced" value="on"/>
-<input type="submit" value="<fmt:message key="overview.poweruserbutton"/>"/></form>
+<input type="submit" value='<fmt:message key="overview.poweruserbutton"/>'/></form>
 </c:if>
-<c:if test="${advanced}"><br/><a href="<c:url value="admin/vocabularies.jsp"/>"><fmt:message key="admin"/></a> (<fmt:message key="needsLogin"/>)</c:if>
+<c:if test="${advanced}"><br/><a href='<c:url value="admin/vocabularies.jsp"/>'><fmt:message key="admin"/></a> (<fmt:message key="needsLogin"/>)</c:if>
 
 <c:if test="${!empty param.message }">
 <p style="color: red" class="message"><c:out value="${param.message}" escapeXml="false"/></p>
@@ -46,19 +46,19 @@
 <td class="subtitle"> ${i } </td>
 <% }else{ %>
   <td>
-  <a href="<c:url value="selectVoc.jsp?id=${i.id}" />">${i.name}</a>
+  <a href='<c:url value="selectVoc.jsp?id=${i.id}" />'>${i.name}</a>
   	<c:if test="${i.count > 0}"> - (<fmt:message key="overview.vocitems"><fmt:param value="${i.count}"/></fmt:message>)<c:set var="total" value="${total + i.count}"/></c:if>
 	<c:if test="${!empty i.description}"><br/>${i.description}</c:if>
 	</td>
 	<c:if test="${advanced}"><td>
-	  <a href="xrt.jsp?id=${i.id}" title="<fmt:message key="alternate.xrt"/>"><img src="images/xrt.png"/></a>
+	  <a href="xrt.jsp?id=${i.id}" title='<fmt:message key="alternate.xrt"/>'><img src="images/xrt.png"/></a>
 	  <c:if test="${i.downloadable}">
-		  <a href="getJar/Nabu-${i.id}?id=${i.id}" title="<fmt:message key="alternate.download"/>"><img src="images/desktop.png"/></a>
-		  <a href="getJar/Nabuttu-${i.id}?id=${i.id}&type=midlet" title="<fmt:message key="alternate.handy"/>"><img src="images/handy.png"/></a>
-		  <a href="nabujs.html?id=${i.id}" title="<fmt:message key="alternate.nabujs"/>"><img src="images/iphone.png"/></a>
+		  <a href="getJar/Nabu-${i.id}?id=${i.id}" title='<fmt:message key="alternate.download"/>'><img src="images/desktop.png"/></a>
+		  <a href="getJar/Nabuttu-${i.id}?id=${i.id}&type=midlet" title='<fmt:message key="alternate.handy"/>'><img src="images/handy.png"/></a>
+		  <a href="nabujs.html?id=${i.id}" title='<fmt:message key="alternate.nabujs"/>'><img src="images/iphone.png"/></a>
 	  </c:if>
-	  <a href="podcast.jsp?id=${i.id}" title="<fmt:message key="alternate.podcast"/>"><img src="images/rss.png"/></a>
-	  <a href="cruciverbalismus.jsp?id=${i.id}" title="<fmt:message key="alternate.cruciverbalismus"/>"><img src="images/cruci.png"/></a>
+	  <a href="podcast.jsp?id=${i.id}" title='<fmt:message key="alternate.podcast"/>'><img src="images/rss.png"/></a>
+	  <a href="cruciverbalismus.jsp?id=${i.id}" title='<fmt:message key="alternate.cruciverbalismus"/>'><img src="images/cruci.png"/></a>
 	</td></c:if>
 	<% } %>
 </tr>	
