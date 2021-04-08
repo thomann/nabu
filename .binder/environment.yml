@@ -1,0 +1,11 @@
+name: notebook
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - openjdk
+  - pip
+  - jupyterlab >=3.0
+  - jupyter-server-proxy
+  - pip:
+

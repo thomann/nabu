@@ -1,0 +1,25 @@
+set -x
+export JAVA_HOME=$CONDA_PREFIX
+
+TOMCAT_VERSION=8.5.65
+
+mkdir opt
+cd opt
+curl -OL https://downloads.apache.org/tomcat/tomcat-8/v$TOMCAT_VERSION/bin/apache-tomcat-$TOMCAT_VERSION.tar.gz
+# curl -OL https://downloads.apache.org/tomcat/tomcat-8/v$TOMCAT_VERSION/bin/extras/catalina-ws.jar
+tar xzf apache-*.tar.gz
+rm apache-*.tar.gz
+ln -s apache-tomcat-$TOMCAT_VERSION apache-tomcat-current
+cd ..
+
+export CATALINA_HOME=$PWD/opt/apache-tomcat-current
+
+## we need to configure the /user/.../ path into the web app name, but that is available only in start
+# cp -r webutil/ $CATALINA_HOME/webapps/nabutil
+# cp -r web/ $CATALINA_HOME/webapps/nabu
+# cp -r exampleVocs/ $CATALINA_HOME/webapps/nabu/WEB-INF/uploadvocs
+
+# let's try to get /lab as default path:
+mkdir -p .jupyter
+echo "c.NotebookApp.default_url = '/proxy/absolute/8080/nabu/'" >> .jupyter/jupyter_notebook_config.py
+echo "c.ServerApp.default_url = '/proxy/absolute/8080/nabu/'" >> .jupyter/jupyter_server_config.py

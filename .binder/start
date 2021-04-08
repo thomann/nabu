@@ -1,0 +1,14 @@
+#!/bin/bash
+
+export JAVA_HOME=$CONDA_PREFIX
+export CATALINA_HOME=$PWD/opt/apache-tomcat-current
+
+## we encode the full path into the filename and change '/' to '#'
+ENCODED_PATH=`echo ${JUPYTERHUB_SERVICE_PREFIX}proxy/absolute/8080/nabu|sed 's|^/||' | sed 's|/|#|g'`
+ln -s $PWD/web opt/apache-tomcat-current/webapps/$ENCODED_PATH
+
+cp -r exampleVocs/ web/WEB-INF/uploadvocs
+
+$CATALINA_HOME/bin/startup.sh
+
+exec "$@"
